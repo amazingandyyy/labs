@@ -22,6 +22,7 @@
 /affirm               (Status: 200) [Size: 49063]
 /affirm               (Status: 200) [Size: 49167]
 /afresh               (Status: 200) [Size: 15298]
+/aftership            (Status: 200) [Size: 14151]
 /agio                 (Status: 302) [Size: 98] [--> https://agio.com/open-positions/]
 /airship              (Status: 200) [Size: 20944]
 /airspace             (Status: 200) [Size: 17518]
