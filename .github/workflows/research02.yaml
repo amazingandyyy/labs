@@ -4,13 +4,15 @@ on:
   schedule:
     - cron: '0 * * * *' # every 1 hour
   workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+
+env:
+  RESEARCH: research02
+  RESEARCH_TARGET: aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t==
+  PROCESSING_AMOUNT: 100
+  EXCLUDE_RESPONSE_LENGTH: 6248
 
 jobs:
   research:
-    # runs-on: ubuntu-latest
     runs-on: ubuntu-latest
     steps:
       - name: Setup Go ${{ matrix.go-version }}
@@ -26,9 +28,9 @@ jobs:
           gobuster version
       - name: research
         run: |
-          cd ./research01
+          cd ./$RESEARCH
           ./backlogs.sh
-          ./start.sh "aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t" 100
+          ./start.sh $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
       - name: check for modified files
         id: git-check
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
@@ -39,6 +41,6 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
-          git add -A
-          git commit -m 'feat(data): conduct research02' -m "$current"
+          git add $RESEARCH
+          git commit -m "feat($RESEARCH): research on $PROCESSING_AMOUNT items" -m "$current"
           git push

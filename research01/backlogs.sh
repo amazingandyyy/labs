@@ -8,8 +8,8 @@ BACKLOGS_FOLDER="backlogs"
 WORD_LIST="latest.txt"
 # https://raw.githubusercontent.com/jeanphorn/wordlist/master/usernames.txt
 
-# check latest.txt if less than 5000 items
-if [ $(wc -l < "$WORD_LIST") -lt 5000 ]; then
+if [ ! -s "$WORD_LIST" ]; then
+  echo "latest.txt is empty, find the first txt file under the backlogs folder to append to latest.txt."
   # move the first txt file under the backlogs folder to become latest.txt
   # if nothing inside the backlogs folder, then exit 0
   if [ ! "$(ls -A backlogs)" ]; then
