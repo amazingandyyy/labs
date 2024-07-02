@@ -6,6 +6,7 @@
 /acca                 (Status: 200) [Size: 12063]
 /accordion            (Status: 200) [Size: 31948]
 /acme                 (Status: 200) [Size: 13471]
+/acorns               (Status: 302) [Size: 92] [--> https://acorns.com/careers]
 /acronym              (Status: 302) [Size: 98] [--> https://www.acronym.com/careers/]
 /activate             (Status: 302) [Size: 91] [--> https://activate.org/jobs]
 /acumen               (Status: 200) [Size: 14712]
