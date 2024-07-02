@@ -44,4 +44,8 @@
 /alumni               (Status: 200) [Size: 12113]
 /ambassadors          (Status: 200) [Size: 12654]
 /ambit                (Status: 302) [Size: 95] [--> https://ambitinc.com/careers/]
+/amido                (Status: 200) [Size: 14675]
+/amity                (Status: 200) [Size: 15104]
+/amount               (Status: 200) [Size: 14531]
+/ampersand            (Status: 200) [Size: 16141]
 /turo                 (Status: 200) [Size: 26545]
