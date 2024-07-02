@@ -32,4 +32,6 @@
 /alchemy              (Status: 200) [Size: 21680]
 /aldrich              (Status: 200) [Size: 14958]
 /alethea              (Status: 200) [Size: 18613]
+/align                (Status: 200) [Size: 21610]
+/allegro              (Status: 200) [Size: 14693]
 /turo                 (Status: 200) [Size: 26545]
