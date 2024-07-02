@@ -41,5 +41,5 @@ jobs:
           git status
           git add -A
           echo $current
-          git commit -m 'feat(data): conduct research' -m "$current"
+          git commit -m 'feat(data): conduct research01 $current' -m
           git push
