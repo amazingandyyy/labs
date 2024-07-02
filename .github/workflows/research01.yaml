@@ -2,7 +2,7 @@ name: research01
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # every 10 minutes
+    - cron: '0 * * * *' # every 1 hour
   workflow_dispatch:
 #  push:
 #    branches:
@@ -28,7 +28,7 @@ jobs:
         run: |
           cd ./research01
           ./backlogs.sh
-          ./start.sh "aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==" 3
+          ./start.sh "aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==" 5
       - name: check for modified files
         id: git-check
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
