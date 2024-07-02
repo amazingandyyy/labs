@@ -1,6 +1,5 @@
 #!/bin/bash
 
-set -x
 # Input file containing names to process
 WORD_LIST="latest.txt"
 # https://raw.githubusercontent.com/jeanphorn/wordlist/master/usernames.txt
@@ -31,7 +30,9 @@ head -n $X "$WORD_LIST" > "$TOP_X_LIST"
 # Create a new temporary file for tail operation
 tail -n +$((X + 1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 
-gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" --delay 2000ms --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 156
+# random generate delay from 1000ms to 5000ms
+DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
+gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t 5 --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 156
 
 # Append gobuster.tmp.txt to results/results.txt if it exists
 if [ -f "$GOBUSTER_TMP_FILE" ]; then
@@ -51,6 +52,5 @@ rm -f "$TOP_X_LIST" "$TAIL_TMP_FILE"
 # Summary
 echo "Total items processed: $X"
 
-set +x
 # Exit with status 0
 exit 0
