@@ -20,6 +20,7 @@
 /af                   (Status: 200) [Size: 15701]
 /affinity             (Status: 302) [Size: 105] [--> https://www.affinity.co/company/careers]
 /affirm               (Status: 200) [Size: 49063]
+/affirm               (Status: 200) [Size: 49167]
 /afresh               (Status: 200) [Size: 15298]
 /agio                 (Status: 302) [Size: 98] [--> https://agio.com/open-positions/]
 /airship              (Status: 200) [Size: 20944]
