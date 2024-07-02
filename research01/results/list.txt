@@ -16,6 +16,7 @@
 /administrative       (Status: 200) [Size: 13967]
 /administrator        (Status: 200) [Size: 13197]
 /adonis               (Status: 200) [Size: 17731]
+/adyton               (Status: 200) [Size: 12731]
 /af                   (Status: 200) [Size: 15701]
 /affinity             (Status: 302) [Size: 105] [--> https://www.affinity.co/company/careers]
 /affirm               (Status: 200) [Size: 49063]
