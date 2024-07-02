@@ -29,4 +29,7 @@
 /airspeed             (Status: 200) [Size: 12604]
 /airwave              (Status: 200) [Size: 13301]
 /aix                  (Status: 302) [Size: 98] [--> https://aixplatform.com/careers/]
+/alchemy              (Status: 200) [Size: 21680]
+/aldrich              (Status: 200) [Size: 14958]
+/alethea              (Status: 200) [Size: 18613]
 /turo                 (Status: 200) [Size: 26545]
