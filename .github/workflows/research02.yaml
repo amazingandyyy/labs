@@ -28,7 +28,7 @@ jobs:
         run: |
           cd ./research01
           ./backlogs.sh
-          ./start.sh "aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t" 600
+          ./start.sh "aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t" 100
       - name: check for modified files
         id: git-check
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
