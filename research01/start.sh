@@ -9,16 +9,13 @@ INPUT=$1
 # Base URL to scan
 BASE_URL=$(echo "$INPUT" | base64 -d)
 
-# Time in minutes
-MINUTES=$2
-
 # Calculate the number of items to process
-X=$(( (MINUTES * 60) * 4 ))
+X=$2
 
 # File paths
 RESULTS_FILE="results/list.txt"
-GOBUSTER_TMP_FILE="gobuster.tmp.txt"
-TAIL_TMP_FILE="tail.tmp.txt"
+GOBUSTER_TMP_FILE=".gobuster.tmp.txt"
+TAIL_TMP_FILE=".tail.tmp.txt"
 TOP_X_LIST="namelist_top_X.txt"
 
 # Print out how many items will be processed
@@ -32,7 +29,8 @@ tail -n +$((X + 1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 
 # random generate delay from 1000ms to 5000ms
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
-gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t 5 --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 156
+THREADS=$(( ( RANDOM % 5 ) + 2 ))
+gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 156
 
 # Append gobuster.tmp.txt to results/results.txt if it exists
 if [ -f "$GOBUSTER_TMP_FILE" ]; then
