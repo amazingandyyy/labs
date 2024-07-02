@@ -30,7 +30,7 @@ tail -n +$((X + 1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 # random generate delay from 1000ms to 5000ms
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
 THREADS=$(( ( RANDOM % 0 ) + 2 ))
-gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 156
+gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length 6248
 
 # Append gobuster.tmp.txt to results/results.txt if it exists
 if [ -f "$GOBUSTER_TMP_FILE" ]; then

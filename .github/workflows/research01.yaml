@@ -9,7 +9,7 @@ on:
 #      - main
 
 jobs:
-  research01:
+  research:
     # runs-on: ubuntu-latest
     runs-on: ubuntu-latest
     steps:
@@ -40,6 +40,5 @@ jobs:
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
           git add -A
-          echo $current
-          git commit -m 'feat(data): conduct research01 $current' -m
+          git commit -m 'feat(data): conduct research01' -m "$current"
           git push
