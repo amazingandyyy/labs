@@ -3,6 +3,7 @@
 /abc                  (Status: 200) [Size: 13553]
 /able                 (Status: 200) [Size: 13790]
 /academy              (Status: 200) [Size: 12564]
+/acca                 (Status: 200) [Size: 12063]
 /accordion            (Status: 200) [Size: 31948]
 /acme                 (Status: 200) [Size: 13471]
 /acronym              (Status: 302) [Size: 98] [--> https://www.acronym.com/careers/]
