@@ -1,0 +1,45 @@
+name: research01
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # every 10 minutes
+  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
+
+jobs:
+  research01:
+    # runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Go ${{ matrix.go-version }}
+        uses: actions/setup-go@v5
+        with:
+          go-version: 1.21
+      - name: fetch current
+        uses: actions/checkout@v2
+      - name: prepare
+        run: |
+          id -a
+          go install github.com/OJ/gobuster/v3@latest
+          gobuster version
+      - name: research
+        run: |
+          cd ./research01
+          ./backlogs.sh
+          ./start.sh "aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==" 3
+      - name: check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
+      - name: commit to main branch
+        if: steps.git-check.outputs.modified == 'true'
+        run:  |
+          current=$(date)
+          git config --global user.name 'scientist'
+          git config --global user.email 'scientist@amazingandyyy.com'
+          git status
+          git add -A
+          echo $current
+          git commit -m 'feat(data): conduct research' -m "$current"
+          git push
