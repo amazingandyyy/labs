@@ -27,4 +27,6 @@
 /airship              (Status: 200) [Size: 20944]
 /airspace             (Status: 200) [Size: 17518]
 /airspeed             (Status: 200) [Size: 12604]
+/airwave              (Status: 200) [Size: 13301]
+/aix                  (Status: 302) [Size: 98] [--> https://aixplatform.com/careers/]
 /turo                 (Status: 200) [Size: 26545]
