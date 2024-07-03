@@ -2,7 +2,8 @@
 
 set -x
 REPO_DIR="$(dirname "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)")"
-RESEARCH_DIR="${REPO_DIR}/lab01/researches/$1"
+RESEARCH_DIR="${REPO_DIR}/$1/researches/$2"
+source "${REPO_DIR}"/$1/backlogs.sh
 
 # File paths
 WORD_LIST="$RESEARCH_DIR/latest.txt"
@@ -14,13 +15,11 @@ TOP_X_LIST="$RESEARCH_DIR/namelist_top_X.txt"
 PATTERN_FILE="$RESEARCH_DIR/patterns.txt"
 
 # research parameters
-BASE_URL=$(echo "$2" | base64 -d)
-AMOUNT=$3
-GOBUSTER_ERROR_LENGTH=$4
-set +x
+BASE_URL=$(echo "$3" | base64 -d)
+AMOUNT=$4
+GOBUSTER_ERROR_LENGTH=$5
 
 # deal with backlogs
-source "${REPO_DIR}"/scripts/backlogs.sh
 getItemsFromBacklogs $WORD_LIST $BACKLOGS_FOLDER
 cleanUpBacklogs $BACKLOGS_FOLDER
 
@@ -39,13 +38,14 @@ gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $
   --random-agent \
   --retry --retry-attempts 3 \
   --delay "${DELAY}ms" \
-  --hide-length \
   --no-color \
   --expanded \
+  --hide-length \
+  --quiet \
+  --no-progress \
   --no-status
-  #  --quiet \
-  #  --no-progress \
 
+set +x
 # Check if gobuster ran successfully
 if [ $? -eq 0 ]; then
   # Append gobuster.tmp.txt to results/results.txt if it exists
