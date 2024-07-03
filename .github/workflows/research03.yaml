@@ -10,6 +10,10 @@ on:
       - '.github/actions/lab01'
       - 'lab01'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 env:
   LAB: lab01
   RESEARCH: research03
