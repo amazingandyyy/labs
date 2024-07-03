@@ -8,7 +8,7 @@ on:
 env:
   RESEARCH: research01
   RESEARCH_TARGET: aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==
-  PROCESSING_AMOUNT: 600
+  PROCESSING_AMOUNT: 5
   EXCLUDE_RESPONSE_LENGTH: 156
 
 jobs:
@@ -41,6 +41,7 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
+          git pull --rebase
           git add $RESEARCH
           git commit -m "feat($RESEARCH): research on $PROCESSING_AMOUNT items" -m "$current"
           git push
