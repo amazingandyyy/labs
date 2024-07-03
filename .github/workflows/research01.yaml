@@ -8,7 +8,6 @@ on:
     paths:
       - '.github/workflows/research01.yaml'
       - '.github/actions/lab01'
-      - 'lab01'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
@@ -18,7 +17,7 @@ env:
   LAB: lab01
   RESEARCH: research01
   RESEARCH_TARGET: aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw== # greehouse
-  PROCESSING_AMOUNT: 600
+  PROCESSING_AMOUNT: 100
   EXCLUDE_RESPONSE_LENGTH: 156
 
 jobs:

@@ -8,7 +8,6 @@ on:
     paths:
       - '.github/workflows/research03.yaml'
       - '.github/actions/lab01'
-      - 'lab01'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}

@@ -47,11 +47,13 @@ runs:
       if: steps.diff.outputs.files_changed == 'true'
       shell: bash
       run:  |
+        set -x
         current=$(date)
         git config --global user.name 'scientist'
         git config --global user.email 'scientist@amazingandyyy.com'
         git status
-        git add researches/${{ inputs.research }}
+        git add ${{ inputs.lab }}/researches/${{ inputs.research }}
         git commit -m "feat(${{ inputs.research }}): research on ${{inputs.processing_amount}} items" -m "$current"
         git pull --rebase
         git push
+        set +x
