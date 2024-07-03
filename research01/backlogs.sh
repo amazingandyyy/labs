@@ -21,7 +21,9 @@ if [ ! -s "$WORD_LIST" ]; then
   mkdir -p backlogs/archived
   mv backlogs/$file backlogs/archived/$file
   # append to latest.txt
-  cat "backlogs/archived/$file" >> "$WORD_LIST"
+  # remove blank lines and append to wordlist, don't use sed
+  cat "backlogs/archived/$file" | grep -v '^$' >> "$WORD_LIST"
+
   # if latest.txt is empty, then exit 0
   if [ ! -s "$WORD_LIST" ]; then
     echo "latest.txt is empty after moving from backlogs. Exiting..."
