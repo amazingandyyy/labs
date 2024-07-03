@@ -44,7 +44,7 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
-          git pull --rebase
           git add $RESEARCH
           git commit -m "feat($RESEARCH): research on $PROCESSING_AMOUNT items" -m "$current"
+          git pull --rebase
           git push
