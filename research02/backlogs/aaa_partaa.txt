@@ -18,15 +18,12 @@ Talkito
 Thinkature
 Jamglue
 Wufoo
-Project Wedding
 Clustrix
 Inkling
 Audiobeta
 Flagr
 Snipshot
 Dropbox
-Blue Frog Gaming
-Anywhere.FM
 Appjet
 Clickpass
 ZumoDrive
@@ -40,8 +37,6 @@ Reble
 SocialPicks
 ContestMachine
 Splashup
-iJigg/Top440
-Hello Chair
 Bountii
 Twitch
 Weebly
@@ -56,7 +51,6 @@ View3
 Whitenoise
 WriteWith
 Tsumobi
-Poll Everywhere
 BackType
 JustSpotted
 Cloudant
@@ -64,34 +58,26 @@ Posterous
 Slinkset
 Treehouse
 PlayReader
-People & Pages
 Popcuts
 Snipd
-Ticket Stumbler
 Claimspotting
-Team Apart
 Youlicit
 Precognate
 Picwing
 CO2Stats
 Anyvite
 Frogmetrics
-Job Alchemist
 OhLife
-Machine Zone
 Heroku
 Ninite
 RescueTime
-280 North
 Omnisio
-A Thinking Ape
 BitSample
 Joberator
 Insoshi
 Snaptalent
 YumDots
 Deluux
-Kirkland North
 Tipjoy
 Mixwit
 Socialbrowse
@@ -105,7 +91,6 @@ WePay
 Lingt
 RentHop
 Olark
-Directed Edge
 Listia
 Flightcaster
 GraffitiGeo
@@ -137,7 +122,6 @@ PetaSales
 Voxli
 Nambii
 Picurio
-Spaces Life
 Foodoro
 Skysheet
 Recurious
@@ -149,7 +133,6 @@ WorkFlowy
 inDinero
 AnyList
 DemandSphere
-Recurse Center
 AdGrok
 Whereoscope
 Tapzilla
@@ -168,13 +151,10 @@ Chartio
 Koduco
 Pribbit
 MessageParty
-Ready For Zero
-Post.fm
 Opzi
 Upbeat
 Gantto
 Brushes
-Habit Labs
 Chirply
 Teevox
 Optimizely
@@ -185,18 +165,15 @@ Cardpool
 Cue
 Zencoder
 Nowmov
-Creative Market
 Embedly
 Bitplay
 Crocodoc
-All Screen
 500Friends
 Mertado
 Notifo
 Infoharmoni
 Newcope
 Newslabs
-Data Marketplace
 Fithub
 Gamador
 Zenedy
@@ -210,7 +187,6 @@ Apollo
 Codecademy
 HackerRank
 OneSignal
-Science Exchange
 Clerky
 AgileMD
 Quartzy
@@ -223,7 +199,6 @@ LeadGenius
 Pagelever
 Firebase
 Realm
-Citus Data
 Cryptoseal
 Debteye
 Aisle50
@@ -231,14 +206,11 @@ Genius
 Stypi
 Clutch
 Freshplum
-Hungry Labs
 Automatic
 Parse
-Perfect Audience
 TapEngage
 GlassMap
 Compose
-Launchpad Toys
 Caviar
 Embark
 Verbling
@@ -263,17 +235,14 @@ Opez
 Everyme
 Interstate
 MarketBrief
-GOAT Group
 SingleStore
 Fivestars
 HelloSign
 DrChrono
 Zerocater
 Storyworth
-Mino Games
 Close
 Tremendous
-You Got Listings
 Instapainting
 Acunote
 Tumult
@@ -284,7 +253,6 @@ Lanyrd
 Mailgun
 Apportable
 Pebble
-Humble Bundle
 Comprehend
 Custora
 Hotspots
@@ -299,7 +267,6 @@ Tutorspree
 Balanced
 Flotype
 Convore
-Insight Data Science
 Hyperink
 AppHarbor
 FitFu
@@ -320,7 +287,6 @@ Submittable
 9gag
 Svbtle
 Plivo
-Double Robotics
 Vastrm
 Flightfox
 BackerKit
@@ -331,10 +297,7 @@ Eligible
 FundersClub
 Zentail
 HealthSherpa
-Human Dx
-Mth Sense
 Rainforest
-Study Edge
 Virool
 VoiceGem
 Mattermark
@@ -345,31 +308,24 @@ Vayable
 Soylent
 Streem
 OmniVirt
-Fullstack Academy
 Statwing
 Kamcord
 ZeroMailer
 Boosted
 Knowmia
 Pixate
-Light Table/Eve
 Thread
 GetGoing
 Scoutzie
-Assorted Bits
 Viacycle
-Parallel Universe
 Celery
-Everyday.me
 MicroEval
 Credictive
 RegistryLove
 GoScale
 Tastemaker
-Coco Controller
 Partnered
 Profig
-Keychain Logistics
 ReelSurfer
 Dreamforge
 Collections
@@ -379,7 +335,6 @@ Kippt
 Hiptype
 Markupwand
 Sparkboard
-Crohnology (by Healthy Labs)
 Grid
 DataNitro
 Airshared
@@ -388,7 +343,6 @@ Testmunk
 Arc
 Imgfave
 LeanMarket
-Canopy Labs
 TomoGuides
 Amplitude
 MatterPort
@@ -399,14 +353,12 @@ Rescale
 Sendwave
 Ridecell
 Medmonk
-Per Vices
 CircuitHub
 Screenleap
 CleverDeck
 Shoptiques
 Medigram
 HireArt
-The Muse
 42Floors
 Shopular
 Socialcam
@@ -436,70 +388,52 @@ Carsabi
 Glider
 SolidStage
 Ark
-Documents.Me
 99dresses
 BarSense
-LVL 6.00
 Brace
 LendUp
 Grouper
 Zillabyte
-Talkray (TiKL)
 Pixelapse
-Make School
 Zipio
 Minefold
 Marft
 BookSolid
-Optilly/Installmonetizer
-Tap to Learn
-Jellyfish Art
 Couple
 Hipmob
 DoorDash
 Webflow
 EasyPost
-Panorama Education
 Lob
 CoreOS
-True Link
 Reebee
-One Month
 Cratejoy
-Estimote, Inc.
 Asseta
 7cups
-Echo Locker
 Weilos
 Datarank
 Lumoid
 StatusPage
-Bop.fm
 Arcus
 RealCrowd
 Senic
-Layer By Layer
 Casetext
 SpoonRocket
 SimpleLegal
 Hackermeter
 BloomThat
-Standard Treasury
 Apptimize
 URX
 Ixiplay
 WebCake
 Kivo
 SoundFocus
-Butter Systems
 Audobox
 Amulyte
 Watchsend
 Meta
 LocalOn
-Le Tote
 Hum
-Graft Concepts
 Glio
 Floobits
 GoComm
@@ -540,7 +474,6 @@ Bitnami
 GrepData
 VaycayHero
 Screenhero
-Prophecy Sciences
 Posmetrics
 Airware
 Logiblock
@@ -554,19 +487,13 @@ PayTango
 Swish
 Appcubator
 StyleUp
-Ginkgo Bioworks
-Rigetti Computing
 Checkr
-Helion Energy
 ShipBob
 Front
 Clear
 PicnicHealth
-Hiro Systems
 Permutive
 Cognito
-Apto Payments
-Bayes Impact
 Oklo
 Roomstorm
 Hive
@@ -577,7 +504,6 @@ SFOX
 Alchemy
 MTailor
 MetricWire
-Protocol Labs
 Greentoe
 Hyperpad
 Flytenow
@@ -585,29 +511,20 @@ Flaviar
 Billforward
 Backpack
 Aptible
-Unwind Me
-Sliced Investing
 Ravti
-One Codex
-Women.com
 Tule
 Payable
-Product Hunt
 Replenish
 ListRunner
-Lawn Love
 Kash
 Impraise
 Hublo
 Blockspring
 GovPredict
 PersistIQ
-Craft Coffee
-Clara Labs
 Carlypso
 Bitaccess
 Parenthoods
-Zip Phone
 Zenamins
 Beep
 Zoomer
@@ -615,21 +532,16 @@ Zen99
 Whirl
 Weave
 Tinker
-Think Gaming
 Paid
 HauteDay
 SalesSift
 Shout
 Roost
 Cheddar
-In Your Corner
 Nightingale
-Neptune.io
 Naytev
 VizeraLabs
-TAXA Biotechnologies
 Fixed
-Owners Circle
 Doblet
 Bikanta
 SpringWit
@@ -644,7 +556,6 @@ Guesty
 Cambly
 Unbabel
 Axoni
-Immunity Project
 Dyspatch
 OpenCurriculum
 MixerBox
@@ -657,36 +568,29 @@ Pushbullet
 Povio
 PiinPoint
 Theorem
-One Degree
 MBX
 Emailio
 DevCycle
 CodeNow
 CodeCombat
-Noora Health
 AptDeco
 CareMessage
 Ambition
 AirHelp
 42
 Vidpresso
-Framed Data
 Avametric
 Gobble
 Zesty
-Wit.ai
 SketchDeck
 Rocketrip
 Rickshaw
 PipelineDB
 Liftigniter
 StackLead
-Next Caller
 Motionlead
-Kimono Labs
 Eventjoy
 Chargehound
-Two Tap
 Boostable
 Abacus
 Whirlscape
@@ -694,16 +598,12 @@ AirPair
 ZowPow
 Unicornly
 Terravion
-Style Lend
 Edyn
 Shopagram
 MerryMint
 HoverChat
-Move Loot
 MadeSolid
-Drive Pulse
 Yumbin
-Dating Ring
 Threadable
 Futureleague
 Awesometalk
@@ -711,27 +611,13 @@ Ironclad
 Xendit
 Go1
 Teleport
-Human Interest
 Fountain
 Instawork
-Eight Sleep
-Plate IQ
-Drip Capital
-Verge Genomics
 GiveCampus
 Bitmovin
 OpenInvest
-Reach Labs
-Flirtey (SkyDrop)
-Cofactor Genomics
-Click & Grow
 TetraScience
-The Ticket Fairy
 HER
-Font Awesome
-80,000 Hours
-Shred Video
-Shape (ShapeScale)
 Scentbird
 RedCarpetUp
 PickTrace
@@ -739,36 +625,26 @@ Oolu
 MicroHealth
 Zeplin
 Markhor
-Circle Medical
 Chaldal
 Bodyport
-Thrive Agritech
 Tesorio
 SunFarmer
-Confident Cannabis
 Branch8
-Heroic Labs
 SnapEDA
-Scope AR
 PartnerStack
 Assembly
 Gemnote
-New Story
 InnerSpace
 teaBOT
 Lugg
 Gigster
-Tenant Turner
 PlateJoy
 Nebia
-Auro Robotics
 Mimir
-Blitz Esports
 Xfers
 Interviewed
 Paribus
 zPREDICTA
-Sphere Secure Workspace
 Cloudstitch
 Appcanary
 Bluecrew
@@ -778,8 +654,6 @@ Eden
 Cymmetria
 Convox
 SourceDNA
-Second Measure
-L.
 Jopwell
 Triplebyte
 VOIQ
@@ -787,33 +661,24 @@ Halolife
 Vive
 StyleBee
 Klarismo
-Wheelys Café
 Fetch
 Maderight
 Saida
-Traversal Networks
-Seva Coffee
-Reduced Energy Microsystems
-Prayas Analytics
 Ohm
 Locent
 Leada
 jEugene
 Bistrobot
-Apollo Health
 Afrostream
-Stitch Health
 Shotput
 CareLedger
 Call9
 Airmada
 Hickory
 Vernox
-ROSS Intelligence
 Roomblocker
 Serica
 GitLab
-Lucira Health
 Razorpay
 EquipmentShare
 GrubMarket
@@ -824,14 +689,10 @@ Atomwise
 Mezmo
 Platzi
 Qventus
-Notable Labs
 Zeitview
 Shasqi
-Spire Health
 Replika
-Tara AI
 Flip
-X-Zell
 Transcriptic
 Zenflow
 Tab
@@ -839,8 +700,6 @@ Priime
 Pigeonly
 Dabble
 Meadow
-Level Frames
-Industrial Microbes
 Giveffect
 eBrandvalue
 Quantierra
@@ -850,29 +709,20 @@ Mobydish
 Makrwatch
 TeamNote
 SIRUM
-Sails Co.
 ReadMe
 BuildScience
 Pakible
 Labdoor
 GiveMeTap
 Bankjoy
-The Human Utility
-Democracy Earth
 Bright
 Magic
-Akido Labs
-Tech in Asia
 DemocracyOS
 Lumi
 Chariot
-Raven Tech
 Vanhawks
-Valor Water Analytics
 SigOpt
 Seed
-Pretty Instant
-Popular Pays
 Outbound
 Moltin
 NexTravel
@@ -883,10 +733,8 @@ YesGraph
 Vest
 Remix
 Smarking
-Shift Labs
 Paperspace
 Pachyderm
-Open Listings
 HigherMe
 WorkLife
 CyberFend
@@ -897,22 +745,13 @@ Pomello
 Final
 ThinAir
 Nomiku
-Automate Ads
 Lully
-Bagaveev Corporation
-Wink Health
 VetPronto
-Standard Cyborg
 Spoil
-Rescue Forensics
 Cinder
 Nextop
 Glassjar
 Dealyze
-Underground Cellar
-Rare Door
-Shift Messenger
-ReSchedule Med
 Omniref
 Kickpay
 Instavest
@@ -922,34 +761,23 @@ Cribspot
 Booktrope
 20n
 3dot
-Direct Match
-Scale AI
 Meesho
 MessageBird
 Flutterwave
 Vetcove
 Athelas
-People.ai
-Squire Technologies
 CareRev
-The Athletic
 Joy
-Nova Credit
 Proxy
 Burrow
 WorkRamp
 Validere
 Expo
-Elemeno Health
 Suiteness
 Jumpcut
-Quero Education
 Reebeez
 ApolloShield
-Yoshi Mobility
-OMG Digital
 Circa
-Ready Education
 SmartPath
 Curtsy
 Airfordable
@@ -960,22 +788,13 @@ GoGoGrandparent
 HiOperator
 Synvivia
 Legalist
-New Incentives
-Kenota (formerly ExVivo Labs)
 garten
-Multiply Labs
-Women Who Code
-The Flex Company
 OneChronos
 Instrumentl
 RocketLit
 Livement
-Rose Rocket
-Vote.org
 Upgraded
-Raptor Maps
 NuCypher
-Prime Lightworks
 RunKit
 Starcity
 Innov8
@@ -989,33 +808,19 @@ Pursuit
 Fabric
 Techmate
 Opsolutely
-Iris Automation
 SimpleCitizen
-Seneca Systems
 LocoAI
 SkyLights
-UtilityScore (formerly Pando)
 Lendsnap
 Ubiq
-Abundance Labs
-GTRACK Technologies
 Emote
 Xberts
-Scanate/Fellow
-Starsky Robotics
 Seerslab
-Airo Health
-Sage Care
 Coub
-Robby Technologies
-Mosaix.ai
-Clip Health
-Shield Bio
 CoinTent
 Haywheel
 Looklive
 Metapacket
-Sway Finance
 Hush
 Whyd
 RigPlenish
@@ -1025,28 +830,21 @@ PatientBank
 Selfycart
 SmartSite
 Mindori
-Embark Trucks
 Rappi
-Relativity Space
 Podium
 Outschool
 Lattice
 Opentrons
 Mux
-Salt Security
 Astranis
 Truebill
 Boom
 Sendbird
-Function of Beauty
-Apollo.io
-Gecko Robotics
 Superside
 FightCamp
 Instabug
 Caper
 Deepgram
-Inevitable Tech
 Tovala
 NURX
 Daily
@@ -1054,19 +852,15 @@ Netomi
 Paystack
 GitPrime
 Landed
-Focal Systems
 Mio
 Petcube
 Mason
 MagicBus
-iSono Health
 GetAccept
 Chatfuel
 Yardbook
-Stealth Worker
 SOUNDBOKS
 OpenAI
-AmberBox Gunshot Detection
 Qvin
 Perlara
 DevColor
@@ -1075,9 +869,6 @@ Zenysis
 Bonsai
 Protonet
 Wakie
-UroDev Medical
-Sanitation and Health Rights in India (SHRI)
-Quilt Data
 Carbic
 NetBeez
 mRelief
@@ -1089,17 +880,14 @@ Thunkable
 Pave
 Castle
 MailTime
-Bus.com
 Revl
 PocketSuite
-Meter Feeder
 Gigwell
 Copia
 Deako
 Chillabit
 UpLabs
 Stilt
-Kip Health
 Hingeto
 flexEngage
 Nova
@@ -1108,14 +896,9 @@ Emburse
 Goodybag
 Pulpix
 MineralSoft
-Luminist Labs
 LendEDU
-Able Health
-Loop Genomics
 Algoriz
 AlphaFlow
-VINEBOX (Usual Beverage Co.)
-Magic Instruments
 Compgun
 PhysioHealth
 Modal
@@ -1126,81 +909,53 @@ Unnyhog
 Pathmind
 Silver
 Restocks
-Real Artists
-Kisan Network
-Georgette Packaging
 Cover
 Envyl
 Elucify
 TRAC
-Anchor Health
 Poppy
-Patchwork Security
-Interstate Analytics
 ConstructVR
 Castle
 Monthli
-Start Closing
-Open Motors
 Enflux
 Unima
 InnoVein
 DoseDr
 WorldCover
 Toymail
-Flock Safety
 Truepill
 Gem
 BillionToOne
-Standard AI
 FAZZ
 Jerry
-May Mobility
-Nobell Foods
 VergeSense
 Routable
-Ribbon Health
-Bloom Institute of Technology
-Cashfree Payments
-Long Term Stock Exchange
-Modern Fertility
 AssemblyAI
-Candidate.ly
 FollowUpThen
 Thematic
-10 By 10
-Forever Labs
-Just Appraised
 Goodcover
 Zendar
 Officely
 Muzz
 OneLocal
-Imbue (formerly Generally Intelligent)
 LotusPay
 Oncobox
 Tesseract
-D-ID
 Skyscrape
-Modular Science
 Flowspace
 Piggy
 Airthium
 tpaga
-Rev Genomics
 Pyka
 Entocycle
 HelpWear
 Spect
-Pop Meals
 Koko
 Slik
 Rabbet
 Upfort
 Prelim
 Advano
-Carrot Fertility
-Relationship Hero
 CocuSocial
 ThereCraft
 SafeButler
@@ -1209,25 +964,19 @@ Nimble
 Roofr
 Pathrise
 UpCodes
-Helium Health
 Fam
 Releaf
-Leon & George
 Aecore
 AutoHub
 Sunfolding
 Skyways
 PullRequest
-Dharma Labs
-VIDA & Co.
-disclosures.io
 Templarbit
 Lyrebird
 Headstart
 Opearlo
 Eduflow
 bxblue
-Percept.AI
 Honeydue
 Guilded
 Surematics
@@ -1235,11 +984,8 @@ Indivio
 Plasticity
 Meetingbird
 Wildfire
-Escher Reality
 Solve
 Enzyme
-Mystery.org
-Fat Llama
 CarDash
 Feather
 Audm
@@ -1248,90 +994,54 @@ Elucd
 WheelStreet
 NextDrop
 Bumpline
-Social Construct
-Cambridge Cancer Genomics
 Polly
-Commissary Club (formerly 70 Million Jobs)
 Gamelynx
 Guggy
 Fastpad
 Sunu
 WATERFX
-And Comfort
-PreDxion Bio
 Goosebump
 Storyboard
 RideAlong
-Caelum Health
 Covetly
 Semantix
 Mystro
 Greo
-Value Voting
 Sixty
 Gameday
 Dropleaf
-Prism Labs
-Passerine Aircraft
 Faire
 Brex
 Rippling
 Retool
 Solugen
-Clipboard Health
 Bitrise
-Lively, Inc.
-Ledger Investing
 UpKeep
-Reliance Health
 Armory
-Ambient.ai
 Soomgo
 Snappr
 Nomba
-Sigma Genetics
 ACLU
 Humi
-Helix Nanotechnologies
-Mirror AI
-Dost Education
-The Centre for Effective Altruism
-Indee Labs
 OneFin
-Wifi Dabba, Inc.
 Delee
 NanoNets
-BIOS Health
 AON3D
-Smart Alto
 BuyPower
 Apozy
 Hogaru
 Plane
-Bulk MRO Industrial Supply
 Inboxbooster
 AlemHealth
-Request Network
 Collectly
 Aella
 Tolemi
-Wright Electric
-Veryfi, Inc.
 Mednet
-Token Transit
 RankScience
-Sandbox Banking
-The Essential
 Upcall
 Beek
-Millibatt, Inc.
 REZI
-Paragon One
-MDalgorithms Inc.
 BloomAPI
-Sleep Reset
-Loop Support
-Sinovia Technologies
 Bountiful
 Speak
 Tizeti
@@ -1346,51 +1056,39 @@ Bulletin
 Breaker
 Tetra
 WaystoCap
-Supr Daily
 Hivy
 Penny
 Wavy
 Fiix
-Scaphold.io
 Volansi
 Shipamax
 Arthena
 lvl5
 Scribe
-Clear Genetics
-No Lean Season
 Anasen
 Niles
 SourceBeacon
-Voodoo Manufacturing
-Bicycle AI
 Marketfox
 FloydHub
 Neema
 Arylla
 Firsthand
-Rally Tennis
 Sycamore
 Fibo
 InnaMed
-Volt Health
 Entry
 Origin
 VanGo
-Sudden Coffee
 Tress
-Zinc Platform
 Cartcam
 Pulse
 LitHit
-Pit.AI
 Riley
 Pearl
 Cowlar
 boxouse
 Trade
 Momentus
-Modern Treasury
 Papa
 Titan
 Ajaib
@@ -1403,228 +1101,140 @@ OkCredit
 Avo
 Curebase
 Fintual
-64x Bio
 Culdesac
 Kobo360
-Shelf Engine
-Meru Health
-Pine Park Health
 Kunduz
 Aesthetic
 Kinside
-Gerostate Alpha
 Circumvent
-Rejuvenation Technologies Inc.
-Dorian therapeutics
 iLabService
 LemonBox
 Enveritas
 SPATE
 Oxygen
-Mark Cuban Cost Plus Drug Company, PBC
 AnnieCannons
-Leena AI
-Synkrino Biotherapeutics
 Cowrywise
-Helicarrier (prev Buycoins)
 BrainHi
-Four Growers
 SkydropX
-Eva Center
 Nestor
 ZiffyHomes
-Bot MD
-Names & Faces
 Tenderd
 Calii
 Prodigal
-The Supplant Company
-Canary Technologies
 MentalHappy
-Molecular Reality
-Alpha Vantage
 BlueCargo
 Mytos
 HappiLabs
-CB Therapeutics
-Rain Neuromorphics
-DreamCraft Entertainment, Inc.
 UBITS
-Purple Plate
-Quickchat AI
 Regology
-Impactive (formerly Outvote)
-Corvus Robotics
 Easol
 Ixora
-Tall Poppy
-Pocket Worlds
-Anima App
 Savvy
 Vimcal
 Paladin
-Clear Gene
-Radix Labs
 Hepatx
-The Good Food Institute
-Rebellyous Foods
 AskMyClass
 Optic
-College Pulse
-Apprentice Health
 JITX
 Inscribe
-Data Driven Bioscience
 Activeloop
 OpenWrench
 Federacy
-Verse Medical
 Satchel
 Dinesafe
-numericcal, inc.
-C16 Biosciences
 Klarity
 OWNY
 Honeylove
 Grin
 Nova
-Coral Genomics
 HeyDoctor
 hypcloud
 CSPA
 Berbix
-Scanwell Health
 OneGraph
-Demeanor.co
 Lowkey
 Phiar
-Allotrope Medical
-Perception Biosystems
 dNovo
 Goodly
 FameGame
 BHRD
-The Buttermilk Company
 LabelFlow
-Grabb-It
-Spero Foods
-Medinas Health
 INKHUNTER
-Mylk Guys
 ShopWith
 Inokyo
 Contrast
 Xkit
 FREY
-Passenger AI
 ExceptionALLY
-User Hero
-Penta Medical
-Warpdrive by Synthetic Minds
 OpenSea
 Groww
 Newfront
 Vanta
-Jasper.ai
 Veriff
 CoinTracker
 CaptivateIQ
-Modern Health
 Quantstamp
 Replit
-Observe.AI
 Substack
 Shogun
 Promise
-Let's Do This
-Memora Health
 Aspire
 Snackpass
 SRTX
-Mighty Buildings
 Delphia
-Treasury Prime
 Torch
 Super
-Culture Biosciences
 Pelago
 Sqreen
 Nuvocargo
-Bear Flag Robotics
 SafetyWing
 Volley
 Swayable
-FidoCure®
 Aerones
 Helloverify
 Runa
 ErudiFi
-Vena Medical
-Mind Emulation Foundation
 Anjuna
 Tarjimly
 Callisto
 Ben
 ZBiotics
 ArchForm
-AlgoSurg Inc
 OSIMple
 YouTeam
-Orangewood Labs
 Mojo
 SharpestMinds
 Gainful
-Cognition IP
-Players' Lounge
 Psylaris
 Juni
 Universe
-Podcast App
 Supermedium
 Tributi
 Viaopt
 Sourcify
 Plexus
-Correlia Biosystems
 BioRender
-Evry Health
 tEQuitable
 EnvKey
 Meitre
 Draftbit
-LUS Brands
-Dear Brightly
 AesculaTech
-Reverie Labs
-Persephone Biosciences
 Tingles
-Tradewind BioScience
 Nectome
-Biobot Analytics
 NEXGENT
 Macromoltek
-Sepsis Scout
-Avro Life Science
 Simetrik
-Key Values
 Slite
-Glowing.io
-Sixfold Bioscience
 Worklytics
 Fondo
 Observant
 Copilot
 Ovipost
-Blueberry Pediatrics
 Beanstalk
 Spellbrush
 Precious
 Sketchbox
 Proven
-Lucy Goods, Inc
-Look After My Bills
-Qulture.Rocks
-Jido Maps
 Swipehouse
 Medumo
 Zyper
@@ -1636,17 +1246,13 @@ Edwin
 Flinto
 NewCraft
 Squad
-Glimpse K12
 CodeStream
 onederful
 ClearBrain
 Pulse
 Mayhem
-Lambda Tea
 Hexel
-Point API
 Secured
-Iambiq Technologies
 Voicery
 Atrium
 Pagedraw
@@ -1660,42 +1266,32 @@ Haiku
 Meson
 Aalo
 Openland
-Curious Fictions
 OurMenu
 Skip
-Closer Sports
 Tipe
 Necto
 Rhythmm
-California Dreamin
-Vendr.com
 Gather
-TRM Labs
 Odeko
 Vouch
 Hightouch
 Dover
-Asher Bio
 Breadfast
 Embrace
 LAIKA
 Compound
-Ramen VR
 Rutter
 Localyze
 Curri
 Obie
 PayMongo
-treble.ai
 Legacy
 Rainbow
 FamPay
 Lokal
 Elpha
-Sequence Bio
 Odin
 Apurata
-EPIC AEROSPACE
 GitStart
 Vorticity
 Blockstamp
@@ -1703,7 +1299,6 @@ Taskade
 Index
 Deepnote
 Aspect
-Coco Pago
 Vitau
 Flowbot
 zeroheight
@@ -1712,84 +1307,50 @@ Traces
 Freshpaint
 InEvent
 Heru
-Tranqui Finanzas
-Holy Grail
 Recidiviz
 Trella
 Multis
 Flux
-stoic.
 PredictLeads
-Eden Farm
 Gotrade
 Pepper
-Demand Curve
-Digi-Prex
 Vahan
-Boost Biomes
-Proof Trading
 Lokal
 Binks
 Gaiascope
 LineLeap
 CoLab
-EARTH AI
 Wasmer
 Microverse
-spotLESS Materials
-Kern Systems
-Arpeggio Bio
 DirectShifts
-Rosebud AI
 Hatchways
 Adla
-Million Marker
-Flo Recruit
 basis
-Brave Care
 Outtalent
 Canix
-Green Canopy NODE
 KubeSail
 Banner
 OpenReplay
-Zeta Surgical
 Fynn
 Nonu
 UpEquity
 Lumineye
-Yummy Future
 Kitekraft
-Mindset Health
 LunaSec
-GEn1E Lifesciences
 Prolific
 AudioFocus
 Soteris
 Narrator
-Lucid Drone Tech
 Actiondesk
-Ever Loved
-Intersect Labs
-Pair Team
-Hype and Vice
 Zeal
 Jupiter
-Short Story
-Juno College of Technology
-Shift Health
-Mighty Health
-Well Principled
 Kraftful
 communion
 Pillar
 BuildStream
 Gamebytes
-Method Financial
-Heroic Story
 Courier
 Lofty
-Apero Health
 Shiru
 Cuboh
 matagora
@@ -1798,7 +1359,6 @@ PopSQL
 Playground
 Prenda
 Path
-Together Software
 Beacons
 Zippi
 Wren
@@ -1806,20 +1366,16 @@ Superorder
 Swadesh
 MyPetrolPump
 Wingman
-Data Mechanics
 Bouncer
 FeaturePeek
 TaxProper
 Sable
-Voyage Biomedical
 Bayes
 Palifer
 Unflow
 Covela
 Valiu
-Mipos.dev
 Alana
-Namaste Business
 Khabri
 Tensil
 Flow
@@ -1830,22 +1386,15 @@ Tandem
 Revel
 Dashblock
 Lantern
-Encepheal Therapeutics
 Preclusio
 Prompt
-Souffle Club
 ReverCare
-Hey Healthcare
 MoFE
-Safely Finance
 Vizy
 Hutsy
-Fit to Form
-Pippin / Rent the Backyard
 Deel
 Prometheus
 Nowports
-Frubana Inc
 Middesk
 Kalshi
 Shipper
@@ -1853,16 +1402,11 @@ Postscript
 Alpaca
 Shef
 Kovi
-Career Karma
 Pachama
 Atlas
 Convictional
-Endpoint Health
-Skill-lync
 Convex
 Dagger
-Gordian Software
-Eclipse Foods
 Ashby
 54Gene
 Doppler
@@ -1871,35 +1415,24 @@ Nabis
 JuziBot
 Searchlight
 Schoolable
-Buy Me a Coffee
-Modoo Technology
 Memfault
-YourChoice Therapeutics
-Taali Inc
-NaturAll Club
-rct AI
 Numero
-1910 Genetics
 Truora
 Withfriends
 Cosmic
 FIRST
 VertoFX
-Tailor-ED
 Latchel
 Inito
 Globe
 VotingWorks
-Mars Auto
 Dockup
 Rune
 Cuanto
 Pronto
-Pulse Active Stations Network
 Cityfurnish
 Glide
 Lezzoo
-Emi Labs
 Bentocart
 Spring
 CredPal
@@ -1907,99 +1440,62 @@ MyScoot
 Keynua
 Edyst
 AccioJob
-Shiok Meats
 NALA
 Mudrex
 Capture
 AmpUp
 XGenomes
-Saratoga Energy
 Upsolve
-Our World in Data
-Traverse Technologies
-Superb AI
-Heart Aerospace
 Reelables
-Volta Labs, Inc.
-JetPack Aviation
-Boundary Layer Technologies
 Wanderlog
-Aura Vision
-Instapath Inc.
 Caribou
 Fuse
 Ravn
-PNOĒ
 Pyxai
 Qwest
 Landed
-Intact Therapeutics
 Mobot
 AuroraQ
 Excepgen
-Handle.com
-Bunkerhill Health
 Termius
 Supernova
-Probably Genetic
 Okteto
 Bensen
-Atomic Alchemy
 ResistanceBio
 Switchboard
-AI Insurance
 Demodesk
 Avo
 Forage
-Sapling.ai
 WeatherCheck
 Basilica
-Community Phone Company
-Thrive Agric
-TAILORNOVA /COUTURME
 GoLinks
 Windwalk
-LEAH Labs
 Avalanche
 MedCrypt
 BrainKey
 Hatch
-FLOWER CO.
-Nebullam (DBA Clayton Farms)
 Ascen
 Windsor
 SciTok
-Dyneti Technologies
-Sorting Robotics
 Sunsama
-Spire Law
 DevFlight
-Centaur Labs
 Ultralight
 Bottomless
 Kopa
 Keeper
 Insight
-AllSome Fulfillment
 Positive
-The Juggernaut
 Geosite
-Brick Health
-Canopy (was Encarte)
 Parker
 Intelline
 Flockjay
-Trexo Robotics
 Taobotics
 Overview
 Balto
 Catch
-Accept.inc (formerly BoardRE)
 WorkClout
-Allure Systems
 AXDRAFT
 Slapdash
-Seawise Capital
 Cocoon
 Doorport
 Askdata
@@ -2011,34 +1507,24 @@ Preflight
 InterPrime
 ZeroStorefront
 Fuzzbuzz
-Spiral Genetics
-Union Apartment
 Mage
 Basement
-Sublime Black
 Datamode
 Hypnos
 DailyDoctor
 CareerTu
 Cherry
 BlitzIQ
-Maitian.ai
 PerShop
 Docucharm
-Evo.Do
 Simmer
-Adventurous Co
 Herald
-Portal Entryways
 Chaser
-Green Energy Exchange
 Comradery
 SpaceRyde
 Pengram
 Vectordash
-Volk Wireless
 Allo
-Pardes Biosciences
 Jeeves
 Pave
 Zip
@@ -2048,7 +1534,6 @@ Spenmo
 Balance
 BukuWarung
 Osmind
-Gilgamesh Pharmaceuticals
 Roboflow
 Depict
 Recurrency
@@ -2057,30 +1542,20 @@ Matter
 CapWay
 Toolbox
 Verifiable
-SiPhox Health
 Atmos
 Rarebird
-Future Fields
-Todos Comemos
 Quell
 Flat
 Hubla
-Heron Data
 Fieldguide
 Finch
-Parrot Software 🦜
 Zuddl
 Inspectify
 Sonar
 Reflect
-Mozart Data
 Rally
 Byte
-Warmly,
 Glimpse
-inSoma Bio
-Vena Vitals
-MedPiper Technologies, Inc
 Here
 Lendtable
 Afriex
@@ -2095,7 +1570,6 @@ CarbonChain
 Arketa
 HENRY
 Laylo
-Orange Health Labs
 Formal
 Awtomic
 Akiflow
@@ -2111,25 +1585,17 @@ TyltGO
 Flint
 Nephrogen
 Liyfe
-Kingdom Supercultures
 Tella
 Mozper
 Memberstack
 Mailwarm
-Aquarium Learning
-Jam.gg (formerly Piepacker)
 Notabene
 Decentro
 BIK
 Tydo
 WareIQ
-Hyper Online
-Nabla Bio
-Vitable Health
 Streamdal
 Oico
-Statiq.
-Nextera Robotics
 Justo
 Hellometer
 Stacker
@@ -2137,13 +1603,11 @@ Tappity
 buildspace
 Yotta
 Mesh
-Daybreak Health
 Biocogniv
 MarketForce
 Atomic
 Bits
 Opvia
-webapp.io
 doola
 BLISSWAY
 Cradle
@@ -2153,11 +1617,8 @@ Humanloop
 Swif
 Speedscale
 CoreCare
-Kernal Biologics
-Farmako Healthcare
 Dialect
 Synapticure
-Hypotenuse AI
 Charityvest
 Duckly
 PowerUs
@@ -2165,18 +1626,14 @@ Novel
 Explorex
 Volopay
 VenoStent
-Jeevam Health
 Queue
 Safepay
 Bento
 Seam
-Conta Simples
 QuestDB
 Shuttle
 Dripos
-Zitara Technologies, Inc.
 Momence
-Blue Onion Labs
 Lightdash
 Datafold
 inFeedo
@@ -2189,21 +1646,17 @@ Ukama
 Altro
 Thndr
 adyn
-twoplus fertility
 PhotoRoom
-Trident Bioscience
 Response
 Salesform
 Basedash
 Porter
 Ladder
-Latent Studio
 Hellosaurus
 Clover
 Riogrande
 Nestybox
 Fancy
-Together Video Chat
 Cohere
 Drapr
 Sameplan
@@ -2213,13 +1666,8 @@ KeyDB
 Vectrix
 Workbase
 Omni
-Known Medicine
-Current Foods
-Strive School
 Finmark
 Gather
-Bandit ML
-LSK Technologies
 Jemi
 Fig
 Parade
@@ -2232,7 +1680,6 @@ OneKey
 Virtually
 Memo
 Intelligent
-In Stock
 ClearMix
 Foreword
 Monosi
@@ -2251,40 +1698,26 @@ Airbyte
 H1
 99minutos
 Yassir
-Fly.io
-Karat Financial
 Fondeadora
 Ophelia
 TrueNorth
-STARK BANK
 Pulley
-Ansa Biotechnologies
 Belvo
 BeGo
 PostHog
-Jet Admin
-Ochre Bio
 Jenfi
 Legionfarm
-Menten AI
-Equator Therapeutics
 Dapi
-Gas Pos
-Humanly.io
 Prelay
 WorkPay
-Tambua Health
-Living Carbon
 PowerX
 SEND
 borong
-Recall.ai
 Healthlane
 Stable
 Sakneen
 GiveAway
 GuruHotel
-Nomic Bio
 Ramani
 Handl
 Zynq
@@ -2304,19 +1737,14 @@ Oda
 Nexu
 Isabl
 OpenBiome
-Breathe Well-being
-Angle Health
 Raycast
 Easyplan
 Pahamify
-Synapsica Healthcare
 HireSweet
 Spenny
 EduRev
 Bikry
 Hiration
-Zeo Route Planner
-Morphle Labs
 TagMango
 PillarPlus
 farmtheory
@@ -2332,17 +1760,13 @@ Skypher
 Vital
 Laserfocus
 Jitter
-Fella Health
 Riot
 Modernbanc
 Revenir
 ToDesktop
 Nimbus
-Candid Health
 Dropbase
-Alloy Automation
 Quill
-Mini Exhibitions
 Vori
 BuildBuddy
 Typedream
@@ -2352,22 +1776,10 @@ QueryPie
 Welcome
 Ello
 Multiverse
-Turing Labs Inc.
-Altay Therapeutics
-Fair Square
-Bloom Community (formerly Together)
 Metaplane
-Tienda Crypto
-Global Belly
-Logarithm Labs
 Duffl
-Talyn Air
-Operator Labs
 Signadot
-Felix Biotechnology
-Visual One
 Grain
-StartPlaying.Games
 Benepass
 Eze
 Infield
@@ -2381,19 +1793,12 @@ Dashworks
 Datasaur
 Terrasoft
 Acho
-Exosonic, Inc.
 Nextmv
 1build
-Deep Meditate
 Ditto
-Perceptive Technologies, Inc (formerly Cyberdontics)
 Jamiphy
-Tough Commerce (FKA Brokrete)
 OpenUnit
-Ardis AI
 Taiv
-Carbon-12 Labs
-Factored Quality
 Letterdrop
 Explo
 Segmed
@@ -2404,7 +1809,6 @@ RoboTire
 Teleo
 StratumAI
 Alude
-Abalone Bio
 Breezeful
 Paragon
 Accord
@@ -2413,22 +1817,16 @@ Kaiten
 NUMI
 Motion
 Facio
-Loop Health
 ZeFi
 HelpNow
 DocVita
-Chaos Genius
 Milo
-Genecis Bio
 CrowdForce
 Checkars
 Sayana
-delt.ai
 yBANQ
-Pay Swifter
 Cron
 Savvy
-Dropprint Genomics
 Terusama
 Weav
 Glimpse
@@ -2447,24 +1845,19 @@ LabGrid
 Apartio
 Valienta
 Viya
-Zumo Labs
 Thunderpod
 SprintAI
 goDutch
 Snapboard
 onetool
-Simple Strips
 Pashi
 Scout
 Blok
-Riya Collective
 Zaam
-The Mercer Club
 Homestead
 Clayboard
 Protobase
 Cadence
-Glisten AI
 Orbiter
 Pantheon
 Quickcard
@@ -2477,31 +1870,18 @@ Nash
 Yummy
 Slash
 MarqVision
-Karbon Card
 Careerist
-JABU Logistics
-Revolve Surgical
-Liv Labs
-Mecho Autotech
-Sully.ai
 Beau
 Toku
 Metaphor
-Safer Management
 Chipax
 Amenli
-Pide Directo
 Lightly
-Equipt Health
 Payflow
-Charge Robotics
 Ahazou
 Titipku
-HEO Robotics
-Turion Space
 Stepful
 Synder
-Café
 Datlo
 OneShop
 FirstIgnite
@@ -2512,15 +1892,12 @@ Stack
 GamerPay
 Sitenna
 Evidence
-Luminate Medical
 Pactima
-Medium Biosciences
 Adra
 BlackOakTV
 Tantl
 Spoken
 Birdie
-SFA Therapeutics
 EchoLayer
 Mindmesh
 Opkit
@@ -2531,14 +1908,10 @@ Hirebolt
 Plai
 Atlas
 CellChorus
-Output Biosciences
 Abatable
 ContraForce
 Storylane
 StrideQ
-Sensible Biotechnologies
-Byte Kitchen
-Moving Parts
 Orderli
 Suplias
 Abhi
@@ -2546,19 +1919,14 @@ Pandai
 Verde
 Coinfeeds
 idemeum
-Ruth Health
 Shape
 Baubap
 Novatr
-Kapacity.io
 Malga
-Tuli Health
 Stownest
 Filadd
-Kiwi Biosciences
 Nasdisc
 Luable
-Caire Health
 bloop
 Synth
 Pylon
@@ -2566,15 +1934,11 @@ Dime
 Telivy
 Zuma
 PAYZE
-Humane Genomics
-Female Invest
 Ferveret
 Filta
 Siglo
 Waterplan
-Buoyant Aero
 Argus
-Bedrock AI
 Greenwork
 Nomod
 Genuity
@@ -2587,56 +1951,37 @@ Tenyks
 Chari
 Noloco
 Litnerd
-Dots 💸
-Revery AI
-Reason Robotics
 Mach9
 Examedi
 Ancana
 Onfolk
 CostCertified
-Floatpays Inc
 HitPay
 Coast
-TransAstra Corporation
 Float
-The Breakaway
 Matrubials
 Writesonic
-Akute Health
-outloud.ai
 Sirka
 Mentum
 Meticulous
 Warrant
-Spark Studio
-Adaptyv Biosystems
 Endla
 Marble
 HeyCharge
 Heimdal
 Cumbuca
-Evidently AI
 Whaly
 Payhippo
-Portão 3
 Zensors
 Flowly
-Harmonic Discovery
-Makani Science
 Fizz
 lapzo
-Astek Diagnostics
 Freterium
 Digistain
-Protex AI
 Inflow
 Vinco
 Aleph
-KaiPod Learning
 Kodda
-Aleph Solutions
-Zoios.
 Kurios
 Encuadrado
 Clarity
@@ -2653,10 +1998,7 @@ Sequin
 Formance
 Mergent
 Coinrule
-Infiuss Health
 LemFi
-Momo Medical
-Yemaachi Biotechnology
 Scispot
 LootRush
 Cartpanda
@@ -2668,9 +2010,7 @@ Truss
 MindFi
 Monto
 Argonaut
-Matidor.com
 inai
-Scratch Data
 Cero
 OneStopKitchen
 fluke
@@ -2684,7 +2024,6 @@ Monet
 testRigor
 Ivella
 Glitzi
-Planet A Foods (ex QOA)
 Warpfy
 Enerjazz
 Covie
@@ -2693,14 +2032,11 @@ Okani
 Pluggy
 Govly
 Pideaky
-Breadcrumbs.io
 Monto
 Bree
 Repool
 Laudable
-SenpAI.GG
 Onebrief
-Iona Mind
 Keyri
 Metlo
 Jovian
@@ -2714,8 +2050,6 @@ Aqua
 Kaya
 Secoda
 Locale
-Pirouette Medical
-Micro Meat
 Kodex
 Verihubs
 HyperTrader
@@ -2726,14 +2060,11 @@ trii
 Kindamagical
 SafeBeat
 Brite
-Ivy Homes
-Konta.com
 Tavus
 Zen
 Patterns
 Forage
 Nexus
-Lariat Data
 Tablevibe
 DailyBot
 RendaloMaq
@@ -2744,59 +2075,42 @@ StudyStream
 InstaKin
 SnapCalorie
 Anakin
-Bite Ninja
 REPROSENT
 Epinoma
-ShopMyGPT.com
 Sleek
 Keeper
-Strive Math
 PlusIdentity
 Cabal
-V-Flow Medical
 MobileBoost
 AppX
 Neodocs
 AlgoUniversity
 Swipe
-Echoes HQ
-Advantage Club
-Nino Foods
-Rivia.AI
 BLUUMBIO
-Parallel Bio
 Zazos
 Instacrops
 BoldVoice
 Confido
 SalaryBook
-Zeit Medical
 Atmana
 ODWEN
 Deed
 PropReturns
-Coulomb AI
 Mailmodo
 Akudo
 Koshex
 RenderNet
-Kalam Labs
 FrontPage
 Levro
-Ananya Health
 Flowbo
 SolarMente
-Catena Biosciences
 Goodkind
 DolarApp
-Fingo Africa
 FirstQuadrant
 Replo
 Rootly
 Potion
 Jestor
-Flow Club
-Concord Materials
 Jupe
 Baraka
 Archbee
@@ -2808,29 +2122,19 @@ Abstra
 Stipop
 Customily
 Deskimo
-Hive Health
-Mindstate Design Labs
 Pipekit
 Superwall
-Odys Aviation
-Legion Health
-Talus Bio
 hotglue
 Artillery
 Beeper
 marketfeed
-AOA Dx
 Contalink
 Positional
-Agapé
 Hedgehog
-Reframe (Glucobit)
 Blixo
-Inversion Space
 Mentorcam
 Epsilon3
 Slope
-Promakhos Therapeutics
 Openlayer
 PaletteHQ
 Cococart
@@ -2838,7 +2142,6 @@ Palla
 Hyperseed
 Elto
 Satsuma
-Verano Health
 Arengu
 Mable
 Sproutfi
@@ -2854,11 +2157,8 @@ Algofi
 Levo
 Hera
 Mixr
-Milky Way AI
 FastFarma
-Comet Health
 Apollo
-Ruta Health
 Perfekto
 Commery
 Abbot
@@ -2868,41 +2168,30 @@ Lobby
 Zage
 Zepto
 QuickNode
-Moxion Power Co.
-Spruce Systems
 Moonvalley
-Redcliffe Lifetech
 Houm
-Stoke Space
 Treinta
 Remora
 REGENT
 Ontop
-Moonshot Brands
 clicOH
 Kiwify
-Nano Technologies
 Flux
-Meru.com
 eqtble
 Journey
 Blushh
 Kanda
 Ollama
-Chorus Sleep
 NextPay
 Camlist
 Alltruists
 Tackle
 MagicBell
 Terra
-Reshape Biotech
 PipeBio
 Shepherd
 SwiftSku
 Kilobaser
-My NextDerma
-H3X Technologies
 Bloom
 Clear
 Mayan
@@ -2910,15 +2199,10 @@ Triomics
 Arpio
 Authologic
 Waydev
-Nuntius Therapeutics
 MindPortal
 MeetAnyway
-Avion School
-Forcyte Biotechnologies
-hoop.dev
 Routine
 Djamo
-Turing College
 HUBUC
 Wasp
 Blink
@@ -2951,8 +2235,6 @@ OlaClick
 Svix
 Foster
 Machine26
-Leap Club
-Rejoy Health
 FlowEQ
 Alpas
 GreaseBoss
@@ -2966,37 +2248,27 @@ Infracost
 Chatwoot
 Pagaloop
 Ziina
-Vue Storefront
 Lunatic
 Zealth
 Mono
-Athens Research
-Entelexo Biotherapeutics
-Morada Uno
 Z1
 Haystack
 HomeBreeze
 Mendel
 Stayflexi
 Soraban
-Lamar Health
-Compose.ai
 Manara
-Venu AI
 Biodock
 Camp
 Betterhalf
-Feroot Security
 Phoenix
 Roger
 Seer
 FitHub
 Rulebricks
 BotBuilt
-Reclaim Protocol, Questbook
 Aerotime
 Maindrop
-Sturdy Finance
 ZOKO
 Corrily
 Finantier
@@ -3006,8 +2278,6 @@ InpharmD
 Simplify
 Unschool
 Tilt
-Juicy Marbles
-Milk Video
 ProcessLabs
 Dyte
 SoloSuit
@@ -3017,7 +2287,6 @@ TechBiz
 Dendron
 Codingal
 Resquared
-Topline Pro
 QuotaBook
 Flextock
 Darrow
@@ -3025,46 +2294,33 @@ SST
 Homebase
 Noble
 LogisticsOS
-Veera Health
 LightTwist
-Text Blaze
 Sendbox
 Coderhouse
 Enode
 Trela
 Datrics
-Great Question
 Hudu
 Aurabeat
 Auricle
 LiveFlow
-Finary.com
 zingbus
 Greywing
 GimBooks
 R2
 Measured
 Rinsed
-Purpose Finance
 Chatbiz
 BrioHR
-QuickVid.ai
 Fathom
 Popl
-Hermes Robotics
 Logica
 Procoto
 Anima
-Pangea.app
 Kredi
-weweb.io
 Mindee
 Topkey
-Udhaar App
-Quadrant Health
 Kodo
-Orbillion Bio
-Dashlabs.ai
 ControlHub
 Nirva
 Fintoc
@@ -3072,28 +2328,17 @@ Superpowered
 Alinea
 Lendflow
 Parsagon
-Emerge Tools
 Juniper
-Aviron Interactive
-Promoted.ai
 FifthTry
 June
-Per Diem
-Firstbase.io
 Bimaplan
-Version Story
 Gridware
-FunctionUp (FanPlay)
-Expent Inc
 Faction
-Javelin Robotics
 Huddlefire
 Terapify
 Cyble
 Noya
-Axle Health
 HyperGlue
-Gradia Health
 Sivo
 Flok
 Prequel
@@ -3102,30 +2347,22 @@ LiliumX
 Fractional
 CashBook
 Encord
-Segments.ai
-Axiom.ai
 Laudspeaker
-Pragmatic Leaders (Ankai Inc)
 Pesto
 Smartcuts
 Weekday
-BeWell Digital
 Avocado
 Tupelo
 Fountain9
 Clay
 CoVerified
-Flux Auto
 Wyndly
 Curvenote
 JoinSub
 Bluelight
-Gerald Technologies, Inc
 Queenly
 Moichor
 Nourish
-Lion Pose
-Pibit.ai
 GroMo
 ModernLoop
 Zerobroker
@@ -3137,9 +2374,7 @@ Hapi
 Finley
 Spokn
 Waypoint
-MedMe Health
 Taloflow
-Quadrant Eye
 Snazzy
 Lygg
 Howdy
@@ -3147,36 +2382,24 @@ DreamWorld
 Albedo
 Humaans
 authzed
-Alba Orbital
-Atomic Industries
 Gaiia
-The Third Place
-Trestle Biotherapeutics
-Serna Bio
 Bristle
-cloud humans
 Runway
 Atrato
 Abacum
 Lovd
 Webiny
-Degrees of Freedom
 inBalance
 Preki
 Pyroscope
 Worksphere
-Enable Us
 Partnered
 Trendpop
 Verak
-Roin Technologies
-Pry Financials
 OctiFi
-Bueno Finance
 ClipDrop
 PingPong
 Furmacy
-boitas.com
 Outfit
 Mezli
 Prendea
@@ -3188,30 +2411,19 @@ MarcoPolo
 Invoid
 Lalabox
 YourQuote
-Charge Running
 noHQ
 Finary
-GoBuild (fka Brick)
 Krab
 Observa
 SlashAuth
 Unfurl
-Gigs Live
-SBX Robotics
 Playmaker
 Neverland
 Gonddo
 TigerEye
-Polymath Robotics
 Terrace
-Morf Health
 Materee
 Ping
-Dev Tools AI
-Guardian Bio
-Pivo Technology Inc
-Integrated Reasoning
-Coverage Cat
 AccessOwl
 Intuned
 Cone
@@ -3220,11 +2432,9 @@ Lotus
 Axle
 Lumo
 Cambio
-InVision Medical Technology
 Kamion
 CAPSULE
 Shelf
-Be Golden
 Kashin
 Velontra
 Vizzly
@@ -3237,7 +2447,6 @@ Pump
 MovingLake
 Slingshot
 Uwi
-Monterey AI
 Jamble
 Lancey
 ReleviumBio
@@ -3246,13 +2455,9 @@ Wondercraft
 Entvin
 autone
 Oneleet
-Krave Mart
-Drahim 💰
 Almond
-Jasmine Energy
 Levers
 Sonnet
-Caddie AI
 UpLink
 Mendable
 Momentu
@@ -3261,7 +2466,6 @@ FoodCourt
 Sunpia
 Delight
 Invofox
-Mesh Analytics
 Hero
 PrimeVault
 KemNet
@@ -3271,14 +2475,9 @@ Findly
 Relate
 Relay
 nsave
-Lamin Labs
-Trendex - Own the stars
-Hiresure.ai
 AiPrise
 Roforco
 Wand
-Blacktop Hoops by Vinci Games
-Ekho Dealer
 Quindar
 Unthread
 Kombo
@@ -3287,7 +2486,6 @@ Payfura
 Plutto
 Hostfi
 Ruffo
-Umbria (by Artemis Labs)
 Feather
 Grai
 Tangia
@@ -3297,19 +2495,15 @@ Needl
 iollo
 Garage
 Chowdeck
-Maya Labs
 FlyCode
 Pluralith
 Diversion
 Cambio
 Payable
-Mintplex Labs
 Hedgehog
 Coris
 Bitstack
-Airhart Aeronautics
 Peoplebox
-Zoltar Labs
 Nucleus
 Shipmates
 Thera
@@ -3322,39 +2516,24 @@ Typewise
 Tersho
 Ajourney
 BiggerPicture
-Slauth.io
-Flair Labs
 Apprecio
 HelperAI
 Metafi
-Ordinary Seafood
-Aragorn AI
 Hypeshot
-Payload CMS
-Ten Lives
-Malama Health
 Phind
-Maverick BioMetals
-Illuminant Surgical
-Tank Payments
-Apply Design
 Evoly
 Juicebox
 Rio
 Popsy
-Gullak Money
 Supercool
 Windmill
 Activepieces
-Seaflight Technologies
 Raven
 Cashboard
 CodeCrafters
-Notebook Labs
 Blee
 Overwatch
 Bridgecard
-ALT TEX
 Disclo
 Tranch
 Voltic
@@ -3363,18 +2542,12 @@ Sunlight
 Novig
 Lyra
 Delegasi
-Signatur Biosciences
 NuMind
 Ballerine
 EthosX
 Boostly
-Pilot AI
-BlueHill Payments
 RootFi
 Fetii
-Array Labs
-Dr. Treat
-Serinus Biosciences
 trebu
 BricksAI
 Paigo
@@ -3391,21 +2564,15 @@ Blitz
 erad
 SynthCall
 Pasito
-Bunting Labs
 Devyce
 Tailor
 Dittofeed
 Cadence
 Chariot
-Superpowered AI
 Stackup
-Two Dots
 Bend
-Sigma AI
 Truva
 Alma
-Penguin AI
-Birch Biosciences
 Dialect
 Ciro
 Julius
@@ -3413,7 +2580,6 @@ Mercator
 Elessar
 SolStar
 Sematic
-Probably Nothing Labs
 Paces
 Stream
 Chordio
@@ -3422,148 +2588,104 @@ HyperDX
 Instant
 Wolfia
 Banabo
-Cisterna Biologics
 Clinikally
 Layerup
-Albiware Inc.
 Poly
 Pana
 Eugit
 Medplum
 SilkChart
 Keylika
-Emerge Career
 Manatee
 Stellar
 Weltio
 SimpleHash
 BBy
-WhiteLab Genomics
 TradeX
 Massdriver
-Reality Defender
 Lizza
 Mono
 NFTScoring
 CrediBook
 Remi
-Fresh Factory
-Onboard.io
 Seis
 Bananas
 Eventual
 AiSupervision
-Phoenix Hydrogen
 Finnix
 Flike
 Alima
 Vecindario
-Karate Labs
 HippoBuild
-Pantore Pay
-beU delivery
 GAVEL
 Cofactr
 EasyCode
 Revoy
 KorrAI
-Pina Earth
-Beyond Aero
 Govdash
-Origami Therapeutics, Inc.
 Cinapse
 AirMyne
-CloudEagle.ai
-Mooji Meats
 Poko
 GoSats
 Glocally
-Dealls – Jobs & Mentoring
-Impossible Metals
 Trusty
-Query Vary
 Circular
-Powerhouse AI
 Nara
 GIMO
-Olympian Motors
 Netmaker
 Cashmere
 Pigeon
-The Ankler
 Darsel
 Verdn
 Heptabase
-Reviving Mind
-Anja Health
 Koko
 Sync
 Finku
-Plover Parametrics
 Avocademy
-Mahaana Wealth
 Dumme
-Marathon Education
 Workflow86
-Glow Energy
 WANTD
 Humand
 1Flow
-Unravel Carbon
 RTHM
-Rally UXR
 discz
 Arpari
 Fleek
 yhangry
 GoJom
 Ploomber
-Float Health
 amiloz
 Spryngtime
 Shaped
 Rider
-ngrow.ai
 Sendo
 Vobi
 Clupp
 QUIK
 Unsaddl
 WishRoll
-SOTERI SKIN
 Decent
-Drifting in Space
 Spade
 Fogbender
 PropelAuth
-Yatima Inc.
 Topship
-Amal Invest
 SNAB
 Quan
 Attain
-Better Opinions
 Forest
 Nophin
-Venue.live
 UNISON
-IoTFlows Inc
 Trueplace
 Vessel
-Cypher Wallet
 Joon
 Bracket
 AvairSense
 PINA
 Numida
 Brainboard
-re-mint
 Ponyrun
-Andson Biotech
-Neural Dynamics Technologies Inc.
 Theneo
 Kula
-mutable.ai
 HoyTrabajas
 Bemlo
 Rome
@@ -3572,13 +2694,9 @@ Telematica
 Vimmerse
 Lifecast
 Duplo
-Material Depot
 SaveIN
 DimOrder
-Courtyard.io
-Carbon Crusher
 Nullstone
-Take App
 BotCity
 Payourse
 Cinder
@@ -3586,9 +2704,7 @@ Nash
 AntWalk
 Legistify
 Moni
-Cash Flow Portal
 Airwork
-Simplifyd Systems
 Durioo
 goodfin
 Trackingplan
@@ -3596,27 +2712,18 @@ Hydra
 Arintra
 SmartHelio
 Campfire
-Demo Gorilla
 Blitzllama
-Yunit Inc
-Sendme, Inc
 Vendy
 Argo
 Lovage
 Tendo
 Convoy
 Lenco
-Dojah Inc
 SubscriptionFlow
-Strong Compute
 Grey
 Finnt
-Elphinstone, Inc.
-Alga Biosciences
 Cera
-Prembly (formerly Identitypass)
 Agency
-Pluto.markets
 PayCrunch
 Tola
 Livedocs
@@ -3635,23 +2742,17 @@ Posh
 Toko
 Enlightra
 Cogram
-Markaz Technologies
-Eazipay Inc.
 Wibond
 Velt
 digiventures
 PayCaddy
-Tuva Health
 Plumter
 Complete
 Airdot
 Anfin
-IMT Care
 SALT
 NearWave
-Stairs Financial
 PermitFlow
-Power to the Brand
 Mintlify
 SkyLink
 IOMETE
@@ -3659,24 +2760,17 @@ Magna
 RecordBook
 Sphere
 BharatX
-Ping.gg
 Gauss
-RedBrick AI
 Flagright
 Axis
 HOKALI
-EXO Freight
-Reforged Labs
 Bakool
 Streak
 Cardda
 Ole
 AeonCharge
-Palitronica Inc
-Castled Data
 Dart
 Soon
-Armilla AI
 SnapTrade
 Bunkyr
 Sophys
@@ -3686,22 +2780,17 @@ Zorba
 91Squarefeet
 Azuki
 LanceDB
-Stock Unlock
 Creizer
 MosaicVoice
 Lightmeter
-Phase Biolabs
 Firezone
 Agentnoon
 Elementary
 Vista
-Rehook.ai
 Oto
-Lexter.ai
 Cerebrium
 Sribuu
 haddock
-Inedit (Brandazine)
 Criya
 Philippo
 Munily
@@ -3710,12 +2799,10 @@ Pyrls
 Unlayer
 Happl
 Fieldproxy
-Sivi (previously Speakify)
 UpBanx
 Emigre
 Whiz
 Valari
-Ankr Health
 ZeusCloud
 Hyperbeam
 Bobidi
@@ -3725,13 +2812,11 @@ Orca
 Miggos
 Ozone
 Strobe
-Corveus Medical
 Alixia
 HypaHub
 Myria
 Vendoo
 Heyfood
-Touch and Pay Technologies Limited
 JumpWire
 Kaso
 CUTR
@@ -3739,8 +2824,6 @@ Koala
 Castia
 Vance
 Rownd
-Onyx Private
-Industrial Next
 Invert
 DynamoFL
 Seabound
@@ -3749,21 +2832,15 @@ Dropezy
 Harmoney
 TeamOut
 Skillza
-Kindly Health
-Gym Class - by IRL Studios
 Fleetzero
 Pursuit
 Yezza
 Nyckel
 NudgeLabs
-Spinach.io
 Blaze
 Sarus
 bipi
-Nest Genomics
-Brown Foods
 Sei
-Perl Street
 Transfez
 Proper
 CoffeeAI
@@ -3772,59 +2849,39 @@ Loops
 VacationHomeRents
 Zywa
 Toolchest
-Shinkei Systems
 Craniometrix
-Engage Bio
-Actipulse Neuroscience
 PromptLoop
 Momento
 Starling
 8vdX
-Rosebud Biosciences
 Wingback
-Samos Insurance
 WeReno
 Peakflo
-Trébol
 Rebill
 Trellus
-Hubble Network
 Flightcontrol
-TazkerAI / Lumina
 PolicyFly
 Selia
 Sieve
 WorldQL
 Railbird
 Kapital
-Syrona Health
 Boardcave
 LifeAt
-TYBR Health
-Scout (formerly Uh-Oh Labs)
 OnScale
 Strac
-Remedial Health
-Agave API
 Redbird
 Alfie
 AstroForge
 GrowthBook
-Compra Rápida
-Mederva Health
 StafBook
-Elevate (formerly Bloom)
 Arc
 Uberduck
-Spot Health
 Apollo
 Northwind
-Attack Capital
 Optery
 Wyvern
 Andi
-Nira Energy
-Serif Health
 TAI
 Joe
 Fuell
@@ -3835,42 +2892,29 @@ Kable
 Suggestr
 Bifrost
 Supertone
-Cherry Recommends
 Pelm
 OpenPipe
 Flex
 Martin
-Healthtech 1
-Feanix Biotechnologies
-Orbio Earth
 CodeStory
 CatX
 Coba
-Taylor AI
-Tempo Labs
 trendup
 autotab
-Flair Health
-Olio Labs
 truemetrics
 Onward
 WalletKit
-Wattson Health
 Constructable
 Lingtual
 Nowadays
 Structured
 Twine
 Axflow
-Simbie Health
 Foundation
 AiSDR
-Giga ML
-Sero AI
 Affinity
 FlowiseAI
 Shadeform
-ten.dev
 Advent
 Cargo
 CheqUPI
@@ -3878,35 +2922,26 @@ Roame
 dili
 Slingshot
 Trayd
-Line.Build
-Cair Health
 ParadeDB
-Eden Care
-Quill AI
 Strada
 Octo
 Smobi
 Tiptap
 RecipeUI
-Fiber AI
 Monitaur
-Certainly Health
 Cedalio
 Happyrobot
 Pure
 Nanograb
 Elythea
 Movley
-Santé
 Langdock
-Inventive AI
 devmark
 Fragment
 Raz
 sudocode
 Sweep
 Silimate
-Andromeda Surgical
 ProdTrace
 Inari
 Roundtable
@@ -3919,33 +2954,26 @@ Baserun
 Automorphic
 Glaze
 Sola
-Vango AI
 Inlet
 Converge
 Flint
 CambioML
-Osium AI
 Slicker
 Khoj
 VaultPay
 Onnix
 gleam
-Kobalt Labs
 Studdy
 Trainy
 MantleBio
 Pincites
 Apoxy
 sizeless
-Quack AI
 Continue
-Letter AI
 Guac
 Casehopper
 Glade
 LifestyleRx
-Empirical Health
-Fortuna Health
 Aglide
 Respaid
 Vizly
@@ -3956,29 +2984,19 @@ Isocode
 Upstream
 RightPage
 Egress
-Surface Labs
 Unhaze
 CandorIQ
 refine
 Sidenote
 Epsilla
-Hidden Hand
-Neum AI
 Cleancard
-Decoda Health
-Wyvern AI
-Cardinal Gray
 Telophase
 Anneal
 Transformity
 Repaint
-Chow Central Inc
 FleetWorks
 Latentspace
-Health Harbor
 Ergomake
-Shasta Health
-Hegel AI
 Outset
 Serra
 Corgea
@@ -3987,18 +3005,13 @@ MICSI
 Martola
 Arcimus
 Docsum
-Obento Health
 Kite
-Bronco AI
 Agentive
-order.link
 Parea
 Campfire
 Alguna
 SID
-Capi Money
 Cerelyze
-Spine AI
 DSensei
 Subsets
 Mira
@@ -4007,56 +3020,34 @@ Revamp
 DataShare
 Airgoods
 Talc
-Solve Intelligence
 askLio
 Craftwork
-Helios Climate Industries
 Fynt
-Every, Inc.
 Contour
 atla
 Humanlike
 Hyperlight
 Cedana
-Cascading AI
-Zelos Cloud
 Pandan
 PropRise
 Pointhound
-Intelliga Voice
-Sohar Health
-Remy Security
 Sweetspot
-Magic Loops
-Ohmic Biosciences
-Stellar Sleep
 Infobot
-Linc.
-Watto AI
-Dioxus Labs
 Hyperbound
 Deasie
 Accend
-Elyos Energy
-Mano AI
 Metoro
 Xeol
 Twenty
 Synaptiq
 Nectar
-Reworkd AI
 Leafpress
-Kino AI
-kapa.ai
 Tremor
 PeerDB
 Artie
 HyLight
 HockeyStack
-Can of Soup
 Cercli
-Pando Bioscience
-Apollo Group
 Vaero
 Yuma
 Pierre
@@ -4070,28 +3061,18 @@ Theya
 Upfront
 Warp
 Second
-Atri Labs
 Vendora
 Lightski
 Type
 Meru
-Persana AI
 Serial
 Kyber
 Escape
-Keeling Labs
-Modulari-T
-Koala Ops
 Metal
-Texel.ai
 Vector
 Pier
 AiFlow
-Finni Health
 Invitris
-Adventris Pharmaceuticals
-highlight.io
-Untether Labs
 Luca
 Edge
 BidSight
@@ -4101,7 +3082,6 @@ Wallbit
 Vellum
 Rex
 Interlock
-Persist AI
 Berry
 Conduit
 Codeparrot
@@ -4112,7 +3092,6 @@ Resend
 Decoherence
 Ally
 Constant
-Common Paper
 Dill
 DealPage
 Littio
@@ -4120,21 +3099,17 @@ Thread
 Waza
 Rivet
 Sorted
-DAGWorks Inc.
 Swishjam
 Invopop
 Turntable
 CorgiAI
-Stralis Aircraft
 Keep
 PlayHT
 Holacasa
 Epsilon
 Clad
 Pylon
-Muffin Data
 Peeba
-Diffuse Bio
 inBuild
 Sanvivo
 clearspace
@@ -4144,7 +3119,6 @@ Mantys
 Proglix
 Coldreach
 MagnaPlay
-Shekel Mobility
 Inri
 Onu
 Sirdab
@@ -4157,13 +3131,9 @@ Arroyo
 Vendah
 Alaan
 Tailorr
-UpTrain AI
 keyval
 Waveline
-Hona (formerly Milestones)
 Radical
-Vitalize Care
-Noya Software
 Infinia
 Koywe
 Psychic
@@ -4171,12 +3141,8 @@ Honeydew
 Sherloq
 SPRX
 Shortbread
-Fluid Markets
-Fairway Health
 Hadrius
 SensorSurf
-Semantic Finance
-Defog.ai
 Gloo
 DailyPe
 FiddleCube
@@ -4184,14 +3150,12 @@ Portalform
 Fintool
 Intrinsic
 222
-OutSail Technologies
 Ariglad
 Berilium
 Homeflow
 Helicone
 Rainmaker
 IcePanel
-Magicflow 𐂂
 Storyboarder
 1stCollab
 Teclada
@@ -4200,15 +3164,12 @@ GoodCourse
 Forfeit
 TableFlow
 Truewind
-Booth AI
 BuildJet
 ShortLoop
-Wild Moose
 EzDubs
 GradientJ
 Inkeep
 Plutis
-Momentum Foods
 Ruuf
 OpenMeter
 Propify
@@ -4223,7 +3184,6 @@ Anarchy
 Bluedot
 Dream3D
 Intently
-Kivo Health
 coil
 Haven
 Suger
@@ -4231,7 +3191,6 @@ Frigade
 0pass
 Polo
 Cloudchipr
-Athina AI
 Chart
 Bujeti
 Index
@@ -4251,7 +3210,6 @@ PoplarML
 LaunchFlow
 FlexWash
 Gluetrail
-JustPaid.io
 OfOne
 Narrative
 Omnistrate
@@ -4261,16 +3219,11 @@ Cakework
 EdgeBit
 Salient
 ZeroDev
-Ruby Card
-Pledge Health
 Mirio
-Glass Health
 Double
 Byterat
-Pair AI
 Mercoa
 Numeral
-Rubber Ducky Labs
 Nango
 Parabolic
 Palomma
@@ -4282,7 +3235,6 @@ Trackstar
 Nebula
 FlexDesk
 Dashdive
-Pyq AI
 Backdrop
 Latent
 Concourse
@@ -4293,14 +3245,10 @@ Pigeon
 Paperplane
 Depot
 Rollstack
-Magic Patterns
-Credal.ai
 Layup
-Doctor Droid
 Syncly
 AvenHQ
 Versori
-Trigger.dev
 rift
 Traceloop
 Matano
@@ -4313,7 +3261,6 @@ Miracle
 Shyp
 Laminate
 Blocksfabrik
-Stack AI
 Middleware
 Infisical
 Avoca
@@ -4321,68 +3268,48 @@ Rubbrband
 Nucleus
 Sameday
 Chima
-Lavo Life Sciences
-AlphaWatch AI
 Unify
-Electric Air
 OpenSight
 Mogara
 Salvy
 Collate
-Artisan AI
 Buster
 Vectorview
-ion design
-Duckie AI
-Onboard AI
 Leya
-Upsolve AI
 AgentHub
 Lantern
 GovernGPT
-K-Scale Labs
-Forge Rewards
 RetailReady
-Hamming AI
 FanCave
 Crux
 Alacrity
 ParcelBio
 NowHouse
-InspectMind AI
-Marr Labs
 Reprompt
 Yarn
 Blacksmith
 Million
 CrowdVolt
-kater.ai
 Quivr
 Dragoneye
 renderlet
 Fume
 Numo
-MathGPT Pro
 Taiki
 Forge
 Pico
 Konstructly
-Granza Bio
 TrueClaim
 CoCrafter
 Healia
 Reform
-Haplotype Labs
 Piramidal
 OddsView
-Eris Biotech
 Senso
 OpenFoundry
-Junction Bioscience
 SiLogy
 GoldenBasis
 Somn
-Magic Hour
 Arcane
 Ryse
 Datacurve
@@ -4393,14 +3320,11 @@ CommodityAI
 Miden
 Fluently
 Basepilot
-Aqua Voice
 Onedoc
 xPay
-Ocular AI
 Corefin
 Rove
 camelQA
-Retell AI
 DeepNight
 Veles
 Spark
@@ -4409,49 +3333,37 @@ Stacksync
 Shepherd
 Hatchet
 Sonauto
-Velorum Therapeutics
-Vista Space
 Titan
-Zep AI
 Openmart
 Triply
-Amber AI
 Alai
 thorntale
 PocketPod
 BiteSight
 Brainbase
 Cleva
-Oma Care
 Givefront
 Artos
 Focal
-Model ML
 BetterBasket
 HeartByte
-just words
 Circleback
 DianaHR
 Risotto
 Yondu
-Centauri AI
 Lumina
 ProSights
-Manifold Freight
 dawn
 edgetrace
 Clarum
-Opencall.ai
 Voicepanel
 OffDeal
 Abel
 Hazel
 Delve
 Skygaze
-Andy AI
 Shiboleth
 Kontractify
-Soundry AI
 Elodin
 HostAI
 Tensorfuse
@@ -4459,11 +3371,8 @@ Toma
 Carma
 Trieve
 Preloop
-Browser Buddy
-Astro Mechanica
 Bilanc
 SevnAI
-CodeAnt AI
 Draftaid
 Superagent
 Ellipsis
@@ -4473,32 +3382,24 @@ SpareChange
 Metofico
 Open
 Wuri
-Pythagora (GPT Pilot)
 Centralize
 Quantic
 Kiosk
 phospho
 Firebender
-Aether Energy
 Resonance
 PandasAI
 InQuery
-sync labs
 Infinity
 Markprompt
 Salvy
 Ragas
-Tamarind Bio
 Swift
 Anaphero
 Intercept
-Decipher AI
-Infinity AI
 Double
 Speck
 OmniAI
-Guide Labs
-Keywords AI
 PromptArmor
 Glimmer
 Celest
@@ -4508,16 +3409,13 @@ Meticulate
 CloudCruise
 Attunement
 OneGrep
-Selera Medical
 Parasale
 Lucite
 atopile
 Tusk
-Blume Benefits
 Airfront
 SynsoryBio
 TokenOwl
-Yoneda Labs
 PartnerHQ
 Hona
 Ecliptor
@@ -4525,47 +3423,31 @@ Greenboard
 Topo
 Trellis
 Eggnog
-Octolane AI
-Artisan AI
 SuretyNow
-Roe AI
 Paradigm
 Arini
 PointOne
 Patchwork
 Assembly
-Starlight Charging
 Leaping
-Carousel Technologies
-Basalt Tech
-Agentic Labs
 MathDash
 DaLMatian
 Aidy
-Pivot Robots
-DGI Apparel
-Mango Health
 Garage
 Buster
-Argon AI, Inc.
-Pretzel AI
 Apriora
-nCompass Technologies
 malibou
 Quary
 Tile
 Hemingway
-Adagy Robotics
 Momentic
 Reducto
 Maia
 Vectorview
 Tracecat
-Nuanced, Inc.
 Precip
 Kabilah
 MAIHEM
-ion design
 Duckie
 Sonia
 Happenstance
@@ -4575,69 +3457,47 @@ Greptile
 ego
 Leya
 Scritch
-RadMate AI
 SSOReady
 Relari
 DryMerge
-Navier AI
 SciPhi
-Upsolve AI
 AgentHub
-Driver AI
 Lantern
 Danswer
 Yenmo
 GovernGPT
-Stitch Technologies
 Flex
 Martin
-Feanix Biotechnologies
-Orbio Earth
 CodeStory
 CatX
-Taylor AI
 Coba
 OpenPipe
 trendup
-Tempo Labs
 Autotab
-Flair Health
-Olio Labs
 truemetrics
 Onward
-Wattson Health
 WalletKit
 innkeeper
 Nowadays
 Structured
 Axflow
 Constructable
-Simbie Health
 AiSDR
-Giga ML
 Foundation
 Affinity
 Shadeform
 Ten
 Twine
 Cargo
-Sero AI
 FlowiseAI
 CheqUPI
 Roame
 Instaclass
 dili
 Trayd
-Kips Health
-Eden Care
 ParadeDB
-Cair Health
-Quill AI
 Strada
 Smobi
-Fiber AI
-OpsBerry AI
-Certainly Health
 RecipeUI
 Tiptap
 Cedalio
@@ -4647,14 +3507,12 @@ Nanograb
 Elythea
 Pure
 Movley
-Santé
 Langdock
 Fragment
 Raz
 sudocode
 Sweep
 Silimate
-Andromeda Surgical
 ProdTrace
 Roundtable
 Chatter
@@ -4662,7 +3520,6 @@ Inari
 Trench
 Envelope
 devmark
-Inventive AI
 VectorShift
 Baserun
 Glaze
@@ -4674,10 +3531,8 @@ Converge
 Flint
 CambioML
 Slicker
-Osium AI
 Khoj
 Crew
-Kobalt Labs
 gleam
 Trainy
 Studdy
@@ -4685,16 +3540,12 @@ Pincites
 Apoxy
 VaultPay
 Continue
-Quack AI
 sizeless
-Letter AI
 MantleBio
 Casehopper
 Glade
 Guac
 LifestyleRx
-Empirical Health
-Fortuna Health
 Aglide
 Respaid
 Vizly
@@ -4704,27 +3555,19 @@ MediSearch
 Metalware
 Upstream
 Egress
-Maven Bio
-Surface Labs
 Unhaze
 CandorIQ
 refine
-Decoda Health
 VetRec
 Cleancard
 Skyvern
 Epsilla
-Cardinal Gray
 Anneal
 Transformity
 Repaint
-Chow Central Inc
 FleetWorks
 Telophase
-Health Harbor
 Briefer
-Hegel AI
-Shasta Health
 Outset
 Menza
 Serra
@@ -4732,19 +3575,15 @@ Terminal
 Corgea
 MICSI
 CraftOS
-Obento Health
 Docsum
 Arcimus
 Kite
-Bronco AI
 Parea
 Agentive
 SID
 Campfire
 venta
 Alguna
-Capi Money
-Spine AI
 Cerelyze
 Empower
 Tegon
@@ -4753,10 +3592,7 @@ DataShare
 Revamp
 Synch
 Airgoods
-Solve Intelligence
-Fynt AI
 askLio
-Electric Air (Previously Helios Climate)
 Talc
 Every
 Craftwork
@@ -4766,52 +3602,32 @@ Lifelike
 Cedana
 Atla
 Pandan
-Cascading AI
 Pointhound
-Intelliga Voice
 PropRise
 Diligent
-Sohar Health
 Remy
 Sweetspot
-Zelos Cloud
-Magic Loops
-Ohmic Biosciences
 Infobot
-Stellar Sleep
-Linc.
-Watto AI
-Dioxus Labs
 Hyperbound
 Accend
-Mano AI
 Deasie
-Elyos Energy
 Metoro
 Xeol
 Synaptiq
 Nectar
 Twenty
-Kino AI
 Leafpress
-Branch AI
 Reworkd
-kapa.ai
 Tremor
 PeerDB
 Artie
 HyLight
-Can of Soup
 HockeyStack
-Line.Build
 Cercli
-Vango AI
 Sidenote
-Pando Bioscience
 Metal
 Vaero
 Pierre
-Yuma AI
 Automat
 SpecCheck
 SpeedyBrand
@@ -4822,37 +3638,26 @@ Warp
 Kopia
 Lightski
 Second
-Atri Labs
 Vendora
 Finta
 moonrepo
 Meru
 Type
-Persana AI
 Kyber
 Serial
 Escape
-Modulari-T
-Keeling Labs
-Koala Ops
 Metal
-Texel.ai
 Vector
 Pier
 AiFlow
-Finni Health
-Untether Labs
 Luca
 Benchmark
 Invitris
 Fabius
-Adventris Pharmaceuticals
-highlight.io
 Vocode
 Wallbit
 Vellum
 Rex
-Persist AI
 Berry
 Edge
 Conduit
@@ -4863,7 +3668,6 @@ Ally
 Decohere
 Codeparrot
 Constant
-Common Paper
 Resend
 Dill
 Littio
@@ -4872,30 +3676,23 @@ Rivet
 Thread
 Sorted
 Waza
-DAGWorks Inc.
 Swishjam
 Invopop
 Turntable
-Corgi Labs
-Stralis Aircraft
 Keep
 Play
 Holacasa
 Epsilon
 Pylon
 Clad
-Muffin Data
 Peeba
 inBuild
 Sanvivo
-Diffuse Bio
 clearspace
-Univerbal (formerly Quazel)
 Mantys
 Milio
 Proglix
 MagnaPlay
-Shekel Mobility
 Coldreach
 Loula
 iNRI
@@ -4908,15 +3705,10 @@ Fastgen
 Alaan
 Vendah
 Echo
-UpTrain AI
 Hona
 keyval
-nunu.ai
-Vitalize Care
 Infinia
 Radical
-Noya Software
-Hippo Scribe
 Koywe
 Honeydew
 Dealwise
@@ -4926,11 +3718,9 @@ Shortbread
 SPRX
 Hadrius
 Technician
-Sage AI
 Boundary
 Fiber
 DailyPe
-Defog.ai
 FiddleCube
 Fintool
 Intrinsic
@@ -4941,23 +3731,19 @@ Berilium
 Helicone
 Rainmaker
 IcePanel
-Magicflow 𐂂
 Storyboarder
 Orchid
 GoodCourse
 Forfeit
 Teclada
 TableFlow
-Booth AI
 BuildJet
 ShortLoop
 Truewind
-Wild Moose
 EzDubs
 GradientJ
 Inkeep
 Plutis
-Choppy!
 Ruuf
 Squack
 Iliad
@@ -4967,20 +3753,16 @@ Floworks
 Extend
 Finex
 Dream3D
-Anarchy Labs
 Outerbase
 Bluedot
 Intently
 Langfuse
-Kivo Health
-coil inc.
 Haven
 0pass
 Suger
 Frigade
 Polo
 Cloudchipr
-Athina AI
 Chart
 Bujeti
 Index
@@ -4997,7 +3779,6 @@ CreatorML
 Coperniq
 LaunchFlow
 Gluetrail
-JustPaid.io
 OfOne
 Zenfetch
 Omnistrate
@@ -5009,17 +3790,11 @@ Narrative
 Tennr
 EdgeBit
 Salient
-Ruby Card
 ZeroDev
 Versive
-Pledge Health
-Double – Coding Copilot
-Glass Health
-Pair AI
 Byterat
 Mercoa
 Numeral
-Rubber Ducky Labs
 Nango
 Parabolic
 CodeComplete
@@ -5031,7 +3806,6 @@ Nebula
 Trackstar
 FlexDesk
 Dashdive
-Pyq AI
 Backdrop
 Concourse
 Lume
@@ -5041,15 +3815,11 @@ SelectIQ
 Paperplane
 Pigeon
 Depot
-Magic Patterns
-Credal.ai
 Layup
 Rollstack
 Syncly
 Struct
-Doctor Droid
 Versori
-Trigger.dev
 Traceloop
 rift
 Matano
@@ -5062,47 +3832,33 @@ Laminate
 Finvest
 Blocksfabrik
 Middleware
-Stack AI
 Infisical
 Nucleus
 Rubbrband
 Avoca
 Chima
 Sameday
-Lavo Life Sciences
-AlphaWatch AI
 Unify
-Fairway Health
 Interlock
 Defer
-OutSail Technologies
 Overflux
 OpenSight
 Blyss
 Mogara
 Terrace
-Morf Health
-Polymath Robotics
 Ping
 Materee
-Dev Tools AI
-Guardian Bio
-Pivo Technology Inc
-Integrated Reasoning
-Coverage Cat
 Cone
 Intuned
 AccessOwl
 Axle
 Aldara
 Cambio
-InVision Medical Technology
 Landeed
 CAPSULE
 Kamion
 Shelf
 Kashin
-Delfino AI
 Velontra
 Vizzly
 REVER
@@ -5112,9 +3868,7 @@ Taro
 Knowtex
 MovingLake
 Slingshot
-Pump.co
 Uwi
-Monterey AI
 Jamble
 Lancey
 ReleviumBio
@@ -5123,13 +3877,9 @@ Entvin
 Wondercraft
 autone
 Oneleet
-Krave Mart
 Almond
-Drahim 💰
-Jasmine Energy
 Sonnet
 Levers
-Caddie AI
 Momentu
 UpLink
 Drip
@@ -5138,7 +3888,6 @@ FoodCourt
 Sunpia
 Delight
 Invofox
-Mesh Analytics
 Hero
 KemNet
 PrimeVault
@@ -5146,15 +3895,11 @@ HOMLI
 Patika
 Findly
 Relate
-Trendex - Own the stars
-Relay Health
 Lamin
 AiPrise
 nsave
 CompUp
 Roforco
-Wand Solar
-Blacktop Hoops by Vinci Games
 Unthread
 Plutto
 Payfura
@@ -5165,7 +3910,6 @@ Kombo
 Accountable
 Argovox
 Oneloop
-Umbria (by Artemis Labs)
 Fini
 Metriport
 iollo
@@ -5173,12 +3917,10 @@ Chowdeck
 Garage
 Aurelian
 FlyCode
-Maya Labs
 Pluralith
 Payable
 Diversion
 Cambio
-Mintplex Labs
 Hedgehog
 Bitstack
 Peoplebox
@@ -5189,37 +3931,24 @@ Sytex
 Thera
 Provision
 Coris
-Airhart Aeronautics
 Unlogged
 Tangia
 Pulppo
 Ajourney
-Slidely AI
 NewsCatcher
 BiggerPicture
 Apprecio
-Flair Labs
 HelperAI
 Typewise
 Metafi
-Aragorn AI
-Payload CMS
 Hype
-Malama Health
-Ten Lives
 Phind
-Maverick BioMetals
-Apply Design
-Illuminant Surgical
 Juicebox
 Rio
-Tank Payments
 Popsy
-Gullak Money
 CapixAI
 Activepieces
 Windmill
-Seaflight Technologies
 Cashboard
 CodeCrafters
 Raven
@@ -5227,7 +3956,6 @@ Evoly
 Bridgecard
 Overwatch
 Blee
-ALT TEX
 Disclo
 Tranch
 Voltic
@@ -5236,19 +3964,12 @@ IvyCheck
 Lyra
 Delegasi
 Novig
-Signatur Biosciences
 NuMind
 Ballerine
 EthosX
 Boostly
 Craze
-Integration Labs
-BlueHill Payments
 Fetii
-Pilot AI
-Array Labs
-Dr. Treat
-Serinus Biosciences
 trebu
 BricksAI
 Paigo
@@ -5264,27 +3985,20 @@ Sail
 Pasito
 TrueBiz
 erad
-Bunting Labs
 Devyce
 Dittofeed
 Cadence
 Chariot
 Tailor
 Stackup
-Superpowered AI
-Two Dots
 Bend
-Sigma AI
 Truva
 Alma
-Penguin AI
-Birch Biosciences
 Dialect
 Ciro
 Julius
 Mercator
 Elessar
-Airtrain AI
 SolStar
 Denormalized
 Stream
@@ -5294,12 +4008,9 @@ Banabo
 Wolfia
 Instant
 Layerup
-Cisterna Biologics
-Albiware Inc.
 Clinikally
 Poly
 Chordio
-Eugit Therapeutics
 Paces
 TigerEye
 Pana
@@ -5307,93 +4018,60 @@ Keylika
 SilkChart
 Lotus
 Manatee
-Emerge Career
-Slauth.io
-Ordinary Seafood
-Notebook Labs
 Stellar
 ilumadata
 Weltio
 BBy
 SimpleHash
-WhiteLab Genomics
 Medplum
-Zoltar Labs
 TradeX
 Mono
-Reality Defender
 Lizza
 NFTScoring
 Massdriver
 CrediBook
-Fresh Factory
 Remi
 Seis
 Jutsoo
-Onboard.io
 AiSupervision
 Eventual
-Phoenix Hydrogen
 Finnix
-Karate Labs
 HippoBuild
-Pantore Pay
 GAVEL
-beU delivery
 Cofactr
 Revoy
 EasyCode
 KorrAI
 Alima
-Beyond Aero
-Pina Earth
-Origami Therapeutics, Inc.
 GovDash
 AirMyne
 Cinapse
-Mooji Meats
 Poko
 Glocally
 GoSats
-Impossible Metals
-Dealls – Jobs & Mentoring
 Trusty
 Circular
-Powerhouse AI
 Cashmere
-Query Vary
-Olympian Motors
 Netmaker
 Pigeon
-The Ankler
 GIMO
 Heptabase
 Darsel
 Verdn
-Reviving Mind
 Koko
 Sync
 Avocademy
-Plover Parametrics
-Mahaana Wealth
-Fortuna Genomics
-Anja Health
 Finku
 Codec
-Marathon Education
 Humand
-Glow Energy
 WANTD
 RTHM
-Unravel Carbon
 Workflow86
 Arpari
 yhangry
-Rally UXR
 Fleek
 GoJom
 Ploomber
-Float Health
 Verse
 Sendo
 Rider
@@ -5401,43 +4079,30 @@ amiloz
 Clupp
 QUIK
 Shaped
-ngrow.ai
 Vobi
 Unsaddl
-SOTERI SKIN
 WishRoll
 Decent
 Spade
 Jamsocket
 Fogbender
-Yatima Inc.
 PropelAuth
 SNAB
-Amal Invest
 Topship
 Quan
 Attain
 Convore
 Nophin
 UNISON
-Better Opinions
-IoTFlows Inc
 Trueplace
-Venue.live
-Cypher Wallet
-Joon Health
 Bracket
 AvairSense
 PINA
-re-mint
 Brainboard
 Numida
 Ponyrun
-Torpedo Therapeutics
-Andson Biotech
 Theneo
 HoyTrabajas
-mutable.ai
 Telematica
 Bemlo
 Fello
@@ -5447,23 +4112,17 @@ Duplo
 SaveIN
 Kula
 DimOrder
-Material Depot
-Courtyard.io
 Vimmerse
-Carbon Crusher
 Nash
 Cinder
 Partna
 Nullstone
 AntWalk
 Legistify
-Simplifyd Systems
 Airwork
 Moni
 Durioo
 BotCity
-Take App
-Cash Flow Portal
 Arintra
 Trackingplan
 SmartHelio
@@ -5471,25 +4130,18 @@ Hydra
 Campfire
 goodfin
 Blitzllama
-Demo Gorilla
 Benson
 Vendy
-Sendme, Inc
 Argo
 Lovage
 Tendo
 Convoy
 Lenco
-Dojah Inc
 SubscriptionFlow
-Strong Compute
 Grey
 Finnt
-Elphinstone, Inc.
-Alga Biosciences
 Cera
 Agency
-Pluto.markets
 PayCrunch
 Livedocs
 Tola
@@ -5499,7 +4151,6 @@ Boya
 FinFlx
 Curacel
 LunaJoy
-Prembly (formerly Identitypass)
 SpadeWorks
 Sero
 Posh
@@ -5507,13 +4158,10 @@ Botin
 Toko
 voize
 Cogram
-Markaz Technologies
 Enlightra
-Eazipay Inc.
 Wibond
 Velt
 PayCaddy
-Tuva Health
 Plumter
 Cotera
 Complete
@@ -5521,11 +4169,8 @@ Siftly
 Anfin
 digiventures
 SALT
-Stairs Financial
 NearWave
-IMT Care
 Mintlify
-Power to the Brand
 PermitFlow
 IOMETE
 RecordBook
@@ -5533,24 +4178,17 @@ SkyLink
 Magna
 Gauss
 BharatX
-RedBrick AI
 Axis
 Sphere
 Bakool
-Reforged Labs
 Cardda
 HOKALI
-EXO Freight
 Ole
 AeonCharge
 Flagright
-Palitronica Inc
-Castled.io
 Soon
 Dart
-Armilla AI
 SnapTrade
-Ping.gg
 Bunkyr
 Streak
 Sophys
@@ -5559,21 +4197,16 @@ Beam
 LanceDB
 Azuki
 Creizer
-Stock Unlock
 MosaicVoice
 Lightmeter
-Phase Biolabs
 Elementary
 Agentnoon
-Rehook.ai
 Vista
 Oto
 haddock
 Cerebrium
 Firezone
 Fintelite
-Inedit (Brandazine)
-Lexter.ai
 Criya
 Philippo
 Pyrls
@@ -5587,7 +4220,6 @@ UpBanx
 Emigre
 Valari
 Whiz
-Ankr Health
 Hyperbeam
 Bobidi
 Dioptra
@@ -5595,8 +4227,6 @@ Atlas
 Miggos
 Alixia
 Strobe
-Corveus Medical
-Iron Leap
 Orca
 Myria
 Heyfood
@@ -5604,35 +4234,26 @@ Vendoo
 Ozone
 HypaHub
 Kaso
-Touch and Pay Technologies Limited
 JumpWire
 Castia
 CUTR
 Koala
 Vance
-Industrial Next
-Onyx Private
 Invert
 Seabound
 Dropezy
 Harmoney
 TeamOut
-Gym Class - by IRL Studios
 Rownd
 Pursuit
 Fleetzero
 Yezza
 Nyckel
 Lifted
-Spinach.io
 HomeRoom
 Sarus
 Blaze
-Dynamo AI
-Brown Foods
 Sei
-Nest Genomics
-Perl Street
 Transfez
 CoffeeAI
 Stably
@@ -5641,23 +4262,16 @@ Wagetap
 Loops
 VacationHomeRents
 FlowDeploy
-Shinkei Systems
 Zywa
 Craniometrix
-Engage Bio
-Actipulse Neuroscience
 PromptLoop
 Momento
 Starling
 Wingback
 8vdx
-Rosebud Biosciences
-Samos Insurance
 WeReno
-Trébol
 Rebill
 Flightcontrol
-Hubble Network
 Lumina
 Trellus
 PolicyFly
@@ -5666,36 +4280,24 @@ Peakflo
 WorldQL
 Sieve
 Railbird
-Kapital Bank
-Syrona Health
 Boardcave
-TYBR Health
-Remedial Health
 Agave
 Redbird
 LifeAt
-Scout (formerly Uh-Oh Labs)
 Alfie
 OnScale
 AstroForge
 GrowthBook
 Strac
-Mederva Health
-Compra Rápida
 StafBook
-Elevate (formerly Bloom)
 Arc
-Spot Health
-SNR Audio
 Uberduck
 Apollo
 Wyvern
 Andi
 Optery
-Nira Energy
 Instalab
 TAI
-Serif Health
 Winter
 Joe
 Nara
@@ -5714,52 +4316,35 @@ Skillza
 Supertone
 Drivingforce
 Pelm
-Cherry Recommends
 Careerist
 Northwind
 JABU
-Revolve Surgical
-Mecho Autotech
 Beau
 Toku
-Liv Labs
-Sully.ai
-Safer Management
 Exa
 Chipax
 Amenli
-Pide Directo
-Equipt Health
 Nash
 Lightly
 Ahazou
 Payflow
-Charge Robotics
 Titipku
-HEO Robotics
 Synder
 Stepful
-Turion Space
 Datlo
-Café
 FirstIgnite
 Aviator
 VedaBio
-Stack Wealth
 GamerPay
 Sitenna
 Evidence
 Pactima
-Luminate Medical
-Medium Biosciences
 Adra
 BlackOakTV
 Spoken
 Birdie
 Bytebot
-SFA Therapeutics
 Mindmesh
-Squire.ai (fka EchoLayer)
 Opkit
 Crew
 Therify
@@ -5768,13 +4353,10 @@ Hirebolt
 Plai
 Atlas
 CellChorus
-Output Biosciences
 ContraForce
 Abatable
 Storylane
 StrideQ
-Sensible Biotechnologies
-Byte Kitchen
 Orderli
 Suplias
 Abhi
@@ -5782,34 +4364,25 @@ Pandai
 Verde
 Coinfeeds
 idemeum
-Ruth Health
 Shape
 Baubap
 Novatr
-Kapacity.io
 Malga
 Stownest
-Tuli Health
 Nasdisc
-Kiwi Biosciences
 Filadd
 Luable
-Caire Health
 bloop
 Pylon
 Dime
 Telivy
 Infer
 Zuma
-Humane Genomics
 PAYZE
-Female Invest
 Ferveret
 Filta
 Siglo
 Waterplan
-Hudson Labs (formerly Bedrock AI)
-Buoyant Aero
 Aer
 Greenwork
 Nomod
@@ -5822,8 +4395,6 @@ Pillar
 Tenyks
 Chari
 Noloco
-Revery AI
-Dots 💸
 Mach9
 RMFG
 Examedi
@@ -5831,51 +4402,36 @@ Ancana
 Litnerd
 Onfolk
 Bolster
-Floatpays Inc
 HitPay
 Coast
-TransAstra Corporation
 Float
-The Breakaway
 Matrubials
-Akute Health
-outloud.ai
 Writesonic
 Sirka
 Mentum
 Meticulous
 Warrant
-Spark Studio
 Endla
 Marble
 Cumbuca
 HeyCharge
 Heimdal
-Evidently AI
 Whaly
 Payhippo
-Portão 3
 Zensors
-Harmonic Discovery
-Makani Science
 Flowly
 lapzo
 Fizz
-Astek Diagnostics
 Freterium
-Protex AI
 Inflow
 Digistain
 Vinco
 Aleph
 Kodda
-Aleph Solutions
-Zoios.
 Encuadrado
 Kurios
 Forage
 Wharf
-KaiPod Learning
 Shimmer
 CoLoop
 OneSchema
@@ -5886,9 +4442,6 @@ ShipBlu
 Malloc
 Formance
 Mergent
-Infiuss Health
-Momo Medical
-Yemaachi Biotechnology
 Cartpanda
 Scispot
 Intellect
@@ -5903,11 +4456,9 @@ Cloudthread
 Arrow
 MindFi
 WarpBuild
-Matidor.com
 inai
 OneStopKitchen
 fluke
-Scratch Data
 Cero
 DigiBuild
 SigmaOS
@@ -5918,7 +4469,6 @@ Monet
 Ivella
 testRigor
 Enso
-Planet A Foods
 Glitzi
 Enerjazz
 Covie
@@ -5927,7 +4477,6 @@ Govly
 Pluggy
 Okani
 Pideaky
-Breadcrumbs.io
 Warpfy
 Monto
 Bree
@@ -5945,9 +4494,7 @@ Kaya
 Jovian
 Secoda
 Locale
-Iona Mind
 Kodex
-Pirouette Medical
 HyperTrader
 Verihubs
 SalaryBox
@@ -5959,13 +4506,10 @@ Awesomic
 Kindamagical
 Brite
 SafeBeat
-Ivy Homes
-Konta.com
 Zen
 Patterns
 Tavus
 Forage
-Lariat Data
 DailyBot
 Tablevibe
 Hypercore
@@ -5976,30 +4520,20 @@ Lago
 SnapCalorie
 StudyStream
 Anakin
-Bite Ninja
 REPROSENT
-ShopMyGPT.com
 Epinoma
 Sleek
-Strive Math
-V-Flow Medical
 Cabal
 Keeper
 MobileBoost
 AppX
 Neodocs
 Vansec
-Advantage Club
-Nino Foods
-Echoes HQ
 Swipe
-Parallel Bio
 BLUUMBIO
-Rivia.AI
 Zazos
 AlgoUniversity
 Atmana
-Zeit Medical
 Confido
 BoldVoice
 ODWEN
@@ -6009,27 +4543,19 @@ SalaryBook
 PropReturns
 Mailmodo
 Akudo
-Coulomb AI
 Koshex
 RenderNet
-Kalam Labs
 Flowbo
 Levro
 SolarMente
-Catena Biosciences
-Ananya Health
 FrontPage
-Karbon Card
 Goodkind
 DolarApp
 FirstQuadrant
-Fingo Africa
 Replo
 Potion
 Jestor
 Rootly
-Flow Club
-Concord Materials
 Baraka
 Jupe
 Archbee
@@ -6040,40 +4566,29 @@ TAG
 Stipop
 Customily
 Deskimo
-Mindstate Design Labs
-Hive Health
 Yummy
 Pipekit
 Superwall
-Odys Aviation
-Legion Health
 hotglue
 Artillery
-AOA Dx
 marketfeed
 Contalink
 Positional
-Agapé
 Hedgehog
-Reframe (Glucobit)
 Blixo
-Inversion Space
 Mentorcam
 Epsilon3
 Slope
-Promakhos Therapeutics
 Openlayer
 Palla
 PaletteHQ
 Cococart
-Talus Bio
 MarqVision
 Slash
 Elto
 Mable
 Arengu
 Satsuma
-Verano Health
 Sproutfi
 MadEats
 Hyper
@@ -6086,19 +4601,13 @@ Protego
 Talentdrop
 Canopi
 Membo
-Moving Parts
 Hera
 Algofi
 Levo
-Milky Way AI
 Apollo
-Comet Health
 Mixr
-Ruta Health
-SenpAI.GG
 Perfekto
 FastFarma
-Micro Meat
 Commery
 Nexus
 Abbot
@@ -6109,28 +4618,22 @@ Wabi
 Hyperseed
 Zage
 Zepto
-Nano Technologies
 Kiwify
 Flux
 eqtble
 Blushh
-Meru.com
 Kanda
 Ollama
-Chorus Sleep
 NextPay
 Camlist
 Alltruists
 MagicBell
 Tackle
-Reshape Biotech
 Terra
 PipeBio
 Shepherd
 SwiftSku
 Kilobaser
-My NextDerma
-H3X Technologies
 Bloom
 Clear
 Arpio
@@ -6138,15 +4641,10 @@ Mayan
 Triomics
 Waydev
 Authologic
-Nuntius Therapeutics
 MindPortal
 MeetAnyway
-Forcyte Biotechnologies
-Avion School
-hoop.dev
 Moonvalley
 Routine
-Turing College
 HUBUC
 Wasp
 Djamo
@@ -6181,11 +4679,8 @@ Svix
 Foster
 Machine26
 FlowEQ
-Rejoy Health
-Leap Club
 Alpas
 GreaseBoss
-Moonshot Brands
 Dataherald
 Kidato
 Infracost
@@ -6195,49 +4690,34 @@ Chatwoot
 Pagaloop
 FlutterFlow
 Ziina
-Vue Storefront
 Lunatic
 Houm
 Zealth
 Mono
-Eat Blueprint
-Morada Uno
 HomeBreeze
 Mendel
 Ontop
 Soraban
 Haystack
-Lamar Health
 Stayflexi
 Manara
-Venu AI
-Compose.ai
 Biodock
 Camp
 Betterhalf
-Feroot Security
-Moxion Power Co.
 Roger
-Redcliffe Lifetech
 FitHub
 Seer
 Rulebricks
 Phoenix
 BotBuilt
-Launcher Labs
-Sturdy Finance
 ZOKO
 Tint
-Reclaim Protocol, Questbook
 Striga
 Corrily
 Simplify
 Unschool
 Tilt
-Juicy Marbles
 InpharmD
-Stoke Space
-Milk Video
 clicOH
 Platypus
 TRACTIAN
@@ -6251,52 +4731,37 @@ QuickNode
 Flextock
 QuotaBook
 SST
-Topline Pro
 Homebase
 Noble
 Darrow
 LogisticsOS
-Veera Health
 LightTwist
 Sendbox
-Text Blaze
 Coderhouse
 Trela
 Datrics
 Enode
-Great Question
 Hudu
 Auricle
 Aurabeat
 Remora
-Finary.com
 LiveFlow
 zingbus
 GimBooks
 Greywing
 Measured
 R2
-FirstSupport.ai
-Purpose Finance
 QuickVid
 BrioHR
 Fathom
-Hermes Robotics
 Popl
 Rinsed
-Care Weather
 Logica
 Procoto
-weweb.io
-Pangea.app
 Kredi
 Anima
-Udhaar App
 Topkey
-Quadrant Health
-Dashlabs.ai
 Kodo
-Orbillion Bio
 Mindee
 Fintoc
 Vapi
@@ -6305,38 +4770,23 @@ Alinea
 Lendflow
 Nirva
 Parsagon
-Aviron Interactive
 Juniper
-Promoted.ai
 FifthTry
-Emerge Tools
 June
-Version Story
 Gridware
-FunctionUp (FanPlay)
-Firstbase.io
 Faction
-Javelin Robotics
-Per Diem
-Expent Inc
 Huddlefire
 Terapify
 Noya
-Axle Health
 Cyble
 HyperGlue
-Gradia Health
 Sivo
 Prequel
 Avenue
-Valink Therapeutics
 CashBook
-Segments.ai
 Fractional
-Axiom.ai
 Encord
 Laudspeaker
-Pragmatic Leaders (Ankai Inc)
 Smartcuts
 Pesto
 Avocado
@@ -6344,18 +4794,13 @@ Tupelo
 Weekday
 Fountain9
 Clay
-Spruce Systems
-Flux Auto
 Wyndly
 JoinSub
 Curvenote
 Triplit
 Bluelight
-Gerald Technologies, Inc
 Queenly
-Lion Pose
 Moichor
-Pibit.ai
 Nourish
 ModernLoop
 GroMo
@@ -6367,28 +4812,18 @@ SigNoz
 Waypoint
 Spokn
 Taloflow
-MedMe Health
 PowerRouter
-Quadrant Eye
 Lygg
-Howdy.com
 Snazzy
 Albedo
-Alba Orbital
 Humaans
 Gaiia
-Atomic Industries
 DreamWorld
-The Third Place
-Trestle Biotherapeutics
 Bristle
 Atrato
-cloud humans
 authzed
 Lovd
-Serna Bio
 Webiny
-Degrees of Freedom
 Abacum
 Uiflow
 Journey
@@ -6397,29 +4832,23 @@ Preki
 Runway
 Pyroscope
 Worksphere
-Enable Us
 TechBiz
 Partnered
 Trendpop
 Verak
 OctiFi
-Pry Financials
-Bueno Finance
 PingPong
 Furmacy
 Stacksi
 Flok
-boitas.com
 ClipDrop
 Outfit
 Mezli
-Roin Technologies
 Dressd
 Prendea
 Galaxy
 Codeball
 Fable
-Entelexo Biotherapeutics
 Mythia
 Aerotime
 Taste
@@ -6429,55 +4858,37 @@ Invoid
 Lalabox
 Bimaplan
 YourQuote
-Charge Running
 noHQ
 Finary
-BeWell Digital
-GoBuild (fka Brick)
 CoVerified
 Krab
 Observa
 SlashAuth
 Unfurl
-Gigs Live
-SBX Robotics
 Playmaker
 Neverland
 Gonddo
 Brevy
-Pardes Biosciences
 Matter
 CapWay
-Gilgamesh Pharmaceuticals
 Toolbox
 Atmos
 Rarebird
-SiPhox Health
 Verifiable
-Future Fields
-Todos Comemos
 Flat
 Quell
 Hubla
-Heron Data
-Parrot Software 🦜
 Zuddl
 Fieldguide
 Finch
 Inspectify
-Mozart Data
 Rally
-Warmly,
 Glimpse
 Byte
-inSoma Bio
-Vena Vitals
 Lendtable
-MedPiper Technologies, Inc
 Here
 SafeBase
 Spenmo
-AI.Fashion
 Afriex
 Mito
 Ready
@@ -6490,7 +4901,6 @@ Formal
 Akiflow
 Awtomic
 Taktile
-Orange Health Labs
 Laylo
 PANADATA
 Minimum
@@ -6502,33 +4912,24 @@ TyltGO
 Nephrogen
 Liyfe
 Skio
-Kingdom Supercultures
 Tella
 Arketa
 Memberstack
 Mailwarm
-Aquarium Learning
-Jam.gg (formerly Piepacker)
 Notabene
 Decentro
 Mozper
 Tydo
 Flint
 BIK
-Hyper Online
 WareIQ
 Balance
-Vitable Health
 Streamdal
 Justo
-Nabla Bio
-Statiq.
 Hellometer
 Tappity
 buildspace
 Stacker
-Nextera Robotics
-Daybreak Health
 Yotta
 Mesh
 Biocogniv
@@ -6536,7 +4937,6 @@ MarketForce
 Opvia
 Atomic
 Osmind
-webapp.io
 Blissway
 doola
 Cradle
@@ -6544,16 +4944,12 @@ Arist
 TANGObuilder
 Humanloop
 CoreCare
-Farmako Healthcare
-Kernal Biologics
 BukuWarung
 Dialect
-Swif.ai
 Speedscale
 Bits
 Charityvest
 Duckly
-Hypotenuse AI
 Pave
 Novel
 PowerUs
@@ -6563,7 +4959,6 @@ VenoStent
 Explorex
 Queue
 Safepay
-Conta Simples
 Shuttle
 AtoB
 Dripos
@@ -6571,7 +4966,6 @@ Momence
 QuestDB
 Lightdash
 Datafold
-Blue Onion Labs
 Depict
 inFeedo
 Jeeves
@@ -6583,10 +4977,8 @@ SuperTokens
 Jitsu
 Ukama
 Luminai
-Zitara Technologies, Inc.
 Altro
 Photoroom
-twoplus fertility
 Thndr
 adyn
 Recurrency
@@ -6595,14 +4987,12 @@ Response
 Ladder
 Salesform
 Roboflow
-Unfaze.ai
 Hellosaurus
 Reflect
 Nestybox
 Clover
 Porter
 Riogrande
-Together Video Chat
 Fancy
 Cohere
 Sameplan
@@ -6610,21 +5000,16 @@ Drapr
 Plerk
 Vectrix
 Workbase
-Current Foods
 Finmark
-Strive School
 Omni
-Known Medicine
 Gather
 Fig
-Bandit ML
 Jemi
 Sonar
 KeyDB
 Clew
 Artifact
 Parade
-LSK Technologies
 Nextstore
 MilkRun
 Letter
@@ -6636,55 +5021,41 @@ Oico
 Foreword
 Monosi
 Atomized
-Jeevam Health
 Nototo
 RTCanary
 Bento
 Rume
 Metamanagement
 Lume
-In Stock
 ClearMix
 Reploy
 Hypermile
 Overfit
-Trident Bioscience
 Racer
 Openbase
 Whatnot
-Ochre Bio
-Jet Admin
-Ansa Biotechnologies
 Jenfi
 Yassir
 Legionfarm
-Menten AI
 Belvo
-Equator Therapeutics
 Dapi
-Gas Pos
 Humanly
 Prelay
 WorkPay
 Airbyte
 PowerX
-Tambua Health
 SEND
-Living Carbon
 99minutos
 Atmo
 borong
 GiveAway
 Sakneen
-Recall.ai
 Healthlane
 Stable
 GuruHotel
-Nomic Bio
 Ramani
 Handl
 Zynq
-STARK BANK
 Termii
 Linkana
 Fondeadora
@@ -6692,7 +5063,6 @@ Tajir
 Moons
 Bamboo
 Hent
-Swipe - (Float, Accounteer)
 SOMATIC
 Daedalus
 ElectroNeek
@@ -6701,10 +5071,8 @@ Oda
 Nexu
 BeGo
 Isabl
-Breathe Well-being
 OpenBiome
 Pahamify
-Angle Health
 HireSweet
 Easyplan
 Spenny
@@ -6713,7 +5081,6 @@ EduRev
 Raycast
 Hiration
 TagMango
-Zeo Route Planner
 PillarPlus
 UrbanKisaan
 Flasho
@@ -6722,7 +5089,6 @@ Able
 Kosh
 DeepSource
 Upflow
-Morphle Labs
 farmtheory
 PostEra
 Skypher
@@ -6735,12 +5101,8 @@ Modernbanc
 Riot
 ToDesktop
 Nimbus
-Fella Health
 Dropbase
-Candid Health
-Mini Exhibitions
 Quill
-Alloy Automation
 Vori
 BuildBuddy
 Release
@@ -6748,21 +5110,12 @@ Cortex
 QueryPie
 Welcome
 Ello
-Turing Labs Inc.
-Plura (formerly Bloom Community)
-Tienda Crypto
-Logarithm Labs
 Metaplane
 Typedream
 Duffl
-Altay Therapeutics
-Fair Square
-Operator Labs
 Signadot
 TrueNorth
-Fly.io
 Grain
-StartPlaying.Games
 Benepass
 Infield
 Eze
@@ -6776,17 +5129,11 @@ Replicate
 Terrasoft
 Datasaur
 Acho
-Exosonic, Inc.
-Deep Meditate
 Nextmv
-Perceptive Technologies
 Ditto
-Tough Commerce (FKA Brokrete)
-Ardis AI
 OpenUnit
 Taiv
 Letterdrop
-Factored Quality
 Explo
 Ophelia
 MindsDB
@@ -6801,27 +5148,18 @@ Paragon
 Accord
 Kaiten
 Polytomic
-Abalone Bio
 NUMI
 Motion
 Facio
 ZeFi
-Karat Financial
 DocVita
-Chaos Genius
-Loop Health
 HelpNow
 Checkars
-Genecis Bio
 Sayana
-delt.ai
 CrowdForce
 Milo
 yBANQ
-Pay Swifter
-Dropprint Genomics
 Savvy
-Talyn Air
 Cron
 Terusama
 Glimpse
@@ -6842,30 +5180,21 @@ Orchata
 LabGrid
 Viya
 Syncro
-Synapsica Healthcare
 SprintAI
 Thunderpod
 goDutch
 Snapboard
-Zumo Labs
-Simple Strips
 onetool
-Global Belly
 Multiverse
 Pashi
 Scout
 Blok
 Zaam
-Riya Collective
 Homestead
-Felix Biotechnology
-Visual One
-The Mercer Club
 Clayboard
 Jamiphy
 Protobase
 Cadence
-Glisten AI
 Pantheon
 Orbiter
 Quickcard
@@ -6879,12 +5208,9 @@ Datree
 Odeko
 Lokal
 Elpha
-Sequence Bio
 Odin
 Breadfast
 Apurata
-Vendr.com
-EPIC AEROSPACE
 GitStart
 LAIKA
 Blockstamp
@@ -6892,12 +5218,9 @@ Vorticity
 Taskade
 Index
 Gather
-Asher Bio
 Deepnote
 Aspect
-Coco Pago
 Flowbot
-treble.ai
 Vitau
 Curri
 Mudafy
@@ -6907,104 +5230,68 @@ Freshpaint
 zeroheight
 InEvent
 Heru
-Tranqui Finanzas
 Trella
 Recidiviz
 Flux
-Eden Farm
-stoic.
 PredictLeads
-Holy Grail
 Gotrade
 Spice
-Demand Curve
 Hightouch
 FamPay
-Ramen VR
-Digi-Prex
 Vahan
-Proof Trading
 Lokal
 Gaiascope
 Binks
-EARTH AI
 LineLeap
 CoLab
 Microverse
-spotLESS Materials
 Wasmer
-Arpeggio Bio
 DirectShifts
-Rosebud AI
 Rutter
 Hatchways
 Adla
-Million Marker
-Kern Systems
-Flo Recruit
 Rainbow
 Downtobid
-Brave Care
 Outtalent
 Banner
 Canix
 KubeSail
 OpenReplay
 Fynn
-Zeta Surgical
 Kitekraft
 UpEquity
-Green Canopy NODE
-Yummy Future
 Embrace
 LunaSec
-Mindset Health
 Localyze
 Prolific
 Soteris
 Obie
 Narrator
-Lucid Bots
-Ever Loved
-Intersect Labs
 Muddy
 Lumineye
-Pair Team
 AudioFocus
-Hype and Vice
 Zeal
 Jupiter
-TRM Labs
-Juno College of Technology
-Short Story
-Well Principled
-Mighty Health
 Kraftful
-Shift Health
 violet
 Legacy
 Gamebytes
 BuildStream
-Method Financial
-Heroic Story
 Courier
 Lofty
 Shiru
 matagora
 Pillar
 Dex
-Apero Health
 Prenda
 Vouch
 Playground
-Together Software
 Dover
 Zippi
 Swadesh
 Superorder
 MyPetrolPump
 Wingman
-Data Mechanics
 Compound
 Beacons
 Bouncer
@@ -7014,20 +5301,16 @@ Wren
 Actiondesk
 Sable
 Palifer
-Voyage Biomedical
 PopSQL
 Cuboh
 Unflow
 Bayes
 Covela
 Valiu
-Mipos.dev
 Alana
 Multis
-Namaste Business
 Khabri
 Tensil
-Boost Biomes
 Flow
 Zergo
 Blair
@@ -7037,19 +5320,13 @@ Tandem
 Revel
 Lantern
 Dashblock
-Encepheal Therapeutics
 Prompt
 Preclusio
 ReverCare
-Souffle Club
 MoFE
-Safely Finance
-Hey Healthcare
 Path
 Vizy
 Hutsy
-Fit to Form
-Pippin  Rent the Backyard
 Deel
 Nowports
 JuziBot
@@ -7057,145 +5334,93 @@ Searchlight
 Schoolable
 Shef
 Shipper
-Eclipse Foods
-Modoo Technology
-Buy Me a Coffee
-Taali Inc
 Memfault
-NaturAll Club
-YourChoice Therapeutics
 Atlas
 Numero
-rct AI
 Prometheus
 Withfriends
 Truora
 Cosmic
 FIRST
-Career Karma
 VertoFX
 Latchel
 Globe
 Inito
-Mars Auto
 Rune
 Dockup
 Cuanto
 VotingWorks
-Pulse Active Stations Network
 Glide
 Cityfurnish
 Pronto
-Frubana Inc
 Lezzoo
-Emi Labs
 Bentocart
-Spring in Africa
 CredPal
 MyScoot
 Kovi
 Edyst
 Keynua
 AccioJob
-Shiok Meats
 NALA
 Mudrex
-Skill-lync
 Capture
 AmpUp
-Endpoint Health
 XGenomes
-Maple Materials (fka Saratoga Energy)
 Alpaca
-Our World in Data
 Upsolve
 Dagger
-Traverse Technologies
-Heart Aerospace
 Reelables
-Volta Labs, Inc.
-Boundary Layer Technologies
-JetPack Aviation
-Aura Vision
 Wanderlog
-Instapath Inc.
 Fuse
-Superb AI
 Ravn
-PNOĒ
-Gordian Software
 Caribou
 Doppler
 Pyxai
-qwest.
 Landed
-Intact Therapeutics
 Excepgen
-Handle.com
 Mobot
 Termius
-Bunkerhill Health
 Supernova
-Probably Genetic
 Bensen
 Okteto
 Ashby
 Switchboard
 ResistanceBio
-Atomic Alchemy
 Demodesk
-AI Insurance
 Avo
 Nabis
 WeatherCheck
 Forage
 Basilica
-Sapling.ai
-Thrive Agric
-TAILORNOVA COUTURME
 GoLinks
 Middesk
 Windwalk
-LEAH Labs
 
 MedCrypt
 BrainKey
 Hatch
-FLOWER CO.
-Nebullam (DBA Clayton Farms)
 Convex
 Ascen
 Postscript
 SciTok
-Dyneti Technologies
-Sorting Robotics
 Convictional
 Sunsama
 Ultralight
-Spire Law
 Bottomless
-Centaur Labs
 Kopa
 Kalshi
 Pachama
 Keeper
-The Juggernaut
 Positive
-AllSome Fulfillment
 Geosite
 Intelline
 ZeroDown
 Taobotics
-Trexo Robotics
-Canopy (was Encarte)
 Overview
 Balto
-Accept.inc (formerly BoardRE)
 Catch
-Allure Systems
 Parker
 AXDRAFT
-Seawise Capital
 Doorport
 Askdata
 Elph
@@ -7209,14 +5434,11 @@ InterPrime
 Cocoon
 Insight
 ZeroStorefront
-Spiral Genetics
 Docbot
-Union Apartment
 Windsor
 Mage
 Basement
 Datamode
-Sublime Black
 Fuzzbuzz
 Hypnos
 DailyDoctor
@@ -7227,100 +5449,59 @@ BlitzIQ
 Docucharm
 54Gene
 PerShop
-Tailor-ED
-Adventurous Co
-Maitian.ai
 Simmer
-Evo.Do
-Portal Entryways
 Chaser
 Herald
-Green Energy Exchange
 Comradery
 SpaceRyde
 Pengram
 DevFlight
 Vectordash
-Volk Wireless
 Allo
-Brick Health
 Honeylove
 Momentus
 Kunduz
 Aesthetic
 Kinside
 OkCredit
-Gerostate Alpha
 Culdesac
 Circumvent
-Dorian therapeutics
-Rejuvenation Technologies Inc.
 iLabService
 LemonBox
 Enveritas
 SPATE
 Oxygen
 AnnieCannons
-Synkrino Biotherapeutics
 Mutiny
 Cowrywise
-Leena AI
-Helicarrier (prev Buycoins)
 Kobo360
 Khatabook
-Four Growers
 BrainHi
 SkydropX
 Eden
 Nestor
-Shelf Engine
 ZiffyHomes
-Bot MD
-Names & Faces
 Fintual
 Calii
 
 MentalHappy
 Papa
-Molecular Reality
 Prodigal
 Tenderd
-Alpha Vantage
 BlueCargo
 Mytos
-CB Therapeutics
 HappiLabs
-Rain Neuromorphics
-Pine Park Health
-DreamCraft Entertainment, Inc.
 UBITS
 Ajaib
 Regology
-Purple Plate
-Impactive (formerly Outvote)
-Quickchat AI
-Corvus Robotics
 Easol
-Tall Poppy
 Ixora
-Pocket Worlds
-Embeddables (formerly Savvy)
-64x Bio
 Duffel
 Vimcal
-Anima App
 Paladin
-Clear Gene
 Hepatx
-Radix Labs
-Meru Health
-The Good Food Institute
-Rebellyous Foods
 AskMyClass
 OpenPhone
-College Pulse
-Apprentice Health
-Data Driven Bioscience
 OpenWrench
 Titan
 Activeloop
@@ -7330,54 +5511,37 @@ RevenueCat
 Federacy
 Satchel
 Dinesafe
-Verse Medical
-numericcal, inc.
-Modern Treasury
 Klarity
 Curebase
 OWNY
 Nova
 Grin
 HeyDoctor
-Coral Genomics
 CSPA
 Berbix
 OneGraph
 hypcloud
 Optic
-Demeanor.co
 Lowkey
-Allotrope Medical
 Goodly
 Phiar
 dNovo
 FameGame
-Scanwell Health
 BHRD
 Avo
 
-Grabb-It
-Spero Foods
-Perception Biosystems
-Medinas Health
 INKHUNTER
 ShopWith
-Mylk Guys
 Inokyo
 Contrast
 Xkit
 FREY
-Passenger AI
 ExceptionALLY
-User Hero
-Warpdrive by Synthetic Minds
-Penta Medical
 Groww
 Newfront
 Snackpass
 Replit
 Swayable
-FidoCure®
 Aerones
 Veriff
 Super
@@ -7385,20 +5549,13 @@ Helloverify
 CaptivateIQ
 ErudiFi
 Runa
-Vena Medical
 Anjuna
-Mind Emulation Foundation
 Tarjimly
 Callisto
-Observe.AI
-Culture Biosciences
 ZBiotics
-AlgoSurg Inc
 ArchForm
 OpenSea
-Memora Health
 YouTeam
-Orangewood Labs
 SafetyWing
 Aspire
 Pelago
@@ -7406,71 +5563,44 @@ Volley
 Delphia
 Gainful
 OSIMple
-Players' Lounge
-Cognition IP
 Mojo
 Substack
 Psylaris
-Treasury Prime
 Universe
 Juni
-Let's Do This
 Supermedium
-Podcast App
 Tributi
 Plexus
-Correlia Biosystems
 Sourcify
-Evry Health
 EnvKey
 Meitre
 tEQuitable
 Draftbit
-LUS Brands
 Vanta
-Dear Brightly
 Nuvocargo
 AesculaTech
-Persephone Biosciences
-Reverie Labs
-Modern Health
 Promise
 Nectome
-Tradewind BioScience
 BioRender
-Biobot Analytics
 NEXGENT
-Sepsis Scout
 Macromoltek
-Mighty Buildings
-Avro Life Science
 Simetrik
 SRTX
-Key Values
 CoinTracker
 Slite
 Worklytics
-Glowing.io
-Sixfold Bioscience
 Fondo
 Observant
 Copilot
-Jasper.ai
 Ovipost
 Shogun
-Blueberry Pediatrics
 Spellbrush
 Quantstamp
 Torch
 Beanstalk
 Precious
 Sketchbox
-Proven Group
-Lucy Goods, Inc
-Look After My Bills
 Swipehouse
-Jido Maps
-Qulture.Rocks
 Medumo
 Zyper
 Dataform
@@ -7484,16 +5614,13 @@ Squad
 NewCraft
 CodeStream
 onederful
-Bear Flag Robotics
 Mayhem
 Pulse
-Lambda Tea
 Hexel
 Flinto
 ClearBrain
 Ben
 Secured
-Iambiq Technologies
 Atrium
 Vathys
 Station
@@ -7501,59 +5628,44 @@ Nutrigene
 Voicery
 Storyline
 Shone
-Point API
 Pagedraw
 Meson
 miru
 Aalo
 Tingles
-Curious Fictions
 Haiku
 Viaopt
 OurMenu
 Openland
 Skip
 Necto
-Closer Sports
 Rhythmm
 Tipe
-Candidate.ly
 FollowUpThen
 Thematic
-California Dreamin
-Flock Safety
-Cashfree Payments
-Forever Labs
-Just Appraised
 Goodcover
 Gem
 AssemblyAI
 Zendar
 Officely
-May Mobility
 Routable
 Muzz
-Imbue (formerly Generally Intelligent)
 OneLocal
 Tesseract
-D-ID
 Oncobox
 Skyscrape
 Flowspace
 Airthium
 tpaga
-Rev Genomics
 Pyka
 Entocycle
 HelpWear
 Piggy
 Spect
-Pop Meals
 Advano
 Truepill
 Upfort
 Koko
-Carrot Fertility
 Prelim
 Rabbet
 CocuSocial
@@ -7562,50 +5674,34 @@ Nimble
 Darmiyan
 Roofr
 Pathrise
-Standard AI
-Helium Health
 UpCodes
 Fam
-Ribbon Health
-Relationship Hero
 ThereCraft
 Releaf
-Leon & George
-Bloom Institute of Technology
 Aecore
 AutoHub
-Nobell Foods
-Long Term Stock Exchange
 VergeSense
 Skyways
 FAZZ
 Jerry
 PullRequest
-Dharma Labs
-disclosures.io
-VIDA & Co.
 BillionToOne
 Headstart
 Lyrebird
 Opearlo
 Templarbit
-Modern Fertility
 bxblue
 Eduflow
 LotusPay
 Surematics
 Guilded
-Percept.AI
 Honeydue
 Indivio
 Meetingbird
 Plasticity
 Wildfire
 Solve
-Escher Reality
 Enzyme
-Fat Llama
-Mystery.org
 Feather
 CarDash
 Audm
@@ -7613,55 +5709,34 @@ Py
 Elucd
 WheelStreet
 NextDrop
-Social Construct
 Bumpline
-Cambridge Cancer Genomics
 Polly
-Commissary Club (formerly 70 Million Jobs)
 Gamelynx
 Guggy
 Fastpad
 WATERFX
-And Comfort
 Sunu
-PreDxion Bio
-Modular Science
 Goosebump
 RideAlong
 Slik
 Covetly
-Caelum Health
 Mystro
 Semantix
 Greo
-Value Voting
 Sixty
 Storyboard
 Gameday
 Dropleaf
-Passerine Aircraft
 Sunfolding
 Brex
 Faire
-Prism Labs
-Sigma Genetics
-Clipboard Health
 ACLU
 Humi
-Helix Nanotechnologies
 Retool
-Mirror AI
-Dost Education
-Lively, Inc.
-The Centre for Effective Altruism
-Indee Labs
 UpKeep
 OneFin
-BIOS Health
 NanoNets
-Wifi Dabba, Inc.
 Nomba
-Smart Alto
 AON3D
 Rippling
 Apozy
@@ -7669,38 +5744,23 @@ BuyPower
 Delee
 Hogaru
 Plane
-Reliance Health
 Solugen
-Bulk MRO Industrial Supply
 Bitrise
 Inboxbooster
 AlemHealth
 Collectly
-Request Network
 Tolemi
 Aella
-Wright Electric
 Mednet
-Token Transit
 Snappr
-Veryfi, Inc.
-Ambient.ai
 RankScience
-The Essential
-Sandbox Banking
 Beek
-Millibatt, Inc.
 Upcall
 REZI
 Extern
-Ledger Investing
-MDalgorithms Inc.
 BloomAPI
-Sleep Reset
-Loop Support
 Bountiful
 Soomgo
-Sinovia Technologies
 Tizeti
 Speak
 ScopeAI
@@ -7714,58 +5774,42 @@ Breaker
 Bulletin
 Tetra
 WaystoCap
-Supr Daily
 Armory
 Penny
 Hivy
 Wavy
 Fiix
-Scaphold.io
 Volansi
 Shipamax
 lvl5
 Arthena
-Clear Genetics
-No Lean Season
 Anasen
 SourceBeacon
 Niles
 Scribe
-Voodoo Manufacturing
-Bicycle AI
 Marketfox
 Neema
 Arylla
-Rally Tennis
 Firsthand
-Volt Health
 Entry
 InnaMed
 VanGo
 Origin
-Sudden Coffee
 Tress
 FloydHub
 Fibo
 Cartcam
 Sycamore
 Pulse
-Pit.AI
-Zinc Platform
 boxouse
 Pearl
 Cowlar
 Trade
 Riley
-The Rumie Initiative
-Next Tech
-Sense Education
-Swing Education
 KickUp
 Allcancode
 ProjectPro
 Tickle
-Mosa Mack Science
 ReadWorks
 Trinket
 Educents
@@ -7776,8 +5820,6 @@ Peekapak
 DeansList
 TeachMe
 Classkick
-Class Central
-Sown To Grow
 Edpuzzle
 Kaymbu
 Showbie
@@ -7802,10 +5844,7 @@ Goalbook
 SchoolMint
 TapToLearn
 LearnSprout
-Answer.ky
-Freckle Education
 Sesame
-Alieo Games
 Edusight
 MathChat
 BrightLoop
@@ -7815,7 +5854,6 @@ Picolab
 Cellabus
 ClassDojo
 ClassroomIQ
-NetClick Inc.
 Tioki
 VideoNotes
 GigaBryte
@@ -7828,57 +5866,38 @@ DSK
 Socrative
 InstaGrok
 LearningJar
-Class Connect
 MommaZoo
 BrainNook
-Eleven Learning
 TutorCloud
 Bird
 Meesho
-Elemeno Health
 Expo
 Jumpcut
-Quero Education
 ApolloShield
 Suiteness
-OMG Digital
-People.ai
-Scale AI
-Ready Education
 Circa
-Yoshi Mobility
 Flutterwave
 SmartPath
 Curtsy
 Validere
 Airfordable
-Squire Technologies
 Athelas
 Bulldozair
 Miso
 GoGoGrandparent
 HiOperator
 Legalist
-New Incentives
-Kenota (formerly ExVivo Labs)
 Burrow
 garten
-Multiply Labs
-Women Who Code
 
-Nova Credit
 Synvivia
 Livement
 RocketLit
-Rose Rocket
-Vote.org
 Instrumentl
 Upgraded
-Raptor Maps
 CareRev
 WorkRamp
 Joy
-Prime Lightworks
 Vetcove
 NuCypher
 Proxy
@@ -7887,7 +5906,6 @@ RunKit
 Polymail
 CrowdAI
 Saleswhale
-The Athletic
 Innov8
 NeoWize
 Symple
@@ -7896,33 +5914,20 @@ Pursuit
 Fabric
 Opsolutely
 Techmate
-Iris Automation
 SimpleCitizen
 LocoAI
-Seneca Systems
 SkyLights
-UtilityScore (formerly Pando)
 Reebeez
-Abundance Labs
 Ubiq
 Emote
 Lendsnap
-GTRACK Technologies
 Xberts
-Starsky Robotics
 ScanateFellow
-Airo Health
 Drivezy
 Seerslab
-Sage Care
-Robby Technologies
 Coub
-Mosaix.ai
-Shield Bio
 Looklive
 Haywheel
-Clip Health
-Sway Finance
 Metapacket
 CoinTent
 Hush
@@ -7939,23 +5944,18 @@ Podium
 Mio
 Daily
 Truebill
-Embark Trucks
-Focal Systems
 Rappi
 Petcube
 Outschool
 MagicBus
 Mason
 Chatfuel
-iSono Health
 GetAccept
 Tovala
 Yardbook
-Stealth Worker
 Deepgram
 SOUNDBOKS
 Mux
-AmberBox Gunshot Detection
 Qvin
 Lattice
 Perlara
@@ -7968,9 +5968,6 @@ Bonsai
 Protonet
 Sendbird
 Wakie
-Relativity Space
-Sanitation and Health Rights in India (SHRI)
-Quilt Data
 FightCamp
 NetBeez
 Carbic
@@ -7978,28 +5975,20 @@ HistoWiz
 mRelief
 Lynks
 GoLorry
-Gecko Robotics
 Thunkable
-Salt Security
-Apollo.io
 Pave
 Instabug
-Function of Beauty
 Superside
 Castle
 Opentrons
 MailTime
 Revl
-Bus.com
 PocketSuite
 Netomi
-Meter Feeder
-Inevitable Tech
 Gigwell
 Copia
 Chillabit
 Deako
-Kip Health
 GitPrime
 flexEngage
 Hingeto
@@ -8015,14 +6004,9 @@ Goodybag
 Paystack
 Pulpix
 MineralSoft
-Luminist Labs
 LendEDU
-Able Health
-Loop Genomics
 Algoriz
-VINEBOX (Usual Beverage Co.)
 AlphaFlow
-Magic Instruments
 PhysioHealth
 Compgun
 Modal
@@ -8030,26 +6014,17 @@ StrongIntro
 Streamup
 Unnyhog
 Index
-UroDev Medical
 Silver
 Pathmind
-Kisan Network
-Real Artists
-Georgette Packaging
 Envyl
 Cover
-Anchor Health
 Poppy
 Restocks
 Elucify
 TRAC
 ConstructVR
-Interstate Analytics
 Monthli
-Patchwork Security
-Open Motors
 Enflux
-Start Closing
 Unima
 InnoVein
 Castle
@@ -8057,20 +6032,10 @@ DoseDr
 Toymail
 UpLabs
 WorldCover
-Human Interest
-Flirtey (SkyDrop)
-Cofactor Genomics
-Eight Sleep
-Click & Grow
 Bitmovin
 Instawork
 HER
-The Ticket Fairy
-Font Awesome
-80,000 Hours
 Xendit
-Shred Video
-Shape (ShapeScale)
 TetraScience
 RedCarpetUp
 Scentbird
@@ -8080,40 +6045,26 @@ PickTrace
 MicroHealth
 Zeplin
 Markhor
-Drip Capital
 Chaldal
-Thrive Agritech
 Tesorio
 GiveCampus
 Bodyport
-Verge Genomics
-Reach Labs
-Circle Medical
-Confident LIMS
 Branch8
-Heroic Labs
 SnapMagic
 PartnerStack
-Scope AR
 Assembly
-New Story
 Gemnote
 Ironclad
 Teleport
 SunFarmer
 Lugg
-Leaders In Tech (formerly InnerSpace)
 teaBOT
-Tenant Turner
 PlateJoy
 Nebia
 Mimir
 Gigster
-Blitz Esports
 Xfers
-Auro Robotics
 Paribus
-Sphere Secure Workspace
 Oolu
 Cloudstitch
 Appcanary
@@ -8122,8 +6073,6 @@ zPREDICTA
 Bluecrew
 Willing
 Eden
-L.
-Second Measure
 Convox
 Foxpass
 SourceDNA
@@ -8135,61 +6084,45 @@ StyleBee
 Halolife
 Vive
 Saida
-Wheelys Café
-Traversal Networks
-Seva Coffee
 OpenInvest
 Maderight
-Prayas Analytics
 Klarismo
 Ohm
 Locent
 Leada
 jEugene
 Bistrobot
-Stitch Health
 Afrostream
 Fetch
 Shotput
 CareLedger
 Call9
-Apollo Health
 Vernox
 Hickory
 Airmada
 Serica
-ROSS Intelligence
-Reduced Energy Microsystems
 GitLab
-Lucira Health
 EquipmentShare
 Roomblocker
-Notable Labs
 Razorpay
 GrubMarket
 Mashgin
-Spire Health
 Shasqi
 NimbleRx
 Replika
-Tara AI
 Flip
-X-Zell
 Transcriptic
 Zenflow
 Tab
 Priime
 Pigeonly
 Meadow
-Level Frames
-Industrial Microbes
 Giveffect
 eBrandvalue
 Quantierra
 Cleanly
 Makrwatch
 TeamNote
-Sails Co.
 Resolve
 Tempo
 ReadMe
@@ -8200,25 +6133,18 @@ Labdoor
 GiveMeTap
 Bankjoy
 Zeitview
-The Human Utility
-Democracy Earth
 Atomwise
 Magic
 Bright
 Mezmo
-Akido Labs
 DemocracyOS
 Qventus
 Chariot
 Lumi
-Raven Tech
 Vanhawks
-Valor Water Analytics
 SigOpt
 Seed
 Outbound
-Popular Pays
-Pretty Instant
 WayUp
 Bonfire
 Vest
@@ -8228,10 +6154,8 @@ Remix
 YesGraph
 Mobydish
 Smarking
-Shift Labs
 Paperspace
 Pachyderm
-Open Listings
 HigherMe
 CyberFend
 Bluesmart
@@ -8243,25 +6167,15 @@ Final
 Pomello
 ThinAir
 Nomiku
-Automate Ads
 Lully
-Bagaveev Corporation
-Wink Health
 VetPronto
-Standard Cyborg
 Spoil
-Rescue Forensics
 Dabble
-Tech in Asia
 Glassjar
 Nextop
 Dealyze
 Cinder
-Shift Messenger
-ReSchedule Med
 Omniref
-Rare Door
-Underground Cellar
 Kickpay
 Pakible
 GroupAhead
@@ -8271,14 +6185,9 @@ Cribspot
 20n
 Booktrope
 3dot
-Direct Match
-Rigetti Computing
 Oklo
-Bayes Impact
-Ginkgo Bioworks
 ShipBob
 Checkr
-Helion Energy
 Hive
 Tenjin
 Roomstorm
@@ -8291,8 +6200,6 @@ PicnicHealth
 MTailor
 MetricWire
 Alchemy
-Protocol Labs
-Hiro Systems
 Greentoe
 Flaviar
 Clear
@@ -8300,30 +6207,20 @@ Billforward
 Hyperpad
 Backpack
 Aptible
-Unwind Me
 Ravti
-Women.com
 Tule
-Sliced Investing
-One Codex
-Product Hunt
 Cognito
 Payable
-Apto Payments
 Replenish
 ListRunner
-Lawn Love
 Kash
 Hublo
 Blockspring
 Impraise
 GovPredict
-Craft Coffee
 PersistIQ
-Clara Labs
 Bitaccess
 Carlypso
-Zip Phone
 Parenthoods
 Beep
 Zoomer
@@ -8332,23 +6229,18 @@ Weave
 Zenamins
 Whirl
 Tinker
-Think Gaming
 Paid
 HauteDay
 SalesSift
 Shout
 Roost
 Cheddar
-In Your Corner
 Nightingale
-Neptune.io
 Naytev
 VizeraLabs
-TAXA Biotechnologies
 Flytenow
 Fixed
 Doblet
-Owners Circle
 Bikanta
 SpringWit
 Bannerman
@@ -8357,7 +6249,6 @@ Bellabeat
 Algolia
 OpenCurriculum
 Dyspatch
-Immunity Project
 MixerBox
 Unbabel
 GBatteries
@@ -8370,7 +6261,6 @@ Pushbullet
 Shoobs
 Povio
 PiinPoint
-One Degree
 MBX
 Theorem
 Emailio
@@ -8382,29 +6272,23 @@ CodeCombat
 AptDeco
 Cambly
 CareMessage
-Noora Health
 Ambition
 AirHelp
-Framed Data
 Avametric
 Gobble
 42
 Zesty
-Wit.ai
 Vidpresso
 SketchDeck
 Rickshaw
 PipelineDB
 Rocketrip
-Next Caller
 StackLead
 Liftigniter
-Kimono Labs
 Motionlead
 Eventjoy
 Cruise
 Chargehound
-Two Tap
 Whirlscape
 Abacus
 Boostable
@@ -8416,50 +6300,37 @@ Shopagram
 Edyn
 HoverChat
 MerryMint
-Move Loot
-Drive Pulse
 Yumbin
-Dating Ring
 Threadable
-Style Lend
 MadeSolid
 Futureleague
 Awesometalk
-True Link
 Reebee
 Lob
-Panorama Education
 Webflow
-One Month
 Cratejoy
-Estimote, Inc.
 7cups
 Asseta
-Echo Locker
 DoorDash
 EasyPost
 Weilos
 Datarank
 StatusPage
 Lumoid
-Bop.fm
 Arcus
 RealCrowd
 Senic
 Casetext
-Layer By Layer
 SpoonRocket
 CoreOS
 BloomThat
 SimpleLegal
 Apptimize
-Standard Treasury
 URX
 Hackermeter
 Ixiplay
 WebCake
 SoundFocus
-Butter Systems
 Audobox
 Watchsend
 Amulyte
@@ -8467,10 +6338,8 @@ Kivo
 LocalOn
 Meta
 Hum
-Graft Concepts
 Floobits
 GoComm
-Le Tote
 Buttercoin
 Crowdery
 Glio
@@ -8517,7 +6386,6 @@ Swapbox
 BeatDeck
 Trainzen
 Medisas
-Prophecy Sciences
 FlightCar
 Appcubator
 StyleUp
@@ -8529,7 +6397,6 @@ PayTango
 9gag
 Zapier
 Svbtle
-Double Robotics
 Plivo
 Flightfox
 Vastrm
@@ -8540,15 +6407,12 @@ SmartAsset
 OctaveWealth
 Eligible
 FundersClub
-Human Dx
-Mth Sense
 HealthSherpa
 Upwave
 Rainforest
 Zentail
 Mattermost
 VoiceGem
-Study Edge
 Natero
 Virool
 Mattermark
@@ -8560,30 +6424,23 @@ Clever
 Soylent
 Streem
 OmniVirt
-Fullstack Academy
 Kamcord
 Statwing
 Pixate
 Boosted
 Knowmia
-Light TableEve
 ZeroMailer
 Thread
 Scoutzie
-Parallel Universe
 Celery
-Assorted Bits
 Viacycle
-Everyday.me
 MicroEval
 Credictive
 GoScale
 Tastemaker
-Coco Controller
 Profig
 GetGoing
 Partnered
-Keychain Logistics
 RegistryLove
 Dreamforge
 ReelSurfer
@@ -8593,7 +6450,6 @@ Kippt
 Hipset
 Hiptype
 Sparkboard
-Crohnology (by Healthy Labs)
 Markupwand
 Grid
 DataNitro
@@ -8602,7 +6458,6 @@ Framebase
 Testmunk
 Arc
 LeanMarket
-Canopy Labs
 Imgfave
 TomoGuides
 Amplitude
@@ -8610,7 +6465,6 @@ Matterport
 Wave
 Medmonk
 Gusto
-Per Vices
 CircuitHub
 Screenleap
 Shoptiques
@@ -8622,7 +6476,6 @@ Ridecell
 PlanGrid
 Shopular
 Sendwave
-The Muse
 Socialcam
 iCracked
 42Floors
@@ -8651,24 +6504,18 @@ Carsabi
 Glider
 SolidStage
 Ark
-Documents.Me
 BarSense
 Brace
 99dresses
 Grouper
 LendUp
 Zillabyte
-LVL 6.00
-Talkray (TiKL)
 Pixelapse
-Make School
 BookSolid
 Zipio
 Marft
 Minefold
 OptillyInstallmonetizer
-Jellyfish Art
-Tap to Learn
 Couple
 Hipmob
 GoCardless
@@ -8676,7 +6523,6 @@ Clerky
 AgileMD
 Quartzy
 Streak
-Science Exchange
 OneSignal
 Apollo
 HackerRank
@@ -8687,7 +6533,6 @@ LeadGenius
 MixRank
 Sift
 Firebase
-Citus Data
 Pagelever
 Segment
 Codecademy
@@ -8698,18 +6543,15 @@ Stypi
 Clutch
 Freshplum
 Automatic
-Perfect Audience
 Parse
 TapEngage
 Realm
 Compose
-Launchpad Toys
 Verbling
 Caviar
 Embark
 GlassMap
 Debteye
-Hungry Labs
 Fobo
 Zenbox
 PhoneSys
@@ -8731,12 +6573,9 @@ Vapor
 Interstate
 Everyme
 MarketBrief
-GOAT Group
 Storyworth
 Zerocater
 Close
-Mino Games
-You Got Listings
 Tremendous
 Instapainting
 Acunote
@@ -8751,7 +6590,6 @@ OrderAhead
 Mailgun
 Fivestars
 Pebble
-Humble Bundle
 Comprehend
 Custora
 HelloSign
@@ -8767,7 +6605,6 @@ Tutorspree
 TrustEgg
 Flotype
 Convore
-Insight Data Science
 Hyperink
 AppHarbor
 FitFu
@@ -8783,7 +6620,6 @@ WorkFlowy
 Docker
 AnyList
 DemandSphere
-Recurse Center
 AdGrok
 Whereoscope
 Tapzilla
@@ -8802,13 +6638,10 @@ Hipmunk
 Koduco
 Pribbit
 MessageParty
-Post.fm
 Opzi
-Ready For Zero
 Gantto
 Upbeat
 Brushes
-Habit Labs
 Chirply
 Teevox
 OwnLocal
@@ -8818,20 +6651,16 @@ Etacts
 Cardpool
 Cue
 Zencoder
-Creative Market
 Nowmov
 Embedly
 Bitplay
 Crocodoc
 500Friends
-All Screen
 Notifo
-Mixed Media Labs
 Mertado
 Infoharmoni
 Newcope
 Newslabs
-Data Marketplace
 Fithub
 Gamador
 Answerly
@@ -8843,7 +6672,6 @@ Stripe
 Mixpanel
 Olark
 Listia
-Directed Edge
 Flightcaster
 GraffitiGeo
 Lockitron
@@ -8876,24 +6704,19 @@ PetaSales
 Voxli
 Nambii
 Picurio
-Spaces Life
 Foodoro
 Recurious
 Skysheet
 JustSpotted
 BackType
-Poll Everywhere
 Cloudant
 Posterous
 Treehouse
 PlayReader
-People & Pages
 Snipd
 Popcuts
 Slinkset
-Ticket Stumbler
 Claimspotting
-Team Apart
 CO2Stats
 Precognate
 Youlicit
@@ -8905,17 +6728,12 @@ Ninite
 Omnisio
 RescueTime
 Heroku
-Job Alchemist
-280 North
-Machine Zone
-A Thinking Ape
 BitSample
 Joberator
 Insoshi
 Snaptalent
 YumDots
 Deluux
-Kirkland North
 Tipjoy
 Mixwit
 FathomDB
@@ -8924,13 +6742,11 @@ Wundrbar
 Trigger
 MightyQuiz
 Dropbox
-Blue Frog Gaming
 Clickpass
 ZumoDrive
 Disqus
 Eivod
 Appjet
-Anywhere.FM
 Songkick
 Biographicon
 Fuzzwich
@@ -8938,7 +6754,6 @@ Meetyu
 Reble
 SocialPicks
 Splashup
-Hello Chair
 iJiggTop440
 Bountii
 Buxfer
@@ -8965,7 +6780,6 @@ Zanbazaar
 Shoutfit
 Jamglue
 Wufoo
-Project Wedding
 Talkito
 Clustrix
 Inkling
@@ -8982,22 +6796,17 @@ Loopt
 Simmery
 Audiobeta
 
-linkedin_url
 kscale
 forgerewards
 retailreadyai
-hamming-ai
 fancave
 getcruxai
 parcelbio
 nowhouseio
-inspectmind-ai
 marrlabs
-yarn-so
 blacksmithrun
 
 crowdvolt
-kater-ai
 getquivr
 
 renderlet
@@ -9010,32 +6819,22 @@ forgehq
 konstructly
 trytrueclaim
 cocrafter
-healia-health
 reformhq
-haplotype-labs
 piramidalaiabout
 
-eris-biotechabout
-senso.ai
 openfoundry
 
 goldenbasis
 76534709
 magichour
 arcaneai
-ryse-market
 datacurveai
-lumona-ai
 
 powderfinance
 commodityai
-tyrus-technologies
-fluently-ai
 basepilot
 
 onedoclabs
-xpay-checkout
-use-ocular
 getcorefin
 rovecard
 camelqa
@@ -9043,24 +6842,17 @@ camelqa
 
 velesinc
 sparkhqai
-terrakotta-aiabout
 stacksyncdata
 
-hatchet-run
 sonautoai
 velorumtx
-vista-space
-titan-systems-inc
 
 openmartai
 tripitaca
-amber-ai
 getalai
 thorntale
 pocketpod
-bitesight-food-deliveryabout
 usebrainbase
-cleva-banking
 givehq
 focalml
 
@@ -9072,76 +6864,50 @@ tryrisotto
 yonduai
 luminaaiinc
 prosightsdata
-manifold-freight
 
 edgetrace
-clarum-ai
-opencall-ai
 voicepanel
 offdeal
 tryabel
-hazel-ai
 getdelve
 skygaze
-with-andy
 shibolethabout
 kontractifyhq
-soundry-ai
-elodin-systems-inc
-host-ai
 tensorfuse
 tomavoice
-carma-com
 trieveai
 preloop
-recipe-workspace
-astro-mechanica
 bilanc
 
-codeant-ai
 draftaid
-superagent-sh
-ellipsis-dev
 
 aedilic
 getsparechange
 opencopilot
 teamwuri
-pythagora-io
 usecentralize
 quantichq
 getkiosk
-phospho-app
-firebender-ai
 aetherenergy
 99332802adminfeedposts
 pandasai
-inquery-data
-synclabs-ai
 infinityinvest
 markprompt
-use-salvy
 ragas
 
-swift-finance-inc
 anapherohealth
 99366646
-decipher-ai
 infinityai
 doublefinance
 speck
-getomni-ai
-guide-labs
 keywordsai
 promptarmor
 98872753adminfeedposts
-celest-dev
 zaymo
 trycreo
 cloudcruise
 
 onegrep
-selera-medical
 parasale
 lucitetechnologysolutionsabout
 usetusk
@@ -9151,118 +6917,71 @@ synsorybio
 
 YonedaLabs
 trypartnerhq
-hona-ai
 99437744
-greenboard-compliance
-topo-io
 runtrellis
 eggnogai
 artisanai
 withsuretynow
-roe-ai
 tryparadigm
 ariniai
 pointoneai
 
 askassemblyapp
-starlight-charging
 leapinglabs
-carousel-tech
-agentic-labs
-dalmatian-ai
 aidygrantsabout
-pivot-robots
-dgi-apparel
 97872692adminfeedposts
 withgarage
 usebuster
-argon-aiabout
-pretzel-ai
 apriora
-ncompass-technologies
-malibou-hr
 quarylabs
-hemingway-ai
-adagy-robotics
-momentic-ai
-reducto-ai
 ourmaia
 98949870
-tracecat-ai
-nuanced-inc
 
 kabilah
 maihem
-ion-dot-design
-duckie-ai
-sonia-health
 
 ubicloud
-heypurple?trk=public_profile_experience-item_profile-section-card_image-click
 greptile
 egolive
 leyalaw
-radmate-ai
 
 relari
 98894763
-navier-aiabout
-sciphi-ai
 upsolveai
 agenthubai
-driver-ai
-indanswer-ai
-yenmo-in
 93647085
-stitch-tech
 withflex
 96958947
-feanix-biotechnologies-incabout
 orbioearth
-codestory-ai
 catx
-taylor-aiabout
 cobaremote
 
 trendupaiinc
-tempo-labs
-autotab-ai
 flairhealth
 
 truemetricsio
 withonward
-wattson-health
 walletkit
 innkeeperai
 getnowadaysabout
 structuredlabs
 constructableapp
-simbie-health
 aisdrapp
-giga-ai
-foundation-tech
-affinity-training
 shadeformai
-ten-dev
 twinelabs
-cargo-hq
 seroai
 flowiseai
-cheq-it
 roametravel
 
-dili-ai
 buildtraydllc
 
 edencaremedical
 paradedb
 
-quill-ai
 getstrada
 getsmobi
 fiberai
 opsberry
-certainly-health
 recipeui
 tiptapdev
 cedalio
@@ -9274,16 +6993,10 @@ movley
 
 langdock
 checkfragment
-raz-ai
 silimate
-andromeda-surgical
-prodtrace-ai
-roundtable-ai
 trychatter
 trytrench
-envelope-money
 devmarkai
-inventive-ai
 vectorshift
 baserun
 shopglaze
@@ -9293,11 +7006,7 @@ inletai
 96598226
 slicker
 osiumai
-khoj-ai
 trycrewai
-kobalt-labs
-gleam-os
-trainy-aiabout
 studdyai
 pincites
 apoxy
@@ -9305,98 +7014,65 @@ getvaultpay
 continuedev
 quackai
 
-tractatus-ai
 mantlebio
 casehopper
 gladetool
 tryguac
 
 empiricalhealth
-fortuna-health
 aglide
 respaid
 squaredtechnologiesinc
-haven-ml
-greenlite-ai
 medisearchio
 metalwareinc
 upstreamdo
 
 
-surface-labs
 unhaze
 candoriq
-decoda-health
 vetrecio
 95726232
 epsilla
-cardinal-gray
-anneal-ai
 transformitytech
 500chow
 94275825
 
-health-harbor
 briefercloud
-hegel-ai
-shasta-health
-outset-ai
 menzaai
 serraio
-terminal-api
 corgea
-microstructure-imaging-inc
 
 docsum
 arcimus
 kitevideo
-bronco-ai
-parea-ai
 goagentive
 sidai
 95696443
 ventaai
 algunahq
 capimoney
-spine-ai
 cerelyze
-empower-dev
-tegon-ai
 subsets
 withdatashareabout
-revamp-ai
 
 airgoods
-solve-intelligence
 getfynt
-lio-ai
-electric-air-heatpumps
-talc-ai
 everybanking
 craftworkhome
 humanlike
 contourai
 
 cedanacorp
-atla-ai
 
-cascading-ai
 
 
 proprise
 godiligentai
-sohar-health
 remysec
 sweetspothq
 zeloscloud
 magicloops
-ohmic-biosciences
 theinfobot
-stellar-sleep
-linc-ai
-watto-ai
-dioxus-labs
-hyperbound-aiabout
 
 
 deasie
@@ -9405,66 +7081,43 @@ elyosenergy
 xeol
 nectarclimate
 twenty
-kino-ai
 
 ingovindchandrasekhar
 reworkd
 
-tremor-so
 peerdb
-artie-technologies
 hylightaero
 
 hockeystack
-line-build
 cercli
 
-pando-bioscience
 metal4about
 vaerohq
 
-yuma-ai
 90558949admin
 speccheck
 89983427
 knowupfront
-berri-ai
-theya-us
 joinwarp
 trykopia
 lightski
 secondhq
-atri-labs
 getvendora
 finta
 moonrepo
 
-type-ai
-persana-ai
-ask-kyber
 serialmfg
 escapetech
-modulari-t-bio
-keeling-labs
-koala-ops
 getmetalabout
-texel-ai
 getvector
-pier-finance
-aiflow-inc
-finni-health
 untetherlabs
 lucasoftware
-with-benchmark
 invitris
-fabius-technologies
 
 highlightrun
-vocode-devabout
 wallbit
 vellumai
 babylonai
-persist-ai
 berryhq
 workwithedge
 getconduit
@@ -9475,23 +7128,16 @@ getconduit
 decohere
 codeparrotai
 useconstant
-common-paper
 resend
 
-littio-co
 dealpageai
-rivet-gg
-thread-incorporated
 sortedtools
 wazahq
-dagworks-inc
 swishjam
 invopop
 turntabledata
 corgiai
-stralis-aircraft
 keepalerting
-play-ht
 holacasamx
 epsilonai
 usepylon
@@ -9499,7 +7145,6 @@ withclad
 
 peeba
 inbuildai
-sanvivo-gmbh
 
 quazel
 82542033
@@ -9519,14 +7164,11 @@ superkalam
 alaanpay
 vendah
 
-uptrain-ai
 honasoftware
 keyval
-nunu-ai
 appvitalize
 82592889
 radicalaero
-noya-software
 
 koywe
 honeydewai
@@ -9534,35 +7176,27 @@ honeydewai
 sherloqdata
 fluidmarkets
 shortbreadai
-sprx-technologies
 hadrius
 technicianai
-sage-ai-dev
 
 infelipearp
 dailype
-defog-ai
 fiddlecube
 fintoolx
 intrinsicsecurity
-leaveaspotlight-inc
 222place
 gohomeflow
-berilium-alts
 92878545
 icepanel
 
 storyboarder
-hey-orchid
 goodcourse
 
 teclada
 tableflowhq
-booth-ai
 buildjet
 shortloop
 truewindai
-wild-moose-ai
 
 gradientj
 inkeep
@@ -9574,7 +7208,6 @@ ruufsolar
 getpropify
 openmeter
 floworkssolutions
-extend-app
 getfinex
 
 extensional
@@ -9582,32 +7215,22 @@ outerbase
 bluedottechnologies
 intentlyai
 langfuse
-kivo-health
 
 
 0pass
-suger-inc
 frigade
 cloudchipr
-athina-ai
-chart-editor
 bujeti
-index-t
-cosine-ai
 flwrlabs
 pirros
 linkgrep
-trigo-data
 
 neptyne
 scanbases
-vooma-inc
 creatorml
 69833957
-launchflow-inc
 gluetrail
 justpaid
-of-one
 zenfetch
 omnistrate
 poplarml
@@ -9618,88 +7241,56 @@ trynarrative
 tennrai
 edgebit
 
-ruby-card
 
 versivehq
 
-double-ai
-glass-health-inc
 pairai
 byterat
 mercoa
 numeralhq
-rubber-ducky-labs
 nangohq
 
-codecomplete-ai
 brewit
 palomma
 fabra
 hammr
 trynebula
 trackstarhq
-flexdesk-workspace
 dashdive
-pyq-inc
 joinbackdrop
 
-lume-ai
-latent-health
 viddyapp
-selectiq-ai
 paperplaneai
-pigeon-documents
-depot-technologies
 magicpatterns
 layupai
 rollstack
 synclyhq
-struct-voice
-dr-droid
 versori
 triggerdotdev
 traceloop
 rifthq
 matanolabs
 cardinalappio
-linum-ai
-shop-with-onetext
-reflex-dev
 miracleml
 
 getfinvestabout
 blocksfabrik
-middleware-labs
 stackai
 infisical
-nucleus-yc
 rubbrband
-avoca-ai
 withchima
-lavo-life-sciences
 
 unifyai
-fairway-health
-interlock-labs
-defer-inc
-outsail-shipping
 overflux
 opensightai
 blyssprivacy
 mogara
 terracefi
-inmorf-health
-polymath-robotics
-hola-ping
-materee-ycs22
 
 75046532
-integrated-reasoning
-coverage-cat
 getcone
 82287935
 accessowl
-axle-labs
 cambioai
 
 landeed
@@ -9718,27 +7309,19 @@ knowtexai
 movinglake
 82299888
 pumpbilling
-uwi-homes
-monterey-ai
 
 
 releviumbio
 
 entvin
-wondercraft-ai
-hello-autone
 oneleet
 kravemart
-almond-obgyn
 drahim
-jasmine-energy
 sonnetai
 uselevers
-caddie-software
 momentulatam
 uplinkapp
 usedrip
-joinco-kitchen
 
 
 invofox
@@ -9747,12 +7330,10 @@ herofacturas
 
 primevault
 homli
-patika-africa
 findlyai
 relatecrm
 74065663
 joinrelayapp
-lamin-labs
 82286398
 nsavecom
 getcompup
@@ -9761,37 +7342,26 @@ wandsolar
 unthreadio
 plutto
 payfura
-ekho-dealer
 getanchor
 quindarspace
-kombo-api
 accountablevr
 
-feather-hq
-artemis-umbria
 usefini
 80365638
 iollo
 chowdeck
-garage-mobility
 aureliansystem
 flycodehq
 
 pluralith
 payableid
 cambiomoney
-mintplex-labs
 
-bitstack-app
 inabhinavchugh
 neosync
 shipmatesapp
-grai-io
 sytexpm
-provision-software-co
 corisinc
-airhart-aeronautics
-ultimate-tournament
 pulppo
 ajourney
 slidelyai
@@ -9801,23 +7371,13 @@ biggerpicturesupplychain
 helperai
 typewise
 
-aragorn-ai
-payload-cms
 
-malama-health
 
 phindsearch
-maverick-biometals
 applydesign
-illuminant-surgical
-juicebox-work
-rio-transfer
 popsyhq
-gullak-money
 capixai
 activepieces
-windmill-dev
-seaflight-technologies
 cashboardhq
 
 ravenappdev
@@ -9825,41 +7385,28 @@ evolyenergy
 mybridgecard
 overwatchdata
 weareblee
-alt-tex
 disclo
 tranch
-clyent-app
 
 ivycheck
 
 delegasi
 novig
-signatur-bio
-numind-ai
-ballerine-inc
 ethosx
 goboostly
 crazehq
 rootfi
-bluehill-payments
 fetii
-array-labs
-serinus-biosciences
-trebu-tech
 
-paigo-tech
 monecohq
 
-customer-os
 coupl
 
 blitznocode
 
 openpod
 pasitoinc
-truebiz-inc
 eradco
-bunting-labs
 devyce
 dittofeed
 
@@ -9867,29 +7414,20 @@ givechariot
 76263236
 
 
-two-dots-financial
 usebend
-sigma-mind-ai
 
 
 
-birch-biosciences-llc
 
-ciro-io
 
-mercator-tech
 
-airtrain-ai
 
-probably-nothing-labs
 streamclaims
 joinmagic
 hyperdx
 
-wolfia-app
 
 
-cisterna-biologics
 76449728
 clinikally
 withpoly
@@ -9901,9 +7439,7 @@ panaapp
 keylika
 silkchart
 uselotusio
-manatee-a7s
 
-slauth-io
 ordinaryseafood
 
 
@@ -9913,25 +7449,20 @@ bby
 simplehash
 whitelabgenomics
 medplum
-zoltar-labs
 tradexmarkets
 cuentamono
-reality-defender
 lizzapp
 nftscoring
 massdriver
 credibook
 freshfactoryid
 remilabs
-seis-card
 
 onboardio2
 aisupervision
 eventualcomputing
 72630957
-finnix-id
 karatelabs
-hippo-build
 pantorebrazil
 letsgavel
 
@@ -9939,32 +7470,21 @@ cofactr
 
 easycodeai
 korrai
-alima-latam
 beyondaero
-pina-de
-origami-therapeutics
 govdash
 77735406
 53254222
-mooji-meats
 pokoapp
-glocally-de
 gosats
 74093268admin
 dealls
 trustyhomes
 nowcircular
-powerhouse-ai
-https:twitter.comCashmereWallet
-olympian-motors
-netmaker-inc
 usepigeon
-the-ankler
 gimojsc
 heptabase
 
 verdn
-reviving-mind
 kokoai
 
 avocademy
@@ -9972,9 +7492,6 @@ avocademy
 
 
 anjahealth
-codec-hq
-marathon-education
-humand-co
 glowenergy
 wantd
 rthm
@@ -9985,7 +7502,6 @@ rallyuxr
 joinfleek
 gojom
 ploomber
-float-health-inc
 
 withrider
 beloz
@@ -10005,29 +7521,20 @@ propelauth
 ingorkaguirreh
 
 68248774admin
-quan-wellbeing
 
 
 74356374
 unisoninc
-better-app-india
 iotflows
 
 venue
 
 69335553
-use-bracket
 67475956
 pinaindonesia
-re-mint
-brainboard-co
-numida-technologies
-ponyrun-ai
 35666408
-andson-biotech
 theneoinc
 mutableai
-telematica-so
 bemlo
 
 lifecast
@@ -10039,70 +7546,49 @@ courtyardnft
 vimmerse
 carboncrusher
 nashglobal
-cinder-intelligence
 payourse
 nullstone
 schoolantwalk
-simplifyd-africa
 airworkhq
 durioocom
 botcity
-take-app
-cash-flow-portal
 arintra
 trackingplan
 29293626admin
 hydradatabase
 campfireinc
 74735848
-blitz-llama
 demogorilla
 
-vendy-inc
-sendme-ng
-lovage-labs
 tendohq
-convoy-webhooks
 lencobank
 dojah
-subscription-flow
 strongcompute
 greyfinance
-finnt-app
 elphinstonecapabout
-alga-biosciences
 getcera
-pluto-markets
 paycrunch
 
 tolahq
 requestly
-boya-inc
 finflx
 curacel
 lunajoy
 prembly
 spadeworks
-sero-so
-posh-robotics
 botinapp
 
-voize-de
 cogramai
-markaz-tech
 
 myeazipay
 
 veltjs
 65344002admin
-tuva-health
 plumter
 coterahq
 withcomplete
-siftly-ai
 
 saltpe
-stairs-financial
 nearwaveabout
 
 mintsearch
@@ -10112,11 +7598,7 @@ mintsearch
 
 
 bharatx
-redbrick-ai
-axis-xyz
 schoolgetsphere
-radius-digitalmart
-reforged-labs
 cardda
 42697643admin
 exofreight
@@ -10124,25 +7606,17 @@ exofreight
 aeoncharge
 flagright
 76565236
-castled-data
 soonfinance
-dart-ai
-armilla-ai
 
-t3-tools
 bunkyr
 streakcard
-sophys-health
 getzorba
-slai-labs
 lancedb
 readazuki
 creizer
-stock-unlock
 
 lightmeter
 phasebiolabs
-elementary-data
 agentnoon
 
 vistaio
@@ -10151,11 +7625,8 @@ haddock
 cerebrium
 firezonehq
 sribuu
-inedit-corp
-lexter-ai
 criya
 philippo
-showcaseget-pyrls
 unlayer
 munilyapp
 happl
@@ -10163,32 +7634,20 @@ complif
 snipp
 mysivi
 upbanx
-emigre-us
 getvalari
-whiz-idn
-ankr-us
-hyperbeam-api
-bobidi-inc
 
-atlas-support-inc
 miggosatacado
-alixia-therapeutics
 strobeapp
-corveus-medical
 
 orcafina
 itonmyria
-vendoo-co
 ozoneapp
 hypahub
-kaso-app
-touchandpay-technologies-ltd
 jumpwire
 
 teachwithkoala
 joinvance
 
-onyx-card
 
 seabound
 dropezy
@@ -10200,20 +7659,15 @@ rownd
 fleetzero
 yezza
 nyckelai
-nudge-labs
-spinach-io
 livehomeroom
-sarus-technologies
 withblazeapp
 dynamofl
 brownfoods
 seiright
 nesthealth
-perl-street
 
 coffeeai
 90996500
-bipi-id
 wagetap
 sendwithloops
 vacationhomerents
@@ -10222,12 +7676,8 @@ shinkeisystems
 zywa
 craniometrix
 
-actipulse-international
-momento-seguros
-starling-medical
 wingbackapp
 8vdxabout
-rosebud-biosciences
 samosinsure
 wereno
 trebolhq
@@ -10242,49 +7692,34 @@ peakflo
 
 sievedata
 railbird
-kapital-mx
 syronahealth
 boardcave
-tybr-health
-remedial-health
-agave-api
-redbird-io
 lifeat
-uh-oh-labs
 alfiehealth
 
 
 growthbook
 securewithstrac
-mederva-health
 comprarapida
-stafbook-com
 elevatepay
-arc-tech-inc
 spotkits
 
 uberduck
 
 andisearch
 optery
-instalab-inc
 taicopilot
-serif-health
 
 joeapp
 naraai
-fuell-corporate-cards
 speechly
 stackshine
-properfinance-io
 vecindario
 vesselapi
-kable-io
 80920022
 suggestr
 
 aklimate
-skillza-learning
 
 drivingforcehq
 pelm
@@ -10292,40 +7727,25 @@ cherryrecommends
 
 northwindskin
 jabu
-revolve-surgical
 mechoautotech
-beau-to
 tokuva
-liv-labs
 safermgt
-exa-ai
 chipax
 
 usenash
-lightly-tech
 ahazouapp
-payflow-es
 
 synderapp
 stepful
-turion-space
-siga-geomarketing
-get-cafe
 firstignite
-aviator-co
 labsimply
 stackfinance
 gamerpayio
 sitenna
-evidence-dev
 pactimo
-luminate-medical
 
-adra-ai
 
 spokenio
-bytebot-ai
-sfa-therapeutics
 justspot
 squireai
 opkit
@@ -10339,9 +7759,7 @@ cellchorus
 
 contraforce
 abatable
-storylane-io?isFollowingPage=true
 
-sensible-biotechnologies
 
 orderli
 suplias
@@ -10354,27 +7772,20 @@ ruthhealthco
 shapeinsights
 baubap
 novatr
-kapacity-io
 gomalga
-stownest-storage
 tulihealth
 
-kiwi-biosciences
 filadd
 
-caire-healthabout
 bloopai
 pylonump
 
 telivy
-synth-ai-labs
 
 humanegenomics
 ingiorgitsurtsumia
 ferveret
 filtaapp
-waterplan-ai
-bedrock-ai
 
 
 greenworkco
@@ -10387,7 +7798,6 @@ withpillar
 tenyks
 charimaroc
 nolocohq
-revery-ai
 senddots
 mach9robotics
 
@@ -10397,17 +7807,12 @@ getlitnerd
 72040985
 
 floatpays
-hit-pay
 coastapi
 
 
-the-breakaway
-akute-health
-outloud-ai
 writesonic
 sirkaio
 
-warrant-dev
 endla
 
 appcumbuca
@@ -10415,7 +7820,6 @@ heycharge
 37508785
 whalyhq
 payhippo
-portao-3
 
 harmonicdiscovery
 
@@ -10424,23 +7828,18 @@ lapzomx
 joinfizz
 
 freterium
-protex-aiabout
 67880058
 vincoed
 getaleph
 koddacom
-aleph-solutions
 ZoiosHQ
 encuadrado
-schoolkurios-la
 foragexyz
 
 kaipodco
-shimmer-care
 coloopai
 oneschema
 multibaseco
-sled-software
 whalesync
 shipblu
 68859929
@@ -10448,10 +7847,7 @@ numary
 mergentlabs
 yemaachi
 
-scispot-io
 intellecthq
-sequin-financial
-lemonade-finance?originalSubdomain=ca
 hypercontext
 coinrule
 
@@ -10461,41 +7857,31 @@ cloudthread
 arrowcheckout
 warpbuild
 matidorapp
-inai-co
 
 flukeoperadora
 
 ceroai
-digibuild-software
 sigmaos
 palenca
 cloudanix
 trackchain
-monet-app-col
 ivella
 testrigor
-enso-org
 qoaco
 glitzimx
-covie-io
-muse-hq
 govly
 pluggyai
 okani
 
 breadcrumbsio
 warpfy
-monto-cajero-inteligente
 
 onebrief
 getlaudable
 repool
-keyri-auth
 75627582
 onplayhouse
 
-rinse-dental
-hilos-io
 tarsal
 usekaya
 schooljovianhq
@@ -10503,38 +7889,29 @@ secodahq
 shoplocale
 ionamind
 thekodex
-pirouette-medical
 hypertrader
 verihubs
 
 investwithaqua
 marooinc
 fitia
-somostrii?originalSubdomain=co
 awesomic
 
 
 safebeatrx
-ivy-homes
 78438058
 
-atoma-ai
-tavus-io
 foragepayments
 
 dailybot
 tablevibe
-hypercore-ai
 rendalomaq
 union54
 instakin
 getlagoabout
 snapcalorie
-studystream-live
 anakintech
-bite-ninja
 reprosent
-watu-inc
 epinoma
 onsleek
 strivemath
@@ -10544,13 +7921,11 @@ mobileboosthq
 appxin
 neodocs
 vansec
-work-advantage
 
 echoeshq
 getswipeindia
 parallelbio
 bluumbio
-rivia-ai
 zazosabout
 algouniversity
 
@@ -10560,68 +7935,43 @@ boldvoice
 
 instacrops
 joindeed
-salary-book
 propreturns
 mailmodo
 akudoindia
-coulomb-ai
 koshexhq
 rendernetai
 kalamlabs
 
 levro
 solarmente
-catena-biosciences
-ananya-health
 
-karbon-cards
 goodkind
 dolarapp
-firstquadrant-ai
 
-replo-app
 potionai
 jestor
 rootlyHQ
-flow-club
 
-jupe-inc
 archbee
-varos-io
 75770625
-abstra-tech
 customily
 72052483
-mindstate-design-labs
-our-hive-health
-yummy-inc
-pipekit-io
 
-odys-aviation
 legionhealth
 hotglue
 aoadx
-marketfeed-com
 contalink
 gopositional
 
-glucobit-inc
 blixo
-inversion-space
 mentorcam
 epsilon3inc
-slope-tech
 74372366
-palla-financial
 69507540
-cococart-co
-talus-bio
 marqvision
 joinslash
 eltoai
-mable-health
 arengu
-satsuma-xyz
 veranohealth
 sproutfi
 
@@ -10633,10 +7983,8 @@ oneshopcom
 
 
 talentdrop
-canopi-financial
 membo
 
-hera-hq
 
 levomx
 milkywayai
@@ -10644,14 +7992,10 @@ milkywayai
 mixronline
 rutahealth
 perfektomx
-fast-farma
 
 commery
-nexus-site
-a-serious-business-inc
 35902070
 
-buzzle-ai
 fluiapp
 hyperseed
 65367439
@@ -10668,16 +8012,12 @@ nextpayph
 
 magicbell
 timetackle
-reshape-biotech
-terra-enabling-developers
 pipebio
 withshepherd
 swiftsku
 kilobaser
 mynextderma
-h3x-technologies
 bloominvest
-clear-app
 arpio
 trymayan
 triomics
@@ -10686,11 +8026,9 @@ authologic
 
 37420648
 meetanyway
-forcyte-biotechnologies-inc
 schoolavionschool
 hoopdev
 moonvalley
-routine-co
 turingcollege2
 hubuc
 djamoapp
@@ -10698,11 +8036,9 @@ vendease
 blinklastmile
 jiga3d
 
-broad-app
 estoca
 letsrecover
 navattic
-mystic-ai
 upchieve
 schoolawari
 
@@ -10722,9 +8058,7 @@ olaclick
 treinta
 svix
 fosterwriting
-machine26-gmbh
 rejoyhealth
-alpas-ai
 greaseboss
 moonshotbrands
 dataherald
@@ -10736,31 +8070,21 @@ chatwoot
 pagaloop
 flutterflow
 ziina
-vue-storefront
 75862784
-zealth-ai
 withmono
 
-morada-uno
 homebreeze
 
 ontopai
 
 
 teammanara
-wvrld-studios-inc-venu
-compose-ai
 biodockai
 
 betterhalf
 feroot
-moxion-power-copeople
 80052053
-redcliffe-labs
-fithub-colombia
 helloseerabout
-prefix-software
-phoenix-health-canada
 botbuilt
 maindrop
 
@@ -10770,11 +8094,8 @@ reclaimprotocol
 striga
 72292863admin
 simplifyjobs
-unschool-it
 tiltbike
-bevo-tech
 inpharmd
-stoke-space
 milkvideo
 clicoh
 getplatypus
@@ -10788,49 +8109,31 @@ codingal
 quicknode
 flextock
 quotabook
-sst-dev
 prophoneapp
 gethomebase
-noble-team
 
-logisticsos-inc
-veera-health
 lighttwist
 
-text-blaze
 schoolcoderhouse
 deutrela
-datrics-ai
-enode-io
-great-question
-hudu-technologies
 auriclehealth
-aurabeat-technology-limited
 remoracarbon
 finaryhq
 liveflow
 zingbus
 greywing
-measured-health
-r2-cap
 
 purposebanking
 quickvidai
 briohr
-fathom-video
 
 poplco
 
 careweather
-logica-app
 procoto
-weweb-io
-app-pangea
 kredimx
-anima-health
 
 topkey
-quadrant-health
 dashlabsai
 kodocard
 orbillion
@@ -10841,32 +8144,21 @@ alineainvest
 lendflow
 nirvahealth
 parsagon
-aviron-interactive
 juniperplatform
-promoted-ai
 FifthTry
 juneso
-version-story
 gridwareinc
 79738307
-firstbase-io
-faction-technology
-javelin-robotics
 tryperdiem
 
 
 terapify
-noya-carbon
-axle-health
 
 
 headlessfinance
-prequel-coabout
 useavenue
-cashbook-app
 segmentsai
 fractionalapp
-encord-team
 
 pragmaticleaders
 trysmartcuts
@@ -10882,7 +8174,6 @@ wyndly
 curvenote
 
 usebluelight
-gerald-app
 queenly
 
 
@@ -10891,49 +8182,35 @@ modernloop
 gromofintech
 zerobroker
 
-hapi-app
 finleytechnologies
 signozio
 usewaypoint
 getspokn
 taloflow
-intanu-v
-quadrant-eye
 lygg
 
-albedo-space
-alba-orbital
 humaans
 
 atomicindustries
 playdreamworld
-the-third-place-inc
 
 bristlehealth
-cloud-humans
 authzed
 
 
 
-abacum-ioabout
 uiflow
 journeyio
 
 gopreki
-runway-team
-worksphere-co
 65006380admin
 acadpal
-join-partnered
 usetrendpop
 verak
 octifi
-pry-financials
-bueno-finance
 getpingpong
 
 
-flok-retreats
 
 buildoutfit
 mezli
@@ -10941,67 +8218,46 @@ mezli
 
 
 
-sturdy-devtools
 
 
 aerotime
 65675059admin
 
 finantier
-invoid-technologies
 
 bimaplan
 yourquote
 chargerunning
-finary-io
-bewell-digital
 
 65877627admin
 krab
 
 
-unfurl-inc
-the-gigs-live
-sbx-robotics
 getplaymaker
-enter-neverland
 gonddo
 
 pardesbio
 
 companiesCapWayInc
-gilgamesh-pharmaceuticals
-mytoolbox-co
 atmosxr
-revel-technologies-inc
-siphox-inc
-verifiable-credentials
-future-fields-cellular-agriculture
 
 quell
 
-parrot-software
 
 finchapi
 getinspectify
 mozartdata
 rallydotvideo
-warmly-ai
 tryglimpse
-byte-app
 
-vena-vitals
 lendtableabout
 herefm
 safebase
 spenmo
-ai-fashion-inc
 
 
 readynet
-draftwise-ai
 socksoho
-carbonchain-io
 supabase
 
 akiflow
@@ -11022,8 +8278,6 @@ skio
 arketa
 memberstack
 
-aquarium-learn
-notabene-id
 decentro
 mozper
 polyops
@@ -11042,12 +8296,9 @@ tappity
 
 
 
-daybreak-health
-yotta-saving
 peoplemesh
 biocogniv
 marketforcehq
-opvia-bio
 
 65320902
 webappio
@@ -11058,15 +8309,12 @@ aristu
 tangobuilder
 humanloop
 corecare
-kernal-biologics-inc.
 
 swifai
 speedscale
 
 charityvest
 gitduck
-hypotenuse-ai
-pave-comp
 trynovel
 volopay
 venostent
@@ -11080,8 +8328,6 @@ themomence
 27032022admin
 lightdash
 datafold
-blue-onion-labs-inc
-depict-ai
 infeedo
 tryjeeves
 getseam
@@ -11102,7 +8348,6 @@ recurrency
 basedash
 responseinc
 
-roboflow-ai
 
 hellosaurus
 runreflect
@@ -11120,10 +8365,7 @@ vectrixsecurity
 
 30097055
 finmark
-schoolstrive-school
 addomni
-known-medicine
-team-gather
 withfig
 
 
@@ -11132,7 +8374,6 @@ eqalphatechnology
 
 heyartifact
 getparade
-lifesci-key
 
 milkrun
 
@@ -11144,7 +8385,6 @@ milkrun
 
 monosi
 atomizedhq
-jeevam-health
 
 rtcanary
 trybentoco
@@ -11154,18 +8394,13 @@ trybentoco
 instockorg
 
 
-overfit-training
 
 
 openbaseio
-whatnot-inc
-ochre-bio
-jet-admin
 ansabio
 jenfi
 yassir
 
-menten-ai
 belvofinance
 
 
@@ -11175,13 +8410,8 @@ workpayafrica
 airbytehq
 
 
-send-freightabout
-living-carbon
-atmo-ai
-borong-malaysia
 giveawayglobal
 sakneen
-recall-ai
 
 
 guruhotel
@@ -11190,10 +8420,8 @@ nomicbio
 
 zynq
 starkbank
-termii-networks
 linkana
 fondeadora
-tajir-app
 alineadores
 investbamboo
 aluguecomhent
@@ -11226,7 +8454,6 @@ deepsourcelabs
 upflowhq
 morphle
 
-postera-ai
 tryvital
 laserfocus
 jittervideo
@@ -11234,12 +8461,9 @@ posthog
 tryriot
 
 
-fella-health
 dropbase
-candid-health
 
 
-alloy-automation
 
 buildbuddy
 
@@ -11257,14 +8481,12 @@ typedream
 signadot
 truenorthfleet
 
-grain-technology
 benepass
 infieldai
 ezewholesale
 utvate
 
 edlyft
-sinai-technologies-inc
 dashworksai
 
 replicate
@@ -11274,51 +8496,38 @@ teamacho
 66684898
 nextmv
 
-ditto-app
 brokrete
-ardis-ai
 openunit
 
 letterdrop
-factored-quality
-explo-co
 opheliahealth
 mindsdb
-segmed-ai
-teleo-ai
 
 
 breezeful
-pulley-cap-table
 enveloop
 useparagon
 inaccord
 kaiten
 polytomic
-hello-numi
 motionapp
 
 zefihq
 trykarat
 docvita
 chaosgenius
-loop-health
 
 checkars
-genecis-envirotech-inc.?originalSubdomain=ca
 
-delt-ai
 crowdforce
 
 
 swifterhq
 
 gosavvy
-talyn-air
 cronhq
 
 joinglimpse
-weav-tech
 
 yearend
 flowdash
@@ -11326,7 +8535,6 @@ hossapp
 
 
 okayhq
-phonic-research
 
 gocarupi
 
@@ -11353,11 +8561,9 @@ godutchpay
 homesteadfutures
 felixbt
 
-the-mercer-club
 
 
 
-cadence-work
 
 joinpantheon
 orbiterai
@@ -11377,27 +8583,21 @@ sequencebioinformatics
 
 breadfast
 
-vendr-co
-epic-aerospace
 
 
 vorticityinc
 taskade
 indexanalytics
 gathertown
-asher-biotherapeutics
 
 nasdex
 
-treble-ai
 vitaumx
 curri
 mudafy
 
 paymongo
-freshpaint-data
 9494935
-inevent-inc
 somosheru
 tranquifinanzas
 trellaapp
@@ -11405,7 +8605,6 @@ recidiviz
 paywithflux
 stoicapp
 
-holy-grail-inc
 
 
 demandcurve
@@ -11413,9 +8612,7 @@ hightouchio
 fampay
 
 
-vahan-inc-
 
-lokal-app
 gaiascope
 getbinks
 lineleap
@@ -11429,7 +8626,6 @@ colabsoftware
 rutter
 hatchways
 
-million-marker
 
 florecruit
 
@@ -11440,22 +8636,16 @@ withbanner
 
 
 fynncredit
-zeta-surgical
 kitekraft
 
-embrace.io
 74743886
 mindsethealth
 localyze
-prolific-academic
-soteris-inc
 joinobie
 narratorai
-lucid-bots
 everloved
 
 feelmuddy
-lumineye-inc
 yourpairteam
 
 
@@ -11463,7 +8653,6 @@ yourpairteam
 trmlabs
 
 shortstorybox
-well-principled
 kraftful
 
 
@@ -11473,11 +8662,9 @@ methodfi
 
 trycourier
 loftyai
-shiru-inc
 matagora
 pillarcreators
 getdex
-apero-health
 
 20358430
 
@@ -11489,23 +8676,17 @@ swadesh
 mypetrolpump
 wingmanforsales
 datamechanics
-compound-financial
-beacons-ai
 
 
-project-wren
 actiondesk
-sable-card
 
 
 popsql
 getcuboh
 65640038
-bayes-technologies
 
 
 
-alana.jobs
 multishq
 
 
@@ -11534,11 +8715,8 @@ hutsyhomes
 pippinxyz
 deel
 nowports
-searchlight-ai
 
 ordershef
-shipper-indonesia
-eclipse-foods
 
 
 
@@ -11547,12 +8725,9 @@ memfault
 yourchoicetherapeutics
 atlaschargecard
 numeroai
-rct-ai
 prometheusfuels
 withfriends
 cosmicjs
-habitat-llc
-career-karma-app
 vertofx
 
 
@@ -11565,7 +8740,6 @@ votingworks
 
 tupronto
 
-emi-labs
 
 
 
@@ -11577,45 +8751,32 @@ acciojob
 shiokmeats
 nalamoney
 mudrex
-schoolskill-lync
 usecapture
-endpoint-health
 xgenomes
 
-alpacadb-inc-
 
 
-dagger-io
 
-heart-aerospace
 
-volta-labs-inc
-boundary-layer-technologies
 
 
 
 
 ysplit
-superb-ai
 
 
 usecaribou
 dopplerhq
 
-intact-therapeutics
 
 handlecorporation
-team-mobot
 
-bunkerhill-health
-supernova-io
 probablygenetic
 
 okteto
 ashbyhq
 switchboard
 
-atomic-alchemy-inc
 demodesk
 
 avohq
@@ -11629,27 +8790,22 @@ golinks
 middesk
 
 leahlabsinc
-community-phone
 
 
 brainkeyai
 
 
 28620078
-ascen-inc
 postscriptio
 nettrons
 
 sortingrobotics
 
 
-spire-law-firm
 
-centaur-labs
 kopahq
 kalshi
 pachama
-keeper-tax
 thejuggernaut
 positivefoodco
 allsome
@@ -11659,16 +8815,12 @@ allsome
 
 
 
-overview-ai
 
 
 
-allure-systems
 
 axdraft
-seawise-capital
 
-https:www.askdata.cominaskdata
 
 workclout
 
@@ -11677,7 +8829,6 @@ coursedog
 schoolflockjay
 preflight
 interprime
-insight-browser
 
 
 
@@ -11686,14 +8837,12 @@ windsorio
 
 
 fuzzbuzz
-hypnos-ai
 37509090
 startcherry
 
 
 54gene
 
-tailor-ed
 
 
 
@@ -11709,7 +8858,6 @@ pengramar
 
 
 
-brick-health
 
 momentusinc
 useaesthetic
@@ -11729,15 +8877,12 @@ oxygenbanking
 
 mutinyhq
 cowrywise
-l-e-e-n-a
 buycoins
 khatabook
-four-growers-inc
 brainhi
 sskydropx
 edenmedicalglobal
 nestorup
-shelf-engine
 ziffyhomes
 
 namesandfaces
@@ -11748,21 +8893,14 @@ mentalhappy
 
 prodigaltech
 tenderd
-alpha-vantage-inc
 
 
 6455436
-happilabs-org
 
 pineparkhealth
-dreamcraft-entertainment-inc
 schoolubitslearning
-ajaib-id
 regology
-%C3%A0-la-couch
-impactive-io
 quickchatai
-corvus-robotics
 easolhq
 tallpoppysecurity
 
@@ -11770,36 +8908,28 @@ pocketworlds
 64xbio
 duffelhq
 vimcal
-anima-app
 35696806
 
-hepatx-corporation
 
-meru-health
 
 rebellyousfoods
 
 openphone
 
-clearview-md
 
 
-titan-invest
 activeloop
 
 jitx
 
 
-dinesafe.org
 
 
-modern-treasury
 
 novahq
 
 
 
-cspa-io
 berbix
 onegraph
 hypcloud
@@ -11817,7 +8947,6 @@ scanwellhealth
 
 labelflow
 
-spero-foods
 
 
 inkhunter
@@ -11829,54 +8958,37 @@ inkhunter
 
 
 
-user-hero
 
 
-groww.in
 newfront
 snackpass
-repl-it
 swayable
 veriff
-superapp-id
 
 captivateiq
 erudifi
 runahr
 venamedical
-anjuna-security
 
 tarjimly
-callisto-tech-to-combat-sexual-assault
 observeai
-culture-robotics
 zbiotics
 
 
-opensea-io
-memora-health
 youteam
-orangewood-labs
 safetywing
-aspire-sea
-pelago-health
 volley
-delphia-ai
 gogainful
 
 
 cognitionip
-archery-inc
 
 psylaris
 treasuryprime
-universe-
 
-lets-do-this
 supermedium
 
 tributi
-digital-kinematicsabout
 8775625
 
 evryhealth
@@ -11885,12 +8997,9 @@ meitre
 tequitable
 draftbit
 
-vanta-security
 dearbrightly
 nuvocargo
 
-reverie-labs
-modern-health
 joinpromise
 
 
@@ -11898,14 +9007,12 @@ biorender
 
 
 
-macromoltek-inc
 mightybuildings
 
 24790658admin
 sheertex
 
 cointracker
-slite-thenoteappforteams
 sixfoldbioscience
 fondohq
 observantai
@@ -11915,8 +9022,6 @@ ovipost
 shogun
 
 
-torch-labs
-beanstalk-incabout
 
 
 
@@ -11937,7 +9042,6 @@ sqreen
 
 teamcodestream
 
-bear-flag-robotics
 
 
 
@@ -11960,7 +9064,6 @@ bear-flag-robotics
 
 
 
-tingles-app
 
 
 
@@ -11973,19 +9076,14 @@ tingles-app
 
 candidately
 
-thematic-ltd
 
 
-flock-safety
 cashfree
-forever-labs-inc
 
 goodcover
-gem-recruiting-software
 assemblyai
 
 routable
-imbue-ai
 onelocalco
 
 
@@ -12018,23 +9116,18 @@ upcodes
 ribbonhealth
 
 
-releaf-africa
-l%C3%A9on-&-george
 schoolbloominstituteoftechnology
 aecoreinc
-autohub.io
 nobellfoods
 ltse
 vergesense
 
-fazz-financial-group
 jerryinc
 
 
 disclosuresio
 
 billiontoone
-headstart-io
 
 
 templarbit
@@ -12062,15 +9155,12 @@ elucdinc
 
 
 
-commissary-club
 
 
 
 
 
-sunu-inc.
 
-modular-science
 
 
 
@@ -12090,17 +9180,12 @@ brexhq
 fairewholesale
 
 
-clipboard-health
 
-humi-hr
 
 tryretool
 
-dost-education
 livelyhsa
 
-indee-
-upkeep-maintenance-management
 onefinin
 
 
@@ -12108,13 +9193,10 @@ onefinin
 
 aon3drippling
 
-buypower-inc
 hogarucol
 planehr
-reliance-health-global
 solugen
 bulkmro
-https:www.facebook.combitrise.io
 
 
 
@@ -12122,21 +9204,14 @@ tolemi
 
 wrightelectric
 themednettokentransit
-snappr.co
-veryfi-inc
-ambient-ai
 
 
 sandboxbanking
-beek-io
 
 
 rentrezi
-paragon-one
-ledger-investing
 mdalgorithms
 bloomapi
-sleep-reset
 
 bountifulag
 
@@ -12150,11 +9225,9 @@ peer5
 
 
 
-breaker-inc.
 
 waystocap
 
-armory.io
 
 
 
@@ -12215,7 +9288,6 @@ trinketapp
 
 
 
-sown-to-grow
 
 
 
@@ -12275,22 +9347,17 @@ classdojo
 birdhq
 meesho
 elemenohealth
-expo-dev
 
 
-apolloshield-anti-drone-solutions
 suiteness
 
-people.ai
 scaleai
 
 withcirca
 yoshimobility
 flutterwave
-smartpath-financial-wellness
 
 
-squ%C4%ABr-technologies
 athelas
 bulldozair
 
@@ -12299,27 +9366,19 @@ bulldozair
 legalist
 
 kenotahealth
-hi-burrow
 garten
-multiply-labs
-women-who-code
 
 
-nova-credit-inc.
 
 rocketlit
-rose-rocket
 
 
-upgraded-technologies
-raptor-maps-inc.
 carerev
 workramp
 withjoy
 
 vetcove
 
-proxy-technologies
 
 
 
@@ -12332,11 +9391,9 @@ crowdai
 
 
 techmates
-iris-automation
 simplecitizen
 
 
-skylights-aero
 
 
 
@@ -12381,9 +9438,7 @@ rappi
 petcube
 outschool
 
-mason-america
 
-isono-health
 getaccept
 
 
@@ -12393,15 +9448,11 @@ soundboks
 
 
 qvin
-lattice-hq
 
--dev-color
 lygos
 
 astranis
-boom-technology-inc.
 productsbonsai
-protonet-gmbh
 sendbird
 wakieabout
 relativity
@@ -12413,22 +9464,18 @@ histowiz
 
 
 golorry
-gecko-robotics-llc
 thunkable
 saltsecurity
 apolloio
 
 instabug
 superside
-castle-intelligence
 
 
 
 
 pocketsuite
 netomi
-meter-feeder-inc
-iron-ox
 gigwell
 gocopia
 
@@ -12438,11 +9485,9 @@ gocopia
 
 
 
-stilt-loans
 nurx
 
 
-landed-inc
 
 platohq
 
@@ -12467,9 +9512,7 @@ streamup
 
 
 37560379
-kisan-network
 
-georgette-packaging-inc-
 
 
 
@@ -12495,49 +9538,31 @@ humaninterest
 
 cofactorgenomics
 
-click-&-grow
 bitmovin
 
-the-ticket-fairy
 
-80-000-hours
 xendit
 
-shape-inc-
 tetrascience
-redcarpetup-comabout
 
 plateiq
 fountaininc
 picktrace
 microhealth
-zeplin-io
 
 dripcapital
 
-transcend-lighting
 tesorio
 givecampus
-bodyport-inc.
-verge-genomics
-reach-power
-circle-medical
-confident-lims
 
-heroic-labs
 snapeda
 partnerstack
 scopear
-assembly-inc.about
-new-story-homes
 gemnote
-ironclad-inc-
-go-teleport
 sunfarmer
 lugg
 
 
-tenant-turner
 
 nebia
 
@@ -12554,7 +9579,6 @@ zpredicta
 
 
 
-second-measure
 
 foxpass
 
@@ -12591,29 +9615,20 @@ voiq
 
 
 
-gitlab-com
-lucira-health
 equipmentshare
 
 
 razorpay
-grubmarket-inc-
 mashgin
-spire-inc-
-shasqi-inc.
 
 replikaaiabout
-tara.ai
 
 xzell
 transcriptic
-torix-medical
 9397300
 
 
 getmeadow
-level-frames
-industrial-microbes
 giveffect
 ebrandvalue
 
@@ -12622,9 +9637,7 @@ teamnote
 
 
 
-readme-io
 
-schoolplatzi-inc
 labdoor
 
 bankjoy
@@ -12635,11 +9648,8 @@ atomwise
 
 9506733
 
-akido-labs
 
-qventus-inc
 
-lumi-co-
 
 
 
@@ -12650,16 +9660,12 @@ sigopt
 
 wayup
 
-vest-financial
-yhat-inc-
 nextravel
 remix
 
 
-smarking-inc-
 paperspace
 
-open-listings
 higherme
 
 
@@ -12675,14 +9681,11 @@ caydianabout
 
 
 
-standard-cyborgabout
 
 
 dabblestudio
-tech-in-asia
 
 
-dealyze-inc.
 
 
 
@@ -12702,10 +9705,7 @@ undergroundcellarabout
 
 oklo
 
-ginkgo-bioworks
 shipbob
-checkr-com
-helion-energy
 hivehq
 
 walksource
@@ -12738,7 +9738,6 @@ cognitohq
 
 
 
-lawn-love
 
 
 
@@ -12795,8 +9794,6 @@ snapdocs
 
 povio
 
-one-degree-inc-
-memebox-corp-about
 
 
 devcyclehq
@@ -12807,8 +9804,6 @@ codecombat
 aptdeco
 
 caremessage
-noora-health
-ambition-llc
 airhelp
 
 
@@ -12831,7 +9826,6 @@ getcruise
 chargehound
 
 
-abacus-labs
 
 
 
@@ -12853,7 +9847,6 @@ abacus-labs
 
 
 
-webflow-inc-
 
 cratejoy
 
@@ -12875,7 +9868,6 @@ realcrowd
 
 
 
-apptimize-inc
 
 
 
@@ -12925,7 +9917,6 @@ interana
 
 
 
-zaranga-inc-about
 
 
 
@@ -12934,7 +9925,6 @@ wefunder
 
 
 
-heap-inc-
 
 
 
@@ -12953,7 +9943,6 @@ benchling
 zapier
 
 
-plivo-inc
 
 
 submittable
@@ -12970,15 +9959,12 @@ upwaveinc
 rainforestqa
 mattermost
 
-study-edge
 
 
 
 
 
-lever-
 
-clever-inc-
 soylent
 streem
 
@@ -12990,7 +9976,6 @@ streem
 
 
 
-thread-com
 
 
 
@@ -13012,390 +9997,4 @@ thread-com
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-amplitude-analytics
-
-wavemm
-
-gustohq
-
-circuithub
-
-
-rescale
-
-
-hireart
-
-
-wavemoney
-
-
-
-
-
-yourmechanic
-
-fondco
-
-
-farmlogs
-
-
-
-
-swiftype
-
-
-
-myvr-com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-gocardless
-clerky-inc-
-agilemd
-quartzy
-streak-com
-science-exchange
-onesignal
-apollo-graphql
-hackerrank
-imgix
-videopixie
-vidyard
-
-
-getsift
-
-5356039
-
-segment-io
-
-
-
-geniusdotcom
-
-
-
-
-
-
-
-
-
-
-verbling
-
-
-
-
-
-
-
-
-
-
-thequad
-
-
-zeusliving
-
-
-
-
-
-
-
-
-
-
-everyme
-
-goat-group
-storyworth
-zerocater
-close-crm
-
-
-tremendous-rewards
-
-650-health
-
-talkable
-
-
-drchrono
-
-
-
-
-
-humble-bundle
-
-
-
-
-
-
-
-simplylisted
-
-
-
-
-
-
-
-insight-data-science
-
-
-
-
-
-
-
-
-
-
-indinero
-
-
-
-recurse-center
-
-
-
-
-
-
-
-
-
-homejoyabout
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ownlocal
-optimizely
-
-
-
-
-
-
-
-
-
-crocodoc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-stripe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-wattvision
-
-airbnb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-backtype
-poll-everywhere-inc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-rescuetime
-heroku
-
-
-mz
-a-thinking-ape
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dropbox
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-twitch-tv
-
-
-
-
-weebly
-
-
-
-
-
-scribd
-
-
-
-
-
-
-
-
-wufoo
-
-
-
-
-
-
-
-
-
-
-
-
-
-loopt
 
