@@ -39,11 +39,11 @@ gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $
   --random-agent \
   --retry --retry-attempts 3 \
   --delay "${DELAY}ms" \
-  --quiet \
   --hide-length \
   --no-color \
   --expanded \
   --no-status
+  #  --quiet \
   #  --no-progress \
 
 # Check if gobuster ran successfully
@@ -70,6 +70,13 @@ else
   rm -f "$TOP_X_LIST" "$GOBUSTER_TMP_FILE"
   exit 1
 fi
+
+## check each line of $RESULTS_FILE, if each line is base64 encoded, if not encode it
+#while IFS= read -r line; do
+#  if [[ ! "$line" =~ ^[a-zA-Z0-9/+]{43}=$ ]]; then
+#    echo "$line" | base64 >> "$RESULTS_FILE"
+#  fi
+#done < "$RESULTS_FILE"
 
 # Summary
 echo "Total items processed: $X"
