@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 * * * *' # every 1 hour
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/research01.yaml'
 
 env:
   RESEARCH: research01
