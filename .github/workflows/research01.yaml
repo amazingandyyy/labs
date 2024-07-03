@@ -14,11 +14,11 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  LAB: lab01
-  RESEARCH: research01
-  RESEARCH_TARGET: aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw== # greehouse
-  PROCESSING_AMOUNT: 100
-  EXCLUDE_RESPONSE_LENGTH: 156
+  lab: lab01
+  research: research01
+  research_target: aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw== # greehouse
+  processing_amount: 100
+  exclude_response_length: 156
 
 jobs:
   research:
@@ -29,8 +29,30 @@ jobs:
       - name: lab01-research01
         uses: ./.github/actions/lab01
         with:
-          lab: ${{ env.LAB }}
-          research: ${{ env.RESEARCH }}
-          research_target: ${{ env.RESEARCH_TARGET }}
-          processing_amount: ${{ env.PROCESSING_AMOUNT }}
-          exclude_response_length: ${{ env.EXCLUDE_RESPONSE_LENGTH }}
+          lab: ${{ env.lab }}
+          research: ${{ env.research }}
+          research_target: ${{ env.research_target }}
+          processing_amount: ${{ env.processing_amount }}
+          exclude_response_length: ${{ env.exclude_response_length }}
+      - name: diff
+        id: diff
+        shell: bash
+        run: |
+          git diff
+          if [[ $(git diff --stat) != '' ]]; then
+            echo "files_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: commit to main branch
+        if: steps.diff.outputs.files_changed == 'true'
+        shell: bash
+        run:  |
+          set -x
+          current=$(date)
+          git config --global user.name 'scientist'
+          git config --global user.email 'scientist@amazingandyyy.com'
+          git status
+          git add ${{ env.lab }}/researches/${{ env.research }}
+          git commit -m "feat(${{ env.research }}): research on ${{env.processing_amount}} items" -m "$current"
+          git pull --rebase
+          git push
+          set +x
