@@ -10,9 +10,10 @@ on:
       - 'scripts/'
 
 env:
+  LAB: lab01
   RESEARCH: research02
   RESEARCH_TARGET: aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t==
-  PROCESSING_AMOUNT: 100
+  PROCESSING_AMOUNT: 600
   EXCLUDE_RESPONSE_LENGTH: 6248
 
 jobs:
@@ -30,9 +31,9 @@ jobs:
           id -a
           go install github.com/OJ/gobuster/v3@latest
           gobuster version
-      - name: $RESEARCH
+      - name: lab01-research02
         run: |
-          ./scripts/start.sh $RESEARCH $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
+          $LAB/start.sh $RESEARCH $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
       - name: check for modified files
         id: git-check
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)

@@ -2,7 +2,7 @@
 
 set -x
 REPO_DIR="$(dirname "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)")"
-RESEARCH_DIR="${REPO_DIR}/researches/$1"
+RESEARCH_DIR="${REPO_DIR}/lab01/researches/$1"
 
 # File paths
 WORD_LIST="$RESEARCH_DIR/latest.txt"
