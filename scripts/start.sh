@@ -33,7 +33,18 @@ head -n $AMOUNT "$WORD_LIST" > "$TOP_X_LIST"
 # random generate delay from 1000ms to 5000ms
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
 THREADS=$(( ( RANDOM % 5 ) + 2 ))
-gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length $GOBUSTER_ERROR_LENGTH --hide-length --no-status --pattern $PATTERN_FILE
+gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $PATTERN_FILE \
+  --exclude-length $GOBUSTER_ERROR_LENGTH \
+  --threads $THREADS \
+  --random-agent \
+  --retry --retry-attempts 3 \
+  --delay "${DELAY}ms" \
+  --quiet \
+  --hide-length \
+  --no-color \
+  --expanded \
+  --no-status
+  #  --no-progress \
 
 # Check if gobuster ran successfully
 if [ $? -eq 0 ]; then

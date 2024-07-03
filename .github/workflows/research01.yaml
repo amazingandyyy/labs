@@ -7,11 +7,12 @@ on:
   push:
     paths:
       - '.github/workflows/research01.yaml'
+      - 'scripts/'
 
 env:
   RESEARCH: research01
   RESEARCH_TARGET: aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==
-  PROCESSING_AMOUNT: 600
+  PROCESSING_AMOUNT: 100
   EXCLUDE_RESPONSE_LENGTH: 156
 
 jobs:
@@ -29,7 +30,7 @@ jobs:
           id -a
           go install github.com/OJ/gobuster/v3@latest
           gobuster version
-      - name: research
+      - name: $RESEARCH
         run: |
           ./scripts/start.sh $RESEARCH $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
       - name: check for modified files
@@ -42,7 +43,7 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
-          git add $RESEARCH
+          git add researches/$RESEARCH
           git commit -m "feat($RESEARCH): research on $PROCESSING_AMOUNT items" -m "$current"
           git pull --rebase
           git push
