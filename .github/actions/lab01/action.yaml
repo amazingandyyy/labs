@@ -1,0 +1,57 @@
+name: 'Lab01 Research Action'
+description: 'Performs automated research tasks for Lab01'
+inputs:
+  lab:
+    description: 'Lab name'
+    required: true
+  research:
+    description: 'Research name'
+    required: true
+  research_target:
+    description: 'Base64 encoded research target URL'
+    required: true
+  processing_amount:
+    description: 'Number of items to process'
+    required: true
+  exclude_response_length:
+    description: 'Response length to exclude'
+    required: true
+runs:
+  using: 'composite'
+  steps:
+    - name: Setup Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+    - name: Prepare environment
+      run: |
+        id -a
+        go install github.com/OJ/gobuster/v3@latest
+        gobuster version
+      shell: bash
+    - name: Execute research script
+      run: |
+        set -e
+        ./${{ inputs.lab }}/start.sh ${{ inputs.lab }} ${{ inputs.research }} ${{ inputs.research_target }} ${{ inputs.processing_amount }} ${{ inputs.exclude_response_length }}
+        set +e
+      shell: bash
+    - name: diff
+      id: diff
+      shell: bash
+      run: |
+        git diff
+        if [[ $(git diff --stat) != '' ]]; then
+          echo "files_changed=true" >> "$GITHUB_OUTPUT"
+        fi
+    - name: commit to main branch
+      if: steps.diff.outputs.files_changed == 'true'
+      shell: bash
+      run:  |
+        current=$(date)
+        git config --global user.name 'scientist'
+        git config --global user.email 'scientist@amazingandyyy.com'
+        git status
+        git add researches/${{ inputs.research }}
+        git commit -m "feat(${{ inputs.research }}): research on ${{inputs.processing_amount}} items" -m "$current"
+        git pull --rebase
+        git push
