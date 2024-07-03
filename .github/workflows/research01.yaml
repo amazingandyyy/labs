@@ -31,9 +31,7 @@ jobs:
           gobuster version
       - name: research
         run: |
-          cd ./$RESEARCH
-          ./backlogs.sh
-          ./start.sh $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
+          ./scripts/start.sh $RESEARCH $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
       - name: check for modified files
         id: git-check
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)

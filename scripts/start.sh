@@ -1,35 +1,39 @@
 #!/bin/bash
 
-# Input file containing names to process
-WORD_LIST="latest.txt"
-# https://raw.githubusercontent.com/jeanphorn/wordlist/master/usernames.txt
-
-INPUT=$1
-
-# Base URL to scan
-BASE_URL=$(echo "$INPUT" | base64 -d)
-
-# Calculate the number of items to process
-X=$2
-
-GOBUSTER_ERROR_LENGTH=$3
+set -x
+REPO_DIR="$(dirname "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)")"
+RESEARCH_DIR="${REPO_DIR}/researches/$1"
 
 # File paths
-RESULTS_FILE="results/list.txt"
-GOBUSTER_TMP_FILE=".gobuster.tmp.txt"
-TAIL_TMP_FILE=".tail.tmp.txt"
-TOP_X_LIST="namelist_top_X.txt"
+WORD_LIST="$RESEARCH_DIR/latest.txt"
+BACKLOGS_FOLDER="$RESEARCH_DIR/backlogs"
+RESULTS_FILE="$RESEARCH_DIR/results/list.txt"
+GOBUSTER_TMP_FILE="$RESEARCH_DIR/.gobuster.tmp.txt"
+TAIL_TMP_FILE="$RESEARCH_DIR/.tail.tmp.txt"
+TOP_X_LIST="$RESEARCH_DIR/namelist_top_X.txt"
+PATTERN_FILE="$RESEARCH_DIR/patterns.txt"
+
+# research parameters
+BASE_URL=$(echo "$2" | base64 -d)
+AMOUNT=$3
+GOBUSTER_ERROR_LENGTH=$4
+set +x
+
+# deal with backlogs
+source "${REPO_DIR}"/scripts/backlogs.sh
+getItemsFromBacklogs $WORD_LIST $BACKLOGS_FOLDER
+cleanUpBacklogs $BACKLOGS_FOLDER
 
 # Print out how many items will be processed
-echo "Processing $X items from $WORD_LIST"
+echo "Processing $AMOUNT items in $WORD_LIST"
 
 # Create a temporary wordlist file with the top X items
-head -n $X "$WORD_LIST" > "$TOP_X_LIST"
+head -n $AMOUNT "$WORD_LIST" > "$TOP_X_LIST"
 
 # random generate delay from 1000ms to 5000ms
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
 THREADS=$(( ( RANDOM % 5 ) + 2 ))
-gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length $GOBUSTER_ERROR_LENGTH
+gobuster dir --random-agent --retry --retry-attempts 3 -u "$BASE_URL" -w "$TOP_X_LIST" -t $THREADS --delay "${DELAY}ms" --no-color -o "$GOBUSTER_TMP_FILE" --exclude-length $GOBUSTER_ERROR_LENGTH --hide-length --no-status --pattern $PATTERN_FILE
 
 # Check if gobuster ran successfully
 if [ $? -eq 0 ]; then
