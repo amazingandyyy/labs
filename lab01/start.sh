@@ -18,6 +18,7 @@ PATTERN_FILE="$RESEARCH_DIR/patterns.txt"
 BASE_URL=$(echo "$3" | base64 -d)
 AMOUNT=$4
 GOBUSTER_ERROR_LENGTH=$5
+set +x
 
 # deal with backlogs
 getItemsFromBacklogs $WORD_LIST $BACKLOGS_FOLDER
@@ -30,6 +31,7 @@ echo "Processing $AMOUNT items in $WORD_LIST"
 head -n $AMOUNT "$WORD_LIST" > "$TOP_X_LIST"
 
 # random generate delay from 1000ms to 5000ms
+set -x
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
 THREADS=$(( ( RANDOM % 5 ) + 2 ))
 gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $PATTERN_FILE \
@@ -44,8 +46,8 @@ gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $
   --quiet \
   --no-progress \
   --no-status
-
 set +x
+
 # Check if gobuster ran successfully
 if [ $? -eq 0 ]; then
   # Append gobuster.tmp.txt to results/results.txt if it exists
