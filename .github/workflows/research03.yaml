@@ -1,4 +1,4 @@
-name: research02
+name: research03
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/research02.yaml'
+      - '.github/workflows/research03.yaml'
       - 'scripts/'
 
 env:
