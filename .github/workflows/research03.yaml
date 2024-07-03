@@ -12,7 +12,7 @@ on:
 env:
   LAB: lab01
   RESEARCH: research03
-  RESEARCH_TARGET: aHR0cHM6Ly9qb2JzLmxldmVyLmNvLw== # lever
+  RESEARCH_TARGET: aHR0cHM6Ly9qb2JzLmxldmVyLmNv # lever
   PROCESSING_AMOUNT: 100
   EXCLUDE_RESPONSE_LENGTH: 6248
 
@@ -31,7 +31,7 @@ jobs:
           id -a
           go install github.com/OJ/gobuster/v3@latest
           gobuster version
-      - name: lab01-research02
+      - name: lab01-research03
         run: |
           set -e
           $LAB/start.sh $LAB $RESEARCH $RESEARCH_TARGET $PROCESSING_AMOUNT $EXCLUDE_RESPONSE_LENGTH
