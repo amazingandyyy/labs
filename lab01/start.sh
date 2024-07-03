@@ -33,7 +33,7 @@ head -n $AMOUNT "$WORD_LIST" > "$TOP_X_LIST"
 # random generate delay from 1000ms to 5000ms
 set -x
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
-THREADS=$(( ( RANDOM % 5 ) + 2 ))
+THREADS=$(( ( RANDOM % 5 ) + 5 ))
 gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $PATTERN_FILE \
   --exclude-length $GOBUSTER_ERROR_LENGTH \
   --threads $THREADS \
@@ -50,6 +50,8 @@ if [ $? -eq 0 ]; then
   # Append gobuster.tmp.txt to results/results.txt if it exists
   if [ -f "$GOBUSTER_TMP_FILE" ]; then
     cat "$GOBUSTER_TMP_FILE" >> "$RESULTS_FILE" && rm -rf "$GOBUSTER_TMP_FILE"
+    # change to lowercase
+    awk '{print tolower($0)}' "$RESULTS_FILE" > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
     # sort
     sort -u "$RESULTS_FILE" -o "$RESULTS_FILE"
     # remove duplicates
