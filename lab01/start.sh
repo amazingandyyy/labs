@@ -40,12 +40,9 @@ gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $
   --random-agent \
   --retry --retry-attempts 3 \
   --delay "${DELAY}ms" \
-  --no-color \
-  --expanded \
-  --hide-length \
-  --quiet \
-  --no-progress \
-  --no-status
+  --hide-length --expanded --no-status --no-color
+#  --quiet --no-progress
+
 set +x
 
 # Check if gobuster ran successfully
