@@ -1,4 +1,3 @@
-Vastrm
 Flightfox
 BackerKit
 NewsBlur
