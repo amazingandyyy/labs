@@ -65,6 +65,10 @@ jobs:
           git diff
           if [[ $(git diff --stat) != '' ]]; then
             echo "files_changed=true" >> "$GITHUB_OUTPUT"
+            # check how many new lines are added in ${{ env.lab_name }}/researches/${{ matrix.research }}/results/list.txt
+            echo "new_results=$(git diff --unified=0 ${{ env.lab_name }}/researches/${{ matrix.research }}/results/list.txt | grep -E '^\+' | wc -l)" >> "$GITHUB_OUTPUT"
+            # check how many lines are removed in ${{ env.lab_name }}/researches/${{ matrix.research }}/latest.txt
+            echo "processed_results=$(git diff --unified=0 ${{ env.lab_name }}/researches/${{ matrix.research }}/latest.txt | grep -E '^\-' | wc -l)" >> "$GITHUB_OUTPUT"
           fi
       - name: commit
         if: steps.diff.outputs.files_changed == 'true'
@@ -76,6 +80,6 @@ jobs:
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
           git add ${{ env.lab_name }}/researches/${{ matrix.research }}
-          git commit -m "feat(${{ env.lab_name }}): conduct ${{ matrix.research }}" -m "$current"
+          git commit -m "feat(${{ env.lab_name }}/${{ matrix.research }}): ${{ steps.diff.outputs.new_results }}/${{ steps.diff.outputs.processed_results }} positive results" -m "$current"
           git pull --rebase && git push
           set +x
