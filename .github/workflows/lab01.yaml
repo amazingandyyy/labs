@@ -56,9 +56,26 @@ jobs:
         id: research
         uses: ./.github/actions/lab01
         with:
-          lab: ${{ env.lab_name }}
+          lab_name: ${{ env.lab_name }}
           research: ${{ matrix.research }}
-      - name: push
-        if: steps.research.outputs.files_changed == 'true'
+      - name: diff
+        id: diff
         shell: bash
-        run: git pull --rebase && git push
+        run: |
+          git diff
+          if [[ $(git diff --stat) != '' ]]; then
+            echo "files_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: commit
+        if: steps.diff.outputs.files_changed == 'true'
+        shell: bash
+        run:  |
+          set -x
+          current=$(date)
+          git config --global user.name 'scientist'
+          git config --global user.email 'scientist@amazingandyyy.com'
+          git status
+          git add ${{ env.lab_name }}/researches/${{ matrix.research }}
+          git commit -m "feat(${{ env.lab_name }}): conduct ${{ matrix.research }}" -m "$current"
+          git pull --rebase && git push
+          set +x

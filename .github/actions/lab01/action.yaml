@@ -4,7 +4,7 @@ inputs:
   research:
     description: 'Research name'
     required: true
-  lab:
+  lab_name:
     description: 'Lab name'
     required: true
 runs:
@@ -27,30 +27,6 @@ runs:
     - name: Execute research script
       run: |
         set -e
-        ./${{ inputs.lab }}/start.sh ${{ inputs.research }}
+        ./${{ inputs.lab_name }}/start.sh ${{ inputs.research }}
         set +e
       shell: bash
-    - name: diff
-      id: diff
-      shell: bash
-      run: |
-        git diff
-        if [[ $(git diff --stat) != '' ]]; then
-          echo "files_changed=true" >> "$GITHUB_OUTPUT"
-        fi
-    - name: commit
-      if: steps.diff.outputs.files_changed == 'true'
-      shell: bash
-      run:  |
-        set -x
-        current=$(date)
-        git config --global user.name 'scientist'
-        git config --global user.email 'scientist@amazingandyyy.com'
-        git status
-        git add ${{ inputs.lab }}/researches/${{ inputs.research }}
-        git commit -m "feat(${{ inputs.lab }}/${{ inputs.research }}): conduct research" -m "$current"
-        set +x
-outputs:
-  files_changed:
-    description: 'Indicates if any files were changed'
-    value: ${{ steps.diff.outputs.files_changed }}
