@@ -29,7 +29,8 @@ echo "Processing $AMOUNT items in $WORD_LIST"
 
 # Create a temporary wordlist file with the top X items
 head -n $AMOUNT "$WORD_LIST" > "$TOP_X_LIST"
-
+# print how many lines in the file
+echo "Total lines in $TOP_X_LIST: $(wc -l < $TOP_X_LIST)"
 # random generate delay from 1000ms to 5000ms
 set -x
 DELAY=$(( ( RANDOM % 4000 ) + 1000 ))
@@ -59,7 +60,8 @@ if [ $? -eq 0 ]; then
   fi
 
   # Create a new temporary file for tail operation
-  tail -n +$((X + 1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
+  echo remove $AMOUNT amount of lines from $WORD_LIST
+  tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 
   # Overwrite the original wordlist with the tail tmp file
   cp "$TAIL_TMP_FILE" "$WORD_LIST"
