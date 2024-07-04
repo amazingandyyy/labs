@@ -2,6 +2,7 @@
 https://jobs.ashbyhq.com/able
 https://jobs.ashbyhq.com/ableai
 https://jobs.ashbyhq.com/abridge
+https://jobs.ashbyhq.com/accend-app
 https://jobs.ashbyhq.com/accord
 https://jobs.ashbyhq.com/aerotime
 https://jobs.ashbyhq.com/affinity
@@ -51,6 +52,7 @@ https://jobs.ashbyhq.com/deepsource
 https://jobs.ashbyhq.com/docker
 https://jobs.ashbyhq.com/doppler
 https://jobs.ashbyhq.com/ello
+https://jobs.ashbyhq.com/empower
 https://jobs.ashbyhq.com/enode
 https://jobs.ashbyhq.com/extend
 https://jobs.ashbyhq.com/fable
