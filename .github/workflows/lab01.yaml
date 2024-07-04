@@ -58,7 +58,7 @@ jobs:
         with:
           lab: ${{ env.lab_name }}
           research: ${{ matrix.research }}
-      - name: commit to main branch
+      - name: push
         if: steps.research.outputs.files_changed == 'true'
         shell: bash
-        run:  git push
+        run: git pull --rebase && git push

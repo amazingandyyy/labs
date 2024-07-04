@@ -8,7 +8,9 @@ RESEARCH_NAME="$1"
 INSTRUCTION_YAML="$CURRENT_DIR/researches/${RESEARCH_NAME}/instruction.yaml"
 
 # Extract values and assign to variables
+echo "Hash is $(yq e '.research_target' "$INSTRUCTION_YAML")"
 RESEARCH_TARGET=$(yq e '.research_target' "$INSTRUCTION_YAML" | base64 -d)
+echo "RESEARCH_TARGET: $RESEARCH_TARGET"
 PROCESSING_AMOUNT=$(yq e '.processing_amount' "$INSTRUCTION_YAML")
 EXCLUDE_RESPONSE_LENGTH=$(yq e '.exclude_response_length' "$INSTRUCTION_YAML")
 RESEARCH_DIR="$CURRENT_DIR/researches/${RESEARCH_NAME}"

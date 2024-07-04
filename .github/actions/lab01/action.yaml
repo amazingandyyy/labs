@@ -51,6 +51,6 @@ runs:
         git commit -m "feat(${{ inputs.lab }}/${{ inputs.research }}): conduct research" -m "$current"
         set +x
 outputs:
-  file_changed:
+  files_changed:
     description: 'Indicates if any files were changed'
     value: ${{ steps.diff.outputs.files_changed }}
