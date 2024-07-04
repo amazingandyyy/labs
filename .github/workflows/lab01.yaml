@@ -53,6 +53,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Run research job
+        id: research
         uses: ./.github/actions/lab01
         with:
+          lab: ${{ env.lab_name }}
           research: ${{ matrix.research }}
+      - name: commit to main branch
+        if: steps.research.outputs.files_changed == 'true'
+        shell: bash
+        run:  git push

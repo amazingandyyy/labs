@@ -1,20 +1,11 @@
 name: 'Lab01 Research Action'
 description: 'Performs automated research tasks for Lab01'
 inputs:
-  lab:
-    description: 'Lab name'
-    required: true
   research:
     description: 'Research name'
     required: true
-  research_target:
-    description: 'Base64 encoded research target URL'
-    required: true
-  processing_amount:
-    description: 'Number of items to process'
-    required: true
-  exclude_response_length:
-    description: 'Response length to exclude'
+  lab:
+    description: 'Lab name'
     required: true
 runs:
   using: 'composite'
@@ -31,6 +22,7 @@ runs:
         sudo add-apt-repository ppa:rmescandon/yq
         sudo apt update
         sudo apt install yq -y
+        yq --version
       shell: bash
     - name: Execute research script
       run: |
@@ -46,7 +38,7 @@ runs:
         if [[ $(git diff --stat) != '' ]]; then
           echo "files_changed=true" >> "$GITHUB_OUTPUT"
         fi
-    - name: commit to main branch
+    - name: commit
       if: steps.diff.outputs.files_changed == 'true'
       shell: bash
       run:  |
@@ -56,8 +48,9 @@ runs:
         git config --global user.email 'scientist@amazingandyyy.com'
         git status
         git add ${{ inputs.lab }}/researches/${{ inputs.research }}
-        git commit -m "feat(${{ inputs.research }}): research on ${{inputs.processing_amount}} items" -m "$current"
-        git pull --rebase
-        git push
+        git commit -m "feat(${{ inputs.lab }}/${{ inputs.research }}): conduct research" -m "$current"
         set +x
-
+outputs:
+  file_changed:
+    description: 'Indicates if any files were changed'
+    value: ${{ steps.diff.outputs.files_changed }}
