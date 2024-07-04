@@ -24,7 +24,7 @@ jobs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Find directories with instruction.yaml
         id: find-directories
         run: |
@@ -45,14 +45,14 @@ jobs:
   research:
     needs: find-research-projects
     runs-on: ubuntu-latest
+    continue-on-error: true
     strategy:
       matrix:
         research: ${{ fromJson(needs.find-research-projects.outputs.matrix) }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Run research job
         uses: ./.github/actions/lab01
         with:
-          lab: ${{ env.lab_name }}
           research: ${{ matrix.research }}

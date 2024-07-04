@@ -27,13 +27,15 @@ runs:
       run: |
         id -a
         go install github.com/OJ/gobuster/v3@latest
-        apt-get update && apt-get install -y yq
         gobuster version
+        sudo add-apt-repository ppa:rmescandon/yq
+        sudo apt update
+        sudo apt install yq -y
       shell: bash
     - name: Execute research script
       run: |
         set -e
-        ./${{ inputs.lab }}/start.sh ${{ inputs.lab }} ${{ inputs.research }}
+        ./${{ inputs.lab }}/start.sh ${{ inputs.research }}
         set +e
       shell: bash
     - name: diff
