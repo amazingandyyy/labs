@@ -1,10 +1,10 @@
-https://jobs.lever.co/flex
-https://jobs.lever.co/policyfly
 https://jobs.lever.co/catch
+https://jobs.lever.co/clearspace
 https://jobs.lever.co/cofactr
 https://jobs.lever.co/doola
 https://jobs.lever.co/eligible
 https://jobs.lever.co/enso
+https://jobs.lever.co/flex
 https://jobs.lever.co/fuse
 https://jobs.lever.co/gather
 https://jobs.lever.co/grid
@@ -15,6 +15,7 @@ https://jobs.lever.co/notabene
 https://jobs.lever.co/obie
 https://jobs.lever.co/osmind
 https://jobs.lever.co/pelago
+https://jobs.lever.co/policyfly
 https://jobs.lever.co/shasqi
 https://jobs.lever.co/teleport
 https://jobs.lever.co/termius
