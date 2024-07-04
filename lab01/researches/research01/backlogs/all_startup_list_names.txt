@@ -1,101 +1,73 @@
 QualityGPTs
 VolunteerSpot
-WP Engine
 MarketVibe
 SubtleData
 AppSumo
 Reaction
 Bazaarvoice
-NowBoarding ✈️
 Riskpulse
 Cratejoy
-Plum - The Light Switch Reinvented
-Chasm.io
 PublikDemand
-Invitation codes
 Umbel
 OwnLocal
-Gone!
 OtherInbox
 Zing
-Able Lending
-Visible Health
 Numerous
-Filament Labs
-Mass Relevance
 Greenling
 Toutpost
 Ordoro
 Postmaster
 Nuve
 MailLift
-Atlas Wearables
 Infochimps
 RideScout
-Mastercoin Foundation
 HelpJuice
 TrendKite
 Remark
-National Instruments
 ProtoExchange
 Forecast
 Boxer
 Shelfbucks
 Togga
 Pristine
-Ricochet Labs
 Equipboard
-Edgecase (formerly Compare Metrics)
 uThinkTank
-Chiron Health
 vivogig
 TabbedOut
 Goodybag
 Embrace
 Mahana
 reQwip
-DoStuff Media
 ihiji
 SpareFoot
-Whole Foods Market
 GameSalad
 Favor
 Fosbury
 Thread
 Axelo
-Hoot.Me
-Kenguru, Inc.
 Famigo
 MyTennisLessons
 Engine
 GroupCharger
 BlackLocus
-Freescale Semiconductor
-Local Plant Source
 Anvil
 Apptive
 Phunware
 Gowalla
-Fashion Metric
 Clarify
 Kwelia
 LawnStarter
 tweetTV
 OneSpot
 Indeed
-Loop and Tie
-Cloud 66
 Datafiniti
 SwimTopia
 VisualKite
 HomeAway
-Aunt Bertha Software
 Bloomfire
 Balcony
 Vobi
 SpeakerMix
-Set.fm
-Lynx Laboratories
 RealSavvy
 latakoo
 aDealio
@@ -105,22 +77,17 @@ NuHabitat
 Written
 re3D
 ManeGain
-Cam.ly
 RealMassive
-Hyperwear®
 WigWag
 MeetMeTix
 Moodfish
 DaBL
 QuantAdvisor
 RunTitle
-Smart Picture Technologies
 SalesVu
 Burpy
 Upswing
-Solspot Systems
 Planana
-9W Search
 Bractlet
 Cospace
 Meritful
@@ -135,248 +102,148 @@ Datastax
 Simplytapp
 Toopher
 Solarwinds
-Innovate Wireless Health
-Power Smart Labs
 Traitwise
 RaceTechs
 Pingboard
 TripChamp
 Pictrition
-Firefly Space Systems
 ThoughtLeadr
 FreeTextbooks
-WhaleShark Media
 BeehiveID
-Property Maps
-uShip.com
 ReviewPush
-Suvola Corporation
-Dachis Group
 44Doors
-TPG Capital
-Articulate Labs
 Spanning
 Voxle
 TrustRadius
-Polygraph Media
-TeleStax, Inc.
-Experiment Engine
-Impossible Ventures
 AiroCorp
 Dropoff
-Wide Open Media
-Akimbo Card
 Borland
-Eye in the Sky Collective
 Balderdash
-The TechMap
 Keepstream
-Real Good Technologies
 Convio
 SocialWare
 Vignette
-API Network
 NarrativeDx
 Savara
 Guava
 Spiceworks
-HumaniTV: Media | Tech | Film
 iM5
 Totem
 usabiliTEST
-Jutera Labs
 Curb
-Demand Genesis
-Student Loan Benefits
 Localeur
 OP3Nvoice
-Jackrabbit Mobile
 Storyboarder
-Lawful.ly
-Cloud 9
 CrowdTogether
 Obsidian
-Flash Valet
 WhatsBusy
 Supermechanical
-Amplifier®
 Prepify
 ClearBlade
-SubjectMatter, Inc.
-Civitas Learning
-Pivot Freight
 Recipeas
 Unseen
 NetworkLift
 Blurtt
-Pivot Planet, Inc.
 Spredfast
-Factom Foundation
-YARD BAR
-Local Magnet
-International Accelerator
 MakerSquare
-Predictable Data
 VICTIV
-k Power
 Beaglo
-Portable Boutique Inc.
 Zello
 StreamVine
 Appconomy
 Mapmyfitness
 Cheggin
-eRelevance Corporation
-Story Ark
-Joust, Inc (joust.com)
 FanSided
 Tripeezy
 UnaliWear
 YouRoam
 eyeQ
-Key Ingredient
-LF Tech
-Lucid Holdings
 Skyence
 Motive
-InView Technology
-Kin Valley
-TOTUS Solutions, Inc.
 CheffedUp
-Cutting Edge Gamer
 ThaTrunk
 Cinegif
 Smackages
 Treeline
 9STAR
-CLEAR Technology Systems
 Entreave
 Stat
 FitChimp
-Chef 52
 Etuvian
-SocialMedia.org
 LoveLife
 Kambit
 FlowBelow
 Cinetics
-No Chains
-Truth Spirits
-Harte-Hanks
 SiliconHillsNews
 TalentGuard
 Siminars
 Jobhuk
 SchooX
-Shockwave Innovations
-entre ventures Inc.
-RetailMeNot, Inc.
 vThreat
 NeedTo
 Cloudmasons
-Escapaide Travel
 Snoball
-Book In A Box
 FooFic
-Jackson Electronics
 Perficient
-Lionheart Software
 121Giving
-Method and Craft
-Continuum Analytics
 BrewDrop
-new earth
 Enlyton
-Moniker Guitars
-Digital Proctor
-Enzoology Education
 Clubhouse
 NetSpend
 Repetual
-Guns & Oil Beer USA
 Ateamo
 Presentista
 TasteBud
 IdealSpot
-Martell TV
 wiBubble
 SQMOS
 Curvio
 Harvest
 Basedrive
 Caseflow
-Something Local
 RigUp
-Agent Aquarium
-Square Root
 ehco
-Help Find Care
 AppKeyz
 Moboscope
-Jaja.tv
 Book512
-Real Time Deals
 LifeScribe
 ProductionCliq
 Tugg
-Rail Yard, Inc.
-SA Trails
 Tutorary
-Better Voice
-VChain Solutions
 ePatientFinder
 Searchify
-What's Your Network?
 Pinecone
-3 Frogs Studios
 ManagerComplete
 baqpak
-Retired Astronaut Collective
 Paybook
-Zilker Brewing Company
 WeTique
-Common Tastes
-Soule Mobile
 sonarDesign
 JumpUpon
 FantasyHub
 noki
-EMuse Creative/Social Lube
-Peepsqueeze Inc.
 Barkr
-EZPay, Inc.
 Ladar
 theDrop
-MyBiz Central
 Volusion
-BullTiger Productions
 Gritness
 Vinveli
-Bee Cave Games
 Querium
 CollaborateCloud
 BlinkSend
 BONVU
 BallotBook
-Cubit Planning
 culturebooster
-Software Sandbox
 AskU
 Shiftt
 Jellifi
-Young Potential Development LLC - YPD
 Crowdflair
 Skillow
-Waiting Room
-Fit Steady
 Multimorphic
 FlickFire
-Challenge Games
 icanmakeitbetter
 Digby
 TEKVOX
 Mentegram
-Demand Food
 Ticketbud
 BuildForge
 KUTOA
@@ -385,7 +252,6 @@ peeple
 Hotlease
 PetParent
 HapBack
-BOOTLEG MARKET
 PeopleFlow
 Dealuv
 LitRagger
@@ -393,128 +259,68 @@ SlideHealth
 G2Link
 RightGift
 VoiZapp
-Troux Technologies
 EarthBenign
 MyEdu
 PitchDeals
 Homenity
-Lodestone Social Media
-Feel Rich
-Spout Software
 AgileBid
 RxWiki
-L Style G Style
-Lazydaze Counterculture
-General Governance
 CoachTube
 mowgoo
-Vichara Health
-Netero, Inc.
 uryaen
-Ice.com
 makexyz
-Lab7 Systems
-HeroBureau!
 tripgather
 TwitrPix
 Common
 Foodsitter
-Solarbridge Technologies
 Profitfuel
-Wiki-PR
-Advanced Hydro
 Orby
 UpgradeUSA
-Top Tier Rides
-BlueHub Health
-HelpAttack!
 GetPromotd
-Let's Do X Technologies
 GroupWink
 DRAFT
 Exponchal
-HomeFree America
-Nadine West
 VoterTrove
 Accruent
-DreamFunded of Texas
-TradeStone QA
 FitRankings
-Bat Bridge Interactive
 Perkly
-Motion Computing
 StackEngine
-how do you roll? creative asian kitchen
-Buy From Farm
 MightyBark
-Quantified Communications
 MarketZero
-FIT 2 CHEER
-Global Communication Leader Inc.
 CSIdentity
-Boundless Network
 Pluck
-Help.com
 Altruus
 Trunkist
-Bigwig Games
 Itography
-Tech Hustlers
-Nodify Inc.
-Political FORCE
-Xyber Technologies
 Shango
 Technium
 StormPins
-Notice Technologies
 LawThru
-MPOWER Mobile
 Refynr
-Front Gate Tickets
 AIRSHP
 LeedSeed
-Greenhouse Investment Fund LP
-Spring.net
 Servuss
-Amped Asia
-YETI Coolers
 misePOS
-Real HQ
 ReachForce
-Dezzie Dough
-Brew Cupid Coffee Co.
-MedicSana.com
-Tech Hustlers
 PipCoin
-Noti-Fi™
 Pushmote
 CDE
 Prista
 Peach
 ArtHaus
 Everfest
-Main Street Hub
-Silicon Laboratories
 FLAVORgate
 FoTacts
 LessonUp
-Health Information Associates
-BrightLocker, Inc.
 PageLines
 PurpleSight
 TaskTrak
-CTAN - Central Texas Angel Network
 Academiacs
 Powered
 Audiotoniq
 Deohako
-Circular Energy
-Vista Equity Partners
-DARKNICER - A Major Motion Picture
 ZINGwater
 Besomebody
-Tango Health
-Lombardi Software
 LooksyTV
 Sociometri
 Invodo
@@ -522,1076 +328,491 @@ Huzzah
 FrameBuzz
 Calxeda
 Ziqqu
-transapi.io
 StoryPress
 ActiveProspect
 Loopfirst
 TapSavvy
-Atomic Axis
-Mise, Inc.
 SocialMatterz
-Empower Lounge
 WhoType
 Isocline
 MessageOne
 luminate
 IntelliBright
 Workstreamer
-piq Chocolates
 Plushkies
 Whittle
 CoinTerra
 PerfectlyNOT
-LugIron Software
 Wavecation
-Walking Papers Media
 Gather
-Sake Social
-TurnKey Vacation Rentals
-Deep Reason
 Healthsend
 Rappora
-Spawn Labs
-Red Rabbit Cooperative Bakery
 SwitchUp
 RackFox
-Med 2 You
-Exigo Energy Solutions
 NXTPass
 KaiNexus
 ThankThankNotes
-Biocentric Developments
-Scarab Entertainment
-FirstPower Energy
-SE Rising
-Phox Charge
 Tapdox
-Vital Interaction
 Keystoke
-Happybelly Box
-Local Food Roots
 MaglevTrans
 PwnedList
-Gazelles Growth Institute
 Gluu
 Refynr
 Sooth
-Ringful Health
-Key to the Street
-YOUnite Mobile
 FaceLogique
 CourseStreet
 Alegion
-Savara Pharmaceuticals
 Pi
-LookOut Social
-Goat Man's Hill
 HomQi
-Vital Herd, Inc
 ShareAd
 Truehome
 DwinDeal
-Shark Pond
-BrighterMoon Productions
-Nicely Noted
 Atrasti
-Metreos Corporation
-Jernie Group
-UnWired Nation
 CloudFixer
 Stixlink
 Newcomlink
 Surgient
 Canopy
-Treasure Listings
-Pilot Credentials
 BarkHappy
 Text4Takeout
-The CSR Group
-Car-E Diagnostics
-HomeChecks/Homeminders
-Frontier NanoSystems
 Jigzle
-Modern Pictures
 Weeli
 MyLeadConverter
 CrossMyPath
-Health Technology Solutions
 Bevi
 AdvanceClaim
-Under Armour Connected Fitness
-Stretch Recipes
 DraftCrunch
 GRANDEX
 ApartmentFetch
 BuysForBrides
 CareFlash
-Tenduit Software
 eduMarket
-Sockwork: Socks With A Purpose
 Urbee
 Clyp
 BlockAuth
 TeacherGraph
 StackOps
-Well Beyond Care, Inc.
 MSpaces
-VTEL Products
 Wonders
-Virtual Sales
-Moolala.com
-Krystallize Technologies
 GOOOH
-Texas Capital Real Estate
 iMonitron
-JamKazam, Inc.
-bEcosystems, Inc. dba bCommunities
-Interplay Learning
-PawnMyStartup™
 VeritasU
 PeerLearn
-Build A Sign
 MusicList
-Tangerine Power
-VVV Capital
 RoverPass
 Zipinion
 architectWare
-Rosewater Holdings
-2MB Software
 NapkinVenture
-White Cloud Security
 semipreciouscom
-Reach Consensus
-Zebra Imaging
-Aspyr Media
 MetroSeeker
 FoxySoft
 Stereocast
-Ziften Technologies, Inc.
 Boomerang
 vPhysicians
-BeatBox Beverages
 Pollspace
-The Site Slinger
-All Web Leads
-Cross Systems Consulting
 FrontYrd
 PlanSXSW
-Tropaion Publishing
 Basanty
-Phurnace Software
-AlphaCloud Labs
-JobJybe - Baustin Sailworks
 FunBills
-Big Data Elephants
-On Networks
-Crippled Shark Holdings
 Pivit
-Alert Media
-Level Seven
-Convenience Select
-OneSeventeen Media, Inc.
-Lively Meeting
 Melt
 StickyPop
 CLOUDEE
-Light Arc
-Toochill Games
-MyDerm Portal
 Broomly
 EnviroMedia
-Hunting Locator
-Bastrop Texas Opry
 Mashboard
 TextURMind
-National Security Technology Accelerator
-VR Business Sales, Mergers & Aquisitions
-Contractor View
-SourceDay.com
 LeagueCast
 aKtivitiZ
 Blipic
-Cake Intake
-Student Spaces
-Light Bohrd
-Austin Fitness Rentals
-Ben's Friends
 Health4Life
 CraftLaunch
-Mimir Health
 Invoiced
-B-Side Entertainment
 Kloc
 Proposalware
-Red Tag
 Libredigital
 Sparove
-Minicore Studios
 tradified
 ESPEROS
 Zennity
-FWB Loyalty
-Austin Texas Opry
 Conjunctured
-Integrated International Supply Chain
-HumorQ - An IQ Score for Humor
-EZ2B Seen
-Four Kicks Marketing
 Hyper9
 Gush
 StoredIQ
-Body Lingo
 JustGolf
-BenCo Valet Trash Service
 Zilliant
-Zen Image
 Bridetab
 FindAMassage
 XSEO
-Sailpoint Technologies
 Cingo
-Neon Mobile
 Ghostpost
 Prize
 TrackingPoint
-Vinveli Unmanned Systems
 GivePulse
 Psymily
 SafeLain
-Good Seed
 SubjectWell
 Interact
 CrwdServ
 LucidTour
-Moonlight Social
 CoreFitX
 Sort
 JamFeed
-Mynt Box
-Venturephile | Venturephile.com
 GrubBid
-Launch Society
-Drujo Promo
 Appilicious
-Send on Behalf
-K.R.I.P.Media
-MyMedLeads.com
 Stoodify
 Bisontex
 iDigity
 RezOvation
-EcoMax Oil and Gas
 AlterPoint
-Get More Sessions
-DataNovo, Inc.
 dgeo
-BidAnswer Corp.
 Mise
 NetQoS
 HelioVolt
-Hop-In.us
 Macheen
 MONKEYmedia
 PerkPals
 MMC
-Pet Relocation
 PhoenixArtistry
-esi Technologies
-Nomad Pad
-Start-UP Blaster
-Storefront Social
 Handsome
 FeedMagnet
-Collider Media
-Greenstar Goods
-Enola Labs
-Apollo Vibes
 TenantCloud
 Dox
 METROREAD
 Callbox
-The Yoga Recipe
 Piazzo
-Nerd Patrol (US)
-EduSync, Inc.
 CopyRightNow
 1glance
 Flexter
-The Austin Trail Running Company
-ENTvantage Dx
 Praetorian
 Appnami
 finservMarketing
 GoalShare
-OAG Analytics
-Phoenix Arising Aviation Academy
-Real Estate Safe Agent
-Domain OMS
 SocialSell
 MovableAds
-Digital Touch Systems
 LeafDistrict
 XODIS
 ThinkVoting
 KeySEO
-Nuvola Networks
 Plansify
 Preschool2me
-International Children's Month
-Noesis Energy
-PJNJ Enterprises
-Kinzer Projects
-Acceleros Labs
-ContainerHomes.Net
-Ascendant Technology
 Ysper
-Earthling Technology
 Beehive
 UnboundID
 GunSafe
 incular
 BeeM
-Weird Coupons
 Thoughtback
-P-Asl Development
 StillOpen
 BodModz
-Exact Drive
-Quarri Technologies
 YellowCardinal
-Exemplar Technologies
-Apple Energy Group
 CollegeSocial
 OverEcho
 PlanSXSW
 GARDConnect
 beDJ
 ProspX
-Admosphere, Inc.
-B2 Viita
-Bucking Bee Vacation Resort, Inc.
 Clickjolt
-Bliips Media Inc.
-The Venture Market
 Xtructure
 MobilePD
-Together Mobile
 FindAFax
-Stand Up Apps
-River City Geo
 InfoTrellis
-B Gorgeous
-FundFit Collective
-Cake Society
-Crafted Pours
-World Entomophagy
-@BizPortalz
-Get Smart Content
 MultiplyMe
 5by5
-Pecan Power
 LaughHalf
-Zenkata IO
 AgileLaw
-FLM.TV
 MathMarker
-GeoActive Group
-The New Office, Inc.
-ESO Solutions
-EdTech Austin
 OtOmodeal
-S3 Matching Technologies
-Quickdrop 24/7 Laundry and Dry Cleaning
 Mashbox
 Augmentix
 SproutBeat
 Illumitex
 Scripbe
-Sinfra Resources
 SKYLIST
-XOR Data Exchange, Inc.
 Kimbia
 DocbookMD
 BlankMediaGames
-Qlue, Inc.
-Alpha Turtle, Inc.
-Javelin Semiconductor
 HuBoard
 ReIntent
 Movero
-alexlefur.net
-Cover Me - Austin Music Reality Show.
-United Devices
 Detangl
 Gazzang
-Whiteglove Health
-VXN Performance
 TicketKarma
 Newgistics
 AwesomeRobo
 Inkscreen
-Reticent Media, Inc.
 plnnd
 Okudos
 Adbongo
-Vandelay Education
 MunchyMart
 DiCheetal
-Access The Night
-First Earth
-Retargeting Buddy
 GetMeFriends
 StillOpen
 Zutsvi
-The Tutoring Center
 Spekkle
-Plutopia Productions
 Phlybuy
-Culinary Calendar
-TV Scout
-Later, Dog
 Rallyhood
 mPrinter
 Tribe25
 Crowdini
-Paragon Expeditions
-Click Security
-Sentient Labs
 LazyCatch
 GuruStorms
-Dream Clowd
 Previsio
 PeopleAdmin
-The Beatpacking Company
-Virtual World City, Inc.
 Sharegate
-Onko Solutions
-Adscend Media
 IndieHouse
 CloudAround
 ITDataLocker
 Telepathik
 Appcasher
 BookAround
-Real Good Apps
 Qlue
-Return on Mission
-Parental Mingle
 TrackingPoint
-BroadBrush Ventures
-Herb'nCup
-Upland Software
-Cat Sniper
 Foodforks
 Comnio
 Talligent
 Burro
 Affinegy
-Cognitive Scale
 SocialSmack
 uControl
 CrossMyPath
 Activerse
 TourGroove
 Nextio
-Vuevent Inc.
 Unsubcentral
-NaturalNut Soapnuts
-Zync Up
 Adometry
-Freebitcoins.com
 Myturf
-IR Smartt
 Kampfire
 Callbox
 Uplogix
-Horse Facts
-tutor.
 HoverStat
 Actacell
 TopShelf
 Kalisi
-Ortho Kinematics
-Vigil Games
 VaultSwap
-Compound Productions
-Compound Productions
 SpiritCape
 UnaPulga
 Capzure
-Brain Based Education
-Onyx + Pearl
-Vital Farms
 PartingOut
 Veribuy
-Replay Games
 Witit
-Card Watchdog
 Groove
-Texas Made Productions
-The Bones & Company
-MyRouter Stats
-Virality Score
-Veros Systems
-Rocksauce Studios
 Eborhood
-Nuclear Salad
 Temptoy
 Mavenr
 Unightus
 Gamyl
-DIG Creative Studios
-Chris Rivas
-Parental Docs
 AccessiTec
-Austin Center for Design
-Primal 7
-Assist 2 Develop
 SharpCart
 SideGig
-Budget Infographics
 VisaEase
-The Research Exchange
-Healincomfort.com
-Martell Broadcasting Systems, Inc.
 FEDI
 cutetogether
 SpeakerStack
-Video Review Labs
-Business Building Academy
-Amy Laverentz, Culture Architect
-Katie Kime
-HoopdieCars.com
 QuickLeaser
 Pync
 CoolMellon
-Scalar Security
-Local Lens
-Howler Brothers
 PaperBox
-AllClear ID
 TosUp
 7letters
-Albino Dragon
 Stamps
-Red Fox Clan
-VacationRentalsForSale.com
-Open Labs
 Gundriver
-Building 10 Technology
-The Ugly Monkey USA
-National Surgery Network
 ReactMail
 ReelAgent
-Vidwal Partners
 Nextance
 SureUp
-PastPartnerReview.com
-Pivotal Defense
 beek
-Say Something Nice
-Sway Water
 Permedly
-Teres Solutions
 Poundr
-Bambizo Inc.
-Perception Software
-Lessons.com
 FameCast
 NuPark
 DogTelligent
-Crocodo.com
 Dawgtown
 Callvine
 Skyonic
-Disco Melee
 SunMath
-Bohemian Innovation
-Yan Engines
-Live Fast Soccer Center
-Space Chimp Media
-Too Much Sense Productions
 Simgine
 Whimventory
 STT
 LonghornLeasing
 EventEdge
-Gypsy Grove Foods
 Journyx
-Bfit Industries
 Raggss
 Stockd
-Small World Labs
-The Ascender
 Texai
 Ionic
-NaturalNut Soapnuts
-Locate Special Diet
 SkaFlash
 Streamstep
-Fluid Innovation Group
 Personably
-Ultimate Transfer Deadline
-Mint Public Relations
-Deviance Collection
-Helpjuice.com
-Crowd Nine
-My Donation Page
-Complete Web Resources
-All American
-QuoteStacker.com
 BulletnBoard
 Uberpong
 Jumpshot
 WriterDuet
-Event Canvass
-Dinosaur Games
-RBD Adaptive
 VUSIO
 Kinn
 MaglevTrans
-Start-UP Blaster, Inc.
 NetGend
-Class Clown Pictures
-Anderson Wolfe Consulting™
 EtsyPress
 Apps4Just99Cents
 BoutiqueIn
-CDN Sumo
-SYNC Your Household
-Cardiac Designs
-Modern Whole
-Built In Austin
 TeamWell
 ParXit
 Penny
 SCS
-Math Monsters
-Latino HealthCare Forum
-New Crew
 CoLauncher
 Dossant
 SceneScout
-Job BOLD
-Rooster Teeth Productions
-Perissos Life
-Ruckus Makers
-Denko Coburn Lauff
-Revolver Social Media, Inc.
-HereBy.Us
 NuFrenz
-Cutie Patootie's Playcare
-Live Vicarious
 Popup
-Folded Labs
-Wiederaenders Law Firm, P
-Cleanovative Solutions
 SnipFeed
 DanceHub
-Ginaraq PR
-Inspect & Cloud
-Broca Worldswide
 Identyx
-Quaresso Software
-nGenera Corporation
-BedandBreakfast.com
-Statified Sports
 Prefinery
-Agile Precis, LLC
-Alliance Tech
-Science Delights
-Puro Coding
 Polsense
 SensorTran
-JAM Technologies
-May Designs
 DineStein
 PedalPoint
-Global Genius Society
 Nabaroo
-Powershift Group
-Amazing Academy
 OnePay
-Uprizer Labs
-Rock Ridge Games
 uStudio
 Uvumi
-Vertical Information Systems, Inc.
-Unison Health
-Drone Labs
-Virtual Staging Solutions
 GoghBid
-Start Up Katalyst
-Tejas Securities Group
 RevoStars
 StuffAboutYou
 Medici
 TrailerQ
 ladyberd
 STXNext
-Texas Indie Fest
-Moth to Flame
-Project U+221E
-Kot-in-Action Creative Artel
-PRO Valet Trash
 VZAZZ
 Flirtive
-Stirrables Straws
-CSO Research
 ArsenalApps
-Big PlayAR
-Texas BBQ in France
-Belly Ballot
-Supp Stacks
-IsSomethingGoingAround?
 Abiie
-Fat Dog Mobile
-Adrian World Design
 LightArrow
-Galaxy Corporation
-Reliant Controls
-Pancake Canoe
-Kooper Family Whiskey Company
-Rob's New Venture
-Virtual World Search
-moAD Labs
 Canary
-Spotlight Talking Hands Films
 Frohne
 TinyAct
-State of Debate
 Architect
-Accent Network, LLC.
 Salesavvy
-Shield Safety International
-CBANC Network
 2313
-Red LaGoon Studios
-AllappsMOBILE, INC.
-Code Arcade
-sìloz
-MediaTech Productions
 JamKazam
-Aletheia Interactive
-Fruit Salsas
-drawscreen.tv
 Spotlight
 NeteGreek
-StructuredDomains.com
 NullReviews
-The Fresh Idea Group
-AMD Ventures
-unedollar(unecloud)
-Victory Medium
-My Neat Lawn
-DeFord Logistics
 GoldenCricket
 Noow
-Kuralcorp.com
-Goebel Cruise Lines Corp.
-Blue Water Mining
-O.d.o.m
-Bitcoin Charm
-USA VIP Passport
-Deet.io
 Globaloria
-Accessibility Suite
-First Choice Pet Care
 Enspire
-ClassiFye.com
-Slix Media
 OmniBAK
-Scale My Tech
 Friendesque
 Wisegate
-Sante Ventures
 Timepeeking
-BirdHouse, LLC
-Peddler.io
 SalesCart
-Wetzel Blade, Inc.
-Austin Coding Academy
-Radical Science News
-Cooley Investments
 Realm
-Uryaen Productions
 Uptown
 Vitreno
 ShopSnap
 Tastegraphy
-Tap Fiction
-Chip'n Ship
 LIANet
-Metropolis 2100
 GlassWire
-Fifteen Five Corporation
-Vertical Technologies
 LeanDNA
-TechEndeavors Industries
-Crebo.co
-Blue Yonder Labs
-Distributed Credit
-Studio Gix
-Joan Manning
-Arsenal Products
-YieldWolf.com
-Tuneburg.com
-Ambiq Micro
-Got Reps, Inc.
 HealPal
-NanoWatt Design
 meshop
-2FA Inc.
 Macromoltek
 Emoters
 Phocrastinate
 TeacherSherpa
 DOITQK
-BioDAF Water Technology
 ITC
-Tuple Labs
-containerhome.biz
 Nominate
 Binocular
 Tecovas
 FoundersCard
-Williams Technology Group
-The Bureau
 Signagely
-Mitigation Assistant
-Megatherium Press
 Freshex
 Peeptrade
-Ninja Partners
-Lucky Wild Cat Software
-Frederick Mountain Group
 Conformity
 CloudioWeb
-AGulent Agronomics
 QikCom
-Inova Labs
-Lost Treasures
 Thoof
 GAMEWAGER
-Lucid Crew
-Valley Hills Capital
-CardPaymentOptions.com, Inc.
-Lyric Champ
-Outer Circle
 CoveredntheWORD
-Y.A.R.G
-Reflex Design
-Webify (Acquired by IBM)
 Fitnesearch
-Oregano Mobile
 Zehicle
-Medusa CMS
-wantANDfound.com
 Shangby
-The Fowler Law Firm
-Part Time Evil
 302designs
-Infoglide Software Corporation
-Game Plan Entertainment
-Harman | Friday
-Gracious Bridal
-Spw Consultants
 22Solutions
-JQ Software
-CozyWallArt.com
-GHz Wireless
-Philip Kangas
-Rock Vapor Technologies
-Zuma Office
-Okkem Consulting
-Boost Keychains
-The Grillmobile
-ExitHereNow.com
-All Things Kids
 Jobs2Careers
-M House Consulting
-WEIRD MARKETING CO
 StartATX
 MuseQuip
 SidusLink
-RISE Global
 digitaltalentinc
-USARoomies.com (Online Rentals, LLC)
 BeautifulDigital
-Suzy Foods
-Self Evident Enterprises, LLC.
-BH Candle Company
-Double Fox Websites
-TTH Strategy
-Gentle Bees
 Innovari
 GuestDoor
 CLAVE
 Deenosaur
 Bolinger
-Revely Microsystems
-Alara Capital
-Wize Management
-Too Much Sense Productions
-ogazi hair
-PTV Healthcare Capital
 GoKarmaa
-Active Power
-Geeks First
-Art Craft Entertainment
-My Docket
-Magnitude Software
-Tomakefast.com
 Scavr
 Protequus
 icebreaker
-ETL Advisors
-Geeks First LLC dba Haven Entertainment
 DroidCloud
-Positive Slope
 ClosedForm
-RECAP Audio
 TAVHealth
 HEsolar
 MICO
 Supercircuits
-Strive to be Fit
-ProjectManager.com
-Grant Rostig and Associates
-Green & Grow
-Mobile EMR Inc.
-Russell Martin Home Selling Team
-Linked Experts Alliance
-Austin Vanlines LTD
-Ians Modern Realty
-Norvell Group and Associates Review
-Speak Social
 Brumberry
-Status Labs
-CouponGot.com
-Just In Health
-Buy Master
-Kaas Enterprises
 test
-Video Review Labs
 nutriLove
-10 Minute Give
 Teezr
 AllyArmory
-Hsoi Enterprises
-Watch Party IO
 Cityflag
 kiddoEMR
 exoStack
 Logoit
-bao zhe
-Crem8.com
 Crebo
-Home Improvement Leads
-Snap Kitchen
 GetYourWiki
-Activites Around
-County Road Consulting
 Wheatposter
-Plant Planters
-Mubu.fm
 CatchTheReview
-HK Austin
 Roost
-Eagle Eye Networks
-The Paleo Egg Company
-Mutual Mobile
-ProductInterest.com
-Modis IT
-Real HQ
-deft strategy
-Hot Foot Games, Inc.
 Ceevoo
-Venture Support
-Watr Cuulr
-Ping Social
-Uncommon in Common
-Sleeq Productions
 Sonarkia
-Transition Roofing Company Austin
 GeoSafe
-AuroSys Solutions
 Freshex
-Thrvly Marketplace
 Chintsee
-BillyHasIdeas/Cordless Power Winch
-Curated Quotes
 SKU
 Meyadi
-5th & Vine - a gentleman's parlor
 WireFuseMedia
-Exotic Slipcovers
 Virra
 Hero
 ENVOKEN
 Mijingo
 Fiesta
-Career Prep for The Blind
 SalesMaple
-HELM Boots
 ZilloPay
-Black Sand Technologies
-Rapid Io
-Snap Trends
-Malauzai Software
-lindavista.tv
-Spire East 5th (Austin Micro Units)
-Scarsdale Media
-Deal Pepper
-Michael & Susan Dell Foundation
-Ship A Bag•Of•Dicks
-Surge Performance Training
-TIFFS TREATS HOLDINGS
 KindHealth
-Lung Therapeutics
 Photetica
-Vida Capital
-Escalate Capital Partners
-FireFly LED Lighting
-Peak Rock Capital
-Drill Map
-Scarsdale Media
 Nuventix
-High Brew Coffee
-Rig Up
 NIMBOXX
-TiE Austin
 QualityGPTs
 Socialyzer
 MicroTransponder
 Jurify
 Hostspot
 Cariloop
-The College Connect
-recognize.im
-NowBoarding ✈️
 ViewMarket
 BearingPoint
 Taskk
-Koupon Media
 ZenCash
-Invitation codes
 SurgeryLink
 YooLotto
 Qwiqq
-Texas Instruments
-I2 Technologies
 Fancorps
 Traxo
-Piikea Street
 Joinem
-The Dallas Angel Network
-Hitachi Consulting
 FanPrint
-Order Mapper
 Vignature
-Epic Playground
 Wufasta
 ilumi
 instead
@@ -1599,15 +820,11 @@ AddoPad
 OrderMyGear
 Glass
 ActivTrak
-Oven Bits
 SWEEPiO
 getfittter
-PurposeMatch (formerly SPARXlife)
 Nommunity
 Need
 CherryPick
-Mobile MUM
-Brand Protection Agency
 reFINEstyle
 Seekyt
 Vinli
@@ -1617,151 +834,77 @@ PureDiscovery
 Hiplogiq
 HedgeChatter
 Munzee
-Lynx Mining
 DigiWorksCorp
-Nectar Online Media
-Meta Watch
 Atticous
-gotcha! Mobile Solutions
 PlumLife
-PassbeeMedia, Inc.
 AgileSense
-Rent Rebate
-The Performance Card
 RVspotfinder
 Clinata
-Simple Costs
 INRFOOD
 Guideally
 SiphonLabs
-Chia Vida
 yoursportscast
 Jungl
-Curious Marketplaces
-Broadcast.com
-True Mileage
 Kwotas
 GoKube
-The Wav Company
-Rera Health
 AllBinary
 Blinksale
-The Marrow Group
 onePHONE
 KaiNexus
 CrowdFeed
 GruupMeet
 GuideHop
-Visage Payroll
-Newton Insight
-Pop! Technology
 Bitlov
-NeuroTek Medical
 REVEEL
 DiscoverU
 Xpire
 ParkHub
 Altruik
-Lōcāta.co
-Gimme!
 TelaDoc
 Mavizon
 RoboKind
-Organ Transport Systems
 TalentPipes
 RiskKey
-Peace Of Mind Hydrotherapy Spa
-HEMS Technology
-KNOCEAN Sciences
 Buyzee
-Mizzen+Main
 yourgroups
-JonDavid Enterprises
-Yellow Brick
 ZeitEnergy
 ILiveinDallas
 Loqly
-Way Cool Trucking
-Health Staff Connect
-Alternatives Direct
-Skyven Technologies
 Gmaids
 IceRocket
 VAPI
 TIM3LINE
-She's Funded
-Optimized Training Labs
-Simplicity Health Systems
-Thunderbird Productions
-HardHead Technologies
 SmokePhone
-Bria Latina
-MediaDay/ iCue Network
-Economy 3 Investments
 DealPad
-Forte Payment Systems
-iSIGHT Partners
 Synapse
-Dream Machine Association
-Secure PressID
 Yoolod
-Treehouse Mobile
-GetReal.estate
 Quantifye
-Arrest SOS
 Gab
 Foremost
-Wager Wars
-Shows Social
-Key Ring
 Physmodo
-Adam & Luna
 WODstack
-MAISON by caroline
-Signalogic -- HPC and Supercomputing
-The Ivytree
-BrandGuard Software
-Spa Habitat
 Ubtane
-Telligent Systems
 Dialexa
-Acousta Launch
-Bootstrap Dallas
 BitsyBug
-Walk-in
 Rennovus
 Hevan
-BTC On Tilt
-RealTime Clinic
-Heritage Auctions
 Pindex
 Juvasoft
-Legal Logic Corporation
 Airvirtise
-Paranoid Fan
 Shipora
 Connectloud
 CelebratePlus
-Data Systemics
 Vendevor
-Coscend Communications
 ScribeSense
-Glass-Media, Inc.
 buyoker
-Insider Edge - Beyond the numbers
 Departing
 VCE
-Model Revolt
 DelivrToMe
 QuoteGoat
 ReadyFlight
-OGO Interactive
 CreativFly
 BestBuzz
-Hippie Butter LLC
 Spotagory
-Archeio Technologies
-Dorm It Up
 ensemba
 Aireal
 MergeBox
@@ -1770,541 +913,228 @@ SysClass
 Entrust
 KeepTrax
 Nepris
-BearTek Solutions
 Traffikoo
-CorePLUS World
 MarketChorus
-Naya Ventures
 Cierge
-Innox Digital
 Shoopzy
 Parqer
 uChilla
 HealthWagers
 TogaBOX
-Sixteen Ventures
 LandlordStation
-Creeze, The Virtual Mall
-WhichBox Media, Inc.
-Celebrity Racing League
 Fancast
 Concessionly
-Sprinkl IO
-HipPocket Inc.
-gingerCube Inc.
 FotoFuze
-PT Pal
 GradTrek
-Paladin Network
-MyLifeScene.com
 Time2cu
-Tenet Healthcare
-Learner Mobile
-Shop For Bags
 Puhsh
 Prop
-i2i, Inc.
-Edmondson Capital
 Navvie
 Workify
 Omvestments
-Hope Rainier School
 Meteora
-Prensalista Corporation
 TheLocalsMarket
-Anger Room®
 Jables
-Cognal Labs
 Trivie
-Rosellini Scientific
-Alliance Data Systems
 CrowdBoarders
-Fan Media Network
 HealthSparx
-The Tribe App
-Vote Me Model
 Brandfitters
 VoteOnPlay
 AppnAbout
 HuntSync
-Video Tape Productions
 Clovertree
 Matramoney
 ahoyDoc
-Casero Custom Foods
 Mesh
-CornerWorld Corp, Enversa Companies,
-Simpl Networks
-RainMaking Marketing
 Connect5
 Chowventure
-SAFE Portfolio Management
-Business One
-ClearFlow Water Solutions
-Crowned Head Fashion
 eReplacements
-mavencode mobile app & bigdata analytics
 whizkard
-MGI Productions
-Tempo-Motion
-AnswerOK - Q&A
-Gratitude Point
 Litigance
-C R Polius Enterprises
-Virtual Visit
-The Service Vault
-Pet Luvs
 Gulf
-Deals Of Scale
-LocalCiao™
 Tagdrobe
-Primal Sensors
 501Fund
-Clinical Massage Association
 Basign
-Iconik Network
 GiftCard
 BuzzShift
-One Technologies
 EasyEye
-Architel Holdings
 MyCampus
 Akram
-High Pheels Shoes
 Piquey
-BUFF WATER
-Exchequer E Commerce
-Armstrong Kellett Bartholow P.C.
 Saleeves
-ChangePocket™
-app.tly
 SPOTIO
 GreenoMail
-BreathalEyes, Inc.
-Common Sense Exchange
 ZoJourner
-Data Bakery
-Brand New Ship
 uChilla
-Skystream Digital Technology
-Write.my
-ExchangeBull.com
 MHPToolbox
-The Ballers' Circle
 Intervoice
-Sensogram Technologies Inc.
-Mars Initiative
 NetExam
 Phronetik
 iWaiter
-Pure Alchemy Products
-cycleWood Solutions
 SearchTower
-Vantg.tv
 Vidpow
-Cupid on the Go!
 EnemyGraph
 CityNTown
 Trabaha
 Realfolio
-Music Audience Exchange
 Alcogel
 TransferTix
 Teslatricity
 PinYada
-Pegasus News
-Garage Fit Equipment "FitHolster"
 ThereNow
-Paprika.sh
 Currvi
 Skyrise
 Cloudafied
-TeamSupport.com
 Meetmeintime
-Maxim Connect Staffing
-Block Party Suites
-Lions Mouth Digital
 DineMob
-ChargeBack Champion
-Dallas Social Media Marketing
 Kwest
-YouGot 45
-Social Knowledge
-Go By Truck, Inc.
-FieldHouse Marketing
-Comfort Window
 Javadrop
-Healthy food
 LaunchTrack
 TriDaily
-KNOCEAN Sciences, Inc.
-C.O.D. Capital
-Overpowered Games
 RideConnect
-Mizzen and Main
 Tanzanite
 Flightspots
 Ziggli
-Skyline Soccer
 1MinuteSurveys
 CRBT
-The Love Pack Company
-Camp SPARK
 RemixRotation
-Follow Networks
-Hari Mari
-Boundless Integrations
 Mediamuse
-Cyber Defense Labs
 Schejule
-Analytical Mud Solutions
-Allegro Development Corporation
 socializewize
 PlayApp
-BP Fitness
-Improving Restaurants
-My HomePulse
 FanBuff
 FeedSavvy
-Career Wizards
 Next
-Fly Barbershop
-Theatro Labs
 Vivetto
-Lucky Dog Companies
-Suite Escape
-CancerGene Connect
-LynAlan Systems Holding Company, L.L.C.
 BozoWorld
-Brava Partners
 Curatiant
-THE FOODIE NETWORK
 MunchyBox
 iCanvass
-Stream Now TV
-Dueces to Divas
-Karlheim Auto Bids
-Trend Environmental
 Pawndoe
-Siam Smartphone (CRBT, Inc.)
 Telavent
-BeautifulGoal.Org
-Trinity Industries
-Urban Renewable H2 & BioHy Energy
-Locker 81 Fundraising Solutions
 Anonymous
 Immerss
-Diabetes Scribe
-Sweet N Dirty Treats
-Inception Innovations Inc.
 Gradeness
 YourProcs
-Find Nibbles
-iuzeit Inc.
 HatPegz
-WiseFlex Knowledge Systems LLC.
-Players Revolution Sports
 Selfbee
 Cloudpages
-Tech EdVentures
-Majestic Gaming
-Mid-Point Eclectic
-PnP Loyalty
-KidzMat Global Enterprises
-Jackpot Rising
 Twillo
-Cafe Green
-Hip Chixs
-Madwizardry Idea Labs
-Literature Market (Sahitya Market)
-Beakn Mobile
 BingoBuy
-Loggerhead Brewing Company
-Integra Property Solutions
-University Passion
-Live Global Stream
-Rollout, Inc.
 BareLabor
 Flair
-Art & Photography by Pasjr Woctx
-LegalInc Corporate Services
-BIspoke Analytics
-Eb Investments
-Agency Entourage
-The Loop
 StratusOnline
-Fitness Management & Consulting
-Tuxedo Dinners
 AMX
-SmartCart Service Systems
 trnde
-Hummingbird Mobile Dental
-World's Best
-Amulet Corp
-Summit Creators
-AMP Entertainment
 WBilt
 Gowu
 IntrinsiCloud
-CAPRICORN 23 PRODUCTIONS
-The Dead Die Young
 Hopestr
-Faith Investments
-Rock and Road
 SPECTIFIED
 Podpass
-"Is It Me? Or Is It The Wine?"
 Frostover
-MyTelemedicine.com
-Ad-Tech Media Sales
-Wrench Group
-Market Reports Store
 AXZM
 Health2Me
 Terra
-Vauxhall Pleasure Gardens
-Ink Witness
 Nexiden
 Buytition
-ScoutU™
-CUSTOM CHAOS
-SoSoActive Media
-Iris Studios
-Gynx Design
-Intelliflux Labs
 Phytel
-LAUNCH YOUR COMPANY LOGO INTO SPACE
-Memory Building
-Inside Out Home Improvement
-Henery Press
-ComBanc Support Services
-EnviroGem Diamond Production Company
-D & G INVESTMENT GROUP, INC.
 stayCourse
-Textbook Valet
 iNCUBANKER
-bGrnR.me
-Freeman Art Studio
 exoVentures
-Surface Decor Floor Warehouse
-Heather's Boudoir
-Mary Vuitton
-Drafter Party
 Impyre
 SharpEXPO
-Big in Japan
 geoforce
 lightpanda
-Be Pawsitive
-All India Pharmacy
 4Virtuals
-AnEcard.com
 Promogram
 Dizkover
-Playas Choice Ent
 None
-Joseph Michaels International
-Eko USA, Inc.
 MoodRing
-Hello July Music
 Loro
 BoxBoard
-Castello DaVarg
 PicStreamz
-BuyLikesMedia.com
-Drupal Development Dallas
 CultFresh
-Giverosity, Inc.
-Assess Systems
 Angelmeds
 Drillist
-The Gents Place
-Maker Institute
 Hotelutions
-Skyless Nation - A Community Of Unity
 ecmc
-Bass Manager
-Sabina Oil & Gas, Inc.
-Branch Recruiter
 Railscarma
 NachoBirthay
-Gary E. Alhadef - Dentist
 Snappit
 Calpian
-Circle Seven Five
-AM DigiHealth
-The Fortune Exchange
-The Black Academy of Arts and Letters
-Fun Deals
-Capo Affiliated
-Allmand Law Firm P
-Ride One
 RecruitmentAllies
 Hooligan
-Lady Charm Wholesale Online
-Lucidity Consulting Group
-Apropos Technologies
-Arkleus Broadcasting
-Ighty Support
 FiveOH
-VideoToOrder.com
-Date Knight
 RISOVE
 INFLUX
 WORLDGHETTO
-College Student Apartments
-Le Gourmet Valet
-Bellatorra Skin Care
 FracTest
-Indexed Mind
 Bullymake
-To Be (Cont'd)
-Rajat Dhameja and Healthcare Associates
-Salon Identity Mobile
-Legacy & Luxe
-The Reputation Shop
-[x]cube LABS
 Pawndoe
 Roampod
 IntraMeta
 Zippie
-Play it Safe Dating
 1ME
-Be YOU App (product of DNA Services)
 DateMe
 Gourmetize
-Chemical Information Services
-Securing Life Today
 XTEN
-Backpack books
-B&W video services
 Zyotec
-US Cargo Supply
-Xpress Custom Print
 SignaPay
-Fashion Art Network Gallery and Studios
-Hail Storm Products
-JasonCriddle.com & Legacy Status Systems
-Not Finding Out
-Instant Ranking
 AnalytixIO
-WP Techies
-Gray Studios LA
-ROI Mantra
-D-Techi,Inc
-Grassfed Digital
 Fortheon
-inDallas Magazine
-App Suey
 Ljazz
 IGAF
-Belán
 Hayloft
-Shoot2Sell Photography
-Salamtak Inscriptions
 Capparsa
-The Lab Studios
-CLAY STAPP+CO
 AppEcosystems
 iAvishkar
-One Technologies
-Useful School
-Golf Wear Store
-ReDesign Furniture Company
-FixFinder.com
 EngageDr
-XRG Media
-The Ballet Burn®
-Nu Home Source Realty (Dallas Office)
-GreenSky Selling
-Teakwood Capital
-Campus Cellect
-Greige Concept Group
 LCDcycle
-The Latin Goddesses TV Show
 Howl
-MD Buyline
 eGistics
 EmCare
-Write My Paper
-Trigun Soni
 Livngo
-Blab!
-Kloset Klique
 VAZATA
-John Ousby Photography
-Fetch MD
 SafeTacMag
-Truco Enterprises
-Copay Cutter
-TWV Capital Management
 LiquidCompass
-Vanguard Health Systems
-JBA Operating
-Waddle Campus
 placingIT
-Infused Medical Technology
-Orange Leap
 QualityGPTs
-StatusPage.io
 FullContact
 iGivefirst
 Grofolio
 Revolar
-Angel Capital Group
 2lemetry
-NowBoarding ✈️
 ROXIMITY
 CannaBuild
-Outdoors.io
-Cheddar Up
 Forkly
-Invitation codes
 CLVR
 BrightNest
 RxREVU
-Education Funding Partners
 Accuvant
-FlyinAway Travel Technologies
 MassRoots
-Viktorian Guitars
 BiggerPockets
 SupportLocal
 Faction
-Rental Kharma
-Digital Folio
 UsingMiles
 Shopventory
 Brandfolder
 JetJaw
 P2Binvestor
-Fresh Jets
 DealPepper
 PressPay
 CallGrader
-appendTo Training
-GreenStone Labs
 btcQuick
-Real Good Technologies
-Lucid Holdings
-Kula Causes
 Plink
 Choozle
 Swiftpage
-My Dealer Service
 Prediculous
-What's Going Round
 Myhub
-Travel Recon
 CaptainU
-Examiner.com
 Handbid
-Valid Evaluation
 Inspirato
 Pairin
-Active Junky
 Cannabox
-Presm Medical Solutions
 Closely
 CirrusMD
 CommutePays
@@ -2313,47 +1143,27 @@ Impulse
 Savorly
 Intake123
 InteliVideo
-Chipotle Mexican Grill
 Calpont
-A Great! First Date
 Trackvia
-Yippiekiyay Nonprofit Solutions
-Local Matters
 ibotta
 BoomCloud
 AvatarTrader
-Collective IP
-Associated Content
 Slicebooks
 Ombud
 Quark
 Campuscene
 TekDry
-SimPlay Sports
-Total Health Card
 LuminEssence
 willbeHired
 RCR8
 GreenRx
 iGuidePro
-Rockies Venture Club
-Indexed IO
 LoanCheck
-Two Top Marketing
-Open Book Ben
 Sneezebox
-Bak'd
 PaySimple
-Pedalectric Vehicle Company
 Addaero
-Heroic.ly
-Infinite Buyer
 Voltaire
-Integrated Cannabis Solutions, Inc.
-Apartment Data Xchange
-My FitOption Inc.
 Scavado
-Ping Identity Corporation
 GGgamer
 Seedlauncher
 Getist
@@ -2361,11 +1171,8 @@ PanXchange
 ZamRay
 EquityLock
 Globeshifts
-Targeted Shopping Solutions
-Exclusive Resorts
 Hyprloco
 SafeImageMD
-Daily Deals for Moms
 NewsGator
 TidBitts
 Incomercials
@@ -2374,587 +1181,219 @@ EcoGroomer
 Novauri
 Corvectra
 Idea2
-CorePower Yoga
-Ip Commerce
-Monitor My Meds
-Artemisia Technologies
 Wayin
-Crypto Wallet Report
-BusyLife Software
-Sepia Labs / Glassboard
-Arts and Analytics, Inc.
 CauseLabs
-Impact Driven
 StillSecure
 bidpro
-Poor Sport
 trackwave
-Jit-Kit
-Twin Peaks
 Welltok
 Raspberry
 MeetMindful
-Nexus Retail
 CorpCache
 AllergyPal
-Brothers Magoo
 TopSchool
-Somerset Capital Funding Ltd.
 Winome
-Tried And Truth
 Greenito
-Ratio Clothing
 Pawngo
 Urgentrx
 FireCore
 HyperSites
 MusiQuest
-eCubed Marketing
-Self Lender
-Three Cents
 RAQUE
-LoHi Labs
-Optimal Home Care
-Nightmare Development
 CloudLogix
-Lightspeed Road Solar
-Hot Lunch Online
-Assurance Storage
-Pocket.Jobs
 Pixorial
-Shareable Social
-NetQast Media
 iSignUp
 RadialNexus
-ITT: Innovative Travel Technologies
 SpectateSwamp
-Janus Capital Group
-Mad Genius Radio
-Lasso Media
 BlueMatch
 YaBeam
-Veracity Credit Corp
 Craftsy
 WebPub
 eBookPie
-Mode Set
 IndiCard
 ORBTR
-dmi.io
 ExpertBeacon
-Karmies Inc.
 SociableMail
 MailDeck
 SeniorSource
 Zinasa
 Bizantu
 Dishup
-LegiNation, Inc.
 NowWeRide
 Inovize
-Built In Colorado
-Veterans Project
-Mile High Hempfest
 Avava
-Zum XR
 JPKIM
-Influence Technologies
 BloodBanker
 Kuamua
-Talent Standard
 Kapsl
 TRELORA
-Retail Goose
-MediaNews Group
-Mr. Mister & Mister's Sister
-Crowdfund Productions
-BYOU Be Your Own You
-Avant-Garde Wealth Management
-Signdealz Corporation
-FeeTrader.com
-Cannabis Agritech Corporation
-Cloud Elements
-Search Demon
 Sympoz
-Recruiting Sports Network
-Wurk'n
 DailyTekk
 eWise
-Straddle Toys
 Pocument
-Vanilla Themes
-Everywhere Card
 PeakVibe
 PRISM
 Rally4
 ProgressLocal
-Thought Equity Motion
-Digital Vacay
-Ryan Media Works
-Craft Boom
-thengine.co
-Cyclops Gear
-Wheres Weed
 Referzo
 mVest
 karmaCRM
-ConvergIQ, Inc.
 BRYXco
 Vibeleaf
 MyTimeBank
-NewCloud Networks
 Safetyweb
 Coolerado
-Cannabis Commodities Exchange
 Pristinet
-ma belle petite
 GeoLens
-Loyl.me
 convercent
-Impact Enterprises
 Baker
-Park Evolve
-Time Bomb
-Women Who Startup
 Gutcheck
 Josh
 Sirvo
-TopDoctorsIn.com
 Jabber
 SympSocial
 RxAssurance
 iUnit
 Wovo
-Childrens ArtHouses America
-Consult Hire
-Iron Shield Studios
-Social Jobs Board
-High There!
 FreeEngineers
-Stratavia Corp.
-Statim Health
 ShapeHacker
 StarTek
 Halo
-Crazed Infusions
-The Rising Phoenix Group
-Radio Rebel
-Headwaters MB
-Restaurant 420
-The Song Market
-Galaxy Unite
-ID Watchdog
 Devium
 Stonerz
 Favslist
 Craftsy
-Denver Super Pass
-ECO Roof and Solar
-WebbStone CRM
 Viawest
-Smart Street
-Mixteka, Inc.
 Schoolrunner
 STROKE
-Wizdom Land Solutions
-Number One Entertainment
-Kids Inc.
 Cinetrackr
-Abstract Systems
-Brilliant Arc
 Zoola
-Double Encore
-No Limit International Diving
 MonuBuy
-Interactive Ventures
-Mobile Angel
 Pindl
-Hackistry Labs
 mSnap
-Mountain Drones
 Veevachi
-Lintzenich Law
-O.T.T. Communications Inc.
 ProtoTest
 NextGreatPlace
-Skyland Labs
-Dank Lid
 Jotstory
 Birdnest
 MFlip
-Power TakeOff
-Building Brains
-Organic Health Connection
 ConcertGoer
 Mocapay
 AppSharks
 Motigo
-Trinity Services Foundation
-Imbibe!
-D.U.C. Magazine
-SixOne Solutions
-Shine Your Heart
 Dishup
-Enterprise Optical Storagre
 3PMobile
-MoonRift Entertainment
 Archivus
-Honor Business Solutions
 JouleFool
 SoRewarding
 Petrolr
 ConferenceEdge
 Legacy
-Club CannaBus Tours
-Stealth Wine Startup
-Healthcare Innovations International
 BleuLace
-SmithWebCo.
 Walkmate
-Strawberry Field
-Catalyst Repository Systems
-Secure Handshake
 LiTeAfrica
-www.GayRealEstate.com
-Thomas Capital Corporation
-BiG, Believe in God
 Incuboom
 Codegility
-Community Systems
-Aspect Robotics
 Effectively
-Qwinix Technologies
-Mongo Machine
-Tugboat.io
-Philanthropy Ventures dba EqualityCard™
-Novum Concepts Ltd
 SnowAnd
 RidingSocial
 MACH
-Enterprise Technology International
-Your Smartphone Repair Corp
-Tag Sell It
-Roland Process Service & Investigations
-Glo (glosite.com)
 NextGreatTrip
-GrowHire.com
-Group 303
 AdCellerant
 FullContact
-Sales Temperature
-RE-Trax
 EmerTac
-Bumbleroot Foods
-Similan Labs
-Kevin Geddes Business Coaching
-Nice Landing Pictures
 SquareHire
-SPORTS GLORY
 EmSpot
 Vericept
-GetSkiTickets.com
-Radio 360
 MEDtrip
-Dorn Companies
-Secure Speak
-Oil USA
 WebPsychology
-Strategic Options
-Realty Connection
-Set4Golf LLC.
 Fund
-bribe media
 OneWall
 Tentiko
-Owner Lodging LLC
-Hanna Initative
-Centric Technology Solutions
-Synful Diva Promotions & Entertainment
 FantasyTech
 SkyeTek
-Scarab Hunt
-Blackstone Associates
 CirrusIdea
 EngagEducation
-Knuckle Five
-Colorado Boutique
-BuyMyBookz.net
-Crowdfunding Strategy & Information
-Senior Purpose
-Integral Data Solutions
-An Angel's Touch Green Cleaning
 Smashburger
 Deadstock
 TXTest
-Ecospace Commercial
-Twomile Heavy Industries, Inc.
-Valen Technologies
-ECO Roof and Solar
 Dizzion
-Sensi Suites
 Dactylcam
-The Flutter Box
-Galaxy Ophthalmics
-The Digital Music Club
-R&D Capital Management
-DoTell, Inc.
-Hug Hero Fundraising
-ēdn (Environmental Data Network)
-Jungle Beach Group
-WhyWait?™
-Report Spark
-Lightspeed Road Solar
-Slime Sandwich
 OneReach
-09 Line Development
-Matrix Marketing Group
-Saltt.co
 Journio
-Molon Labe Designs
-Immersive Partner Solutions Inc.
 EffectiveUI
-Pat's Delectable Cookies
 CommercialTribe
-The Fuel Team
-Mile High Cup
 openSourceSchool
 Wherijuana
-GrowCo, Inc.
 Zerista
-iTrain Snowsports
 nOCD
 Postscapes
 Aria
 DotComDiner
 Altruist
-Warrior Gymnasia
 WealthTouch
-FRUITION®
-Strategic Options
-SpringTrax, Inc.
-Orange Collar Media
 Zinasa
-Slight Work Logo Design
-It's Encrypted
-Sai Gon Touris
-Talent Monthly Magazine
-Format Dynamics
-RO|Innovation
-Never Settle
 BroadHop
-Denver Data Solutions
 Kitchify
-Rocky Mountain Surfboards
-Big Orange Planet
-Flow Media Capital
-Cornfed Systems
-SeniorMove.com
 Lifeistry
-TVL Creative
-Industrial Luxury Group Inc.
-Five Hype
 StickyDocs
-Digital Directions International
 Affinity
 SalesAgility
-Attendee.Events
 RecruitersMap
-RE-Trax
-OBT Ventures
-Pat's Delectable Cookies
-Brand VO2
-Verbal Mass Media
 United
-Pingora Asset Management
-Cloud Elements
-Selling Simplified
-Bradley Adventure
 GlideStation
-Virtela Technology Services
 Unleesh
-Jiffy Decider
-Colorado Real Estate Company
 Partied
-Preferred Care at Home
-Altitude Digital
-Sweet Georgia Sugar
 Vidliography
-ColoradoHiking.org
-Cloud Elements
-Black Controls Ltd.
 Mythos
-Brick N Ivy
 CloudSync
 IncentOne
-Medical Simulation Corporation
 VarVee
-The WISE App
-Encore Data Products
-The Shops
-Noise Buffet
 Accruit
-Browsercast.com
-Fun Dum Tech
-Remy Corporation
-MIND : Analytics Platform
-Toast & Jam
 Cartasite
-Eye To Eye Care
-Cadre Technologies
 OTS
-Connecting Software KG
-The Broe Group
-The Card
-PSA Waste
 MosaicGlobe
-Nu Piece
-Breakout Music
 Good4Bizness
-Campfire Spirits
-CenterStone Technologies, Inc.
-Renal Ventures Management
 ClickBridge
-Ise Co. Entertainment
-Wish You Were There
-Blue Spruce Management
-Earth Index
 DawaBI
 zVelo
-Social Shark
-MM Local Foods
-EWB Enterprise Inc.
-Magic Beans
-Integrity Inc.
-Swagger Salon
-Aspen International Fashion Week
-Gannett Peak
-OnTerra Systems
-Humble Suds
 PicDub
-Lassiter Marketing Group
-Ryng Labs
-Aroma Computers
-Greenline Ventures
-Morse & Associates
-Domahidy Designs
 Sugarwish
-Canopy Inc.
 HowIDidIt
-AutoInsuranceQuotes.com (acquired by NetQuote)
-Meritage Funds
 Craftsy
-One World Labs
-KRG Capital Partners
 Enservco
-Blue Moon Works
-CompuSource Health Care Consulting
-Head In the Game Sports
-BODHI VILLAGE
 CENCar
-Morrison & Foerster LLP.
-Eos Computing
 Inspirer
 Novinda
-All Copy Products
-Delta-v Capital
 MusclePharm
 MotuX
-ICU Metrix
 Channelinsight
-Relevance Media
-SDR Ventures, Inc.
-Inside Commercial Real Estate
 Buzzwire
-Omni Capital (Cameroon)
-Appian Ventures
-Access Mobile
-Colorado Tea Company
 Wrapped
-Prentiss-Wood Films
-Altura Periodontics
-Cloud Elements
-UBMe.com/Experience Media
 GifMe
-Titan Business Capital
-CannaBeds.com
-Art and Justice League
-Mile High Adjusters
-Znoter.com
 Chops
-CVC Appraisal
-Miracle Ventures
-Umbrella Play Cafe
 SimpleGifts
 Allstate
-Ceylon Solutions
 heatergy
-Paladina Health
-Cahootz Cafe & Delicatessen
 WebEmployed
-Mindstrand Technologies
-Papillon Resorts
 AccelLeads
 FullContact
-beyond diet
-Professional Fly Angling Tour
 OneLife
-Nuvo Dating
-Monsters in Training
 Shade
-Kommunity Kombucha
-Zento Studios
-BestContractors.com
 OrthoFi
-United Party
-CLINE DESIGN GROUP
-Company Broker Group
-Sustainable Food Development
-NüFriend
-thinktank.net
 Cajangle
-The iPad Receptionist
 OnDeck
-Peak®
-BuyMyTronics.com
 Zerista
-Open Scan Technologies
-Nauvoo Games
-Van Gilder Insurance
-iEarn.it
-Biota Technology
 JobApp
-THIS TECHNOLOGY
-Spyder Lynk
 Scannibal
-Rocky Mountain Dental Institute
 Selero
 YapTime
-Marker Hill Capital
-Pure Software
-Deal Pepper
-Dejour Energy
-LgDb.com
-Analyte Logic
-Green Peak Partners
-Public Employees Retirement Association of Colorado
 Demonstrare
-Highstreet IT Solutions
-Arrowpoint Partners
-Winning Edge
-Massively Overrated
 AntriaBio
-Primoris Energy Solutions
-Axion Health
 CereScan
-Excellere Partners
 Shompton
-Solv Staffing
 ProPlan
-ClearCreek Partners
-NewWest Capital Partners
-Crawley Ventures
 Visualtising
-Job App Plus
 QualityGPTs
 Gokit
 Stik
@@ -2962,417 +1401,195 @@ Slope
 Gaypon
 AutoBike
 Inventev
-PocketCents Local Online Advertising
-NowBoarding ✈️
-2 Guys Uncorked
 Locqus
-Grand Circus
-Ford Motor Company
 Ponder
-Invitation codes
 backstitch
 Crowdrise
 LevelEleven
-Scientifically Proven
-General Motors
 foodjunky
 GreenLancer
 LevelEleven
 UpTo
 Castle
-Bite to Meet
 Quikly
 Ginkgotree
-Reel Deal
 Ambassador
 Chalkfly
 iGrowBud
 Jaunt
-Birdhouse for Autism
 SunDaily
 LaunchGood
-sizzlepig®
-work-flow.biz
 EarlyIntern
-Scorpion Sport
 Banza
-Coupon Wallet
 Networkingout
-Stanson Ventures
-Pick Mi Date
 iloveFlyFashion
 HavorNeed
 Hashgram
 byBUYER
-My Health Care for Life
 Tivvi
 TrippyTrunk
-Mason America
 Quotegine
 Pavo
-The Cable Shop
-Speedy Seat
 Passage
-Urban Employ
 Quigit
-The Collective
-First Element Entertainment
-Core Merchant
-Function Plus
-EV Anywhere
 YourWhip
 Fudist
 Webahn
-MTS Driver Recruiters
-The Cookie App
 Spincard
-Toys from my Attic
-Doria N Moses
-Dog Day Digital LLC.
 iHeartKids
-TuneDrop.FM
-Velvet Ape
-NavRun Apps
 Variant
-1st & Goal Recruiting
-6th Man Apps
 Gridpar
-Sticky Frames
-Event Homes
 MySwimPro
-Medical Marijuana Guide
 1xRun
-bocandy.com
 gayrefer
-资本细雨 Capital Sprinkles
 ReZoop
-Sustainable Detroit
 TempoRun
-Stars of Wellness PLLC
-MachineTools.com
 Torqueworx
-Endless Crowds
-Xebax Michigan Network
 Camcase
 cieCap
 313Energy
 GoGarden
 Memloom
-e-Zest Solutions
 digi
 SoFitU
-Park & Rye
 urvirl
 Youkicked
-Deadline Detroit
-EZ.IO
-SRS Technologies
 YouBark
 Hemingwrite
 Fourpt
-All About Technology, Inc.
 Propers
 Trendala
-Improved Veteran Opportunities
 Runn
-Lawrence Hunt
-The One Day Startup
 PhoneBar
-Local City Scene
-Robot Couture
-Atma Holdings
 Goods
-JD's Motown Mustard
-Hangover Tonik
-Good Sign Productions
-Unique Treats
-Canvas Watch Company
-Social Patient
 ClashWars
-REO Capital
-This is a Good Sign!
-Davinci Distribution
-Axe Packs
 Peers
-Beringea Private Equity
-LE Professional Consulting
-Brāv
 VOWD
-Lost Generation Enterprise
-Rockstar Famous
 GreenLancer
-MM Media
-Progress, Inc.
 Soovious
-The Sticker App
-Insta Bagz
 Sentinl
-Gift Of A Helping Hand Charitable TR
-DIAM Clothing
-Detroit Cider Company
 NextEnergy
-Soul & Company
-Level Up Entertainment
 Moosejaw
 SeeYouThen
-ChestBumping.com
-Aquatic People
-Bel Air 10 Digital Theater
-Weiverr Creative
-Felix Exi
-MittensUP!
 SnapDoc
 ShopReactor
-Fortune Softtech
 Beringea
-Clutch Ventures
-Divisible Domain
 Runn
 H2bid
-Queen Sting Films
-Infographic City
-Zuvan Technologies
 ValorVillagesUSA
-BROX Investments
-Cosmo Cords
-ONE CARD. Life. Simplified
-H_Daily
-ABARIS Investment Management
-Optus Software
 HoodSkoop
-Walter Smith & Tru Praize
 miWaterTech
-Ivory Penguin LLC
 MakerOS
-Motor City Machine
 WorldBestGaming
-Seed Staffing
-Sound Clips
 UnderClothes
-Launch Exchange
-ID Hole
-30 Day Skill
-Adon & Geveret
 Lionandbrook
-New World Order
-Fourth Estate Angel Group
-Mazur Senior Care Services
 Manulith
 NSWA
 INSPIREbride
 jdfsh
 Lime
-Keith Institute
-ZamZuu (Shopping Online)
 whoop
-Rockbridge Growth Equity
-Kross-Over Kicks
-Stars of Wellness PLLC
-{Law}rilla*
-Phantoms Press
-Take Media
-DIAM Detroit
-The Spark Program
 Swappet
-www.musicstudiopro.com
-Marketing Market
-Axios Mobile Assets Corporation
 Exposedstar
-Sire Games
-1701 Consulting Group
-Rizz Mgmt
-Bailey - Pollatz Entertainment Group
 erwerwer
-VideoGameGate.com
-Innovative Education Strategies
-Detroit Innovate
-Michigan Realty Solutions
 QualityGPTs
 TapShield
 LearnerNation
 NightPro
 Senzari
-N-Plex (bareye & barapp)
-Red Karaoke
 Flomio
-NowBoarding ✈️
 Kairos
 EarlyShares
-EvoLux Transportation
-The LAB Miami
-Tudor Ice Company
-Invitation codes
 InList
 Guide
 RentJiffy
-New Frontier Nomads
-Maker Market
-Clutch Prep
 ClerkHotel
-PE-Nexus
 FunFan
 LiveNinja
 PokerFund
-Tabacus Initative
-Savanza: Kickstarter meets Education
-Refresh Miami
 ClassWallet
 Ordertakr
 CareCloud
-The Popcrowd
 Everypost
 Nearpod
-Pack Events
 Klink
 WhatUpBridge
-Click Quote Save
 HASH
 CodeMeet
 Videoo
 Bookigee
 Kleo
 Vinylfy
-Do You Remember?
 Yaibi
-VideoMD Transitional Care
 SoftLAW
 Klike
-Everyday Carry
 Healthcare
-Snapscore.me
 Inversiones
 Emogi
 Coingig
 Pulsosocial
 Economico
 Mivesta
-Good World Games
 iTutor
 FriXion
-Flat Out of Heels
-Big Data Exchange
 Voogy
-Folio Ventures
 rentzio
-Socialatom PR & Communications
-Collective Bytes
-GameMiles / Miles & Points Entertainment
-Leggo My Demo
 DeliverLean
-Snow Lizard Products
 JockSpin
 Showpitch
-Livost Technologies, Inc d/b/a LIVO
 Voike
-The Fresh Diet
 Biogrphr
 ParkJockey
 Flechada
 CanUStart
 Sportsmanias
-Call Loop
 Chance
 Weeklyy
 DealHomer
 Gistia
 NoDaysOFF
 DemoHire
-iCare Intelligence
 MyCircles
-On the Branch
-Golazzo$
 Datelatte
-30 Media Network
 BtcTrip
-New Breed Media
-Fast FiBR
 CollegeBread
-Haku Sports
-Elle Guerrier Company
-Superstar Management Group
 PassTheNotes
-Raw Shorts
 MidnightGigs
-Kipu Systems
-Saving for College / GradSave
 Rekaudo
 WishB
 Styliff
-Blabor by Drew Paul Designs
 Alienware
 CleanTie
-Obbolt, Corp.
 Squid
-Ta-Lend
 Blackdove
-Almost Famous
 TheP3K
 HealthCentrix
-Mishaal Aerospace
-Miami Entrepreneurship Center
-posto7, Inc.
 Triptelligent
 TiZKKA
-ETC Education•Technology•Content
 Cronnection
-goodness monkey
 AppwoRx
-Binder Biomedical
-RUE CINQ
 Groupy
-Mobile Nations
-Iron Container
-AGP Miami
 PsychSignal
 Symptify
-Distance Skateboard Association
-Simply Framed
 Danggle
-Taylannas Inc.
-artmiami.tv
-Tractouch Mobile
 uRoom360
-Abax Media Corp
-RSP Nutrition
 RightRoute
 Flechada
 DoYouRemember
 WishGyft
 groupthink
 Handprint
-The Hackett Group
-1st Space Financial Institution, inc
 Accredify
-Infinimedia, inc.
 GLOZAL
 Beachmonkey
 SoftLaw
 Thrame
 Listar
-Swifi Inc
-LiveAnswer, Inc.
-LaCubanada LLC
-The Meditation Gym
-Operation BTC
 BunchesDirect
-ROBIN RILE FINE ART
-BIGSTAR Movies
-Socialatom Group
-Atnight Media
 Mentez
-Herbally Pure
-Curveline Films
-Blink Social
-Ocean Pad Project
-RecruiterNetworks dot comm
 Rosmio
 PatientTrac
-RTA Trading Academy
 Avenueplanet
-Social Picnik
-Funding Wonder Inc
-Expert Insight
-Nanox Intelligent Materials
 Addo
 PWRstation
 Gozump
@@ -3382,431 +1599,175 @@ Diggsy
 dNominator
 Upsigo
 GAMERSMARKiT
-IoT.do - Internet of Things
 Mokao
 LifeWallet
-SourceOne Entertainment
-VaultBox.me
-Anti Aging Research Institute
 NiteLifeNav
-Office Network Online
-Payment Power Inc
-Hera-J
-Dieterle Collective
-Toothpick Guide
-Terremark Worldwide
 SHHADE
-GigBear: artist ecosystem
 nuiCapture
-Intelligent PM
-Fuego Fino
 Home61
 RealtyUnity
-Richie Luna Productions
-Marnie Digital
-Fuelmatics Corp
-Chattervox Media
 Razient
 TrackIt
 Need2Fit
-DIN Forums™ Network
 Portbox
 Lancebay
 OCDesk
 GeoWinks
-Market Sketch
 frendli
-VIS.A.VIS DIGITAL MAGAZINE
 GutsyHome
-Sustainatopia- The Magazine
 BandBlip
-HealthCare.com
 ISF
 PushWizard
-Firstaid Software
-Web Phenoms
 iGrabit
-Body Details
-Alpis Design
-The Auto Vault Miami
 PayLive
-Vital Digital Global Corp.
-Dibs!
 Zeppla
 Dropbyke
 Skypasser
-Open Houses Management Platform Inc.
 Link
-Razz Interactive
-Black Helmet
 BarHop
 TradeProps
 Fourteen
 InnReg
-Let Us Dorm
-FWD Action
-Aspera Group
 HAPILABS
 TheGrint
 ACAPCLOUD
-Nordic Capital
-EBR Home & Hospital for the Aged Corp
-@tack Gaming Center & Lounge
-Help Me Claim It!
 BigBinary
-Heybees LLC
-Advantage Business Consulting Group
-Praedict.IO
 Maccontrol
 ChubBub
-mStore Operations
-U.S.R. Corporate
-Flyanairliner USA
 Plumaz
 brtr
 imgScrimmage
 VEEDIMS
-Surrealimagine Studios
-Tone Cosmetics
-JustClip.it
-Cancerfocus.org
 Eyevel
 Radiolobe
-Private Venture
 Waleteros
-HLSA, LLC High Level Storage Automation
-Jiva Cubes
-Channel of Affairs LLC
-Mobile D.O.T. Doc
-Movie Clock
 eRoomrental
-PreApprovalLetter.com
 Puressence
-Wikipixel, Inc.
-Field-Trip!
-Dream Gift
-Race Time Inc.
-STUDIGY, INC.
 Jooicer
 LEARNerds
-Biscayne Pharmaceuticals Inc.
-Blue Ocean Studios
 Emojig
 Zazom
-Whitecap SEO
-Goosh2, LLC
-Contrib.com
-D1 Locker
-Garcia Trujillo Holdings
 Bloopit
-Bloop It, Inc.
-Fish Indie
 Popbubbly
 okcompare
-Yellow Pepper
 Sellies
-iPhotonic Corp
-Study Rite Inc.
 Modloft
 Cpotter
-Dream Tuner
-One World Media LLC
 ApBox
 WhosBuzzin
-Synergy Wellness Clinic
-Pincho Factory
-Tesser Health
 RCKSTRZ
-ByeGround Easy Background Removal
-TRAETELO.COM
 DailyTrak
 GalenoPlus
-Fashion Nerrd
-silkscreen.io
 Rentalo
 Tutudo
 Goodool
-Inxent, Inc.
 InfinixSoft
 Spreever
 Evobulls
-CAMM Productions
-WittWorld Sports llc
-1308 Productions
-Slim Fit Warehouse
 Paleofy
-Best International Realty
-U Packages
 Calienteve
 BabyShop
-Tania & Danny a fruit infusion company
 eVoter
-FARMASI USA
 Visuafy
-Emotion TV
-Murphy's Place
 BeeYoo
-Nova Point of Sale
-ScaleUP Consulting
-Sponsored By Hard Work Entertainment
-Zila Networks
 Cellmefree
 Jurnid
-Mario's Soldiers
-Peace Software
-Farm Tropical
 Beachlok
 Skeduler
-Heady Foods
-Concrete Lions
-Next University
-Single N Dating Network
-Promonu Corp
-Fox House
 servers500
-Media 8
 Aprefis
 evoze
 DANAConnect
-Other Stories Design studio
 PrettyBoyBeats
-Kardmii.com
-Micareta Miami
-Elizabeth Jamey Consulting
-Better Life!
-Jade Entertainment LLC.
-Ocean Financing
-Future Life Institute
 Woven
-Carson Life
 Braingrove
-Crowd Settlements
 ActivePBX
 Netwrkr
 Mapsion
-Molekule Consulting
 Wisoli
-Automate Your Date
-Brickell Technology Solutions
-FotoBox.io
-Sound Profit Entertainment
-I.D.E.A Miami
-No company, just a kick-ass team.
-MACKTRACK MEDIA LLC
-Crea7e, INC.
 FiveTower
 Klever
-New Frontier Nomads
 Solarpanels4u
-BiiA Lab
-SCL Creative
-Ocho The Game
 TestCo
 Aecosoft
-New Skool Sports
-Circle Products inc.
-Model on a Bottle (tm)
 TeaSckrolla
-Relentless Roasters
 Cloudomatic
-KRS Capital LLC
 Venali
 SherlockTech
-Decentral Bank
-ii5y - Is It 5 Yet
-FruJuici Beverages
 YottaSKY
-FishingCharters.com
-Bisou Bisou
-dailyglobalgroove.com
-TopCommit, LLC
-Recover Deleted Files
-Inway Studios
 Avisena
-Farelogix Inc.
-GPR Studio
-GLOBAL ASSETS CONSULTING HOLDING, INC
-Ingenicard America
 Bagolf
 BoutiqueHotels
 DEXTROpay
-Travertine Mart
-Living Legend Resource Center
 Traffix
-Events Community
-IIG EDUCACION
 ShadesDaddy
-dormduels Inc.
 MyPsychic
-Penned Impression
-Waiting Area Media Network
-The Artisan Lounge
-cfayla johnson
-Direct Dialect
-Mega 4's Bottling Company
-Leather Laptop Messenger Bag
 ZoomLocker
 SupremeXXX
 Donatella
-Spicey vibez
 Arrivyl
-Miami Drones
 CallDirek
-Data Dives
 TZUL
-Perfectore Corp.
-ZeeKah - Instant Rapport
 TalentLinkr
-Sportsmanias Inc.
-AZTHETIK STUDIOS
 Mobitics
 Trippple
 Grruv
-Chamblee Productions Inc
 BayCityLane
 Shopulator
-CCDEx Technologies, LLC
 ChristianCrate
-Law Offices of Mark Eiglarsh
-Hemingway Hotels and Resorts
-crypto currency trading group
 FASHIARY
-Scumbag Worldwide
-Mafuá
-Race Wars TV Show
-Jurado Law Firm
-Happy Hourz Daiquiri Bar
-Becoming Famous TV Show
 hiramites
 MioMaps
 Jinglr
-MR. Architect, LLC
 SHIIFT
-Storm and Shop
-Solar Mobile
-Tagit.me
 Gain
-Victory Petroleum
-John Gianino
 Undisclosed
-Invention Intention
-The Awakened Warrior TV Show
 popme
 hubly
-Aligned Global
-Pure Life Renal
 Postargram
-Slim Fit Warehouse
-White Black Studio
-WWW.FREQENT.COM
 PromoSurv
-Destroyer.io
-Discount Miami Movers
 TalentCredits
-TiLT, Inc.
 51Attack
-Teebo, LLC
-WILLPOWER STUDIOS
-Tassel Toppers
-LILIRO LLC
 Zenforma
-Qbien.com
 MarketKarma
 Sportchances
 SanaSana
-Vertitrade, Inc.
-Virtual CoinBox
-A.RANDOLPHMUSIC LLC
 Spotsave
-Wheelchair Fitness Solution
 Pwayko
-CADAVID TECHNOLOGIES INC.
-Edgewater Consulting
 FashionDesign
 Watchkeeper
-MyCakeLab.com
 RebelsDefy
 Weed
-Greeting Bear
-Singular Game LLC
 CouponMate
-7 Days to Digital
 Odilo
-Vidgur.com and Darkmarket (Darkmkt.com)
-Crowdflip miami
 JLD
-Luxuria Empire
 ZocoShop
-Aquaview Pool Fence Company
-Prime Luxury Rentals
-Dr. I-Net (Quantum Therapeutics div.)
 Fitstreamer
-STiKR KWiKR
-snacks nation
-Raffle For Good
-OLM to PST Converter
 VIVARENA
 EquityPoints
-Jesus Canvas Print
-POM Schools
-IPX Technologies, Inc
 FrameFitter
-Milepost Technology
-Club Mundi
-Agade Marketing
-Acromedia Corporation
-Imara International Humanitarian Group
 referLux
 MAGIFF
-Recover Lost Files From Hard Drive
-Virtual and Business
-Navarro Discount Pharmacy
-TodaysCloseout.com
-Secure Hunter LLC
-Black Key Entertainment LLC.
-J CANDY
 Orange949
-Outlook Mac Exporter
-Medikos Inc.
-Polo Media Pros
-ivette manzur
 GetMyRx
 YADOX
-Miami RCG
 Moveo
-Toscani Inc.
-National Equipment and Supply
-Im a Shopaholic
-BIRCH CREEK FILMS
-HarrisLaw, P.A.
-The Unique Wonders Co.
-Lora Dillenkoffer
-Exchange to Office 365 Migration
-Same Day Dumpster Rental
-Lora Dillenkoffer
 n
 Uphandle
-Voguette.com
 CQBK9
 XRates
-Skin Pro International
 PayDirect
 SmartAuction
 Hubdin
 GameLinkNet
 SafariTv
-Qempo.com International Store
-Phone Number Expert
 BannerBroker
 Stream
 StartUps
-Purely Newborn Photography Miami
 IpCam
 DVDSoft
-Redland Air, Inc.
 StreamCam
 PayPanther
-PLS Opportunity
 CallNow
 PropertyManagement
 MusicHunter
@@ -3825,162 +1786,88 @@ DailyMed
 QualMetrix
 Texans
 Mastery
-Universum Group
-JMG Expo
 netTALK
 DataFiles
 EarthCams
-Farm.com
-Weed.com
-G.R.F. Solutions, Corp.
 1800StartUps
 VentureRep
-BMe Community
 Spartadata
 InternetCoast
-Women Angels
-Dionelle LLC
 WorkingDemos
 CollegePerks
 ImageBoard
 Uniforms
 LocalRegistry
-Oki-Health
-Collector Sector
 AutoEcomm
-Priya Beauty
 Skipsee
 Eternet
 OFFERNOVA
-New Leaf Chiropractic
-Financial Solutions of America
 AlwaysConnect
 Vocabulist
-MedVax Technologies, Inc.
 MastUrbaNation
 ReyNovation
-The tax medic
-Spiderlion, Inc.
 CorkageFee
-Kabaccha Shoes
-Papi Chulo Enterprises, Inc.
-Initial Steps
 Vivarena
 iProof
 Spotdly
 WebaTonic
-Hubspring Health
 Industryinvaders
-UltraT Media
-The Singular Factory
 Supreme
-Bass Bodies
-Wekho LLC
-Partikula LLC
-Jenitics Clothing
-Marjé
-Ginio.com
 BoatsGo
-Munchkin Fun
-Code Fever
-Medivantix Technologies
 KidoZen
-Choose Digital
-Global Investor Services
 Oakmonkey
-Local Funeral
 Intcomex
-Social Shopping Network ®
 BlueKite
-Eat Latin
-Chameleon Collective
-Trinity Healthcare Development
 Datamyne
 Ramamia
-Migrate Exchnage to Office 365
-Fdc Vitamins
 FreeLunched
-Mobile Media Content
-AGS Capital Group
-Phlebotek Phlebotomy Solutions
-Ethereal Talent Agency
 MediSwipe
 QualityGPTs
 Rockbot
-Ligandal, Inc.
 VSCO
 BabyList
 Mayvenn
 Pandora
 Frontleaf
-NowBoarding ✈️
-Ask.com
 Qeyno
 Kato
 Endaga
 Captricity
-Invitation codes
 Suiteness
 Hylo
 Educents
 Breezy
 Clef
 ShopPad
-BriteHub (formerly Elihuu)
-Kaiser Permanente
-Pop Up Archive
 CashBet
-Building Robotics
-Immunity Project
 OpenWatch
-Kapor Capital
-Better Ventures
 Mosaic
 Eyegorithm
-Next Thing Co.
 InstaFlorist
 ipvive
-Get Gone
 DeliRadio
-Golden State Warriors
 BARTRENDr
 growerbot
-Revolution Foods
-Tiny Farms
-Kuli Kuli
 LinePeek
-Impact Hub Oakland
 EverCharge
 FotoNotes
-Jell Networks
 Wubyu
-Monsoon Company
 Quosap
 Broadly
-Noble Brewer
 Sungevity
 Specify
 OppSites
 Lucid
 Handipoints
-Brightsource Energy
 Sunible
 ClassBadges
-Food Shift
-Sigsense Technologies
 Mapistry
 Livescribe
-Build & Imagine
-fitio.info
 UtilityAPI
-Funds 4 All
-Frontier Lane
-Cozy Industries
 DreamCommerce
 Riffyn
 GuideOn
 SUMO
-weGrow Hydroponics Store
 GroupFlix
 Habitry
 LaunchDarkly
@@ -3993,291 +1880,156 @@ JobTosser
 deci
 Launchcard
 Terviva
-sleek-geek
-uminca, inc.
 Telebeast
 AVforPlanners
 Storyteller
 Sendori
 Zhonra
-ProVision Instruments
-Uzaa Networks
-Pandora Media
-The Target Labs
 OfficeNinjas
-BlueOcean Networks
-North Social
 SafetySitters
-LookSee Labs
 Zimfly
-City of Angels Productions
 BlueMorph
 outdated
-Matches That Matter
 ThreadWeather
-COTAP.org
 OpenOakland
 Xantrion
-A&J Car Rental
-Spot Labs
-lvl Analytics
-Vehicle Data Science Corp
-Siva Cycle
 Glancepoint
-GT Nexus
 Browserling
-Efficiency n Energy
 Collegester
 BrightCurrent
 FanAxcess
 Brioxy
-Road to Ifé
-Juabar Design
 99centbrains
-Zhone Technologies
-Finding Rover
 StartupFactory
-framed & matted
-Greenbiz Group
 Folindux
-Savvy Bride
-Omni Health Timeline
 CommitNet
-CETA Inc
-MJ Card
-Epic Scale
 WeGlow
-Mission: Pic
-Collin's Custom IP, Inc.
 Workstir
-KOD Clothing
 OneCred
-Spot Rocking
-Gamer's Guild of America
-In2circle, Inc.
 Wonderspark
-Maatrix Social
 Backseat
-The Found
-Noble Energy Drink LLC
 SkyWatchers
-Intelligent Fitness
 abc
 MyClo
-Trans*H4CK
 Nextop
 hatch
-Legal Passage
 MyNSA
-3 Triangles Limited
-Schizofriend.me
 GoSikh
-Playful Bee
 Localwise
-The Town Kitchen
-Café Underwood
 growerbot
 Skytide
 Zennie62Media
-Bedrock Analytics
-Innovation College Network
 Servant
-BlankSlate Insurance Corp.
 ProfeticLyrics
-Tabula Project
 MYTHUS
-Game Jerks
-BBH Media
-RealLife-Themed ETF Co.
 Safety1st
-Real Time Matrix
 DeliciousNutritious
-The Job Menu
-Beat The Challenge
-Wear Your Voice Magazine (WYV)
 MiniMash
-Annuity Systems Inc.
-City Hikes Dog Walking & Pet Sitting
 Ychemistry
 Unwired
 GODFunder
-Youth Mentoring and Sports
-Kai Says
-Zombiru Productions
-Zero to Infinity
-Law Offices of Steven Simrin
 iParadigms
-Downhill Commute
 PurchaseKloud
-WatchNOW Networks
 TiQiT
 ogarcade
-CR Surf Travel Company
 Shamebot
-Right Brain Electronics, LLC
 tndrbox
 Even
-Reparation records
 Injunuity
-Show On The Cloud
-Director of Supply Chain
-My Cool Test Company
 PocketNerdz
 Frisco
-Aroha Research Technology Inc.
-CouchOne/CouchBase
 TeamPatent
-My Digital Agency
-Ransom Records
 eLearn
 VestMatch
-Marsalle Productions
 Edyt
-Linn Audio Loudspeakers
-Dominatrix/BDSM House (not named yet)
 Velasso
 thirtytwobits
-Port Of Call
 PropertyBridge
-&MP
 Verse
-Schedule 1 Transport and Processing
 Nugget
-Event Magic
 RISETV
 QualityGPTs
 TakeLessons
-Active Network
 MyCase
 Nulu
 Yapert
 BigSho
 Sensulin
-NowBoarding ✈️
 Flud
 Citybot
 TrustEgg
 Fanium
 Butter
-Invitation codes
-Golden Coast Mead
 Classy
 Storybricks
-Email Copilot
-Kareer.me
 Raynforest
 Shopventory
 SweetLabs
 Qualcomm
-Jib Technologies
-Lawn Love
 PetPartner
-Digital Telepathy
 StockTwits
 ScoreStream
-Events.com
 TapHunter
-harvest.ai
-Cashie Commerce
-Neural Ideas
 Illumina
 FitDeck
 Furlocity
 Equiso
-Recovery Brands
 Rule
-Shop In Spa
 WhatRunsWhere
 CloudBeds
 Airbitz
-Keshif Ventures
 DivX
 Yumm
 Benefunder
 Electrozyme
-Life Technologies
 Blocktech
-Rock My World
 RealtyGlue
 GOTRIbal
-Pushing Green
 MobiMagic
-Health Companion
-Common Form
 Wembli
 Measurabl
 SprinkleBit
-Aero Glass
 HouseCall
 Playdek
 AirPay
-My Medical Forum
 LIA
 Spritzr
-Surf Explorer
 ViaSat
-Anchovi Labs
 Connequity
 Sightly
 Invesd
-CyberFlow Analytics
-Jury Box
 SHEnetics
 WebMetrics
-Cursive Labs
-TerraPan Labs
-Business.com
 ZipCap
 GoStayPlay
 Goals
 LittleThinkTank
-Wave Technology Group
-GUNNAR Optiks
-Interra Energy
 FestPop
-Green Kid Crafts
-Educated Investor ®
 TenFour
 Portfolium
 Eventful
-Shout About Us
 15MinutesNow
 Fragrantica
-OneHealth Solutions
 Cluster
-Nimble Software Systems
 TapGuest
-Duniya Trade
 PacketSled
 CrowdClock
 RapidEngage
 Pharmly
-Cognitive Medical Systems
-Broadway Buds Mobile Collective
-Pacific eMotion / Telegen Systems
-Measured Voice
-Longboard Ventures
 Doctible
-EarthRisk Technologies
 Plasmyd
 Metaplace
-Global Village Concerns
-Athlete IQ
 PetBox
 NUVIZ
 Wrapify
 Plixi
 Fanpics
 TixAlert
-Brier & Thorn
-99 Companies
 fame4good
 CheckWise
 Zooplr
 Awarepoint
-Netclearance Systems
 Intercasting
-True Diagnostics
 Plasso
 SaaSMAX
 VoxOx
@@ -4285,80 +2037,43 @@ moBubble
 Hanginout
 localeikki
 Perfectna
-Penny Auction Solutions
 PocketDerm
 Gizmo5
-Hitch'd
 VeniSTAT
-Soapbox Mobile
-Equity Round
-SeenTh.at
 Extrabux
-Business Texter
 Touch5Mobile
 BottleJoy
-Pet Wireless
-Students Gone Global
 Yumber
-Chic CEO
-Neutrino Private Virtual Currency
-Reach Robotics
 BuxBack
-Bon Affair
 Audvi
 Tomnod
-Share It Fitness
-NanoCellect Biomedical
-Zeeto Media
-OH! Juice
 ecoATM
 Glucovation
-Callaway Golf
 Goowy
-Molecular Assemblies
 Vionic
 Piggyback
 tapChow
 Innolytics
-Venue Report
-easel.ly
 Lennd
-Chumby Industries
-Nanomedical Diagnostics
 Careerflo
-Mee-O
-Wearable Wellness
-Pathway Genomics
 KidZui
 TaxStax
 Bebaas
 SupraMed
-Peregrine Semiconductor
 DriveCam
-MomCo App
 zuku
-Go Ghost
-Ps By The Way (PsBTW)
 Apmetrix
 Artgonia
-Green Bean Packaging, LLC
 AppProcessor
 Zenhavior
 Collexion
-Find Me Gluten Free
-Deal Current Network
 Industry
 Niche
-Planck Aerosystems
-Gas Plus Vending
-Friends With Guns
 Luvia
 SwoopThat
 Dizzle
 Pixelgarde
-Rocketship.fm
 Yappee
-Mercury Labs
 MMJpal
 FragMob
 Nirvanix
@@ -4366,271 +2081,150 @@ carzumer
 appsplit
 Barc
 NMBUL
-American Standard Renewables Fuels
-LAB FELLOWS
-Wibi+Works Therapeutics
-Everyone Counts
 BidTru
 NiceChart
-Noble Environmental Technologies
 Katchable
 360iTours
-Easy Estimated Taxes
 SportzCal
 EvenBetterHalf
-Pro Guide Direct
 attachmore
 Yoooble
-Shops Stock
 telmedx
 BizAuctions
-Gamer Grub
 SouthDoctors
-Luxora Dream Cars
-Underground Elephant
 BrewBit
 Ten8Tech
-➊.com
-True Gentlemen's Jerky
-Content Launch
-Kamino Labs
 Nifty
 DemandStuff
 ViewBug
 AccuSure
-Kookie Karma
 Englue
 iRates
 FUMI
-Simplify Medical
 P2C
 Safelist
 Coradiant
 QRawr
 Glia
 GreatCall
-2.5 Kids
 Learn2Earn
 Holonis
 RentLinx
-Falcon Global Capital
 Unifyed
 Anametrix
-Brink Software
 Juiiicy
 SOCi
 twazer
-Competitor Group
 Cymplifi
-Dhart Development
-EtherGuide Systems
-The School Day
-PopChatr.com
 LuckyBolt
 2pointb
 Tower
 ChipperList
-Litmus Automation
-Yearbound.net
-Positive Mobile Health
-Genunine Products Group
-Leap Wireless
-Aqua Design Innovations (ADI Ventures)
 AirScoreboard
 Hello10
-Lounje.com
 Viaway
 Nextivity
-Freeman & Carney Start-Up Consultants
-Freedom Meditech
 MeLLmo
 meGoez
-Babee Play
-Happy Hour Finder
 DonateBin
-Winning Email
 homecoin
 GreekRush
-Medsphere Systems
-Tourmaline Labs
-babystep.tv
 Iomega
 RefluxMD
-On-Ramp Wireless
-SoDro Gardens
 Hush
-Ength Degree
-Togally.com
-Crytivo Games
 ApKey
-Picks+
-Mobile Learning Networks
-FindLocalWeed.com
 StratiHealth
 Taag
-EZIAcoach.com
-Urban Fresh Delivery
-Mechanics Central
-Lighthouse Manufacturing DBA Netellink
-Visual Mobility
 DailyFlash
 Trustarte
 TutorOut
 DineLogiK
 Knoitall
-VarCity Sports
-Yelp Radio
 LearnDistrict
 Hiringz
 Allre
 Spawnsong
 BeLike
-Swing New
-Skylit Medical
-WePort Card
 ElliptiGO
-Epic Fighting
 LocationSmart
 GPSit
 Hippoverse
-everblog.it
-eFinancial Communications
 Roommatefax
-The Craviator
 Betterpress
 Vlobe
-Assay Depot
 LoyaltyGenerator
 Triptive
-Visual Sciences
-R. Cooper
 Intrastage
 Mindgruve
-Cure Care
-Chef's Roll
-Social Ventures for Sustainability
-blink-182
-The ZYX Integrated Technologies
-Cyber Holdings
-Sharing Giggles
 Reissued
-USHP - Von Dutch motorcycles
 Qelzal
 AdMatter
 Onics
-Soal (by heartwofour)
 Zurple
 SlideGenius
 LeadActivate
 Quantio
 StarsVu
-Archevos - Experdocs
 Phluido
 eBUDz
 Heamgen
-FrostByte Video
-eSUB Construction Software
-Vergence Technologies
 TARTWest
 FriendRyde
-Text Together
 Thanxup
 Anonymizer
 Tratus
-Aisle Planner Inc.
-Stilettos On The Glass Ceiling
 LabATM
 Dycomb
 ProfilePerfecter
 BidsList
 Youduit
-Lavoult.com
 Zeebo
-Curb Call
 ClickScanShare
 Kintera
-Alienplay Games
-Staccato Communications
-Reviewing.net
-National Football Post
 edifyHEALTH
 CoachLogix
-Property Capsule
-QuickFire.TV
 Trapster
 CubiTalk
-Integrated Proteomics
 Pelotonics
-Soirees of Exquisite Sophistication
 SingldOut
 Orphaned
 Stereotype
 Tocagen
 Autography
 Tappforce
-All Med Search
-Chase Ideas
 Injekt
 Brandisty
 leadPops
 MNSTRUS
 Aira
-My Assistant
 Syntricity
 Launchora
-Micropower Technologies
 zEcloud
-Kimbodo.com
 Dealstruck
 TeleMedical
 Travelboxe
-Pilot Reader
 ClearlyEnergy
 FrontierMetrix
-BlueMax Networks
-Aperio Technologies
 riley
 Quippi
 Seraphim
-Ancillary Medical Solutions
-STEM Games
 ElasticFuze
 Luxtera
 TapBuy
 Biomatrica
-GreenLeaf Network
-The Collective
 Healmet
-SHOUT MOUSE
 LoanHero
 IVOREEZ
-Tortuga Logic
 Limbis
 VoluSolve
 MeetingMatch
-Dr Horsepower
 BillMyParents
-Bedcount.com
-iDea Doc
-Yelp Shout
 Mtell
-Rate The Universe
 Vioozer
 PODlife
 Orpix
-Concepts Group
-Tandem Diabetes Care
-Verve Mobile
-Ostendo Technologies
-Startup Empire
 Upurskill
-Kalos Therapeutics
-Srvr.dj
-StarSpot Live
-SOMARK Innovations
-Action Drone
 MYi
-Textiles for Thinkers
 Vendigi
 Juice
 Xcelthera
@@ -4639,60 +2233,27 @@ DVEO
 Conectric
 ScoopHot
 Whoozah
-Think-Eleven
-Do You Buddy
-Depot Springs Brewery
-Dream Job University
 Fuund
-Pliny Equipment
-Entertainment Transportation Systems
 HelenMeetsTroy
-Factor Technologies
-Robo 3D
-Divine Intervention Software
-R.E.M. SAFE
-3D Pioneer Systems
 Tateeda
 Lawcus
 Owllan
 iWinks
 Neqtr
 Influences
-OneRoof Energy
 ELWIRI
 Allylix
 myCitiScape
-Squeak 16
-Computer Network Systems
-Tailored Fitness
 Filmkin
-Tiger South
 Apphoneus
 Sparkistic
-Asset Science
-RTBA.co
-Falling Leaf Innovations
-Clinical Metabolomics
-Agency | 2.0
-Human Information Project
 Expeerience
 HiTask
 ckluster
-Zui.com
 Webrat
 TallySpace
-VelaTel Global Communications
 Jacks
-Middle Ridge
 WowYow
-Dynamic Antenna Systems
-The Tech Block
-Brain-New
-Bridge Technology Partners
-Levitate Technologies
-Music Loft Apps
-Complete Financial
-nCore Communications
 Valid8
 MyDentalCompanion
 StrongVolt
@@ -4700,718 +2261,287 @@ SmartGenies
 Viderian
 Juicology
 IncentiBuzz
-veggytrade-palletmade
 CourseKey
-Tynit.com
 TOYZ2U
-Nu Promethean Technologies
 Neqtr
 VentureGlobal
-Tri-D Dynamics
-Porn Prophecy
 Clustter
-Health Genome
-Ground 2 Table
 Zefflin
 Matchap
 Prome
-Give the Change
-Lightning Web Apps
-Custom-Car-Wraps (.com)
 3dmotive
-TaxSaver Network
-Spreadtrum Communications
-Imagine Communications
 Aptera
 SilkSmile
-SporTech Business Intelligence
-Green Slime
-Secured Universe
 Funloger
 Smolio
 Maxlinear
-Astute Networks
-VIP HOST
-Babiekins Magazine
 WinMyCoins
 Duos
-B&B Technologies
 Sequenom
-Blue Tribe
 Xcential
-Marval Biosciences
 Fireclick
-Sore Eye Sports
-Transaction Wireless
-Memory Streams
-Swagger Agency
-Dependable Delivery
-Merritt Bookkeeping
-Knowledge Engineering
 Toodledo
-Envision Solar International
 edgewave
-US Grand Prix Championship
-Thorn St. Brewery
 UDiOH
 RuffCase
 Edtool
-Mitek Systems
-marketing scienceLAB
-Venue Report
 EveryStory
-eventvibe.com
-fre-be fruit wine cocktails
 clnli
-Ferrini Container
-Tru-Friends
-MindOverPain.org
-The Yacht Club
-Sorenson Media
-Biogas & Electric
-IT MOVES IT
-Objectiva Software Solutions
 DiamPrice
-Three Pound
-LocalRealtors.com
 Attractivee
 CAPTARGET
 Elevada
 DrukSoftware
 LeBonds
-Draago Softworks
 IntelliYachts
 acculitx
 MentMo
-Stealth Startup
-Visioneering Systems
 FundPal
-Tagalong entertainment
-Creo Machines
 Phittle
 Onsidechick
-Parking Pro
-American Crab Farm
-Read With Friends
 PantyJoy
-Angel Wings Foundation
 BuddhiBox
 RetailOps
-TicketSauce.com
-West Coast Entrepreneurial Alliance
 chapter72creative
 AdvinUp
-Boohol Tech & Logistics
-One World Lab
 Jayu
-L&R Black
-Cash Crop Clothing
-Fleurs de Gas Vineyards @ Imaginot
 Tensorcom
 MyWurld
 HOMEbate
-Hovidre.com
 NextRestaurants
-Daily Crowdsource
 MotionSport
-Xgineer Solutions
 Karmabee
-SafeTFirst Corportion
-Go-Go Dog Pals
 Goskate
-Rapid Remodel
-SEO Bridge
 childIDcode
 BrightQube
-Ligand Pharmaceuticals
 Autogenomics
 AdvertiseWithin
 NetStumbler
-Preventsys (Acquired by McAfee Now Part of Intel)
-REVA Medical
-ValCare Nutrition
-MeetingSense Software
-Rossini Productions
 ChaseCam
 Gotzilla
 Carsinia
-Contractor Gallery
 Steeltrade
-Studio Penny Lane
-SIR APE CO.
-Melleen Automotive Group
 PureJoy
 EnableBoard
-A Hundred Times Nothing Films
 Driva
-Just Add Content
 JoyBox
-Outerspace Design Group
 Presence
 WotYou
-Moostache Films
 QFE002
 Buggl
-LUV Advertisements
-Beyond Revenue
-Diane Serra Handmade
-KJAYA Medical
-Happy Owl Studio
-Sirenas Marine Discovery
 MoreThanCure
-Caketails Desserts NightBar
-Isis Pharmaceuticals
-ShuttleWizard.com
-Smirk Interactive
-The Orpha Labs
 Obrary
 Intertune
-The Scoutr
-What Say You
 TechHunter
 MojoChat
 InvestorRank
-FlashPoints Advertising Systems
 ZeeBerry
-Targeted Nutricion
-Pandexa.com
-Symbiosis - Test Company
 WBNES
 Spedsta
 Swingby
-Better Builds Limited Partnership
-H2O Star
-Send A Job
 makeAPP
-BitcoinLoans.com
 Material
-Jolly Bitcoin
-SCOREBOOK LIVE
-Heroes & Icons
 TravelShack
 PLEENQ
-H2O Star
-Vyral Marketing
 LumosPOS
 MYSPORTSMEDIA
 CovalentCareers
-Urban Freelancers
 Nothing
-Conversion Voodoo
 Mophilly
-Internet Marketing
 Hirecules
-Scripps Academy Project
-Rapid Bridge
 PhotoThera
-Perfect Space
 Verdezyne
-Continuous Computing
 TradeUpz
-Color Card Administrator, Inc.
 EMN8
 BuildaSearch
-Case-Monkey (.com)
-Obalon Therapeutics
 ResumeBear
 Venturely
-Shop Smarter
 WebAssist
-Big Skate Company
 Tarari
-Axero Solutions
-Primordial Genetics
 Avaak
 cluckacause
 WAStv
 RealAge
-Systems for Change
-Boss Software
-Projections App
 imsono
 RezBiz
-Easy Name Change
 WoMoLo
-planB Development
-who's where?
 interspection
 SubLocator
-Renovate America
 MicroRad
-Invincible Creative
-High Clarity
 tradewinds
-The Secret Cookie Service
 STEALFIRE
-Bevo Media
-15minutesNOW.com
-Paradigm Energy Research
 3Beez
-Looking for Gamers
-Details Matter
-Motive Interactive
 TechnoCom
-Lesson Pro
 Kirei
-Young And CEO
-Millennium Design
 Quippi
 Hexadiam
-Prince Prepster
-Beyond the Surface International
-Chalk Digital
-Smart Concepts
-DKeeley Press
-Let's Make! E-Learning Center & Lab
 HealthDucation
-Blacktop Restaurant Group
-Condurre Media
-VenPro Partners
 Tablets
 Moovdit
 Colorescience
 Lumo
 LALO
 Diaperly
-Lighthouse Group of Corporations
-Happy Sun Decor
-Amerimerch.com
-Lunker Log
 Ziftit
-Chi-Spree
 Surfreps
-Pioneer Outdoors
-Stepping Stones to Independence
-Dream Team Media
-Vertical Direct
 Neqtr
-BW Quarter
-Deelivery Co
 ViKPiK
-Civili Consulting
-Trade Capital Finance
 ExpoGuru
-My dollar 2 you
 TagHunt
-elevateZ.me
 TOURRS
 HugoIT
 GoShare
 EARNO
-Sugar Streak
-Meketa Investment Group
 Vyndica
-Outerwear Layering
-GSG Creative
-Something Fitting
 Widgetware
 iblox
 CureMetrix
 AristaMD
-Sala Football
 BuzzJam
-SoloTraveller App
-Ryse Industries
-Bryer Leather
-RIsing Tide Partners
 Paymency
 ReLocals
-Rocket Apps
-Venomyx Therapeutics
 smartmicros
 BrandBravo
 Faveo
-Jadience Herbal Formulas
 Regenemed
-Aero Financial
 Linkdrop
 Concerro
-VOIP 1
 PeakNRG
-Alas Music Latin
-Fret Daddy
-Compass Rose Boat & Breakfast
-Stan's Big Saving
-Alphatec Spine
 Wridely
 StarCrewZ
 tagSumo
-Rocket Apps
-STERLINGS - Mobile Barber
 ExpertZoo
 UniverCity
-Orbis Robotics
-V-Enable
-Fret Daddy
-Kai Yoga
 Veryalpha
-Zeitic Health
-Affinity Mobile
 Inovexus
-Axino Technologies
-HD mobile DJ's
-HIV and Single
-Steps Technology
-International Land Alliance
-The Local Realty
-MindTrix Apparel
-Xellent Solutions
 Legend3D
-FaceBook Shout!
 DrivAd
-FuneralHome Directory.com
-Successfail Me
 SurfOn
-Hongkong Healthcarry
-San Diego Taxman
-CodeSmart Studios
-Lightbox Medical
-Blue Duck
-Next Big Thing
 BrokerDash
 SynergEyes
-Go-Go Dog Pals
-Yes Man Watches
-Capstone Partners
 HashBrands
-Cash Flow ATMs
-Printed Palette Ink
-BIG BOX STORAGE
-49 SEO Services
-UpWind Solutions
 Tag
-The Stand-Up Case
 Ezoic
-Chief Ingredient
-AFC Brewing Company
-Compare and Beat
 Abrijit
 TheCopperCop
-Ground-Based Nutrition
 ComHear
-Wisdom + Funk
-Skylight Healthcare Systems
-Event Static
-TerraFirma Motorsports
-Jared Moore
-Prana Cafe (Jai LLC)
 EzInterview
-8 Bit Factory
-Confident Technologies
-FinanceSource.com
 Plumit
-The MITS
-Sticky.fm
 Katana
-Ship Your GLitter
 sensemetrics
-TE2, The Experience Engine
 FieldSaver
 Healthcnxt
 Tecsomed
-Pubs Arena
 iGrad
-Pixl Now
 FoodQueue
-Comprasitiosweb.com
-Condoms for Trees
 Gradeheads
-THE BULL & BEAR FUNDS
-Maddox Defense
-Vicinity - The Local Network
 Spoutable
 ArionSEO
-Review Concierge
-Gianni Mercedes
 ArtistBound
-Touchstone Compliance
-KRUNCH GUIDE
-Party Lovers
 Smartphin
 Shipface
 Spoutable
-The Beer Connect
 Walkabuck
-Branded Research
 Businessfriend
-Planck Aerosystems
-Blink Surveys
-ArtistBound.com
-Zuup Design
 Independa
 Fuelrod
-Model Madness
-Digital Spring
-Advanced Risk Management Systems (ARMS)
-When in Roams
 GameArx
-Pho Realz?!
 AllergyScope
-RMAC Technology Partners
 Postid
-Young Visionaries
 Ubeio
-Hu Go
-The Control Group
 GRNwNV
-Vitamin T
-Fertility Council
 Madavoo
-Cortez Cremations and Funeral Services
-The Daily Tree
 InstantCuts
 NewCondosOnline
-Tragara Pharmaceuticals
 icoachusa
-Voxel Quest
-Mangs Media
-Sandton Technologies
-XM Solutions
-Monk Development
-San Diego Tech Spotlight
-World Equipment Source
 ISCHEM
 Winny
-Industrial Interface
 alex
 Lusidio
 Fleeke
 Ordereye
-Pier Media
-Reaction Design
 TaskHero
 Stitch
-Talent Club
-Xone Labs
-Community Commons
 Urloid
-E-Band Communications
-Smart Trade
-Sonexa Therapeutics
-Luxtheon Lighting
-Middleton and Associates Realty
 Lounje
 SkillCoach
-PSI Custom Sportswear
 Phats
-Xpress Restoration
-Mophilly Technology
 Airgain
-Wendy Sue Mine
-Kevin Bollaert
 ShowScoop
 Fluxeon
-King Kobra Rake
-Le Red Balloon
-Bake More Cake Maker
-Wilshire Fireplace shops
-Little Surf Bro
-Lauren Turton Photography
-Wesley chain - wesley daniel chain
-SMR Media
-Griffith & Young Law Firm
-BlueGrape Consulting LLC - ReGO
-Shopping Cart Diagnostics
-Extreme Custom Flow
 Blahboon
-Stan's Big Saving
 Contriby
 Sliden
-Jonezin'
-swank & Haight
 HealthFusion
-Arkeia Software
-Have To Try It
 BioAtla
-Cytori Therapeutics
 TBD
 Hush
-Smokers Vape
-Halo Business Intelligence
-Aya Healthcare
-Hamilton BioVentures
-robot game
-Breach Security
-Shabby Roses
-Split it App
-KFX Medical, Inc., Carlsbad, CA (based in Bozeman, MT, area represented WA,OR,ID,CA,MT,WY,UT,CO,NV,AZ,NM,NB,SD,ND,KS, AK,HI-24 Reps)
 Selfmadeit
 Blahboon
 EXUSMED
-intersection Medical
 Motionimation
-Bikinis do Brasil
 Keyvon
-South Clairemont Dentistry
-iDrunk -- Social Media Breathalyzer
 WiLinx
-Hispanic Chamber of E-Commerce
-Bellagio Salon
-Towner Vibrato Guitar Parts
 Instawater
-Source Capital Funding
-A Painting Fiesta Studio
-Y2 International Corp. DBA XoomBot
-Slog-It
-Organic Plastic.
-Clear Sky Electric Transportation
-DONH Consulting
 uhnuy
-Royalty Art
 Movetic
-San Diego Mobile Health Services
 SolutionsWide
-College Financial Aid Services
-Founder Services
 pending
 Navein
-Humans of San Diego
-Vivid Software Solutions
 SlideGenius
-Tracker-RMS
 BizeeBox
 Coactivist
 EcoConzept
 OMYEN
 Emogif
-The C Card and Me
 Tryspree
 ZeroDUI
-Neu Academic
-X Stream Info
-Allison Vaughan Photography
-MOHOMBRE Media
-Christopher Lee Collection
-The Vision Store
-Greatness Productions
-EMRE Publishing
-Design X Develop
-Connected Dreamers
 Brdie
-Creative Priority Brand Management
 iblox
 HelloVideo
-PartySpark.com
 RaceHQ
 EduPoint
-Dream for you publishings
 Babmar
-Ultraviolet Analytics
-Snap-Cards
-JTs Acai
 Fantasurf
-Jericho Sports - San Diego
 Extrabux
 Cerebrumatics
-Godspeed Group
-Lighten Up Food
-Carlsbad Real Estate
 TechZui
-Designer Systems
-Follow Per Click
 Buzz4Agent
-GoSurf Accessories
 GreatCall
 SCollective
-Roamly Mobile Solutions
-24 Hour Dog Daycare
-Sacks 5th Ave.
-Don Loco Tequila
-Freebob Company
-Pet Industry Solutions
-PreviewStay.com
-The Jacob & Executives Group
-La Costa Real Estate
 MyGirlFund
-Gnosis International Holding
-SurfSection.com
 IceCreamZilla
 abroadeasy
-On Time Response Ambulance Company
-The Arsenal Agency
-Elemental Clean
-Contractors License Resource Group
-EDF Renewable Energy
 Selfmade
-Pinnacle Performance Elite Training
-Keen Office
-Hellman Global
-Agency for Student Health Research
-Nudge Kick
-Onco Sec Medical
 Cebix
 Sungear
 HOPNOOT
 Tattooba
-packers and movers delhi to dehradun
-Tokyo Playground
-Avera Pharmaceutical
-Bad Ferret
 Spotiza
-Learning Threads
-Excaliard Pharmaceuticals
-Rule.
-Cidara Therapeutics
 Diomics
-Edison Light Bulbs
 Sidepay
 Stitch
 MeCam
 Mobi
-Miss Kat's Catering Co.
-Q by Design
-Dealer Global
 AryaBall
-Affinium Pharmaceuticals
 ZingPrint
-ASCENDANT MDX
-International Stem Cell
-Ivera Medical
-Quorum Systems
-U.S. Auto Parts Network
-L8 SmartLight
-West Health Investment Fund
-Kyriba Japan
-NetWorth Partners
 eBioscience
-Aurora Biosciences
 LinQpay
 GenVault
 Luxtheon
-Rockstar Solos
-POSCO BioVentures
-Taskhero.com
-Halozyme Therapeutics
-Batu Biologics
-Super Heat Games
-Alignent Software
-One Healthy Bar
 Targazyme
 EcoDirect
-ShareNotes.com
 SensorWave
-TSG Solutions
-Lead Commerce
 Podclass
 LabArchives
 QualityGPTs
-PROsimity - Smarter Business Networking
 Spotivate
-Puzzlium Inc.
 1World
-CipherGraph Networks
 CircuitHub
-Chalet Tech
-NowBoarding ✈️
-Cadence Design Systems
-Brocade Communications Systems
-Cerberus Co.
 Lollipuff
 Proformative
-Invitation codes
 realSociable
 WeddingLovely
-Bloom Energy
 Dishcrawl
 Foodstream
 eBay
@@ -5419,22 +2549,16 @@ Myverse
 GoVoluntr
 TiVo
 AkibaH
-Cypress Semiconductor
 Nutanix
 hiku
-Adobe Systems
 Sift
 Sippify
 Cisco
 Appvance
-Nimble Storage
 Interwoven
 Neon
-Konnect Solutions
-Rewards.to
 SoWink
 Curveu
-Vocera Communications
 Themeefy
 Quantum
 Soundhound
@@ -5443,51 +2567,33 @@ AppTrends
 RiseSmart
 Matchfund
 2Wire
-Social Pulse
 ChatterDoc
 Bunchball
 Semperical
 Selectica
-QMi Systems, Inc.
 mADtivity
 Atmel
-Tabata Times
-Stima Systems
-LCD Dreams
 WordWatch
-Strike Brewing Company
 NephoScale
 Trusper
-The Box Noir
-Advance Response
 Splashtop
-Alanax Technologies
-RHT SpectraSafe
-Clever Girls Collective
 uncleCare
-Wandering Music LLC
 TextaPet
-saldo.mx
-Stillwater Supercomputing
 Apakau
 Spreezio
 AuraWallet
-BorrowFlex Inc.
 Impekable
 PostCaptain
 Fusionone
 MAKEaDEAL
 Intacct
 Cherrypie
-Your Out Of Office
-Scent Sciences
 Kidzloop
 Trugence
 SonicWALL
 ComicBin
 Timesheets
 RetailNext
-Taskera - Moneyball for Task Management.
 Xactly
 BCInet
 Tackable
@@ -5495,64 +2601,42 @@ Vdopia
 Gummicube
 HomeProHub
 OptoTac
-Early Growth Financial Services
-Gaia Interactive
 Finderous
-Gct Semiconductor
-Compass Labs
 HealthDonor
 Nanosolar
 FunVity
-Life Detection Systems
-Limelight Mobile
 OncoHealth
 Deallr
 GameDelphi
-Quant Geo
 zNano
 QuantGeo
 Gomazu
-Knight Ridder
 Prefixa
 ciphercloud
 Reamaze
 Ovalpath
-Mustang Ventures
-VIDITURE.INC
 SAEX
 GraphMuse
 CarCopia
-Vascular Designs Inc
 Optimost
 Smartcar
-Fairchild Semiconductor
 Baynote
 Skytree
 ChatWithTheBand
-TAP Innovations
-Integrated Device Technology
 Threatmetrix
-Kiana Analytics
 MyCubi
 Unleash
-Business Radar
 Drivemode
 NETGEAR
 Atrenta
 Prysm
 Robei
-Kick The List
 SolFocus
 LogLogic
 BlueLithium
 Rhomobile
-IceBreakerQ (Ice Breakrr LLC)
 Realy
-DynoSense Corp
-A10 Networks
 Zumigo
-Namco Networks
-DAC Enterprises
 BlueStacks
 Masskom
 Kuveda
@@ -5560,26 +2644,15 @@ Pixelworks
 DevRings
 Intermolecular
 FeeFind
-Virtual Instruments Corporation
-Solido Design Automation
-Golf Rival
 DoxTree
-Magma Design Automation
 RetailKit
 Dozmo
 Smashon
-juxt.io
 WhichDegree
-Agile Software
 deCarta
-Accenture Technology Labs
-Sanmina-SCI
 C2SV
 JOINGO
 Altierre
-CityCheers Media
-Two Way View
-12 Seasons
 BuzzStarter
 meHIE
 Close5
@@ -5588,16 +2661,12 @@ Drobo
 Intermingle
 WearSens
 Beatneek
-Skybox Security
 GroundCntrl
 ioTechie
 Favorr
-Huna Makia
 Vouchfr
 Jijoty
-Health AMM
 Intellisync
-BackWeb Technologies
 ValleySpeak
 piqlet
 Airsee
@@ -5609,31 +2678,20 @@ Telimbic
 ZetData
 PostLens
 OneRedCar
-LGC Wireless
-Kaizen Creative Partnership
-C8 Medisensors
-SVG Partners
 VerySeriousGames
 BlackArrow
 Dialogic
 Phonevite
-Blue Monitor Systems
 MOBOTO
 Truvolo
 Tilera
-Force10 Networks
-Ohana Inc.
-Titan Marketing Inc
 TapToSell
 Jolata
-Nuova Systems
 Sqipp
 Bloguin
 WiChorus
-Covad Communications
 Nirmata
 Growmada
-City Love
 GainSpan
 StorySnip
 Packetmotion
@@ -5647,104 +2705,59 @@ Kunance
 Gomazu
 Finjan
 PixAwe
-Bay Microsystems
 LiveWorld
 PaperBox
 Asterpix
 AdRoxx
 Zscaler
-Mobile Video Date Inc. "sold May 2014"
-CallTree Pro
 Pushmote
 JuiceBox
-The Givve Collection "Givve"
-Flextronics International
 Flyplist
 TapClicks
 LitBit
-Extreme Networks
-Flextronics Lab IX
-DocBasket Inc.
 FUTBOLCONNECT
 CTZNet
 SaveVia
 RedSwank
-Zulu Inc
 Bluearc
-goHairCut.com
 Grokker
-kloz.it
 iProtect
 ReadyReplay
 QwikLife
-Proud To Pay
 Eweclid
-Dataplug Inc.
 Roamware
 MetaLINCS
-Deadbolt Studios
 Veruta
 Parsifal
 DocBasket
-PDF Solutions, Inc
-TextDigger (2005-2010)
 Balloonduck
-Dicom Systems
 Intransa
 FinScale
 SPORTSWURLZ
-Social Strategi
 HinduCloud
-Mobile Flow
-PernixData Inc.
-Capella Photonics
 Zaavy
 Bounce
-Groupo communications
 Acelio
 DreamSquare
-Gadzoox Networks
 Xsigo
 Zafesoft
 Nlayers
-Vacay Bank
 Homeroom
-Calista Technologies
-ioTechie Future Tech
 Chromasun
-Hitachi GST
 Sticksecure
-ioTechie Espanol
-Lotus Premium Denim
-Bridge Bank
-Bell Boi
-Vectra Networks
-Avago Technologies
 Malwarebytes
-ioTechie Gaming
-Healthcare Central
 Stempaks
 Pirc
 MyShopBase
-Concierge Health Care Services
 BidOnMyGig
 Jackfroot
 Webiners
 Givify
 LiveWatts
-Applied Microstructures
 Cassatt
 Twendai
-United Keys
-Football and Futbol
-Half City
 Bibliobridge
-ipim.me
-100% Pure
-Piranha EMS
-NepalAdz Classified
 DigNit
-Dynamic Sport & Social Club
 mySkyConnections
 Tracevector
 Verient
@@ -5758,216 +2771,111 @@ Monk
 Melodis
 AutoConnected
 SENAM
-Cigar Sense Inc.
 LifeChapters
-4D Pipeline
-Open Source Storage, LLC
-Freshdesign Interactive, Inc.
 Neophotonics
 andbrand
 Ivideon
-SafeKey Technology, Inc.
 eGrabber
 Vormetric
 WriteWell
-Cacheonix Systems
 Lavante
 TOTALCOACH
-EcoSphere Fitness
-Fidelithon Systems
 Intrapace
-Startup Hubs
 Catamaran
 Xambala
 Vidder
 Aicent
-myDate App - Amsurge, Inc.
 NetScaler
 NestEgger
 Mealpit
-Vertos Medical
-SlingShot Connections
 Roomlii
-YFind Technologies
-Petzila, Inc.
 CallrTech
-Fortress Payments
-Financial Liberty Network
 TripStar
-Restoration Robotics
 YooLabel
-SeeIn Systems, Inc.
 Voltset
-uSens Inc
-BandBazaar.com
-ProductNinja.com
 InverCloud
 Nota
 Arca3D
 flapon
 Quohive
-Titanium Falcon Inc
-Ditech Networks
-Psycho Donuts
-CampaignAbility LLC
 VentureHealth
 Agiliance
 Zunati
 Wrightspeed
 Crowdmull
 CloudAbstraction
-Opportunities Research
-C2 Microsystems
 Corventis
-BVI Networks
-Router Analysis
 D2S
-Shizmo Brewing Company
 ArrayComm
-Tomorrow's Thinkers
 Averail
 Vizigy
 Iconix
-Statis Board
-Infineta Systems
-RiverMeadow Software
 Taggstr
 ResultFirst
-Fat Spaniel Technologies
 RightSlope
 LendFu
-Gold Hill Capital
-Kalpana Inc.
 Prohealth
 RedLaser
 Andolasoft
-Apps on Cloud
 Invarium
 Discera
 Movaris
-Market Prophet
-PTLoop, LLC
-Novellus Systems
 Evvend
 MERDI
-Blleep, Inc
-Pairdot Inc.
-Aturma Systems
 Wancube
-Katalogues Inc.
-NI-KO TECH
-ethTV Inc
-Nick Goddard, Colliers International
 Peaxy
-Vertical Unity
 Gamrzedge
-Monolithic Power Systems, Inc.
-Fyreplug Inc.
 Netformx
 Grabimo
 Sportsbox360
 Exuva
-Zycada Networks
-OCZ Technology
-U-DO
 MayReach
-Lean On Wheels
-Ocarina Networks
-Chip Estimate
 Dapsity
 Creddle
 Sirf
-Chronix Biomedical
 Intellitics
 AutoMD
 Asetek
-BCL Technologies
-Rho Power
-MSA Systems
-Yello Labs
 Invantest
 Careeriosity
 Contiq
 mVeloce
-tickl.me
 Solexant
 Neoforma
-Components Direct
 PortalPlayer
 Wellcore
 Badabean
-Altaz, Inc.
-WeConsent, Inc
-Wyse Technology
 Audive
-Analog Design Automation
-Talari Networks
-Deal Acceleration
-RAE Systems
 Pixplore
-Tanesha Awasthi
-Rani Therapeutics
-The S Kumar Talk Show
-AncientFaces.com
-Varentec, Inc.
-20 Questions
-ActMobile Networks, Inc.
 ClassFAQs
 Eggify
-GameSpace.com
-Ariosa Diagnostics
-Early Growth Financial Services
-Fondu Software
 FindSimilarMovies
-Hazel Valera | Clear Credit Exchange
 RoyalNote
 VacationKarma
-Coyote Creek
 StatFight
 Salamyou
 Tallymark
-Quantum Secure
 Bollytude
-Blast Your Car
 Astralist
-Qeexo Co.
 Flippbox
 Qritiqr
-Nimbus Materials
-Stealth Mode Startup
 Wealthucate
 Listypedia
 InsightsOne
-Complete Recovery
-NATES Partnership
 AppVoyage
-Laced Cartel
-Carrier Access
 Nota
-Ddt Software
 Reviewable
 YuJa
-NEXT Future Transportation
-Power Integrations
-ILOOK Corporation
 SatoriSense
-Eve-usa
 Swayamwar
-knf Technologies
 PrepMo
-Top Stories
 Aecore
 findingfarm
-teklee.media
-Presto Engineering
 bigdippervizionz
-Complete Recovery
 UpMentor
 Flatdoc
-SiTune Corporation
 SnapTrack
 Baxano
-Lotus Games Design
 NotyIM
 FinanceWithFriends
 Projectoneway
@@ -5976,221 +2884,82 @@ Foocierge
 FaceNoteMe
 Eyeona
 WordWar
-Cavendish Kinetics
 PINertia
-Radiant Wrap
 4Blox
-OSA Technologies
-Virtual Color Toy
 Guardyen
 DABSquared
-Alta Financial & Insurance Services
-Extreme DA
 Drobo
 Neonrez
-Mobixell Networks
-SiliconNews.Ru
-Fastback Networks
 MetalMorpher
 MobilFlex
-Spice Travelers
 MyKitchen
-Mistral Venture Partners
-Pericom Semiconductor
-LogTera Inc.
 APPE
 Mobileum
-Girl With Curves
 Ameya
-Overland Storage
-3D-Scientific and Sanzis, Inc
 SendFront
-Danal d/b/a BilltoMobile
-Ventus Medical
-Bright Computing
-Forte Design Systems
-SI-BONE, Inc
 InstallMonetizer
-AxBuss Technologies Inc.
-Famometer Inc
 s
-NVMdurance Limited
-Washing Pond Ventures
-Transforia Inc.
-Muhn Properties LLC
 ChipX
-Vanguard Ventures
 ProStores
 SurfaceInk
-Shocking Technologies
-Live Talking
 Rerisa
-100%FOOD Machine
-Mrs. Goode Manners
-RXSHARE, INC
 Relevant
-Anchiva Systems
-H&M Company USA
-The Wave
-SkyJet International
-Unseen Motion Corporation
-TheParty.Net
-Xangati (Previously netZentry)
 GreenHalo
 MidMe
-Taleee - customer-driven commerce
-Tic Tac Go
-Io Turbine
 BioFuelBox
-SpineAlign Medical
-Koncept Cars
-Mente Elástica™
-Roman Paradigm
-HealthMed Realty
 Mercury9
-Prospective Perspective LLC
-1425 koll circle suite 101 bay area
-Solar Junction
 SleekSearch
-Agily Networks
-Novafora Inc.
-Famometer, Inc.
-eIQ Energy
-Mexo Inc
-Weird Techs
 TWCBOOKING
-SAEX Group
-The Arsenal
 Cashboard
 Innercircuit
-Webex Communications India
-ProvideNet IT
 3DFabTech
 Alacritech
-Pecoware Company Inc.
-Siva Power
 Ejobid
 Zoeticx
-Forever Stamps Collection
 AutoCareBids
 Fididel
-Parakletos Ventures
-E-TEK Dynamics
 Startupful
 SoloPower
 HubYard
 Decizium
-Social Web, Inc.
-ePlanet Capital
-Fe3 Medical
 Oclaro
-Web Development San Jose
-Tacere Therapeutics
-NanoConversion Technologies
-Countlan Magazine
-Doost Inc.
-Alteon Websystems
 Voltset
 Costalize
 spinshopia
 Fronteir
 Sixfolio
-Skyera, Inc
 Atilekt
 ILT
 allDox
-Adobe Ventures
 Ciphermax
-RSI (Reel Solar
 Enverv
-ShopOrTrade.Com
-Storyline Productions & Geller Goldfine Productions
-Link & Co.
-Firsthand Technology Value Fund
-Ksoft Consulting LLC
-Ameritronik LLC
-L5Cloud.Com
 BeFit
-Bay area energy koll circle san jose
 SPORTSWA
-Restoration Health Center
-Reviva Pharmaceuticals
-AR Devices LLC.
-CNEX LABS
 Melodora
 Avogy
 Ankur2Angels
-Psychic Medium Nadia Shapiro
 the
-Nira Wireless
-Nerium International
-Revolve Foods
-Bay area energy koll circle san jose ca
-Vendus Product Labs
-Pegasus Solar
-Innominds Design Labs
-eHome Reality
 Jobstir
-Brewer Digital Marketing
-Readifit Media
-Quest Discovery
-S.E.A. Medical Systems
-Single Cell Technology
 Alverix
-Silicon Genesis
-Broadway Networks
-Planar Semiconductor
-Cirtas Systems
-VentureTech Alliance
 HubChilla
-SVTC Technologies
 Aductions
-myTAG.com
 Skycross
-Breker Verification Systems
-NeoGuide Systems
-Validity Sensors
-Emulation and Verification Engineering
-Quantum Technology Partners
-SpineAlign Medical
-Ocarina Technologies
 Gigoptix
-Altos Design Automation
-GigaFin Networks
-LED Engin
-Firsthand Capital Management
-Emtrace Technologies
-FICO (Fair Isaac)
 SoundCure
 Chevia
-Proton Digital Systems
-InveStar Capital
-Gridtential Energy
-Notify Technology
-Fox Technologies
 Pintics
 PaymentOne
 Myfacepage
 Scifiniti
-Zume Life
-Certify Data Systems
-MEC Dynamics
 Pangalore
 Smallaa
 sliceX
-Dreamscape Blue
-InSync Software
 AdventureDrop
-BroadLogic Network Technologies
-Cypress Envirosystems
-Celestial Semiconductor
 NeoAccel
-Si2 Microsystems
 Leaders2020
 CellSpin
 Viropro
 MediaPhy
-Maskless Lithography
 QualityGPTs
 uBiome
 Square
@@ -6199,16 +2968,13 @@ Twitter
 Getaround
 Shyp
 Uber
-NowBoarding ✈️
 Airbnb
 Zesty
 Streak
 Couple
 Buffer
-Invitation codes
 Path
 Kown
-SaaS Startups by Flight.vc
 Postmates
 Rally
 Clever
@@ -6229,14 +2995,11 @@ AltSchool
 Kaggle
 DreamFunded
 Sprig
-Keen IO
 Life360
 PandoMedia
-McKinsey & Company
 Sqwiggle
 BackOps
 Sense
-Leap Transit
 Boatbound
 Calm
 UpCounsel
@@ -6246,25 +3009,18 @@ Munchery
 Spire
 Drive
 Storenvy
-Cambrian Genomics
-Vouch Financial
 42Floors
 StyleSeat
 Elevate
 Compass
 Puddle
-Cake Health
-Slow Ventures
 fitmob
 Chewse
 Lever
-Red Tricycle
-Loot!
 Thumbtack
 StartupStats
 Minbox
 Stipple
-Spire Global
 InternMatch
 Stripe
 Socialize
@@ -6280,12 +3036,9 @@ DroneDeploy
 Cinemagram
 Experiment
 Dealflicks
-Care at Hand
-Famo.us
 PayByGroup
 Ark
 AirPair
-Faraday Bicycles
 Bento
 Freshplum
 Nomiku
@@ -6293,16 +3046,11 @@ Zuli
 Vungle
 Balanced
 Scan
-Red Clay
 Eligible
-Momentum Machines
 BranchOut
-Whale Path
 Medium
 august
-Happy Inspector
 userfox
-Ninja Blocks
 Nuzzel
 iodine
 Kraken
@@ -6313,7 +3061,6 @@ Rentlytics
 Vurb
 Voxer
 Tilt
-Shelf.com
 Navdy
 Trio
 HomeLight
@@ -6343,13 +3090,9 @@ Sproutling
 Directly
 Remind
 Spotify
-App.io
-Luxr.co
-Leap Motion
 TenderTree
 AdStage
 Asana
-Financial Services Tech by Flight.vc
 Twilio
 Robocoin
 Birdi
@@ -6358,7 +3101,6 @@ inDinero
 15Five
 Crossfader
 Womply
-GAIN Fitness
 Graphicly
 WillCall
 Butterfleye
@@ -6366,16 +3108,9 @@ Dwell
 Foodzie
 ONE
 Runnable
-Prompt.ly
 Maker
 Mirror
-Sliced Investing
-Foodspotting (Part of OpenTable)
-LE TOTE
 Mixpanel
-Good.Co
-Circle of Moms
-True & Co
 Adsnative
 PlateJoy
 500friends
@@ -6389,23 +3124,19 @@ AgLocal
 OpenAppMkt
 Benchling
 Orion
-Boost Media
 UserVoice
 iDoneThis
 Augmedix
 PICT
-Brit + Co
 Simpler
 CRAVE
 RolePoint
-Product Hunt
 Streem
 BetterDoctor
 SharePractice
 Momunt
 Opencare
 Schoola
-Particle (formerly Spark)
 Heyday
 Outline
 Secret
@@ -6422,11 +3153,8 @@ Dropcam
 Colingo
 Geekatoo
 Nextdoor
-Coach.me
 BTCjam
-Scoot Networks
 BetterCompany
-DoctorBase (acquired by Kareo)
 Advsor
 Zillabyte
 SilverPush
@@ -6442,7 +3170,6 @@ Cloudability
 Disqus
 Bugcrowd
 Statwing
-Ceres Imaging
 itembase
 BlackJet
 CircleCI
@@ -6450,31 +3177,25 @@ Leanplum
 NoRedink
 Equidate
 Votizen
-Mission Motors
 Immediately
 Limk
 Mitoo
 Lantern
-First Opinion
 PubNub
 Reesio
 Chute
 Intercom
 Shots
-Drawn to Scale
 Eventbrite
 Scripted
 Partender
-Ginger.io
 Betable
-Active Mind Technology
 ChangeCoin
 RABBL
 Twice
 Boostable
 HotelTonight
 SoundCloud
-Inside.com
 Hipster
 Addvocate
 Xola
@@ -6484,20 +3205,17 @@ Presentate
 Slack
 Sosh
 Roost
-SnowShoe Stamp
 Hitpost
 Yammer
 ivee
 Waygo
 Lenda
 TapSense
-Academia.edu
 LocBox
 Humanoid
 Mavrx
 Blossom
 Greenstart
-Coffee Meets Bagel
 Neighborly
 Lyft
 Everpix
@@ -6506,21 +3224,17 @@ Status
 Wholeshare
 Optimizely
 Pillow
-Orange Chef
 Ongig
 Iterable
 Instamotor
 Zenefits
-vox.io
 TouristEye
 Soldsie
-Framed Data
 Hitch
 ThirdLove
 WePlann
 HandUp
 HoneyBook
-True Link
 Sourceeasy
 TouchOfModern
 StudyHall
@@ -6538,11 +3252,8 @@ ZipZap
 Homejoy
 Talkable
 Wello
-Pocket Change
 Locality
 Chartboost
-The Peep Project
-Minerva Project
 Expa
 ZeroCater
 Everlane
@@ -6556,7 +3267,6 @@ Headout
 Gobbler
 Hired
 OpenPlacement
-Practice Fusion
 Appstores
 Wonolo
 Instagram
@@ -6567,7 +3277,6 @@ Charge
 Sano
 Blockai
 Hipmunk
-tray.io
 PicCollage
 LabDoor
 Identified
@@ -6575,9 +3284,7 @@ Plivo
 Sapho
 Rescale
 Shippo
-Expect Labs
 Pantheon
-Unwind Me
 Fliptop
 Survata
 Kamcord
@@ -6592,17 +3299,11 @@ Manpacks
 Synata
 IdeaMarket
 MyFitnessPal
-Eko Devices
 Heyzap
-Massive Health
-Lit Motors
 vidIQ
 VetPronto
 blissmo
 Kitchit
--
-Standard Treasury
-Light Table
 Hive
 DOZ
 Beautylish
@@ -6610,13 +3311,9 @@ Crowdcurity
 Milk
 Visa
 Semantics3
-Coffee & Power
 BrightFunnel
 Atooma
-Smart Coffee Technology
-Popular Pays
 GinzaMetrics
-Open Garden
 Human
 Airware
 Automattic
@@ -6624,7 +3321,6 @@ Indiegogo
 OpenLabel
 MessageMe
 Growbots
-S2 Capital
 MyVR
 Vessel
 UpOut
@@ -6636,14 +3332,9 @@ Fitbit
 Infochimps
 YogaTrail
 MemSQL
-Velo Labs
 Foundersuite
-Trigger.io
 Fixed
 boomtrain
-Philz Coffee
-Butter Systems
-Motion Math
 Taulia
 FastCustomer
 Wevorce
@@ -6651,25 +3342,18 @@ Wevorce
 Kissmetrics
 LetsLunch
 CellScope
-Sift Science
 Tailored
-The Exchange Visionary Laboratories
 GitHub
-Baseline Ventures
 Fieldwire
-Samba TV
 LendFriend
 RidePal
 Zymergen
 Ansa
 CliniCast
 Luxe
-Good Eggs
-Symphony Commerce
 Strut
 Bloc
 StumbleUpon
-Eversnap Photography
 SNAPCARD
 Plaid
 Patreon
@@ -6690,10 +3374,8 @@ CodeHS
 Learndot
 NodeSource
 ZOZI
-Underground Cellar
 MUBI
 Goldbely
-Condition One
 Apportable
 LendUp
 Monogram
@@ -6703,31 +3385,21 @@ Chariot
 FounderDating
 Metricly
 Loku
-Mango Health
 FoundationDB
 ShareDesk
-Amplify Health
 Opstarts
 Checkr
-Ubi Video
-Alta Motors
 Causes
 Vacatia
-Toshl Finance
-Volta Industries
 Conekta
 DIY
 Kiip
 LiveRamp
-Replay, by Stupeflix
-Lending Club
-Hypothes.is
 Miso
 StartupList
 Blink
 Vidcaster
 Kippt
-Gil Penchina Backers Fund I
 AlwaysOn
 Picplum
 Treatful
@@ -6738,9 +3410,7 @@ CrowdFlower
 Heroku
 VaycayHero
 Neighborland
-Curious Endeavors
 OpenMed
-Revolve Robotics
 URX
 Mailgun
 Travelnuts
@@ -6750,11 +3420,8 @@ Umano
 Shift
 ZIMPERIUM
 Spotsetter
-Dil Mil
-Sales Beach
 Radius
 Minted
-WaterSmart Software
 LearnUp
 Groupiter
 NextLesson
@@ -6763,50 +3430,36 @@ CoinTent
 Koding
 FLYR
 Mozio
-Podo Labs
 Goodreads
-DOWN by Bang With Friends
 Affirm
 Thanx
 Talkdesk
-Change.org
-Apartment List
-The Climate
 Designlab
 Segment
 AdRoll
-Hack Reactor
 PicnicHealth
 Humin
-EDEO (MinoMonsters)
 Wishery
 Cinder
 FamilyLeaf
 Koemei
 CrowdMed
-Tim Ferriss Stealth Deals Fund I
 AffinityLive
 BidAway
 Hedgy
 Tradecraft
 Reddit
-Mural.ly
-Near Me
 Priceonomics
 WakeMate
-Hint Health
 BitTorrent
 Piggybackr
 MindSumo
 TINT
 Planwise
-Ripple Labs
-Contacts+
 simplehoney
 Readyforce
 Tinychat
 Lively
-Bionic Panda Games
 6SensorLabs
 WellnessFX
 Network
@@ -6815,7 +3468,6 @@ Trumaker
 Pact
 Bigcommerce
 Kinsights
-Venture Hacks
 Eaze
 Gild
 InstaEDU
@@ -6825,41 +3477,29 @@ Opendoor
 BrightRoll
 SignEasy
 Argoz
-Susa Ventures
 Wednesdays
 Whitetruffle
-eSpark Learning
 CodeLesson
 Spill
 100Plus
-Incredible Labs
 Fuel
 Saygent
 Tagtile
 LikeIt
-Syndicates Fund
 Romotive
 Sparkcentral
 SimplePrints
 LearnSprout
-Hint Water
 SocialWire
-Sensor Tower
 Sharethrough
-Olio Devices
-Omada Health
-about.me
 ZBoard
 Tawkify
 Onesheet
-Front Row Education
-Lift Labs
 doxIQ
 Mixation
 DailyCred
 ReferralMD
 Wefunder
-Boost Bitcoin Fund
 TalkToChef
 Coursmos
 MyTime
@@ -6878,7 +3518,6 @@ SupplyBetter
 Bloodhound
 Naytev
 Benefitter
-Soma Water
 Highlight
 WhatWeOrder
 Sunshine
@@ -6895,19 +3534,15 @@ Rise
 Feast
 Exec
 RoomHunt
-Alt12 Apps
 SimplyInsured
 Pangia
 Traackr
 Vidora
-One Kings Lane
 Meerkat
 Toro
 tapviva
 Twitch
-Quote Roller
 Tioki
-awe.sm
 Kinderloop
 BeCouply
 AKQA
@@ -6926,15 +3561,11 @@ AgileMD
 Preact
 Tapjoy
 FOBO
-Clay.io
-Launchpad Toys
 Airseed
 Scribd
 Luna
 PagerDuty
-Roomstorm (former WalkSource)
 Shopseen
-Revel Systems
 Judicata
 Operator
 TapFwd
@@ -6944,32 +3575,22 @@ Zendesk
 Orphidia
 CrowdCall
 Upside
-CBS Interactive
 Coderbuddy
 Periscope
 OpenTable
 Algolia
 Fountain
 LocalOn
-Seesaw Decisions
 Blend
 Rickshaw
 ShareBloc
-Conversa Health
-Plum District
-Hampton Creek, Inc.
 Apiary
-Adility (Acquired by inComm)
 Trulia
-Chat Sports
-Iron.io
 Degreed
 Sidelines
-Raise.me
 Delight
 Storify
 Flixster
-Share Some Style
 Zipongo
 Front
 DataHero
@@ -6981,15 +3602,12 @@ Undrip
 Astrid
 SKULLY
 SweatGuru
-Open Source Syndicate
 Docker
 HeartThis
 Fitt
 Cloudbot
-Munch On Me
 Cloudy
 SeatMe
-Prism Skylabs
 Roobiq
 Versal
 LawPal
@@ -6997,7 +3615,6 @@ Shopeando
 VerifyBTC
 SEED
 StoryWorth
-Credit Karma
 NewHive
 JungleCents
 AnyRoad
@@ -7005,7 +3622,6 @@ Squawk
 Yogome
 Premise
 Dekko
-Move Loot
 Prime
 Flyer
 Pixlee
@@ -7018,23 +3634,19 @@ OLSET
 Povio
 Mingly
 Floqq
-Chain.com
 Weave
 Sparked
 Yobble
 Clearbit
 Camperoo
-Bridge US
 Wiser
 Gustin
 Swapbox
 Tastemaker
 Plympton
-Audience.fm (now: @mindbits)
 Weebly
 Onboardly
 SlideMail
-Growth Machines
 Ridejoy
 Sensentia
 Hangtime
@@ -7042,22 +3654,16 @@ Ticketfly
 Padlet
 iNeedTreez
 StubHub
-Big Head Mode
 Venovate
 Kwarter
 Blockboard
-Nightingale App
 Quid
-Catalia Health
 TrueAccord
 Edthena
 Clipabout
-Safe Shepherd
 Metromile
 Sidecar
 SchoolMint
-Playground.fm
-PCH Access
 Helium
 Frederick
 Medko
@@ -7067,10 +3673,7 @@ AppDirect
 Bitdeli
 SourceNinja
 Rallyon
-mist.io
 HelloMD
-Spitball Entertainment
-Funders And Founders Infographics
 Livefyre
 Interstate
 ShopSavvy
@@ -7083,7 +3686,6 @@ ShopLogic
 Stitch
 Bright
 Ownshelf
-Andy OS
 RAVEL
 awear
 Ohmconnect
@@ -7097,11 +3699,9 @@ DotCloud
 Pulse
 Docusign
 DesignCrowd
-Circle 38
 Zoosk
 Venturocket
 Perkville
-if(we)
 LivBlends
 Plate
 Relevvant
@@ -7109,97 +3709,73 @@ PeopleHunt
 Hornet
 Plethora
 isocket
-Keychain Logistics
 MogoTix
-CNET Networks
 CommitChange
-O'Reilly AlphaTech Ventures
 Konnecti
 Xatori
 MovieLaLa
 Repairy
-Emergent One
 inthis
-Quantified Skin
 CloudPeeps
 InvoiceASAP
 Lumoid
-Make School
 Flexport
 Dopamine
 gdgt
 Cadee
 Groopt
 ProductBio
-Reclip.It
 Dropifi
 Bugsnag
-Second Funnel
 MoPub
 TargetingMantra
 Lumific
 Skulpt
-Tie Society
-card.io
 Enthuse
 CareerDean
 BeRecruited
 Slide
 Earnest
-Get Satisfaction
 Cardpool
 Fastly
 Sessions
-Whistle Labs
 Entelo
 Recruiterbox
 Boombotix
 Leaky
 eThor
 Fooducate
-Will Someone
 CloudAmp
 Propeller
 CodeEval
 ZootRock
 Fiverun
-Colibri IO
 AwayFind
 Clip
-Traveling Spoon
-Planet Labs
 Glancee
 ProLeads
-Seva Coffee
 PaperG
 Prizzm
 RivalMe
-Archon Dronistics
 Popbasic
 Rocksbox
-coder.ly
 FitStar
 Sweep
 Honeybadgr
-Style Lend
 BrightBytes
 Whim
 Trackin
 Allay
-Endurance Lending Network
 HashFast
 depict
 InboxVudu
 Futureadvisor
 Lookout
-Outgoing.me
 PrePay
-New Relic
 CardSpring
 Frugalo
 xTV
 GoodData
-Buddy Drinks
 Telly
 Rallyware
 Helios
@@ -7212,12 +3788,9 @@ AuditFile
 Groundcrew
 Momentum
 Zencoder
-ShopNear.me
 Optimal
 Cleanify
-Monstrous.fm
 Gametime
-Astrid Francesca Walk
 99Gamers
 Yog
 AwesomeBox
@@ -7226,34 +3799,25 @@ Sunglass
 ePantry
 Chec
 Prevently
-Seraph Group
-Plain Vanilla Games
 CodeFights
 Yumbin
 LiquidSpace
 Bold
-Lithium Technologies
 ZigFu
 Adku
-Fenix International
 Pure
 TableGrabber
-Wildflower Health
 iDreamBooks
 PlaySay
 Yambla
 Topguest
 Pack
-Advice Wallet
 Frontback
 Vend
-Golden Seeds
 Macromedia
 kernel
 RentJuice
-1-Page
 Hellobit
-MyPad (Loytr)
 Blueboard
 Yidio
 HelloSign
@@ -7262,9 +3826,7 @@ AstroPrint
 SportsLab
 TradeHill
 doblet
-Two Tap
 Zoomforth
-Beyond Lucid Technologies
 Frenzoo
 Splunk
 Mapbox
@@ -7276,12 +3838,9 @@ Monetsu
 Lully
 OrionVM
 popexpert
-SWIG!
 NewAer
 ContextLogic
 KidAdmit
-Culture Kitchen
-Beyond Games
 Kidlandia
 Fandor
 CUR
@@ -7290,17 +3849,11 @@ Rainforest
 Meldium
 CruiseWise
 Pipette
-PartnerLi.st
 WorkMob
 Spoondate
-Bluenose Analytics
 Jigglist
-Next Force Technology
-The Fetch
-Modify Industries
 Trooval
 Cluster
-Bright Funds
 Beintoo
 TradeGig
 LessThan3
@@ -7308,42 +3861,30 @@ Yevvo
 TripIt
 Strava
 Shoptouch
-Hammer & Chisel
 Crunchyroll
-Sqor Sports
 Fleksy
 Remoov
 Inzopa
 Vibease
 Okta
-The Fridge
 Guesty
-Empire Avenue
-Hearsay Social
-Tell Market
 InstaGIS
 Betfair
 AppMesh
 Shuddle
 Glow
-Qbox.io
 MeetCute
 Waypost
-Consumer by Flight.vc
 Flurry
 Airphrame
 tinyRx
 Kuona
-Dev Bootcamp
-Totus Power
 Contentools
 Doughbies
 AppMakr
-Piston Cloud Computing
 Freedcamp
 Celery
 Adgile
-bop.fm
 Overstat
 Couchsurfing
 JetMe
@@ -7354,13 +3895,10 @@ Twylah
 Bunkr
 Gradberry
 Breezeworks
-Blossom Coffee
 Singly
 Grockit
 Handle
 Hint
-Riverbed Technology
-Charles Schwab
 PathSource
 Carsabi
 Merchbar
@@ -7369,24 +3907,17 @@ Sidekick
 Brixmark
 OpenPCR
 MediSyn
-DARBY SMART
-Clean Power Finance
 Savvy
 dennoo
 Chime
-Choose Energy
 Medisas
 WooBoard
-Uguru.me
 PeerSpace
 Moxxly
 Tuckernuck
 ZIRX
-Better Finance
 Cotap
-Tripping.com
 Acompli
-Pivotal Labs
 Microtask
 News
 Mode
@@ -7403,16 +3934,13 @@ Do
 VSporto
 Grid
 Aardvark
-Stride Health
 SocialPandas
 Wingz
 Anapsis
 Revision3
 inClass
 Gogohire
-Live Nation Labs
 Fleet
-Stitch Fix
 3DPrinterOS
 Genability
 YBUY
@@ -7421,12 +3949,9 @@ CloudFlare
 Slant
 SportHold
 Smarking
-Lumos Labs
 Sumazi
-Race Yourself
 ChefsFeed
 Inductly
-Pocket Gems
 Mindie
 DocSend
 Mammoth
@@ -7438,11 +3963,9 @@ Expensify
 Unbabel
 Newsle
 APOZY
-Kimono Labs
 BloomSpot
 OpenSilo
 Witsbits
-Bluxome Street Winery
 Keepy
 Ustream
 CareLuLu
@@ -7453,7 +3976,6 @@ Chomp
 Appbistro
 Occipital
 Flinja
-Anomaly Innovations
 Tout
 Shopsy
 Glanse
@@ -7462,15 +3984,9 @@ Paceable
 Sourcery
 Tapastic
 TechnoRides
-Schematic Labs, makers of SoundTracking
-Notable Labs
 SIGNATURE
 Playpass
-Blended Labs
-Wearable Intelligence
 Loudr
-OkCupid Labs
-We Created It
 Mapsense
 Copyin
 Embrace
@@ -7485,13 +4001,9 @@ Stitcher
 Orrick
 Ngmoco
 FOODIA
-Mobile Action
 CloudAcademy
-Bleacher League Entertainment
 42
-Barclays Global Investors
 GroupMD
-Dot & Bo
 CreativeLive
 Ownza
 Zingfin
@@ -7500,7 +4012,6 @@ misterbnb
 PandaDoc
 LookAcross
 Glassbreakers
-Cater2.me
 PowerSet
 captureproof
 Brigade
@@ -7508,13 +4019,8 @@ Metamarkets
 InfoScout
 GroupHub
 Swipe
-SocialSign.in
-Stitch Labs
-unseat.me
 Monkimun
-Bread (acquired by Yahoo)
 Stuph
-StartupKit - Work smarter not harder
 LiveMinutes
 Traction
 Byliner
@@ -7523,20 +4029,14 @@ Purse
 Loopd
 Cardiio
 myTips
-Mission and Market
-App Annie
-Hackbright Academy
 Leftronic
 Queue
 Rapleaf
 RentMetrics
-Imagine Research
 CapRally
 storehouse
 trueAnthem
 Opsmatic
-Grand Rounds
-Teaman & Company
 Snip2Code
 Prismatic
 Piccsy
@@ -7546,37 +4046,23 @@ Coaster
 Iotera
 Vufind
 Fyne
-IGN Entertainment
-Message Bus
 Mountary
 Faraday
 Topicmarks
 Upshift
 SignalFire
-digit.co
 Publet
-Wednesday Night
 Parenthoods
-Blendspace by TES
 Locish
-Spencer's Market
 TechCrunch
-Given Goods Co.
 Revnetics
-California Labs (Loop)
-Late Labs
 Promolta
 Quantcast
 Instaply
 Archively
-Ironfire Capital
-The Spring
 Comendi
 Awesomatic
-Level Money
 iDoc24
-Shoe Lovers
-Founders Network
 Storie
 Ntensify
 SnappyTV
@@ -7585,28 +4071,19 @@ Volio
 EatWith
 Bannerman
 GoodLabs
-Amicus Capital
 Omies
-The Catch
 Stampsy
 Stellup
 MyLikes
 Coworks
-Doctor On Demand
 MailTime
 Cohuman
 MapJam
-Media Relevance
 Rollbar
-North Technologies
-IQ Friends
 Kontagent
-Game of Drones
 Hot5
 Smartsy
-Mobile Captain
 yerdle
-Ghost Nest
 FiveStars
 Vint
 Peek
@@ -7614,19 +4091,15 @@ Jelly
 OneTraction
 ProsperWorks
 Vitagene
-Wormhole Games
-Givesurance - Donation Wallet
 KIXEYE
 Seesmic
 Meadow
 HashRabbit
 TeamedWith
 Toi
-Seed&Spark
 POPSUGAR
 Highrise
 Eyegroove
-Humble Bundle
 Copper
 Fieldbook
 Thistle
@@ -7638,27 +4111,22 @@ byUs
 Xobni
 KeepTruckin
 ShortForm
-Camera Rentals
 adRise
 MistoBox
 Cue
 StyleTech
 NeonMob
 Flowtown
-Mail2Cloud (MxHero)
 Sounder
 3Scan
 cloudHQ
 MyHealthTeams
-Action Factory
 Airtable
 Coursebook
 Uplette
 TokBox
 PitchTop
-Embee Mobile
 Exposure
-140 Proof
 Credible
 Spacebar
 Spreecast
@@ -7666,16 +4134,13 @@ Parrable
 LifeDojo
 Catnip
 Skyara
-Who@
 InvestLab
 Casinity
 Honor
 UClass
 Synopsi
 Kinwins
-Give it 100
 UXCam
-Easy as Pi
 Theorem
 Electroloom
 Supplyframe
@@ -7687,12 +4152,9 @@ TastemakerX
 Composure
 HomeDine
 Kickpay
-Fetch It
 Detour
-Cognitive Health Innovations
 Zenflow
 Seene
-Swift Navigation
 KeepSafe
 CheckMate
 eero
@@ -7700,51 +4162,37 @@ MOX
 Demandforce
 Arbiter
 PlayHaven
-SF MusicTech Fund
 SixDoors
 LendLayer
-Roaring Bull Studios
 SnapGuide
 Richrelevance
-Ecosystem Ventures
 Whyd
 Fingi
 Drop
 SunRun
 GoSkip
 myLanguage
-The Layer Fund
 Grocerize
-Bubble Gum Interactive
 Expresso
 ZenHub
-The Mad Video
 Nowbox
-ollo wearables
-Other Machine Company
 GoodAudience
 PowWow
 Appurify
 Revivn
 Svbtle
 Tackk
-Open Home Pro
 Billowby
 DataPad
 Socialeyes
 Paykind
-Marin Software
 Technorati
 Transcense
 ClearSlide
 Vidquik
-Valor Water Analytics
 Canver
-Perlstein Lab PBC
 SPOKEFLY
-App Academy
 SigFig
-Prophecy Sciences
 GemShare
 Tappur
 TinyCo
@@ -7752,17 +4200,12 @@ Alumnify
 Assist
 BRICKSTR
 Elluva
-Complex Polygon
-BUREAU OF TRADE
 Reserved
 Wix
-Ditto.me
-Chick Approved
 BraveNewTalent
 SmartNest
 LetsListen
 Kiwi
-DNA Guide
 Agentdesks
 imgix
 Onvedeo
@@ -7790,18 +4233,11 @@ damntheradio
 SGN
 Endorphin
 ReadyForZero
-Hale Health
-Rock Your Block
-Notehall (Acquired by Chegg 6/11)
-LaunchPad Central
 DwellAware
 MentorCloud
-Broadway Angels
 Stringr
-CarWoo!
 Aktana
 STYLEBEE
-Shark Punch
 Curriculet
 Tripshare
 YouNoodle
@@ -7812,39 +4248,26 @@ HotPrints
 Stanza
 Swapt
 Geli
-Blossom Finance
 Apcera
-Summon (formerly InstantCab)
 Zite
 Assistly
-Karangoo.com
-Liquor.com
 RentMethod
 Camopulse
-The Kairos Society
 Wingtip
 AppRats
-Federated Media
 Tapvite
-One Medical Group
-Badger Maps
 Kydaemos
 Bilibot
 GoodPeople
-kWh Analytics
 Rewinery
 Pulselocker
 AttorneyFee
 F50
 Skipso
-Mystery Science
-Graph Ventures
 Plastiq
 TheGlint
-Seat 14A
 Quest
 Thayer
-Clover Health
 BeforeWeDo
 EduCrate
 Sureify
@@ -7861,26 +4284,18 @@ Wallit
 Massdrop
 Convozine
 OnMyBlock
-Chubbies Shorts
-Ignite Wellness
 Avocado
 Meraki
 Serica
-Momentum Design Lab
-Universal Bio Mining
 Woopra
 SFOX
-Secure Asset Exchange
 Triggit
-Flux Factory
 EveryLayer
 emberlight
 RealityCap
 SocialFolders
-Prosper Marketplace
 Follr
 Grove
-Smart Gardener
 LucasArts
 Blurb
 LookSmart
@@ -7888,66 +4303,41 @@ Thoughtbot
 Amitree
 GoPop
 Bebo
-Fuel Capital
 MuleSoft
 Plumfare
-Nothing Magical
-Unity Technologies
-MyCrowd QA
 SUPERHUMAN
 Luna
-Engine Yard
 Autolist
 Fanzy
 Solum
-Meltwater Group
 Distill
 SquareTrade
 Intro
-JuiceBox Games
-Bayes Impact
 Orlife
-The Social Radio
 Spendgo
-Tycoon Real Estate
 Booyah
 HauteDay
-Castlight Health
 Mpact
 Superfeedr
-Tog+Porter
 DataSift
 MyBusiness
 Qubop
-Veed.me
 Showbucks
 PlayCoMo
 Opuss
 LocoMobi
 Joyable
-Healthline Networks
-Thrillist.com
 Bright
 Glowpanda
-Local Heroes
 GetArtUp
-INTRO Labs
 Cuyana
 Battr
-Shift Payments
-Welkin Health
 Sphere
-Yep!
 navisens
-Swing by Swing Golf
-Bucket by Enchanted Labs
 LaunchDarkly
-Decisive Health
 Licensario
 Countable
-The League - Date. Intelligently.
 Trance
-Guide Financial
 NewCo
 Pixc
 Showpad
@@ -7956,30 +4346,20 @@ PocketMath
 ZeroBlock
 AskYourUsers
 Parklet
-Contigo.io
-Joy & Revelry
 Tenjin
 Trakio
-FLM.TV
-Adaptive Path
-Altitude Co.
 Esurance
 Jobvite
-Zignal Labs
-Expedite Financial
 Hiptype
 Insightly
 Vingd
 Mosey
 popSLATE
-Pacifica Labs
 SPOTS
 Imgur
 LifeCellar
 Dygest
-Poll Everywhere
 Chameleon
-Curios.me
 Keas
 PayTango
 Ekwity
@@ -7988,7 +4368,6 @@ CMUNE
 Speakeasy
 MileIQ
 Loggly
-NeuVerus Health
 Jambool
 Alfred
 Nexmo
@@ -7999,60 +4378,43 @@ Vititude
 UpNest
 Syfto
 ShareON
-WA.TT
-Silicon Valley Growth Syndicate
 Kontexa
-Gazebo.io
 Cherry
 Viatask
-Cull TV
 PlotBox
 strapping
 Stylematic
-Obvious Ventures
 VSIG
-H.Bloom
 Talkwheel
 Buhz
 OpenROV
 FirstJob
 LendingHome
-Startup Quote
 TareasPlus
 Kongregate
 BetaLtd
-Book A Boat
 Simperium
 Zeal
-Next Caller
 Gigwell
 Topsy
-ArcView Group
-Providence Medical Technology
 Coingram
 Evertoon
 Nixter
-Niko Niko
 CryptoCorp
 Topic
 MentQ
 Beneft
 Prynt
 WishPlz
-Conference Hound
 Afolio
-Unplugged Instruments
 NeighborCity
 Dropr
-Beyond Pricing
 AppSmyth
 AppGyver
 Soniqplay
-Connect.Me
 Traxian
 LibraTax
 WizzyWig
-GREE International
 Bitnami
 Medlert
 SenseLabs
@@ -8060,48 +4422,34 @@ Pexeso
 Weemo
 Muufri
 Huddler
-One Codex
 Gigaom
 Cylindo
-Stellar Development Foundation
 Netpulse
-Follow The Coin
-Grow Mobile
 AudioTag
 Tapestry
 Sceene
-XS: Action Sports
 Plugger
-Feeding Forward
 GVING
 Hackpad
 Virtrue
-Modern Citizen
-Altius Education
 Copilot
 LearningJar
 Vida
 Wonder
 SyncPad
-Blackhawk Investments
 InCloudCounsel
 1000memories
 LoopNet
 Camoji
 instaGrok
 Cazoomi
-CheckInOn.Me
-Ringz.TV
 Tiempo
 LiveLoop
 Tagplay
-3Gear Systems
 OnboardIQ
 Sylvatex
 Infinitec
-One Degree
 Bamboo
-Priya Living
 RestEngine
 Kinetik
 Thinkmojo
@@ -8114,12 +4462,8 @@ Omicia
 Redesigner
 Divvyshot
 trailerpop
-Justin.tv
 Gablit
-Madison Reed
 Zenlist
-drone.io
-Bizness Apps
 SkyDrop
 GiddyUp
 ChickRx
@@ -8131,22 +4475,17 @@ SnapUp
 Maven
 Palarin
 MasterClass
-ReadMe.io
-My-Apps
 Quizlet
 Backpack
 Dealbase
 Prosper
 DCHQ
 Newzmate
-Grower's Secret
 Modelyst
-Black Hammer Brewing
 Jargon
 Mulu
 Snowball
 Index
-Boomtown!
 Flowtab
 perfecthitch
 Humtap
@@ -8166,61 +4505,42 @@ Stackmob
 CrowdSYNC
 Gneo
 Elation
-Balanced Labs
 Searcheeze
-Perfect Audience
 Mongolab
-BlueShift Labs
 Sirono
 Teleborder
 breadwallet
 GrubMarket
-Nativetap.io
-Seamless Planet
-Node.io
-Advent Software
 Tripstr
 UmixTV
 Mashape
 Sentri
-MetaCert Security
 Sutro
-Kountermove - fantasy MMA
-Social Mobile Sports
 Hyperfair
 Miigle
 Tapingo
-Weaver Labs
-Venture Scanner
 SiliconPrime
 Mercari
 Spoil
 HackerX
-Atomic Labs
 Blacklist
 CLARA
 Quibb
 Engagor
 Glytrix
 7shifts
-Live Colony
 seedchange
 Lookery
-Capillary Technologies
 OneRoom
 Typekit
 Knowledgestreem
 Filmzu
-The Thiel Foundation
 Appirio
 Dreem
-Citizen Spaces
-The Outbound Collective
 Orankl
 CivicSponsor
 Pursuit
 Aevi
-Snow Cherry
 Daltic
 VoiceLayer
 GraphScience
@@ -8229,70 +4549,49 @@ Rabobank
 VisualizeROI
 Briefly
 Revinate
-Yomama Ventures
 Lumenous
 GapJumpers
-PURE SWISS mineral water
 Cortex
 Relieve
 Linqia
 TRACT
-Levera.ge
 Uversity
-Super Evil Megacorp.
 NudgePad
 Notifo
-Klick Push
-Giving Assistant
 Readdle
 AfterCollege
-Unwind App
 Bandcamp
-Sauce Labs
 Holler
-MartMobi Technologies
-Mighty Spring
-Once Magazine
-Creative Action Network
 LOYAL3
 Memebox
 Wable
 RushTix
 Timeline
 Envoy
-Team Builder Ventures
 PlayFirst
 Bitfinder
-Hit Forge
-Station X
 Moojive
 HearItLocal
 TextMarks
 Forkable
-Cloud Your Car
 Funzio
 Hi5
 Anaplan
 ZypMedia
-Lonely Walls
 Clikthrough
 GlamST
 Attendify
 dotloop
-PipelineDB (YC W14)
 coWorkr
 Articulate
 Sega
 Guidekick
 Presentain
-Hobo Labs
 Lunchcruit
 Tlon
 angelMD
 Tickr
 ClassOwl
-Pixel Addicts
-Clementine Labs
 Spectra
 SunnyKarma
 Artella
@@ -8302,15 +4601,11 @@ TalentBin
 Picovico
 Astia
 Leap
-Cute-Fight
-Chalk Forms
-Thread Council
 PressFriendly
 Gigawatt
 Hyper
 Reveal
 LeanLaunchLab
-Commando.io
 AdStack
 LivingCannabis
 MindOps
@@ -8324,50 +4619,38 @@ Parastructure
 BeautyWhim
 DogBff
 Streetline
-Ooga Labs
 Traffic
 SnappyGo
 Pins
 Nextpeer
 RunWilder
-Civic Insight
 Mindjet
-Red Lozenge
 Appodeal
 SpeakUp
 Ritual
 Slim
-Hunybe Labs
 Invoost
-Thomas Weisel Partners
 Trnio
 myTab
 Binti
 Mattr
 Heirloom
-Alum.ni
 Switchfly
 SnapBi
-Air Code of Ethics
 Showyou
 SampleOn
 SkyBulls
 Localize
-Empower Campaigns
 Propertyware
 Secondsight
 CityHeroes
 2600hz
-Impact Dialing
 HomeRun
-Dish.fm
 Yo
-Answer Underground
 Gloopt
 Coveroo
 Vuact
 TransitHero
-Bento Labs
 DODOcase
 KaChing
 MineWhat
@@ -8375,74 +4658,50 @@ TuneIn
 Drumleaf
 Airpost
 Mobozi
-Captable.io
-Scal.io
 Adbrite
 PixlCloud
 Twimbow
 Prehire
 BetterUp
-Wikimedia Foundation
 Luka
 perkmylife
 GiveMeTap
 hopscout
 digmybrand
 Elto
-The Exchange S&P
 BTCPoint
 TRAIL
-Standard Cyborg
 Appsperse
 Contextly
 Parzival
-TPG Growth
 Talentwire
-Astia Angels
 CrystalMD
-Assistant.to
 Justinmind
 Swrve
 Ingenio
-Open Data Registry
 myMedScore
 Babycenter
 Accomplice
-Junction Investments
 Webpop
-FreeWire Technologies
-Ender's Fund
 Wishdates
 SWOL
 UNYQ
-Citizen Software
 MoveMeFit
-Glamping Hub
 DriverSide
-Bitcoin Pulse
-Meetings.io
 Exiles
 MightyHive
-Job Portraits
-House of Mikko
 Thismoment
-Tribe Dynamics
 Woopie
 Eventbrite
-Snibbe Studio
 Zaznu
 Mocana
-Karmic Labs
 TXN
 Paymentwall
 Nubity
 Appjet
 Lugg
-interviewing.io
-Knowtify.io
 Shoobs
 CoinBeyond
-Socialmedia.com
 LocalData
 Adteractive
 AdmitSee
@@ -8451,61 +4710,39 @@ Xendo
 root
 EasyFridge
 Auctomatic
-140Fire.com
 Embly
 Loup
-Hygeia Personal Care Products
 ZapChain
 ligertail
-World Golf Tour
 TheBankCloud
 Jisst
 Trizic
 Convore
-Riviera Partners
 Ebates
 Traba
 WibiData
 OhLife
-unreel.co
 Helpshift
-Sigmod Labs
 Chesscademy
-Worldly Developments
-Taste.com
-Ballers Bridge
 SceneChat
 GeneDrop
 FreeBusy
-Maestro Market
 Nylas
 TenXer
 Playviews
 NConnex
-Mantis Energy
-Feed.fm (Feed Media)
 CNET
-Fight My Monster
 Mojalink
 Connect6
-Deal Decor
 Zivity
 Pontaba
-Remix (prev. Transitmix)
 GiftRocket
-GAGA Sports & Entertainment
 Keyrious
 Inporia
 Weeleo
-Whisper Systems
 Pipewise
 StreetHawk
-Attachments.me
-Job Rooster
-Urban Mapping
 AssistMyCase
-Desks Near Me
-Prime Genomics
 Cloudmark
 in3Dgallery
 Louder
@@ -8519,52 +4756,33 @@ BuildScience
 ProxToMe
 Pomello
 QualityGPTs
-Simply Measured
 Wire
-Alliance of Angels
-Starbucks Coffee Company
 Nordstrom
-Inside Social
 Socrata
-NowBoarding ✈️
 9slides
 Skykick
-Founders Co-op
 Amazon
 Tred
-Invitation codes
 Buddy
-Unitus Seed Fund
 Vittana
 ResolutionTube
-Spiral Genetics
 Thinkfuse
 Moment
 AngelSquare
 Estately
 EveryMove
-University of Washington
-Habit Labs
 Skilljar
 PetHub
-Wavii (acquired by Google)
 Sparktrend
 Avado
 eVenues
 Reveal
-Rival IQ
 Redfin
-Tango Card
-Cadence Biomedical
-Appetas (Acquired by Google)
 Zillow
-Jawfish Games
 Realnetworks
 Perfect
 Porch
-Pure Watercraft
 Apptentive
-Freak'n Genius
 MyUnfold
 Venzee
 GroupTalent
@@ -8578,76 +4796,49 @@ OfferUp
 RentMatch
 Chef
 ScaleGrid
-Massively Fun
 Ranku
 Yabbly
 ZIIBRA
 reKode
 Corengi
 Moz
-Oh Hey World
 Socedo
-Zipline Games
 Surefield
 MobileDevHQ
 Jobaline
-Vantage Sports
 Gratafy
 SnapSwap
 SeniorHomes
 Cheezburger
-Vibrant Games
 Cody
-Comr.se
-Scaled Recognition
 Sqord
 Tenacity
-Amazon Web Services
 BYNDL
 Algorithmia
 Fanzo
 TUNE
 Highlighter
-Seattle Angel Conference
 CoinLab
 Wisemuv
 Koru
 PlayFab
-F5 Networks
 Pathable
-Lacuna Systems
 Blab
 RescueTime
 HashPlex
-Real Networks
-iHear Network
 Tripcierge
 Leafly
 MovingWorlds
 Scheedule
 Stride
-Placements.io
-PitchBook Data, Inc.
 Prosodic
-Ubi Interactive
 Stagester
-Novi Security
-iQ Technologies
-Valant Medical Solutions
 Mynd
-Heroic.ly
 Outreach
-Actively Learn
-Walk Score
-Front Desk
 Symcat
 PaidPunch
-Shift Labs
 Mindbloom
 Saltbox
-Blue Box
-HeartRate Games
-PopCap Games
 Canary
 Auth0
 ValueAppeal
@@ -8655,13 +4846,9 @@ SquareHub
 Genii
 Golfbert
 Unoceros
-Zet Universe
-Writer.ly
 Rebls
 Lively
-Affinity Influencing Systems
 Adorii
-Navigating Cancer
 Sparkbuy
 iLike
 GoToTags
@@ -8670,19 +4857,14 @@ Showqase
 BagsUp
 Placed
 CoinSafe
-Tableau Software
-LiftPort Group
 Geedra
 Booktrope
-iSpot.tv
 IndieFlix
 BevyUp
-OMNI Retail Group
 MoonTango
 Seconds
 Tomo
 Health123
-Enroute Systems
 Taggle
 CoinBeyond
 Bundled
@@ -8690,8 +4872,6 @@ PayScale
 Tieclip
 FlexMinder
 FindProz
-Dental Departures
-MicroEnergy Credits
 Wetpaint
 AirCloud
 Sprio
@@ -8699,18 +4879,13 @@ AnyDish
 omnom
 Graphdat
 Relaborate
-Exponential Entertainment
 iSheetMusic
 KustomNote
 Kitchenbowl
-Spoon.net
-Meteor Solutions
 Trafinity
 One4All
 Buuteeq
 AppSheet
-Longshot Apparel
-Big Fish Games
 Lockerz
 Synch
 Indix
@@ -8724,41 +4899,24 @@ Funtini
 Copybar
 KickoffLabs
 Meshfire
-Lucky Oyster
-Techstars Seattle 2013 Fund
 IDInteract
 Bizible
-Anna Cucina
-Ember Entertainment
-Salad Labs
 Gist
-Angles Media
-Stashed Boxes
 Viafo
-Coinex.IO
-Back Office Labs
-Smart Layover
 SimpleVerity
 GunUp
 AppLixir
 MetricsHub
 Nearstream
-FlyPaper.io
 elarm
-Exo Labs
-Pa-Go Mobile
 Papertrail
 Knotis
 TapFunder
 Wellpepper
 Dunno
-Seattle 2.0
 Spare5
 Zooppa
 DirectTrainer
-Startup Recroot
-Context Relevant
-Green Seed Capital
 TruBalance
 CareTrio
 IKKOS
@@ -8772,97 +4930,55 @@ Social27
 FlowPlay
 Hydrovolts
 Iota
-Art Sumo
 Cyntient
-ActivateHub.org
 GeoRiot
-ExtraHop Networks
 CloudPress
 BuddyTV
 Marketfish
 Gumwall
-Trash Backwards
 Decide
-Upside Commerce
 Discuss
-Dynamo Business Intelligence
 Finagraph
 Whitepages
 Magicflix
-Personify.iT
 Eyejot
-Energysavvy.com
 Yottio
 Appature
-Pyatt Broadmark Management, LLC
 Friendsource
-Dojo Social
 brandbuddee
-Scope 5
 GreenSimian
-Igneous Systems
-Textile-Based Delivery
-RadiantGrid Technologies
 Kitovet
-TaxCloud (FedTax)
 xDJs
 removed
 Stohke
-Makegood Software
 AdMetrica
 LaserMotive
-Smith & Tinker
-Tomato Battle
 Mobilewalla
-Savant America Inc
-Triage Project
-PetHub, Inc.
-OS NEXUS
-Third & Loom
-Mister Kite Entertainment
 Payboard
 Jobster
 TheHubEdu
 Vignette
 Punchkeeper
-Shiftboard Workforce Tools & Scheduling
-SixAM Inc
 GIVINGtrax
-Ottemo™, Inc.
 Attendible
 Eatfindr
-Got Sync Music
 InTheWorks
 Doxo
 InvestNextDoor
-Watts At Work
-Refrek.com
 Pterofin
 OpenMarket
 Clipsi
-Synapse Product Development
-Delve Networks
 Mobilisafe
 Appuri
-Taia Global
-graZie Mobile
-Live the Look
 A6
 Metria
-Play Works Studio
 Schema
 meshwith
 APImetrics
-Widevine Technologies
 Classifi
-EdStart, Inc.
-Cyberry Digital Media
 Flowboard
-Thursday Market
 preferling
 Stocial
-Fara (fka. Packagetrackr)
-Tangible Places
 TouchMail
 Raveld
 SEND
@@ -8872,93 +4988,58 @@ Bonanzle
 Hydrobee
 Hullabu
 KlearChoice
-Small Screen
-Percept Labs (acquired by Google)
-Influ Technologies
 MyPrice
 Horizon
-BooksILove (BFF BIZ, LLC)
 Liker
 FastBar
 Pelago
 WatchGuard
 tattooedfoodz
-Context Relevant
-Community Sourced Capital
 Dashwire
 Picquity
-CookBrite inc.
 Foxtrot
 Cozi
 Vavavouch
-Qliance Medical Management
 Leaves
-Onni Mobi
-SpotOn Connect
-Pure Networks
-Banyan Branch
-Union Bay Networks
 Plix
-Agrilicious!
 Localisto
 PressPlane
 Anomo
 Scribaroo
-Life Dreams, Inc.
-Perkz Mobile
 Stash
-Seattle Waterproof Deck
 Optify
 Fitmigo
-New Car City
-Measured Experience
 Kouply
 Solstice
 Familiar
 quadstreaker
 n2uitive
 Zealyst
-IMORE.WS
 Lendr
 Zillow
 Feedjit
 SimplyRent
-U of Washington Vision + Cognition Group
 Ontela
 Talentspring
-The Zharmae Publishing Press
 Lish
 GameHouse
 Authorgraph
 SportsCstr
 Meylah
-IronGate Security Networks
-R-Evolution Industries
 AdReady
 SmartPea
-Travel Breakfast Inc.
-Mzines Digital
-Pass Or Buy
 Zenobase
-Robot Turtles, LLC
 Wishpot
 Goblinworks
-Treemo Labs
 PlaceFull
 Symform
-Lighter Capital
 LinedUp
-Spring Wireless
-Syko Records
 Clipcopia
 TauMobility
 herecandy
 yubiT
-SASH Senior Home Sale Services
-3D Digital
 Limeade
 Totem
-Seattle Cannabis Exchange
 Whimzle
 Evri
 Speakeasy
@@ -8966,49 +5047,33 @@ usermind
 Peach
 Zhurosoft
 Swype
-Companion Tree
 VRcade
-Bad Pug Games
 Mydify
 InstantService
 Pushpay
-Dynamic Stops
 Envvied
 PingMe
 Tippr
-React Mobile
 GoBop
-Creative Branding
 DealScoopr
 Parkio
 Z2Live
-Happy Tom
 TrackSimple
 Xchangehands
 CustomerBlog
-Wine Folly
 Newsvine
 Airbiquity
-Entirely, Inc.
 MathChat
-Carbon Ads
-Prohibition Brands
-Evo Media Group
 LegUP
 ClicData
 Tripket
 IMDB
-Studio Pepwuper
 TVinteract
 Cequint
 usasportslink
 FileNile
-Apex Learning
 Eterniam
-Back Bar Project
 JobsPretty
-Laughing Buddha Games
-Hidden Pineapple
 ChattingCat
 Fork
 MetricStory
@@ -9019,630 +5084,305 @@ Onvia
 Fish
 BigOven
 SongSlide
-EVO Media Group, Inc
-A Place for Mom
 Groundspeak
 TrailerPark
 qoiza
-Bag Borrow or Steal
-Spot Survey
 Allumia
-Fantasy Football Life
 Aerobatic
 rendezvous
-Spark*
-Feral Motion
 Crowsnest
-Easy.ly
 SportsPage
 GifBoom
-Text Pulse
 BiteAds
-Global Green Energy Corp
 BlueBe
 Deehubs
 Xprevo
 DzigN8
-Recruiting Bandwidth
 Stadius
-Innovator/Connector/Futurist
 Gridcache
 Vizua
 EveryCop
 EdRepublic
 Contour
 Runway2Street
-Opilio Entertainment
 SmartSheet
 MicaSense
 winefidence
-OUTview TV
-fanmorphic, inc.
 MissionRunner
 flightSpeak
-Serve Smart
 FitnessSyncer
-Streaming Appliances
 PhysAct
-TRGM Panel Qualitative Research
-Swagga Suits
-Crafted Inc
 RepairShopr
 HouseOgames
 Mannequin
-Robocular LLC
 iMedExchange
-ChaseFuture, Inc.
 Shutterous
 CoinFling
 Cleverset
 Snapvine
 Lumana
-C C Cannabis Company
 Alanta
 Snazzit
 Glycostasis
 Varolii
 Oversignal
 Sherpish
-The.Travel
-Staenberg Venture Partners
 Dolly
 Deblume
 Impinj
-NetRead Software and Services
 BookieJar
 Bonanza
 Trupanion
-Atossa Genetics
 Monumus
-SmartGirls Way
-MagicalButter.com
-VoloMetrix Inc.
 MSKYNET
-Cloud Immunity
-D.E.A.N.A. Fit
-GreenCoin Foundation
-Wovn Energy
 Korner
-Geoship SPC
-The Ingenesist Project
 Mixpo
-Projected Talent
-TinMan Systems
-Resale Therapy
 MightyCall
 Realself
-Hillpoint Enterprise Inc. DBA Handy Mart
 Gratci
-Meteor Entertainment
 Zumobi
-Don't Call Me Ma'am
 GRAYL
 Textio
 Trakstar
-Grow Plastics
-Talk or Not, Inc.
-River Kinetics
 Madison
 EdRepublic
-iStreamMedia, LLC.
-United Power Company
-Radio Runt (dba Rallee)
 Aquawing
-Pink's Thai Ice Cream
-Global Index Group LLC
 coJuvo
-Casper Seven
 Orto
 Poachable
 Partake
 CareerTies
 DigMyData
-Maarg!
-Safe Boundary System
-Guud, Inc.
-Hoaloha Robotics
-Caffeine Labs
 Teammatez
 tanzio
-Basal Nuclei
 Warhead
 Truffle
 PurpleWall
 IUNU
-The Octopus
-DNA Response
 craigstruck
-Fisher Communications
 myscenicdrives
 Honeybadger
 Junglr
 Harnu
 Distiller
-Gap Tooth Stickers
 RentHoop
-Hood Web Management
-World Blender
 CobaltPM
-Brain Garden (Prosigner)
-Natus Energy
 myaNUMBER
-Minetta Brook
-30 Day Books
 Growbacon
-Envelop VR
-QuickMedLife.com
 Atndr
 V2Green
-Shocking Goat
-Nology Media
 einkstain
 CandidateCheck
-Taposé
 Icanhascheezburger
 BevPass
-Rocket Alien
 Bottlerocket
 IMBECS
-tinyBuild GAMES
-17-BIT, Inc.
-Volt Athletics
 IdealSeat
 Windupapps
-Hardware Workshop
-High Speed Rail USA
-DocHelp Inc
 TheSquatRack
-Social Melder
-Started.in
 AppRamp
-The Mill
-Geek Estate
-MSquared Properties
-Rainspark Labs | Artifact Technologies
-Abstract Nightclub Seattle
-CompetenSys Solutions
 Hydrobee
-Grub Master
 Teamshifter
 LeaveLogic
 Innowhite
 Literrater
-Slync, Inc
-The Vicinus Group
-Research Stir
-L4 Mobile
-Record360, Inc.
-BURN Manufacturing
 Vera
 OddWorkout
 GeekWire
-The Happy Crate
-Olde Skuul
 Spreesy
 Dezignable
 Gestone
-Metropolitan Cloud
-rSimulate Studios
 Gossip
 Traderrs
 InfinAbilities
 DripCatch
-Insider House
 VendASnack
 BrandVerity
 Taza
 StyleJam
-iON tAPPS
-Deal Co-op
 LookStat
-Healthy Beeps
-Vida Lab
 Wundergram
-InfiniteSports LLC
 Snapatr
 AutoHubby
-Flying Bike Cooperative Brewery
 ReelSonar
-3D for EDucation
-Clean Leaf Smokes
 Centroy
-Springy LLC
-Monchilla.com
 Neighborly
-Point Inside
-autoGraph Inc
 ModBox
-The ASK Campaign
-papaya+post
-JumpStartup Labs
-Practice MBA
 Informion
-Miles App
-North Seattle Med Co
-Bibo (bee-bo)
 appSmarts
-Hooked on Wax
 AudienceBloom
-Media Asset Administration
 SPARQ
-Rhino Security Labs
 Dirturban
 Whensay
-Eager Beaver
 CBuy
-Free & Clear
 Teranode
 AnswerDash
 MusikRoom
 GLOBATOM
 Dibspace
-Kite & Lightning
 SnapDare
-Schedule Agent
 SWTCH
-Prospect Interactive Inc
-Meteor Solutions
-Ecocruise Electric Transportation
-WorldWinger Inc
-Syzen Analytics, Inc.
-Barely5th.com
 Moprise
 Storyform
-Syzen Analytics, Inc.
 ClayValet
-TapBeam, LLC
 Decide
 RolloDecks
 Datacastle
 Fleetfit
-Emerald City Beer Company
 Eemago
-Adaptive Biotechnologies Corp.
 GoodBuilder
 SimplifyThis
 Zenvestment
 sofulo
-Tweet Toffee
-Fyber Labs
 Verdiem
 TapWise
-PressOK/Mobliss/Reaxion
-Pin Citi
-Igniva Group
 Smarter365
 502Software
 Decide
 Tikkera
 NuvoMedia
-Video Igniter
-Spike by SoloMatrix
-UrbanTech Systems
-Galleries HQ
-MySecretAgent.com
-Found in Town
 ThatFunction
 alumniix
-Liberty Dialysis
-Switchback Travel
 MyFavoriteThings
 omw
 CakeCodes
 Weedzza
-UppCast Ltd
-Drink Up Downtown
 LocalSportList
-Startup Watches
-Knok Studio
-Tala Farms
 PixoMobile
 LetsGram
 Wrazz
-HotelMiles.com
 Winegarden
 SMALLMAP
-LaxPath, LLC
 Fashrr
 eCarFriendly
-Make Fashion
 Wholesome
 Envision
-Giant EXP
-Carte Blanche Mode
-Seattle Sound Live
 Tabandgo
-Cloud Genius
 MAX451
 ASSETS
-Gypsy Garage
-Local Scene
-Notable Women in Computing Cards
 WishListing
 Trillsy
 Sayist
 Pellego
-Allen Institute for AI
 Flatsheet
-Wetzel Oil International
-Adaptive TCR
 thundR
-Langua Travel
 Attenex
 AudioDizer
 RentMyWay
 SiftSocial
-Apple Blossom
 Medify
 Resumelink
-LawnHippo.com
 InterConverse
 Escapia
 Widemile
-Idee Fabrik
 Swizzle
 tapTrax
-bandpass.fm
 Vantos
 Positronic
-Recipe Nutrition
 sketchitect
 IntellectSpace
-Lil'Stylers, Inc.
 100ThingsClub
 Adometry
-Upcycle Goods
-Highlight Hunter
 PeerCube
 PlayerBeats
 Vigilanteweb
-Carabiner.IO
 Squadron
 Linea
 CareSimple
-READINGGROUP.info
-Crown Dish
-Dave Arbuckle
 AVAH
-Sociable.fm
-Profit Mastery
 Midzy
-Von Hound
-Adaptive Symbiotic Technologies
 Edoceo
 kykof
 Vowched
-Real Property Associates
 Gigamoon
 Gridlee
-Prose.
-Give Me Notice
-Tableau Software
 MARIATOKAREVA
-Arc Reactor
 Joblie
 Referagig
 FloodSimple
-Academy 15
 Vailroom
-TuneLot.com
 SnapStart
-egaintrades, Inc.
-Spot On Foods
-See Jane Fix
-icebrg.io
 jydo
-PassionRight Properties
 LegalRover
-Montlake Capital
 Jobvention
-HomeStreet Bank
 EdCourage
 Bombsheller
-Dogwood Media Productions
-Yalent.com
 POURWALL
 Ontreat
-Scout & Cast
 Zeppora
-Work For Change
-Capability IT
-Clarity Health Services
 Buster
 HOMYE
 Frameable
-Sprintium, Inc
 Canappi
-Overcast Media
-Rock Steady Video Productions
-项目谷
-M:Metrics
 HeadSprout
 Blist
-Art Of A Woman
-Gen S
 Sumomi
 eVision
-Ingallina's Box Lunch Seattle
-Z7 Networks
 ActiveBuilding
-VUDU Marketing
 IBeatAnxiety
 Twenty20
 LexBlog
 WeThinkItMatters
-MiKandi Adult App Store
 BypassCentral
-Radiate Radio
-Welthy Clothing Co.
-prettyfund.me
-Swing Whistle
 metaChi
-solvr.bz
-Distromatic Inc
-Rich Soil Bank and Biomimetic Banking
-The MacGuffin
-nw-built
-web post office(dba)
-MYTHOLOGICAL HORSES
-Ronix Wakeboards
-Crown Social
-Applied Residential, Inc.
-Usque Ad Sidera
-Double Down Interactive
-Lucky Scooters
 Sportzy
 Glory
 Eemago
 CaseCam
-Tuurtle Labs
 Davasso
 Medio
-Myrtle Street Publishing
-USDA Mortgage Group
 Vestboard
-Jai Meditation Research Center
 SIPN
-Free Vector Advisors
-Fireshoe Productions
 MosaicTrack
 NSweer
-Eos Industries
-Breaking News
 SWFI
-Seapine Brewing Company
-Citi Town Cars
-Hammer Corp.
-InviteBIG, Inc.
 Ramen
 lowkey
-Employment for Youths
-Earlybirdy.com
-OneOcean / ClipCard
-The Future In 3D ~ TFI3D
 BestDressed
-Groove Tech
 TimelyTenant
-Solvette Corporation
-Famous Movie Jackets
 ZipTrip
-Standards Planner
-GymLynx, Inc.
 TruMedicines
-Kitchen Monki
-Xhatch Interactive
-slamwin.com
 Psychster
 StudentRND
-EDA/Meteor Eyewear
-BlueCosmo Satellite Communications
 Sparkwords
-Schmoll Systems
 DatStat
 Withhearts
 Sideguide
 OurRecruits
-Emerge Products, LLC
 Yumbook
 Cypromus
 Athleon
 iTrellis
-Skedool.it
 Picnik
 Adooylabs
-Blu Graphing Calculator
 Fightmaps
 Inkblot
-Clario Medical Imaging
-Datalytical Media
 Innovii
 MyBoozy
 Deponex
-Crowd To Go
 MarkForLater
-Zyrue Music Publishing House
 BrandVerity
 Aveki
-Asguard Networks
-We-Dot
-SaveForLater.com
-Guild University
 Mobile2Me
-Coming Soon
-Gentle Point Traditional Chinese Medicine
 ExitTicket
 Bottless
 LiftyApps
 TonightWe
 Activitypal
-HOMR Sports
-I Am Undefeated
 PushSpring
-Bitcoin Macroeconomics
-NRGcycle LLC
-LightWave Personal Defense Systems
-Impact Bioenergy
-Dream Allies
-The Master Switch LLC
-Strategic Books
 Figure
-Z-Command
-Vardepappercentralen VPC AB (VPC)
 Footvote
-Wander (f. YongoPal)
-Evitacomplex. inc
 CleanScapes
-The STAR Center
-DailyGamer.com
-RBE For Kids!
-Luxe Travel Network
-Disabled newly pregnant
-test account
 prep50
-Industrial Generosity
-cliniq.ly
-The fun singles
-Lotims Inc.
 prep50
-RT Brokerage Services
-Toilet Paper And
 DealTapp
-Green Gift
-NuTiger Organics Cashew Milk
-Publicity Providers Two, Inc.
-Brandsy.co
-J.A. Hunter Insurance Agency
 peakery
-Granite Creek Consulting
 HALFPOPS
-Avanade Inc.
-BEST ENTERTAINMENT INC
-Plaza Bank
 Nintex
 GoGoPin
-Founder's Co-op
-Resolve Therapeutics
-SimDeliver Consulting
-Mirefuge Entertainment
-High Tech Inc
-Scarecrow Project
-Curious Office Partners
-Project Caspini
-Safeharbor Knowledge Solutions
-DGTALLY LLC
 420MEDIA
-Project Early Bird
-Judys Book
 Bridgr
-All Strain
-Cozi Group
 nuMVC
-MB Diversity
-Script Lit eBooks
 NanoIce
-Impact Interview
 Pregenen
-Alpine Biosciences
-Q Mobile
-Carbon Design Group
 TellWise
