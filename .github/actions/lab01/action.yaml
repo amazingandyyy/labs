@@ -35,3 +35,26 @@ runs:
         ./${{ inputs.lab }}/start.sh ${{ inputs.lab }} ${{ inputs.research }} ${{ inputs.research_target }} ${{ inputs.processing_amount }} ${{ inputs.exclude_response_length }}
         set +e
       shell: bash
+    - name: diff
+      id: diff
+      shell: bash
+      run: |
+        git diff
+        if [[ $(git diff --stat) != '' ]]; then
+          echo "files_changed=true" >> "$GITHUB_OUTPUT"
+        fi
+    - name: commit to main branch
+      if: steps.diff.outputs.files_changed == 'true'
+      shell: bash
+      run:  |
+        set -x
+        current=$(date)
+        git config --global user.name 'scientist'
+        git config --global user.email 'scientist@amazingandyyy.com'
+        git status
+        git add ${{ inputs.lab }}/researches/${{ inputs.research }}
+        git commit -m "feat(${{ inputs.research }}): research on ${{inputs.processing_amount}} items" -m "$current"
+        git pull --rebase
+        git push
+        set +x
+

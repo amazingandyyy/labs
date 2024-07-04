@@ -1,0 +1,55 @@
+name: lab01
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every 1 hour
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/lab01.yaml'
+      - '.github/actions/lab01'
+      - 'lab01/researches/*.sh'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  lab: lab01
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        research: [
+          research01,
+          research02,
+          research03,
+        ]
+        research_target: [
+          aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==, # greehouse
+          aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t==,       # ashbyhq
+          aHR0cHM6Ly9qb2JzLmxldmVyLmNv,             # lever
+        ]
+        processing_amount: [
+          100,
+          100,
+          100,
+        ]
+        exclude_response_length: [
+          156,
+          6248,
+          6248,
+        ]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: lab01-research01
+        uses: ./.github/actions/lab01
+        with:
+          lab: ${{ env.lab }}
+          research: ${{ matrix.research }}
+          research_target: ${{ matrix.research_target }}
+          processing_amount: ${{ matrix.processing_amount }}
+          exclude_response_length: ${{ matrix.exclude_response_length }}
