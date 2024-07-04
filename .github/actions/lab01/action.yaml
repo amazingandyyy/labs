@@ -27,12 +27,13 @@ runs:
       run: |
         id -a
         go install github.com/OJ/gobuster/v3@latest
+        apt-get update && apt-get install -y yq
         gobuster version
       shell: bash
     - name: Execute research script
       run: |
         set -e
-        ./${{ inputs.lab }}/start.sh ${{ inputs.lab }} ${{ inputs.research }} ${{ inputs.research_target }} ${{ inputs.processing_amount }} ${{ inputs.exclude_response_length }}
+        ./${{ inputs.lab }}/start.sh ${{ inputs.lab }} ${{ inputs.research }}
         set +e
       shell: bash
     - name: diff

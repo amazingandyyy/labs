@@ -2,22 +2,27 @@
 
 set -x
 REPO_DIR="$(dirname "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)")"
-RESEARCH_DIR="${REPO_DIR}/$1/researches/$2"
-source "${REPO_DIR}"/$1/backlogs.sh
 
-# File paths
-WORD_LIST="$RESEARCH_DIR/latest.txt"
-BACKLOGS_FOLDER="$RESEARCH_DIR/backlogs"
-RESULTS_FILE="$RESEARCH_DIR/results/list.txt"
-GOBUSTER_TMP_FILE="$RESEARCH_DIR/.gobuster.tmp.txt"
-TAIL_TMP_FILE="$RESEARCH_DIR/.tail.tmp.txt"
-TOP_X_LIST="$RESEARCH_DIR/namelist_top_X.txt"
-PATTERN_FILE="$RESEARCH_DIR/patterns.txt"
+# Assuming $1 is still used to specify the lab directory
+LAB_DIR="$1"
+# Assuming $2 is still used to specify the research name
+RESEARCH_NAME="$2"
 
-# research parameters
-BASE_URL=$(echo "$3" | base64 -d)
-AMOUNT=$4
-GOBUSTER_ERROR_LENGTH=$5
+# Path to instruction.yaml
+INSTRUCTION_YAML="${REPO_DIR}/${LAB_DIR}/researches/${RESEARCH_NAME}/instruction.yaml"
+
+# Extract values from instruction.yaml
+RESEARCH_TARGET=$(yq e '.research_target' "$INSTRUCTION_YAML" | base64 -d)
+PROCESSING_AMOUNT=$(yq e '.processing_amount' "$INSTRUCTION_YAML")
+EXCLUDE_RESPONSE_LENGTH=$(yq e '.exclude_response_length' "$INSTRUCTION_YAML")
+
+# Assign extracted values to variables
+RESEARCH_DIR="${REPO_DIR}/${LAB_DIR}/researches/${RESEARCH_NAME}"
+source "${REPO_DIR}/${LAB_DIR}/backlogs.sh"
+BASE_URL="$RESEARCH_TARGET"
+AMOUNT="$PROCESSING_AMOUNT"
+GOBUSTER_ERROR_LENGTH="$EXCLUDE_RESPONSE_LENGTH"
+
 set +x
 
 # deal with backlogs

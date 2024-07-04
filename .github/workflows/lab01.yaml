@@ -1,5 +1,8 @@
 name: lab01
 
+env:
+  lab_name: lab01
+
 on:
   schedule:
     - cron: '0 * * * *' # every 1 hour
@@ -14,42 +17,42 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
-env:
-  lab: lab01
-
 jobs:
-  research:
+  find-research-projects:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        research: [
-          research01,
-          research02,
-          research03,
-        ]
-        research_target: [
-          aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pbw==, # greehouse
-          aHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29t==,       # ashbyhq
-          aHR0cHM6Ly9qb2JzLmxldmVyLmNv,             # lever
-        ]
-        processing_amount: [
-          100,
-          100,
-          100,
-        ]
-        exclude_response_length: [
-          156,
-          6248,
-          6248,
-        ]
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: lab01-research01
+      - name: Find directories with instruction.yaml
+        id: find-directories
+        run: |
+          dirs=$(find ${{ env.lab_name }} -type f -name 'instruction.yaml' -exec dirname {} \; | while read -r line; do basename "$line"; done)
+          if [ -z "$dirs" ]; then
+            # If no directories are found, output an empty JSON array
+            echo "matrix=[]" >> "$GITHUB_OUTPUT"
+          else
+            # Convert newline-separated list of directory names into a JSON array
+            dirs_array=$(echo "$dirs" | jq -R -s -c 'split("\n")[:-1] | map(select(. != ""))')
+            echo "Found directories: $dirs_array"
+            echo "matrix=$dirs_array" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Set matrix for job consumption
+        id: set-matrix
+        run: echo 'matrix=${{ steps.find-directories.outputs.matrix }}' >> "$GITHUB_OUTPUT"
+
+  research:
+    needs: find-research-projects
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        research: ${{ fromJson(needs.find-research-projects.outputs.matrix) }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run research job
         uses: ./.github/actions/lab01
         with:
-          lab: ${{ env.lab }}
+          lab: ${{ env.lab_name }}
           research: ${{ matrix.research }}
-          research_target: ${{ matrix.research_target }}
-          processing_amount: ${{ matrix.processing_amount }}
-          exclude_response_length: ${{ matrix.exclude_response_length }}
