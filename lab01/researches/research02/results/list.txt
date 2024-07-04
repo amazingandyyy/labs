@@ -41,6 +41,7 @@ https://jobs.ashbyhq.com/complete
 https://jobs.ashbyhq.com/compound
 https://jobs.ashbyhq.com/conduit
 https://jobs.ashbyhq.com/convictional
+https://jobs.ashbyhq.com/coperniq
 https://jobs.ashbyhq.com/copilot
 https://jobs.ashbyhq.com/dashworks
 https://jobs.ashbyhq.com/datafold
@@ -51,11 +52,13 @@ https://jobs.ashbyhq.com/docker
 https://jobs.ashbyhq.com/doppler
 https://jobs.ashbyhq.com/ello
 https://jobs.ashbyhq.com/enode
+https://jobs.ashbyhq.com/extend
 https://jobs.ashbyhq.com/fable
 https://jobs.ashbyhq.com/fieldguide
 https://jobs.ashbyhq.com/fig
 https://jobs.ashbyhq.com/finary
 https://jobs.ashbyhq.com/finch
+https://jobs.ashbyhq.com/fintool
 https://jobs.ashbyhq.com/firsthand
 https://jobs.ashbyhq.com/flux
 https://jobs.ashbyhq.com/fractional
@@ -72,13 +75,16 @@ https://jobs.ashbyhq.com/humaans
 https://jobs.ashbyhq.com/influxdata
 https://jobs.ashbyhq.com/inscribeai
 https://jobs.ashbyhq.com/instacart
+https://jobs.ashbyhq.com/intrinsic
 https://jobs.ashbyhq.com/invert
 https://jobs.ashbyhq.com/ironclad
 https://jobs.ashbyhq.com/jerry
 https://jobs.ashbyhq.com/julius
 https://jobs.ashbyhq.com/juni
+https://jobs.ashbyhq.com/keep
 https://jobs.ashbyhq.com/keeper
 https://jobs.ashbyhq.com/klarity
+https://jobs.ashbyhq.com/latent
 https://jobs.ashbyhq.com/lightdash
 https://jobs.ashbyhq.com/liveflow
 https://jobs.ashbyhq.com/loftyai
@@ -97,6 +103,7 @@ https://jobs.ashbyhq.com/modernbanc
 https://jobs.ashbyhq.com/monitaur
 https://jobs.ashbyhq.com/motion
 https://jobs.ashbyhq.com/multiverse
+https://jobs.ashbyhq.com/nango
 https://jobs.ashbyhq.com/nanograb
 https://jobs.ashbyhq.com/nanonets
 https://jobs.ashbyhq.com/nash
@@ -104,6 +111,7 @@ https://jobs.ashbyhq.com/navattic
 https://jobs.ashbyhq.com/novel
 https://jobs.ashbyhq.com/noya
 https://jobs.ashbyhq.com/nucleus
+https://jobs.ashbyhq.com/numeral
 https://jobs.ashbyhq.com/onebrief
 https://jobs.ashbyhq.com/oneschema
 https://jobs.ashbyhq.com/onward
@@ -115,6 +123,7 @@ https://jobs.ashbyhq.com/padlet
 https://jobs.ashbyhq.com/pave
 https://jobs.ashbyhq.com/permitflow
 https://jobs.ashbyhq.com/pesto
+https://jobs.ashbyhq.com/playht
 https://jobs.ashbyhq.com/podium
 https://jobs.ashbyhq.com/polytomic
 https://jobs.ashbyhq.com/posthog
@@ -130,6 +139,8 @@ https://jobs.ashbyhq.com/readme
 https://jobs.ashbyhq.com/ready
 https://jobs.ashbyhq.com/recurrency
 https://jobs.ashbyhq.com/reddit
+https://jobs.ashbyhq.com/reflex
+https://jobs.ashbyhq.com/reflex-team
 https://jobs.ashbyhq.com/relay
 https://jobs.ashbyhq.com/remi
 https://jobs.ashbyhq.com/replicate
@@ -167,6 +178,7 @@ https://jobs.ashbyhq.com/svix
 https://jobs.ashbyhq.com/tailor
 https://jobs.ashbyhq.com/tajir
 https://jobs.ashbyhq.com/tandem
+https://jobs.ashbyhq.com/tennr
 https://jobs.ashbyhq.com/thera
 https://jobs.ashbyhq.com/tigereye
 https://jobs.ashbyhq.com/tilt
@@ -184,6 +196,7 @@ https://jobs.ashbyhq.com/vetcove
 https://jobs.ashbyhq.com/vital
 https://jobs.ashbyhq.com/vocode
 https://jobs.ashbyhq.com/volopay
+https://jobs.ashbyhq.com/vooma
 https://jobs.ashbyhq.com/vori
 https://jobs.ashbyhq.com/waterplan
 https://jobs.ashbyhq.com/webflow
