@@ -52,7 +52,7 @@ if [ -f "$GOBUSTER_TMP_FILE" ]; then
 fi
 
 # Sort, remove duplicates, and convert to lowercase in one step
-sort -u "$RESULTS_FILE" | awk '{print tolower($0)}' > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
+awk '{print tolower($0)}' "$RESULTS_FILE" | sort -u > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
 
 echo remove $AMOUNT amount of lines from $WORD_LIST
 tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"

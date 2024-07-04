@@ -11,7 +11,8 @@ on:
     paths:
       - '.github/workflows/lab01.yaml'
       - '.github/actions/lab01'
-      - 'lab01/researches/*.sh'
+      - 'lab01/**/*.sh'
+      - 'lab01/**/instruction.yaml'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
