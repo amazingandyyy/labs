@@ -4,6 +4,7 @@ https://jobs.ashbyhq.com/ableai
 https://jobs.ashbyhq.com/abridge
 https://jobs.ashbyhq.com/accord
 https://jobs.ashbyhq.com/aerotime
+https://jobs.ashbyhq.com/affinity
 https://jobs.ashbyhq.com/aleph
 https://jobs.ashbyhq.com/amicus
 https://jobs.ashbyhq.com/amper
@@ -11,6 +12,7 @@ https://jobs.ashbyhq.com/ampersand
 https://jobs.ashbyhq.com/anima
 https://jobs.ashbyhq.com/argus
 https://jobs.ashbyhq.com/ashby
+https://jobs.ashbyhq.com/asklio
 https://jobs.ashbyhq.com/assembled
 https://jobs.ashbyhq.com/athelas
 https://jobs.ashbyhq.com/atlas
@@ -23,6 +25,7 @@ https://jobs.ashbyhq.com/belvo
 https://jobs.ashbyhq.com/ben
 https://jobs.ashbyhq.com/benepass
 https://jobs.ashbyhq.com/bento
+https://jobs.ashbyhq.com/bifrost
 https://jobs.ashbyhq.com/biorender
 https://jobs.ashbyhq.com/birdie
 https://jobs.ashbyhq.com/bonfire
@@ -36,6 +39,7 @@ https://jobs.ashbyhq.com/cointracker
 https://jobs.ashbyhq.com/commandbar
 https://jobs.ashbyhq.com/complete
 https://jobs.ashbyhq.com/compound
+https://jobs.ashbyhq.com/conduit
 https://jobs.ashbyhq.com/convictional
 https://jobs.ashbyhq.com/copilot
 https://jobs.ashbyhq.com/dashworks
@@ -90,8 +94,10 @@ https://jobs.ashbyhq.com/mintlify
 https://jobs.ashbyhq.com/miso
 https://jobs.ashbyhq.com/modal
 https://jobs.ashbyhq.com/modernbanc
+https://jobs.ashbyhq.com/monitaur
 https://jobs.ashbyhq.com/motion
 https://jobs.ashbyhq.com/multiverse
+https://jobs.ashbyhq.com/nanograb
 https://jobs.ashbyhq.com/nanonets
 https://jobs.ashbyhq.com/nash
 https://jobs.ashbyhq.com/navattic
@@ -100,6 +106,7 @@ https://jobs.ashbyhq.com/noya
 https://jobs.ashbyhq.com/nucleus
 https://jobs.ashbyhq.com/onebrief
 https://jobs.ashbyhq.com/oneschema
+https://jobs.ashbyhq.com/onward
 https://jobs.ashbyhq.com/openai
 https://jobs.ashbyhq.com/opensea
 https://jobs.ashbyhq.com/oxygen
@@ -129,6 +136,7 @@ https://jobs.ashbyhq.com/replicate
 https://jobs.ashbyhq.com/replit
 https://jobs.ashbyhq.com/replo
 https://jobs.ashbyhq.com/rescale
+https://jobs.ashbyhq.com/resend
 https://jobs.ashbyhq.com/response
 https://jobs.ashbyhq.com/retool
 https://jobs.ashbyhq.com/runa
@@ -152,6 +160,7 @@ https://jobs.ashbyhq.com/sonar
 https://jobs.ashbyhq.com/speak
 https://jobs.ashbyhq.com/spellbrush
 https://jobs.ashbyhq.com/stepful
+https://jobs.ashbyhq.com/strada
 https://jobs.ashbyhq.com/sunsama
 https://jobs.ashbyhq.com/supertokens
 https://jobs.ashbyhq.com/svix
@@ -169,13 +178,16 @@ https://jobs.ashbyhq.com/upcodes
 https://jobs.ashbyhq.com/upflow
 https://jobs.ashbyhq.com/vance
 https://jobs.ashbyhq.com/vanta
+https://jobs.ashbyhq.com/vector
 https://jobs.ashbyhq.com/velontra
 https://jobs.ashbyhq.com/vetcove
 https://jobs.ashbyhq.com/vital
+https://jobs.ashbyhq.com/vocode
 https://jobs.ashbyhq.com/volopay
 https://jobs.ashbyhq.com/vori
 https://jobs.ashbyhq.com/waterplan
 https://jobs.ashbyhq.com/webflow
 https://jobs.ashbyhq.com/whatnot
+https://jobs.ashbyhq.com/yumaai
 https://jobs.ashbyhq.com/zapier
 https://jobs.ashbyhq.com/zip
