@@ -1,4 +1,3 @@
-Flightfox
 BackerKit
 NewsBlur
 OctaveWealth
