@@ -7,6 +7,7 @@ https://jobs.ashbyhq.com/accord
 https://jobs.ashbyhq.com/aerotime
 https://jobs.ashbyhq.com/affinity
 https://jobs.ashbyhq.com/agave
+https://jobs.ashbyhq.com/airtable
 https://jobs.ashbyhq.com/aleph
 https://jobs.ashbyhq.com/amicus
 https://jobs.ashbyhq.com/amper
@@ -20,6 +21,8 @@ https://jobs.ashbyhq.com/athelas
 https://jobs.ashbyhq.com/atlas
 https://jobs.ashbyhq.com/atrato
 https://jobs.ashbyhq.com/autohub
+https://jobs.ashbyhq.com/aven
+https://jobs.ashbyhq.com/away
 https://jobs.ashbyhq.com/bankjoy
 https://jobs.ashbyhq.com/beacons
 https://jobs.ashbyhq.com/beeper
@@ -35,6 +38,7 @@ https://jobs.ashbyhq.com/bonfire
 https://jobs.ashbyhq.com/cambly
 https://jobs.ashbyhq.com/castle
 https://jobs.ashbyhq.com/catch
+https://jobs.ashbyhq.com/census
 https://jobs.ashbyhq.com/cinder
 https://jobs.ashbyhq.com/clever
 https://jobs.ashbyhq.com/cocoon
@@ -78,6 +82,7 @@ https://jobs.ashbyhq.com/healthsherpa
 https://jobs.ashbyhq.com/her
 https://jobs.ashbyhq.com/here
 https://jobs.ashbyhq.com/hightouch
+https://jobs.ashbyhq.com/hudsonrivertrading
 https://jobs.ashbyhq.com/humaans
 https://jobs.ashbyhq.com/humanly
 https://jobs.ashbyhq.com/influxdata
@@ -92,6 +97,7 @@ https://jobs.ashbyhq.com/julius
 https://jobs.ashbyhq.com/juni
 https://jobs.ashbyhq.com/keep
 https://jobs.ashbyhq.com/keeper
+https://jobs.ashbyhq.com/keeptruckin
 https://jobs.ashbyhq.com/klarity
 https://jobs.ashbyhq.com/latent
 https://jobs.ashbyhq.com/legionhealth
@@ -103,6 +109,7 @@ https://jobs.ashbyhq.com/mach9
 https://jobs.ashbyhq.com/maihem
 https://jobs.ashbyhq.com/malga
 https://jobs.ashbyhq.com/marketfeed
+https://jobs.ashbyhq.com/marqeta
 https://jobs.ashbyhq.com/mednet
 https://jobs.ashbyhq.com/memfault
 https://jobs.ashbyhq.com/metaplane
@@ -119,10 +126,12 @@ https://jobs.ashbyhq.com/nanograb
 https://jobs.ashbyhq.com/nanonets
 https://jobs.ashbyhq.com/nash
 https://jobs.ashbyhq.com/navattic
+https://jobs.ashbyhq.com/notion
 https://jobs.ashbyhq.com/novel
 https://jobs.ashbyhq.com/noya
 https://jobs.ashbyhq.com/nucleus
 https://jobs.ashbyhq.com/numeral
+https://jobs.ashbyhq.com/ondeck
 https://jobs.ashbyhq.com/onebrief
 https://jobs.ashbyhq.com/oneschema
 https://jobs.ashbyhq.com/onward
@@ -136,6 +145,7 @@ https://jobs.ashbyhq.com/pave
 https://jobs.ashbyhq.com/permitflow
 https://jobs.ashbyhq.com/pesto
 https://jobs.ashbyhq.com/phasebiolabs
+https://jobs.ashbyhq.com/plaid
 https://jobs.ashbyhq.com/playht
 https://jobs.ashbyhq.com/podium
 https://jobs.ashbyhq.com/polytomic
@@ -178,22 +188,26 @@ https://jobs.ashbyhq.com/shepherd
 https://jobs.ashbyhq.com/shogun
 https://jobs.ashbyhq.com/shuttle
 https://jobs.ashbyhq.com/sift
+https://jobs.ashbyhq.com/siftscience
 https://jobs.ashbyhq.com/silver
 https://jobs.ashbyhq.com/skydropx
 https://jobs.ashbyhq.com/skylink
 https://jobs.ashbyhq.com/slingshotai
 https://jobs.ashbyhq.com/slope
 https://jobs.ashbyhq.com/snackpass
+https://jobs.ashbyhq.com/snyk
 https://jobs.ashbyhq.com/sonar
 https://jobs.ashbyhq.com/speak
 https://jobs.ashbyhq.com/spellbrush
 https://jobs.ashbyhq.com/stepful
 https://jobs.ashbyhq.com/strada
+https://jobs.ashbyhq.com/stytch
 https://jobs.ashbyhq.com/sunsama
 https://jobs.ashbyhq.com/supertokens
 https://jobs.ashbyhq.com/svix
 https://jobs.ashbyhq.com/tailor
 https://jobs.ashbyhq.com/tajir
+https://jobs.ashbyhq.com/talkdesk
 https://jobs.ashbyhq.com/tandem
 https://jobs.ashbyhq.com/tennr
 https://jobs.ashbyhq.com/thera
