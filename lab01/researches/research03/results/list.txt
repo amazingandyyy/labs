@@ -1,4 +1,5 @@
 https://jobs.lever.co/agentnoon
+https://jobs.lever.co/attentive
 https://jobs.lever.co/axoni
 https://jobs.lever.co/backerkit
 https://jobs.lever.co/biorender
@@ -41,6 +42,7 @@ https://jobs.lever.co/pathrise
 https://jobs.lever.co/paymongo
 https://jobs.lever.co/pelago
 https://jobs.lever.co/photoroom
+https://jobs.lever.co/plaid
 https://jobs.lever.co/policyfly
 https://jobs.lever.co/relativity
 https://jobs.lever.co/scopear
