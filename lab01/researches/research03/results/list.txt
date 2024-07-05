@@ -1,8 +1,13 @@
 https://jobs.lever.co/agentnoon
+https://jobs.lever.co/axoni
+https://jobs.lever.co/backerkit
 https://jobs.lever.co/biorender
+https://jobs.lever.co/buildzoom
 https://jobs.lever.co/captivateiq
+https://jobs.lever.co/caremessage
 https://jobs.lever.co/catch
 https://jobs.lever.co/clearspace
+https://jobs.lever.co/codecombat
 https://jobs.lever.co/cofactr
 https://jobs.lever.co/curri
 https://jobs.lever.co/doola
@@ -20,6 +25,7 @@ https://jobs.lever.co/instrumentl
 https://jobs.lever.co/juniperplatform
 https://jobs.lever.co/kodex
 https://jobs.lever.co/mashgin
+https://jobs.lever.co/mattermost
 https://jobs.lever.co/meesho
 https://jobs.lever.co/memfault
 https://jobs.lever.co/nesthealth
