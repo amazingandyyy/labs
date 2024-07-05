@@ -1,0 +1,5 @@
+get{GOBUSTER}
+{GOBUSTER}-team
+{GOBUSTER}app
+{GOBUSTER}-app
+{GOBUSTER}ai
