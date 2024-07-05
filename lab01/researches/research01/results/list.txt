@@ -98,6 +98,7 @@ https://boards.greenhouse.io/coverai
 https://boards.greenhouse.io/cruise               [--> https://getcruise.com/careers]
 https://boards.greenhouse.io/dagger
 https://boards.greenhouse.io/delphia
+https://boards.greenhouse.io/diligent
 https://boards.greenhouse.io/doordash             [--> https://careers.doordash.com/]
 https://boards.greenhouse.io/dots
 https://boards.greenhouse.io/dropbox              [--> https://jobs.dropbox.com]
@@ -198,6 +199,7 @@ https://boards.greenhouse.io/picnichealth         [--> https://picnichealth.com/
 https://boards.greenhouse.io/pillar
 https://boards.greenhouse.io/pirros
 https://boards.greenhouse.io/plane
+https://boards.greenhouse.io/play
 https://boards.greenhouse.io/polly
 https://boards.greenhouse.io/postscript
 https://boards.greenhouse.io/prodigal
