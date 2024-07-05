@@ -1,4 +1,6 @@
 https://jobs.lever.co/agentnoon
+https://jobs.lever.co/biorender
+https://jobs.lever.co/captivateiq
 https://jobs.lever.co/catch
 https://jobs.lever.co/clearspace
 https://jobs.lever.co/cofactr
@@ -7,6 +9,7 @@ https://jobs.lever.co/doola
 https://jobs.lever.co/eligible
 https://jobs.lever.co/enso
 https://jobs.lever.co/fampay
+https://jobs.lever.co/fintual
 https://jobs.lever.co/flex
 https://jobs.lever.co/fuse
 https://jobs.lever.co/gather
@@ -15,17 +18,21 @@ https://jobs.lever.co/hubla
 https://jobs.lever.co/instrumentl
 https://jobs.lever.co/juniperplatform
 https://jobs.lever.co/kodex
+https://jobs.lever.co/memfault
 https://jobs.lever.co/nesthealth
 https://jobs.lever.co/nextmv
 https://jobs.lever.co/notabene
 https://jobs.lever.co/obie
+https://jobs.lever.co/observeai
 https://jobs.lever.co/orbillion
 https://jobs.lever.co/osmind
+https://jobs.lever.co/pachama
 https://jobs.lever.co/paymongo
 https://jobs.lever.co/pelago
 https://jobs.lever.co/photoroom
 https://jobs.lever.co/policyfly
 https://jobs.lever.co/shasqi
+https://jobs.lever.co/sheertex
 https://jobs.lever.co/skio
 https://jobs.lever.co/starkbank
 https://jobs.lever.co/strongcompute
