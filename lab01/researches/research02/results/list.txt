@@ -29,6 +29,7 @@ https://jobs.ashbyhq.com/benepass
 https://jobs.ashbyhq.com/bento
 https://jobs.ashbyhq.com/bifrost
 https://jobs.ashbyhq.com/biorender
+https://jobs.ashbyhq.com/bird
 https://jobs.ashbyhq.com/birdie
 https://jobs.ashbyhq.com/bonfire
 https://jobs.ashbyhq.com/cambly
@@ -166,6 +167,7 @@ https://jobs.ashbyhq.com/secoda
 https://jobs.ashbyhq.com/seer-app
 https://jobs.ashbyhq.com/seis
 https://jobs.ashbyhq.com/sequin
+https://jobs.ashbyhq.com/sesame
 https://jobs.ashbyhq.com/shepherd
 https://jobs.ashbyhq.com/shogun
 https://jobs.ashbyhq.com/shuttle
