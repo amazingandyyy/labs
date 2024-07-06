@@ -5,7 +5,7 @@ echo "Current directory: $CURRENT_DIR"
 LAB_DIR="$CURRENT_DIR"
 TARGET="$1"
 echo "Target: $TARGET"
-ENCODED_TARGET=$(echo -n "$TARGET" | base64)
+ENCODED_TARGET=$(echo "$TARGET" | base64)
 echo "Encoded target: $ENCODED_TARGET"
 
 LAST_RESEARCH=$(basename $(find $LAB_DIR/researches -maxdepth 1 -type d | sort | tail -n 1))
