@@ -27,6 +27,6 @@ runs:
     - name: Execute research script
       run: |
         set -e
-        ./${{ inputs.lab_name }}/start.sh ${{ inputs.research }}
+        ./${{ inputs.lab_name }}/execute.sh ${{ inputs.research }}
         set +e
       shell: bash
