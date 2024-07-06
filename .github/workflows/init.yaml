@@ -1,11 +1,12 @@
-name: new research in lab01
-
-env:
-  lab_name: lab01
+name: init research
 
 on:
   workflow_dispatch:
     inputs:
+      lab_name:
+        description: 'lab name'
+        required: true
+        default: 'lab01'
       research_target:
         description: 'research target (url)'
 
@@ -21,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Init research
         run:
-          ${{ env.lab_name }}/init.sh ${{ inputs.research_target }}
+          ${{ inputs.lab_name }}/init.sh ${{ inputs.research_target }}
       - name: Commit
         shell: bash
         run:  |
@@ -30,7 +31,7 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
-          git add ${{ env.lab_name }}
-          git commit -m "feat(${{ env.lab_name }}): init research on ${{ inputs.research_target }}" -m "$current"
+          git add ${{ inputs.lab_name }}
+          git commit -m "feat(${{ inputs.lab_name }}): init research on ${{ inputs.research_target }}" -m "$current"
           git pull --rebase && git push
           set +x
