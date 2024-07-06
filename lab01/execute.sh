@@ -21,7 +21,6 @@ GOBUSTER_ERROR_LENGTH="$EXCLUDE_RESPONSE_LENGTH"
 
 # Define file paths
 WORD_LIST="$RESEARCH_DIR/latest.txt"
-RESEARCH_BACKLOGS_FOLDER="$RESEARCH_DIR/backlogs"
 RESULTS_FILE="$RESEARCH_DIR/results.txt"
 GOBUSTER_TMP_FILE="$RESEARCH_DIR/.gobuster.tmp.txt"
 TAIL_TMP_FILE="$RESEARCH_DIR/.tail.tmp.txt"
@@ -30,7 +29,7 @@ PATTERN_FILE="$GLOBAL_FOLDER/patterns.txt"
 
 # Process backlogs, prepare lab
 source "$CURRENT_DIR/prepare.sh"
-getItemsFromBacklogs "$GLOBAL_FOLDER/backlogs" $WORD_LIST $RESEARCH_BACKLOGS_FOLDER
+getItemsFromBacklogs "$RESEARCH_DIR/backlogs-index.txt" $WORD_LIST $RESEARCH_BACKLOGS_FOLDER
 cleanUpBacklogs "$GLOBAL_FOLDER/backlogs"
 
 echo "Processing $AMOUNT items in $WORD_LIST"

@@ -3,10 +3,9 @@
 function getItemsFromBacklogs() {
   local global_backlog_folder=$1
   local wordlist=$2
-  local backlogs_folder=$3
+  local index_file=$3
 
   if [ ! -s "$wordlist" ]; then
-    local index_file="$backlogs_folder/index.txt"
     echo "Index file $index_file"
     # Find all .txt files in the backlogs folder
     local unused_files=($(comm -23 <(ls "$global_backlog_folder/"*.txt | sort) <(sort "$index_file")))
