@@ -51,9 +51,11 @@ https://jobs.ashbyhq.com/census
 https://jobs.ashbyhq.com/charthop
 https://jobs.ashbyhq.com/choco
 https://jobs.ashbyhq.com/cinder
+https://jobs.ashbyhq.com/clarify
 https://jobs.ashbyhq.com/clerk
 https://jobs.ashbyhq.com/clever
 https://jobs.ashbyhq.com/cloudtrucks
+https://jobs.ashbyhq.com/clubhouse
 https://jobs.ashbyhq.com/cocoon
 https://jobs.ashbyhq.com/codeium
 https://jobs.ashbyhq.com/coder
@@ -82,6 +84,7 @@ https://jobs.ashbyhq.com/enode
 https://jobs.ashbyhq.com/eventualcomputing
 https://jobs.ashbyhq.com/extend
 https://jobs.ashbyhq.com/fable
+https://jobs.ashbyhq.com/feathr
 https://jobs.ashbyhq.com/fieldguide
 https://jobs.ashbyhq.com/fig
 https://jobs.ashbyhq.com/finary
@@ -296,4 +299,5 @@ https://jobs.ashbyhq.com/wiz
 https://jobs.ashbyhq.com/wrapbook
 https://jobs.ashbyhq.com/yumaai
 https://jobs.ashbyhq.com/zapier
+https://jobs.ashbyhq.com/zello
 https://jobs.ashbyhq.com/zip
