@@ -29,7 +29,7 @@ PATTERN_FILE="$GLOBAL_FOLDER/patterns.txt"
 
 # Process backlogs, prepare lab
 source "$CURRENT_DIR/prepare.sh"
-getItemsFromBacklogs "$RESEARCH_DIR/backlogs-index.txt" $WORD_LIST $RESEARCH_BACKLOGS_FOLDER
+getItemsFromBacklogs "$GLOBAL_FOLDER/backlogs" $WORD_LIST "$RESEARCH_DIR/backlogs-index.txt"
 cleanUpBacklogs "$GLOBAL_FOLDER/backlogs"
 
 echo "Processing $AMOUNT items in $WORD_LIST"
