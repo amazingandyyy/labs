@@ -22,7 +22,7 @@ jobs:
       - name: Init research
         run:
           ${{ env.lab_name }}/init.sh ${{ inputs.research_target }}
-      - name: commit
+      - name: Commit
         shell: bash
         run:  |
           set -x

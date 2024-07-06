@@ -8,7 +8,11 @@ if [ -z "$TARGET" ]; then
   # loop thru all instruction.yaml files and base decode research_target and append to $LAB_DIR/researches/index.txt
   for instruction in $(find $LAB_DIR/researches -name instruction.yaml); do
     RESEARCH_TARGET=$(grep research_target $instruction | awk '{print $2}' | base64 -d)
-    echo "$RESEARCH_TARGET" >> $LAB_DIR/researches/index.txt
+    # append research_name, research_target to $LAB_DIR/researches/index.txt
+    RESEARCH_NAME=$(basename $(dirname $instruction))
+    echo "$RESEARCH_NAME,$RESEARCH_TARGET" >> $LAB_DIR/researches/index.csv
+    # sort and remove duplicates
+    sort -u $LAB_DIR/researches/index.csv -o $LAB_DIR/researches/index.csv
   done
   exit 0
 fi
