@@ -81,6 +81,7 @@ https://boards.greenhouse.io/axle
 https://boards.greenhouse.io/axogen
 https://boards.greenhouse.io/axonius              [--> https://www.axonius.com/company/careers/open-jobs]
 https://boards.greenhouse.io/aztec
+https://boards.greenhouse.io/banza                [--> https://www.eatbanza.com/pages/careers]
 https://boards.greenhouse.io/baubap
 https://boards.greenhouse.io/beam
 https://boards.greenhouse.io/bearingpoint         [--> https://bearingpointcareers.ie/]
@@ -266,6 +267,7 @@ https://boards.greenhouse.io/invoca               [--> https://www.invoca.com/co
 https://boards.greenhouse.io/jetty
 https://boards.greenhouse.io/journey              [--> https://job-boards.greenhouse.io/journey]
 https://boards.greenhouse.io/jwplayer             [--> https://www.jwplayer.com/careers/job-openings]
+https://boards.greenhouse.io/kairos
 https://boards.greenhouse.io/kalshi               [--> https://kalshi.com/careers]
 https://boards.greenhouse.io/kiosk
 https://boards.greenhouse.io/kite
