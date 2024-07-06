@@ -45,6 +45,7 @@ https://jobs.ashbyhq.com/brightwheel
 https://jobs.ashbyhq.com/bunch
 https://jobs.ashbyhq.com/cadre
 https://jobs.ashbyhq.com/cambly
+https://jobs.ashbyhq.com/canopy
 https://jobs.ashbyhq.com/castle
 https://jobs.ashbyhq.com/catch
 https://jobs.ashbyhq.com/census
@@ -187,6 +188,7 @@ https://jobs.ashbyhq.com/persona
 https://jobs.ashbyhq.com/pesto
 https://jobs.ashbyhq.com/phantom
 https://jobs.ashbyhq.com/phasebiolabs
+https://jobs.ashbyhq.com/pinecone
 https://jobs.ashbyhq.com/plaid
 https://jobs.ashbyhq.com/playht
 https://jobs.ashbyhq.com/podium
