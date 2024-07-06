@@ -1,0 +1,37 @@
+name: new research in lab01
+
+env:
+  lab_name: lab01
+
+on:
+  workflow_dispatch:
+    inputs:
+      research_target:
+        description: 'research target (url)'
+        required: true
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  init:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Init research
+        run:
+          ${{ env.lab_name }}/init.sh ${{ inputs.research_target }}
+      - name: commit
+        shell: bash
+        run:  |
+          set -x
+          current=$(date)
+          git config --global user.name 'scientist'
+          git config --global user.email 'scientist@amazingandyyy.com'
+          git status
+          git add ${{ env.lab_name }}
+          git commit -m "feat(${{ env.lab_name }}): init research on ${{ inputs.research_target }}" -m "$current"
+          git pull --rebase && git push
+          set +x
