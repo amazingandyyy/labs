@@ -99,6 +99,7 @@ https://jobs.ashbyhq.com/freshpaint
 https://jobs.ashbyhq.com/frontapp
 https://jobs.ashbyhq.com/fullstory
 https://jobs.ashbyhq.com/gadget
+https://jobs.ashbyhq.com/geoforce
 https://jobs.ashbyhq.com/gethumi
 https://jobs.ashbyhq.com/golinks
 https://jobs.ashbyhq.com/gonddoapp
@@ -116,6 +117,7 @@ https://jobs.ashbyhq.com/humaans
 https://jobs.ashbyhq.com/humanly
 https://jobs.ashbyhq.com/illumio
 https://jobs.ashbyhq.com/improbable
+https://jobs.ashbyhq.com/impulse
 https://jobs.ashbyhq.com/influxdata
 https://jobs.ashbyhq.com/inscribeai
 https://jobs.ashbyhq.com/instacart
