@@ -126,10 +126,16 @@ https://jobs.ashbyhq.com/keep
 https://jobs.ashbyhq.com/keeper
 https://jobs.ashbyhq.com/keeptruckin
 https://jobs.ashbyhq.com/klarity
+https://jobs.ashbyhq.com/landis
 https://jobs.ashbyhq.com/latent
+https://jobs.ashbyhq.com/launchdarkly
 https://jobs.ashbyhq.com/legionhealth
 https://jobs.ashbyhq.com/lightdash
+https://jobs.ashbyhq.com/lilt
+https://jobs.ashbyhq.com/linear
+https://jobs.ashbyhq.com/literati
 https://jobs.ashbyhq.com/liveflow
+https://jobs.ashbyhq.com/loft
 https://jobs.ashbyhq.com/loftyai
 https://jobs.ashbyhq.com/loom
 https://jobs.ashbyhq.com/mach9
@@ -137,6 +143,7 @@ https://jobs.ashbyhq.com/maihem
 https://jobs.ashbyhq.com/malga
 https://jobs.ashbyhq.com/marketfeed
 https://jobs.ashbyhq.com/marqeta
+https://jobs.ashbyhq.com/medallion
 https://jobs.ashbyhq.com/mednet
 https://jobs.ashbyhq.com/memfault
 https://jobs.ashbyhq.com/metaplane
@@ -146,6 +153,7 @@ https://jobs.ashbyhq.com/miso
 https://jobs.ashbyhq.com/modal
 https://jobs.ashbyhq.com/modernbanc
 https://jobs.ashbyhq.com/monitaur
+https://jobs.ashbyhq.com/moov
 https://jobs.ashbyhq.com/motion
 https://jobs.ashbyhq.com/multiverse
 https://jobs.ashbyhq.com/nango
@@ -153,6 +161,7 @@ https://jobs.ashbyhq.com/nanograb
 https://jobs.ashbyhq.com/nanonets
 https://jobs.ashbyhq.com/nash
 https://jobs.ashbyhq.com/navattic
+https://jobs.ashbyhq.com/niantic
 https://jobs.ashbyhq.com/notion
 https://jobs.ashbyhq.com/novel
 https://jobs.ashbyhq.com/noya
@@ -168,9 +177,12 @@ https://jobs.ashbyhq.com/oxygen
 https://jobs.ashbyhq.com/ozone
 https://jobs.ashbyhq.com/padlet
 https://jobs.ashbyhq.com/paradigm
+https://jobs.ashbyhq.com/patch
 https://jobs.ashbyhq.com/pave
 https://jobs.ashbyhq.com/permitflow
+https://jobs.ashbyhq.com/persona
 https://jobs.ashbyhq.com/pesto
+https://jobs.ashbyhq.com/phantom
 https://jobs.ashbyhq.com/phasebiolabs
 https://jobs.ashbyhq.com/plaid
 https://jobs.ashbyhq.com/playht
