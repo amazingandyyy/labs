@@ -93,6 +93,7 @@ https://jobs.ashbyhq.com/finch
 https://jobs.ashbyhq.com/fintool
 https://jobs.ashbyhq.com/firstbase
 https://jobs.ashbyhq.com/firsthand
+https://jobs.ashbyhq.com/fitt
 https://jobs.ashbyhq.com/flux
 https://jobs.ashbyhq.com/fractional
 https://jobs.ashbyhq.com/freshpaint
@@ -104,6 +105,7 @@ https://jobs.ashbyhq.com/gethumi
 https://jobs.ashbyhq.com/golinks
 https://jobs.ashbyhq.com/gonddoapp
 https://jobs.ashbyhq.com/goodcover
+https://jobs.ashbyhq.com/gooddata
 https://jobs.ashbyhq.com/govdash
 https://jobs.ashbyhq.com/harvey
 https://jobs.ashbyhq.com/healthsherpa
@@ -205,6 +207,7 @@ https://jobs.ashbyhq.com/podium
 https://jobs.ashbyhq.com/polytomic
 https://jobs.ashbyhq.com/posthog
 https://jobs.ashbyhq.com/potion
+https://jobs.ashbyhq.com/prime
 https://jobs.ashbyhq.com/primer
 https://jobs.ashbyhq.com/probablygenetic
 https://jobs.ashbyhq.com/promise
@@ -266,6 +269,7 @@ https://jobs.ashbyhq.com/spellbrush
 https://jobs.ashbyhq.com/statsig
 https://jobs.ashbyhq.com/stepful
 https://jobs.ashbyhq.com/strada
+https://jobs.ashbyhq.com/stubhub
 https://jobs.ashbyhq.com/stytch
 https://jobs.ashbyhq.com/sunsama
 https://jobs.ashbyhq.com/supertokens
@@ -292,6 +296,7 @@ https://jobs.ashbyhq.com/upcodes
 https://jobs.ashbyhq.com/upflow
 https://jobs.ashbyhq.com/vance
 https://jobs.ashbyhq.com/vanta
+https://jobs.ashbyhq.com/vast
 https://jobs.ashbyhq.com/vector
 https://jobs.ashbyhq.com/velontra
 https://jobs.ashbyhq.com/vercel
