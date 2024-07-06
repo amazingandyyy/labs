@@ -4,6 +4,15 @@ CURRENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 echo "Current directory: $CURRENT_DIR"
 LAB_DIR="$CURRENT_DIR"
 TARGET="$1"
+if [ -z "$TARGET" ]; then
+  # loop thru all instruction.yaml files and base decode research_target and append to $LAB_DIR/researches/index.txt
+  for instruction in $(find $LAB_DIR/researches -name instruction.yaml); do
+    RESEARCH_TARGET=$(grep research_target $instruction | awk '{print $2}' | base64 -d)
+    echo "$RESEARCH_TARGET" >> $LAB_DIR/researches/index.txt
+  done
+  exit 0
+fi
+
 echo "Target: $TARGET"
 ENCODED_TARGET=$(echo "$TARGET" | base64)
 echo "Encoded target: $ENCODED_TARGET"
@@ -29,5 +38,4 @@ exclude_response_length: 6248
 EOL
 
 rm -rf $LAB_DIR/researches/research$NEXT_RESEARCH_NUM/research01
-
 echo "Research initialized successfully as research $NEXT_RESEARCH_NUM"
