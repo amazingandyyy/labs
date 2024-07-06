@@ -4,7 +4,7 @@ CURRENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 echo "Current directory: $CURRENT_DIR"
 LAB_DIR="$CURRENT_DIR"
 TARGET_NAME="$1"
-TARGET_UEL="$2"
+TARGET_URL="$2"
 if [ -z "$TARGET_URL" ]; then
   # loop thru all instruction.yaml files and base decode research_target and append to $LAB_DIR/researches/index.txt
   rm -rf $LAB_DIR/researches/index.csv
@@ -24,17 +24,17 @@ echo "Target URL: $TARGET_URL"
 ENCODED_TARGET=$(echo "$TARGET_URL" | base64)
 echo "Encoded target URL: $ENCODED_TARGET"
 
-cp -r $LAB_DIR/researches/greenhouse $LAB_DIR/researches/research/$TARGET_NAME
+cp -r $LAB_DIR/researches/greenhouse $LAB_DIR/researches/$TARGET_NAME
 
-> $LAB_DIR/researches/research/$TARGET_NAME/backlogs-index.txt
-> $LAB_DIR/researches/research/$TARGET_NAME/results.txt
-> $LAB_DIR/researches/research/$TARGET_NAME/targets.txt
+> $LAB_DIR/researches/$TARGET_NAME/backlogs-index.txt
+> $LAB_DIR/researches/$TARGET_NAME/results.txt
+> $LAB_DIR/researches/$TARGET_NAME/targets.txt
 
-cat > $LAB_DIR/researches/research/$TARGET_NAME/instruction.yaml <<EOL
+cat > $LAB_DIR/researches/$TARGET_NAME/instruction.yaml <<EOL
 research_target: $ENCODED_TARGET # $TARGET_URL
 processing_amount: 200
 exclude_response_length: 6248
 EOL
 
-rm -rf $LAB_DIR/researches/research/$TARGET_NAME/greenhouse
+rm -rf $LAB_DIR/researches/$TARGET_NAME/greenhouse
 echo "Research initialized successfully as research /$TARGET_NAME"
