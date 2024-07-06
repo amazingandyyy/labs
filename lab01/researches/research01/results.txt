@@ -495,6 +495,7 @@ https://boards.greenhouse.io/talkspace            [--> https://www.talkspace.com
 https://boards.greenhouse.io/tally
 https://boards.greenhouse.io/tandem
 https://boards.greenhouse.io/tavus
+https://boards.greenhouse.io/tecovas
 https://boards.greenhouse.io/tesseract
 https://boards.greenhouse.io/tetra                [--> https://www.tetra.com/careers]
 https://boards.greenhouse.io/thanx
