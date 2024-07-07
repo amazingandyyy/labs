@@ -435,6 +435,7 @@ https://boards.greenhouse.io/regent               [--> https://www.regentlp.com/
 https://boards.greenhouse.io/relativity           [--> http://relativityspace.com/careers]
 https://boards.greenhouse.io/remoracarbon
 https://boards.greenhouse.io/remote
+https://boards.greenhouse.io/retailnext           [--> https://retailnext.net/open-positions]
 https://boards.greenhouse.io/retool
 https://boards.greenhouse.io/revel
 https://boards.greenhouse.io/revenuecat
@@ -490,6 +491,7 @@ https://boards.greenhouse.io/snyk
 https://boards.greenhouse.io/soci                 [--> https://www.meetsoci.com/about/careers/]
 https://boards.greenhouse.io/solana
 https://boards.greenhouse.io/solarwinds           [--> https://jobs.solarwinds.com/jobs/]
+https://boards.greenhouse.io/sonicwall
 https://boards.greenhouse.io/spade
 https://boards.greenhouse.io/spinlaunch
 https://boards.greenhouse.io/splash               [--> https://splashthat.com/careers#open-positions]
@@ -500,6 +502,7 @@ https://boards.greenhouse.io/standard             [--> https://jobs.nebula.tv/]
 https://boards.greenhouse.io/standardai
 https://boards.greenhouse.io/stardust             [--> https://www.stardust.gg/about]
 https://boards.greenhouse.io/stellar
+https://boards.greenhouse.io/stitch
 https://boards.greenhouse.io/stitchfix            [--> https://www.stitchfix.com/careers/jobs]
 https://boards.greenhouse.io/stocktwits           [--> http://about.stocktwits.com/careers]
 https://boards.greenhouse.io/strava
