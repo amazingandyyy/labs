@@ -117,6 +117,7 @@ https://jobs.ashbyhq.com/here
 https://jobs.ashbyhq.com/hightouch
 https://jobs.ashbyhq.com/hint
 https://jobs.ashbyhq.com/homebound
+https://jobs.ashbyhq.com/horizon
 https://jobs.ashbyhq.com/houzz
 https://jobs.ashbyhq.com/hudsonrivertrading
 https://jobs.ashbyhq.com/humaans
@@ -282,6 +283,7 @@ https://jobs.ashbyhq.com/stanza
 https://jobs.ashbyhq.com/statsig
 https://jobs.ashbyhq.com/stepful
 https://jobs.ashbyhq.com/strada
+https://jobs.ashbyhq.com/stride
 https://jobs.ashbyhq.com/stubhub
 https://jobs.ashbyhq.com/stytch
 https://jobs.ashbyhq.com/sunsama
