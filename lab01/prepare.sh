@@ -17,6 +17,7 @@ function getItemsFromBacklogs() {
     # Append to wordlist, removing blank lines
     grep -v '^$' "$file" >> "$wordlist"
     # Mark as used by adding to index.txt
+    echo "Adding $(basename "$file") to $index_file"
     echo "$(basename "$file")" >> "$index_file"
 
     # Sort and remove duplicates and remove blank lines
