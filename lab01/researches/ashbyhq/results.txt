@@ -76,6 +76,7 @@ https://jobs.ashbyhq.com/decagonai
 https://jobs.ashbyhq.com/deel
 https://jobs.ashbyhq.com/deepgram
 https://jobs.ashbyhq.com/deepsource
+https://jobs.ashbyhq.com/distill
 https://jobs.ashbyhq.com/docker
 https://jobs.ashbyhq.com/doppler
 https://jobs.ashbyhq.com/ello
@@ -166,6 +167,7 @@ https://jobs.ashbyhq.com/modal
 https://jobs.ashbyhq.com/modernbanc
 https://jobs.ashbyhq.com/monitaur
 https://jobs.ashbyhq.com/moov
+https://jobs.ashbyhq.com/mosey
 https://jobs.ashbyhq.com/motion
 https://jobs.ashbyhq.com/mubi
 https://jobs.ashbyhq.com/multiverse
@@ -270,7 +272,9 @@ https://jobs.ashbyhq.com/socialeyesapp
 https://jobs.ashbyhq.com/sonar
 https://jobs.ashbyhq.com/sorare
 https://jobs.ashbyhq.com/speak
+https://jobs.ashbyhq.com/speakeasy
 https://jobs.ashbyhq.com/spellbrush
+https://jobs.ashbyhq.com/stanza
 https://jobs.ashbyhq.com/statsig
 https://jobs.ashbyhq.com/stepful
 https://jobs.ashbyhq.com/strada
