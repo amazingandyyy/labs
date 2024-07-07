@@ -81,6 +81,7 @@ https://jobs.ashbyhq.com/deepsource
 https://jobs.ashbyhq.com/distill
 https://jobs.ashbyhq.com/docker
 https://jobs.ashbyhq.com/doppler
+https://jobs.ashbyhq.com/eightsleep
 https://jobs.ashbyhq.com/ello
 https://jobs.ashbyhq.com/empower
 https://jobs.ashbyhq.com/enode
@@ -142,6 +143,7 @@ https://jobs.ashbyhq.com/keeptruckin
 https://jobs.ashbyhq.com/klarity
 https://jobs.ashbyhq.com/kraken
 https://jobs.ashbyhq.com/landis
+https://jobs.ashbyhq.com/lark
 https://jobs.ashbyhq.com/latent
 https://jobs.ashbyhq.com/launchdarkly
 https://jobs.ashbyhq.com/legionhealth
@@ -173,6 +175,7 @@ https://jobs.ashbyhq.com/monitaur
 https://jobs.ashbyhq.com/moov
 https://jobs.ashbyhq.com/mosey
 https://jobs.ashbyhq.com/motion
+https://jobs.ashbyhq.com/mparticle
 https://jobs.ashbyhq.com/mubi
 https://jobs.ashbyhq.com/multiverse
 https://jobs.ashbyhq.com/mycase
