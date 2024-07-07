@@ -20,6 +20,8 @@ function getItemsFromBacklogs() {
     grep -v '^$' "$file" >> "$wordlist"
     # Mark as used by adding to index.txt
     echo "$(basename "$file")" >> "$index_file"
+    
+    sort -u "$index_file" -o "$index_file"
 
     if [ ! -s "$wordlist" ]; then
       echo "Wordlist is empty after appending. Exiting..."
