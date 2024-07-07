@@ -197,6 +197,7 @@ https://jobs.ashbyhq.com/paradigm
 https://jobs.ashbyhq.com/patch
 https://jobs.ashbyhq.com/patreon
 https://jobs.ashbyhq.com/pave
+https://jobs.ashbyhq.com/peek
 https://jobs.ashbyhq.com/permitflow
 https://jobs.ashbyhq.com/persona
 https://jobs.ashbyhq.com/pesto
@@ -255,6 +256,7 @@ https://jobs.ashbyhq.com/shogun
 https://jobs.ashbyhq.com/shuttle
 https://jobs.ashbyhq.com/sift
 https://jobs.ashbyhq.com/siftscience
+https://jobs.ashbyhq.com/signalfire
 https://jobs.ashbyhq.com/silver
 https://jobs.ashbyhq.com/skydio
 https://jobs.ashbyhq.com/skydropx
@@ -264,6 +266,7 @@ https://jobs.ashbyhq.com/slingshotai
 https://jobs.ashbyhq.com/slope
 https://jobs.ashbyhq.com/snackpass
 https://jobs.ashbyhq.com/snyk
+https://jobs.ashbyhq.com/socialeyesapp
 https://jobs.ashbyhq.com/sonar
 https://jobs.ashbyhq.com/sorare
 https://jobs.ashbyhq.com/speak
