@@ -20,6 +20,7 @@ https://jobs.lever.co/fintual
 https://jobs.lever.co/flex
 https://jobs.lever.co/fuse
 https://jobs.lever.co/gather
+https://jobs.lever.co/getsquire
 https://jobs.lever.co/grid
 https://jobs.lever.co/hubla
 https://jobs.lever.co/instrumentl
@@ -49,6 +50,7 @@ https://jobs.lever.co/scopear
 https://jobs.lever.co/shasqi
 https://jobs.lever.co/sheertex
 https://jobs.lever.co/skio
+https://jobs.lever.co/springboard
 https://jobs.lever.co/starkbank
 https://jobs.lever.co/strongcompute
 https://jobs.lever.co/superside
@@ -61,5 +63,6 @@ https://jobs.lever.co/tryjeeves
 https://jobs.lever.co/tryriot
 https://jobs.lever.co/utvate
 https://jobs.lever.co/vergesense
+https://jobs.lever.co/voxy
 https://jobs.lever.co/workramp
 https://jobs.lever.co/yassir
