@@ -230,6 +230,8 @@ https://boards.greenhouse.io/fazz
 https://boards.greenhouse.io/fictiv
 https://boards.greenhouse.io/fieldwire            [--> https://www.fieldwire.com/jobs/]
 https://boards.greenhouse.io/figma
+https://boards.greenhouse.io/figure
+https://boards.greenhouse.io/figureai
 https://boards.greenhouse.io/fireblocks           [--> https://www.fireblocks.com/careers/current-openings/]
 https://boards.greenhouse.io/fivetran             [--> https://www.fivetran.com/careers]
 https://boards.greenhouse.io/flex
@@ -409,6 +411,7 @@ https://boards.greenhouse.io/nextdoor             [--> https://about.nextdoor.co
 https://boards.greenhouse.io/nextiva              [--> https://www.nextiva.com/company/careers-listing.html]
 https://boards.greenhouse.io/niantic
 https://boards.greenhouse.io/nimbus
+https://boards.greenhouse.io/nintex               [--> https://www.nintex.com/careers/jobs/]
 https://boards.greenhouse.io/nobellfoods
 https://boards.greenhouse.io/noredink             [--> https://www.noredink.com/jobs]
 https://boards.greenhouse.io/nothing
