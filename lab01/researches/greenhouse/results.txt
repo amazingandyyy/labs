@@ -274,6 +274,7 @@ https://boards.greenhouse.io/invoca               [--> https://www.invoca.com/co
 https://boards.greenhouse.io/jetty
 https://boards.greenhouse.io/journey              [--> https://job-boards.greenhouse.io/journey]
 https://boards.greenhouse.io/jwplayer             [--> https://www.jwplayer.com/careers/job-openings]
+https://boards.greenhouse.io/kaggle               [--> https://job-boards.greenhouse.io/kaggle]
 https://boards.greenhouse.io/kairos
 https://boards.greenhouse.io/kalshi               [--> https://kalshi.com/careers]
 https://boards.greenhouse.io/kiosk
@@ -291,6 +292,7 @@ https://boards.greenhouse.io/leaflink
 https://boards.greenhouse.io/ledgy
 https://boards.greenhouse.io/legalist             [--> https://www.legalist.com/careers]
 https://boards.greenhouse.io/level
+https://boards.greenhouse.io/life360
 https://boards.greenhouse.io/lift
 https://boards.greenhouse.io/lightship
 https://boards.greenhouse.io/link
@@ -375,6 +377,7 @@ https://boards.greenhouse.io/opendoor
 https://boards.greenhouse.io/opengamma            [--> https://opengamma.com/careers]
 https://boards.greenhouse.io/openphone
 https://boards.greenhouse.io/optoro               [--> https://www.optoro.com/careers/#open-positions]
+https://boards.greenhouse.io/original
 https://boards.greenhouse.io/orum                 [--> https://boards.greenhouse.io/orum]
 https://boards.greenhouse.io/outschool
 https://boards.greenhouse.io/pachyderm
@@ -556,6 +559,7 @@ https://boards.greenhouse.io/turo
 https://boards.greenhouse.io/tusimple
 https://boards.greenhouse.io/twilio
 https://boards.greenhouse.io/twitch
+https://boards.greenhouse.io/udemy                [--> https://about.udemy.com/careers/]
 https://boards.greenhouse.io/ujet
 https://boards.greenhouse.io/upfort
 https://boards.greenhouse.io/upkeep
