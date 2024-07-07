@@ -32,8 +32,10 @@ https://jobs.ashbyhq.com/belvo
 https://jobs.ashbyhq.com/ben
 https://jobs.ashbyhq.com/benepass
 https://jobs.ashbyhq.com/bento
+https://jobs.ashbyhq.com/betterup
 https://jobs.ashbyhq.com/bifrost
 https://jobs.ashbyhq.com/bigeye
+https://jobs.ashbyhq.com/binti
 https://jobs.ashbyhq.com/biorender
 https://jobs.ashbyhq.com/bird
 https://jobs.ashbyhq.com/birdie
@@ -261,6 +263,7 @@ https://jobs.ashbyhq.com/sift
 https://jobs.ashbyhq.com/siftscience
 https://jobs.ashbyhq.com/signalfire
 https://jobs.ashbyhq.com/silver
+https://jobs.ashbyhq.com/skilljar
 https://jobs.ashbyhq.com/skydio
 https://jobs.ashbyhq.com/skydropx
 https://jobs.ashbyhq.com/skylink
@@ -295,6 +298,7 @@ https://jobs.ashbyhq.com/thera
 https://jobs.ashbyhq.com/tigereye
 https://jobs.ashbyhq.com/tilt
 https://jobs.ashbyhq.com/titan-app
+https://jobs.ashbyhq.com/traba
 https://jobs.ashbyhq.com/tremendous
 https://jobs.ashbyhq.com/tripactions
 https://jobs.ashbyhq.com/truva
