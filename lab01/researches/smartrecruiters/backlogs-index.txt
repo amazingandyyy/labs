@@ -1,2 +1,3 @@
 aaa_old_airtable.txt
 aaa_partab.txt
+english_partay.txt
