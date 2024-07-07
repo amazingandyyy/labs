@@ -7,21 +7,21 @@ function getItemsFromBacklogs() {
 
   if [ ! -s "$wordlist" ]; then
     echo "Index file $index_file"
-    # Find all .txt files in the backlogs folder
-    local unused_files=($(comm -23 <(ls "$global_backlog_folder/"*.txt | sort) <(sort "$index_file")))
-
-    if [ ${#unused_files[@]} -eq 0 ]; then
-      echo "No unused backlog files found. Exiting..."
+    # Find the first .txt files that's not in $index_file
+    file=$(find "$global_backlog_folder" -type f -name '*.txt' | grep -v -f "$index_file" | head -n 1)
+    if [ -z "$file" ]; then
+      echo "No more files to process. Exiting..."
       exit 0
     fi
-
-    local file=${unused_files[0]}
+    echo "Moving content in $file to $wordlist"
     # Append to wordlist, removing blank lines
     grep -v '^$' "$file" >> "$wordlist"
     # Mark as used by adding to index.txt
     echo "$(basename "$file")" >> "$index_file"
-    
-    sort -u "$index_file" -o "$index_file"
+
+    # Sort and remove duplicates and remove blank lines
+    sort -u "$wordlist" -o "$wordlist"  # sort and remove duplicates
+    grep -v '^$' "$wordlist" > "${wordlist}.tmp" && mv "${wordlist}.tmp" "$wordlist"  # remove blank lines
 
     if [ ! -s "$wordlist" ]; then
       echo "Wordlist is empty after appending. Exiting..."
