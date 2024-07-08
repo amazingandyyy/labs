@@ -60,10 +60,10 @@ tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 cp "$TAIL_TMP_FILE" "$WORD_LIST"
 rm -f "$TOP_X_LIST" "$TAIL_TMP_FILE"
 
-# Correctly define and calculate X
-X=$(wc -l < "$RESULTS_FILE")
-echo "Summary: $X/$AMOUNT items is positive"
-echo "new_results=$X" >> "$GITHUB_OUTPUT"
+#NEW_RESULTS is the line difference between the original results file and the new results file
+NEW_RESULTS=$(comm -13 <(sort "$RESEARCH_DIR/results.txt") <(sort "$RESEARCH_DIR/old_results.txt") | wc -l)
+echo "Summary: $NEW_RESULTS/$AMOUNT items is positive"
+echo "new_results=$NEW_RESULTS" >> "$GITHUB_OUTPUT"
 echo "processed_results=$PROCESSING_AMOUNT" >> "$GITHUB_OUTPUT"
 
 exit 0
