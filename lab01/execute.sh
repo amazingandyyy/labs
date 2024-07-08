@@ -54,6 +54,7 @@ fi
 # Sort, remove duplicates, and convert to lowercase in one step
 awk '{print tolower($0)}' "$RESULTS_FILE" | sort -u > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
 
+PROCESSING_AMOUNT=$(wc -l < "$TOP_X_LIST")
 echo remove $AMOUNT amount of lines from $WORD_LIST
 tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 cp "$TAIL_TMP_FILE" "$WORD_LIST"
@@ -62,5 +63,7 @@ rm -f "$TOP_X_LIST" "$TAIL_TMP_FILE"
 # Correctly define and calculate X
 X=$(wc -l < "$RESULTS_FILE")
 echo "Summary: $X/$AMOUNT items is positive"
+echo "new_results=$X" >> "$GITHUB_OUTPUT"
+echo "processed_results=$PROCESSING_AMOUNT" >> "$GITHUB_OUTPUT"
 
 exit 0
