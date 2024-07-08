@@ -8,7 +8,7 @@ function getItemsFromBacklogs() {
   if [ ! -s "$wordlist" ]; then
     echo "Index file $index_file"
     # Find the first .txt files that's not in $index_file
-    file=$(find "$global_backlog_folder" -type f -name '*.txt' | grep -v -f "$index_file" | head -n 1)
+    file=$(find "$global_backlog_folder" -type f -name '*.txt' | grep -vxFf "$index_file" | head -n 1)
     if [ -z "$file" ]; then
       echo "No more files to process. Exiting..."
       exit 0
