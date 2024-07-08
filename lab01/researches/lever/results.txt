@@ -45,8 +45,10 @@ https://jobs.lever.co/pelago
 https://jobs.lever.co/photoroom
 https://jobs.lever.co/plaid
 https://jobs.lever.co/policyfly
+https://jobs.lever.co/quartzy
 https://jobs.lever.co/relativity
 https://jobs.lever.co/scopear
+https://jobs.lever.co/scribd
 https://jobs.lever.co/shasqi
 https://jobs.lever.co/sheertex
 https://jobs.lever.co/skio
@@ -54,6 +56,7 @@ https://jobs.lever.co/springboard
 https://jobs.lever.co/starkbank
 https://jobs.lever.co/strongcompute
 https://jobs.lever.co/superside
+https://jobs.lever.co/talkable
 https://jobs.lever.co/teleport
 https://jobs.lever.co/termius
 https://jobs.lever.co/tesorio
