@@ -532,6 +532,7 @@ https://boards.greenhouse.io/radiant
 https://boards.greenhouse.io/radicalai            [--> https://job-boards.greenhouse.io/radicalai]
 https://boards.greenhouse.io/raft
 https://boards.greenhouse.io/raise                [--> http://www.raise.com/careers]
+https://boards.greenhouse.io/range
 https://boards.greenhouse.io/rapp
 https://boards.greenhouse.io/realm
 https://boards.greenhouse.io/realself             [--> https://www.realself.com/company/careers/#openpositions]
