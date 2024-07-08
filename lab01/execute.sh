@@ -54,7 +54,6 @@ fi
 # Sort, remove duplicates, and convert to lowercase in one step
 awk '{print tolower($0)}' "$RESULTS_FILE" | sort -u > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
 
-PROCESSING_AMOUNT=$(wc -l < "$TOP_X_LIST")
 echo remove $AMOUNT amount of lines from $WORD_LIST
 tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 cp "$TAIL_TMP_FILE" "$WORD_LIST"
@@ -62,8 +61,10 @@ rm -f "$TOP_X_LIST" "$TAIL_TMP_FILE"
 
 #NEW_RESULTS is the line difference between the original results file and the new results file
 NEW_RESULTS=$(comm -13 <(sort "$RESEARCH_DIR/results.txt") <(sort "$RESEARCH_DIR/old_results.txt") | wc -l)
+#PROCESSED_AMOUNT is the line difference between the original wordlist and the new wordlist
+PROCESSED_AMOUNT=$(comm -13 <(sort "$RESEARCH_DIR/targets.txt") <(sort "$RESEARCH_DIR/old_targets.txt") | wc -l)
 echo "Summary: $NEW_RESULTS/$AMOUNT items is positive"
 echo "new_results=$NEW_RESULTS" >> "$GITHUB_OUTPUT"
-echo "processed_results=$PROCESSING_AMOUNT" >> "$GITHUB_OUTPUT"
+echo "processed_results=$PROCESSED_AMOUNT" >> "$GITHUB_OUTPUT"
 
 exit 0
