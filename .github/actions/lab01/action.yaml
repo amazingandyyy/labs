@@ -7,6 +7,14 @@ inputs:
   lab_name:
     description: 'Lab name'
     required: true
+outputs:
+  new_results:
+    description: 'New results'
+    value: ${{ steps.research.outputs.new_results }}
+  processed_results:
+    description: 'Processed results'
+    value: ${{ steps.research.outputs.processed_results }}
+
 runs:
   using: 'composite'
   steps:
@@ -25,6 +33,7 @@ runs:
         yq --version
       shell: bash
     - name: Execute research script
+      id: research
       run: |
         set -e
         ./${{ inputs.lab_name }}/execute.sh ${{ inputs.research }}
