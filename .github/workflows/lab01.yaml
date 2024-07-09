@@ -76,7 +76,8 @@ jobs:
           git config --global user.name 'scientist'
           git config --global user.email 'scientist@amazingandyyy.com'
           git status
-          git add ${{ env.lab_name }}/researches/${{ matrix.research }}
+          #git add ${{ env.lab_name }}/researches/${{ matrix.research }}
+          git add -A
           git commit -m "feat(${{ env.lab_name }}/${{ matrix.research }}): ${{ steps.research.outputs.new_results }}/${{ steps.research.outputs.processed_results }} positive results" -m "$current"
           git pull --rebase && git push
           set +x
