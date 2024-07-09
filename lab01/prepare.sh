@@ -7,8 +7,10 @@ function getItemsFromBacklogs() {
 
   if [ ! -s "$wordlist" ]; then
     echo "Index file $index_file"
-    # Find the first .txt files that's not in $index_file
-    file=$(find "$global_backlog_folder" -type f -name '*.txt' | grep -vxFf "$index_file" | head -n 1)
+    # Find the first .txt file that's not in $index_file
+    set -x
+    file=$(find "$global_backlog_folder" -type f -name '*.txt' | grep -vFf "$index_file" | head -n 1)
+    set +x
     if [ -z "$file" ]; then
       echo "No more files to process. Exiting..."
       exit 0
@@ -20,9 +22,9 @@ function getItemsFromBacklogs() {
     echo "Adding $(basename "$file") to $index_file"
     echo "$(basename "$file")" >> "$index_file"
 
-    # Sort and remove duplicates and remove blank lines
-    sort -u "$wordlist" -o "$wordlist"  # sort and remove duplicates
-    grep -v '^$' "$wordlist" > "${wordlist}.tmp" && mv "${wordlist}.tmp" "$wordlist"  # remove blank lines
+    # Sort and remove duplicates remove blank lines, don't use sed
+    sort -u "$wordlist" -o "$wordlist"
+    grep -v '^$' "$wordlist" > "${wordlist}.tmp" && mv "${wordlist}.tmp" "$wordlist"
 
     if [ ! -s "$wordlist" ]; then
       echo "Wordlist is empty after appending. Exiting..."
