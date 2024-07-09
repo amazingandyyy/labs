@@ -1,1 +1,2 @@
 aaa_partab.txt
+english_partay.txt
