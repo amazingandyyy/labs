@@ -5,8 +5,8 @@ echo "Current directory: $CURRENT_DIR"
 LAB_DIR="$CURRENT_DIR"
 TARGET_NAME="$1"
 TARGET_URL="$2"
-if [ -z "$TARGET_URL" ]; then
-  # loop thru all instruction.yaml files and base decode research_target and append to $LAB_DIR/researches/index.txt
+
+function buildIndex() {
   rm -rf $LAB_DIR/researches/index.csv
   for instruction in $(find $LAB_DIR/researches -name instruction.yaml); do
     RESEARCH_TARGET=$(grep research_target $instruction | awk '{print $2}' | base64 -d)
@@ -16,6 +16,11 @@ if [ -z "$TARGET_URL" ]; then
     # sort and remove duplicates
     sort -u $LAB_DIR/researches/index.csv -o $LAB_DIR/researches/index.csv
   done
+}
+
+if [ -z "$TARGET_URL" ]; then
+  # loop thru all instruction.yaml files and base decode research_target and append to $LAB_DIR/researches/index.txt
+  buildIndex
   exit 0
 fi
 
@@ -35,6 +40,8 @@ research_target: $ENCODED_TARGET # $TARGET_URL
 processing_amount: 200
 exclude_response_length: 6248
 EOL
+# build index
+buildIndex
 
 rm -rf $LAB_DIR/researches/$TARGET_NAME/greenhouse
 echo "Research initialized successfully as research /$TARGET_NAME"
