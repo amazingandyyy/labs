@@ -46,6 +46,7 @@ gobuster dir -u "$BASE_URL" -w "$TOP_X_LIST" -o "$GOBUSTER_TMP_FILE" --pattern $
   --delay "${DELAY}ms" \
   --hide-length --expanded --no-status --no-color
 
+NEW_RESULTS=$(wc -l < "$GOBUSTER_TMP_FILE")
 if [ -f "$GOBUSTER_TMP_FILE" ]; then
   cat "$GOBUSTER_TMP_FILE" >> "$RESULTS_FILE"
   rm -f "$GOBUSTER_TMP_FILE"
@@ -55,14 +56,14 @@ fi
 awk '{print tolower($0)}' "$RESULTS_FILE" | sort -u > "$RESULTS_FILE.tmp" && mv "$RESULTS_FILE.tmp" "$RESULTS_FILE"
 
 echo remove $AMOUNT amount of lines from $WORD_LIST
+old_wordlist_size=$(wc -l < "$WORD_LIST")
 tail -n +$((AMOUNT+1)) "$WORD_LIST" > "$TAIL_TMP_FILE"
 cp "$TAIL_TMP_FILE" "$WORD_LIST"
 rm -f "$TOP_X_LIST" "$TAIL_TMP_FILE"
+new_wordlist_size=$(wc -l < "$WORD_LIST")
 
-#NEW_RESULTS is the line difference between the original results file and the new results file
-NEW_RESULTS=$(comm -13 <(sort "$RESEARCH_DIR/results.txt") <(sort "$RESEARCH_DIR/old_results.txt") | wc -l)
 #PROCESSED_AMOUNT is the line difference between the original wordlist and the new wordlist
-PROCESSED_AMOUNT=$(comm -13 <(sort "$RESEARCH_DIR/targets.txt") <(sort "$RESEARCH_DIR/old_targets.txt") | wc -l)
+PROCESSED_AMOUNT=$((old_wordlist_size - new_wordlist_size))
 echo "Summary: $NEW_RESULTS/$AMOUNT items is positive"
 echo "new_results=$NEW_RESULTS" >> "$GITHUB_OUTPUT"
 echo "processed_results=$PROCESSED_AMOUNT" >> "$GITHUB_OUTPUT"
