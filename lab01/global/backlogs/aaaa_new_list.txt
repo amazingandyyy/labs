@@ -280,7 +280,6 @@ zero
 theathletic
 vineti
 people
-at-bay
 kinetica
 noodle
 neednova
@@ -299,7 +298,6 @@ honeycomb
 tribal
 skupos
 rasa
-get-carrot
 resiliencesecurity
 tonkean
 getclockwise
@@ -311,7 +309,6 @@ bluecedar
 cover
 hellooffice
 flo
-deep-labs
 repl
 wonderschool
 yup
@@ -466,7 +463,6 @@ mux
 eden
 osaro
 rapidapi
-pico-interactive
 vercel
 redacted
 crewapp
@@ -613,7 +609,6 @@ playpass
 productschool
 anduintransact
 getbloomfarms
-near-me
 buzzboard
 nventi
 opendoor
@@ -719,7 +714,6 @@ mightysignal
 teleport
 tenjin
 theleague
-switchboard-software
 getmeadow
 countable
 wagonhq
@@ -840,7 +834,6 @@ townsquared
 bugsnag
 blueboard
 docsend
-shop-ware
 crowdpac
 datafox
 runnable
@@ -1047,9 +1040,7 @@ ringcaptcha
 sherpadesk
 screenly
 cloudspokes
-giga-lab
 impactspace
-lite-key
 feedgen
 cloudhq
 capigami
@@ -1327,7 +1318,6 @@ saucelabs
 yammer
 syapse
 aktana
-figure-eight
 indiegogo
 thismoment
 socialchorus
@@ -1446,7 +1436,6 @@ referralexchange
 joyent
 birst
 yelpblog
-loc-aid
 logikcull
 capsilon
 join
@@ -1589,34 +1578,26 @@ close
 wikipedia
 eqrecruiters
 addomni
-Zeal-Global-Inc
 Abacus
 Internal
-Matik,-Inc
 Qualified
 Iterative
-Leaseable,-Inc
 Retain
 SAP
 Earn
 Observe
 Slync
 Software
-Alchemy-Cloud,-Inc
 Bud
-ClosedWon-Inc
-Summery,-Inc
 People
 Noodle
 Repl
 comma
 Price
 Shift
-SwarmSales,-Inc
 Automate
 Spot
 Fulfil
-Zemployee,-Inc
 Gong
 Chorus
 Primer
@@ -1625,7 +1606,6 @@ fireflies
 interviewing
 Zensoft
 Qulture
-Onsophic-Inc
 Ship
 Mode
 prismic
@@ -1636,9 +1616,7 @@ Calm
 Prompt
 Knowtify
 Reso
-Goombal,-Inc
 Tray
-Passare,-Inc
 App
 Proto
 Scal
@@ -1647,12 +1625,9 @@ Rally
 Trigger
 card
 Appstores
-Verdafero-Inc
-SQLstream,-Inc
 Desk
 Built
 Inference
-Sputnik,-Inc
 Buzzsaw
 AllBusiness
 Close
@@ -1693,7 +1668,6 @@ algolia
 alienvault
 allbirds
 alloy
-alpha-sense
 altschool
 alwayshired
 amazon
@@ -1789,7 +1763,6 @@ capgemini
 capitalone
 carbon3d
 carbonfive
-get-carrot
 carta
 cashbet
 castle
@@ -1901,7 +1874,6 @@ fabricgenomics
 facebook
 faire
 fanatics
-figure-eight
 fin
 financialforce
 fingerprintplay
@@ -2478,7 +2450,6 @@ commongenius
 courtbuddy
 deliverr
 dharma
-didi-labs
 yourfuzzy
 getthru
 goodtime
@@ -2701,7 +2672,6 @@ forcepoint
 acquia
 acquia
 metricstream
-switchboard-software
 tcs
 cognizant
 infosys
