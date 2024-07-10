@@ -75,6 +75,7 @@ https://jobs.ashbyhq.com/copilot
 https://jobs.ashbyhq.com/craze
 https://jobs.ashbyhq.com/dashworks
 https://jobs.ashbyhq.com/datafold
+https://jobs.ashbyhq.com/dave
 https://jobs.ashbyhq.com/decagon
 https://jobs.ashbyhq.com/decagonai
 https://jobs.ashbyhq.com/deel
@@ -84,14 +85,17 @@ https://jobs.ashbyhq.com/distill
 https://jobs.ashbyhq.com/docker
 https://jobs.ashbyhq.com/doppler
 https://jobs.ashbyhq.com/eightsleep
+https://jobs.ashbyhq.com/eli
 https://jobs.ashbyhq.com/ello
 https://jobs.ashbyhq.com/empower
 https://jobs.ashbyhq.com/enode
+https://jobs.ashbyhq.com/ernest
 https://jobs.ashbyhq.com/eventualcomputing
 https://jobs.ashbyhq.com/expa
 https://jobs.ashbyhq.com/extend
 https://jobs.ashbyhq.com/fable
 https://jobs.ashbyhq.com/feathr
+https://jobs.ashbyhq.com/felix
 https://jobs.ashbyhq.com/fieldguide
 https://jobs.ashbyhq.com/fig
 https://jobs.ashbyhq.com/figure
