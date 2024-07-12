@@ -127,6 +127,7 @@ https://jobs.ashbyhq.com/gadget
 https://jobs.ashbyhq.com/geoforce
 https://jobs.ashbyhq.com/getcogenerators
 https://jobs.ashbyhq.com/gethumi
+https://jobs.ashbyhq.com/getremote
 https://jobs.ashbyhq.com/golinks
 https://jobs.ashbyhq.com/gonddoapp
 https://jobs.ashbyhq.com/goodcover
@@ -255,6 +256,7 @@ https://jobs.ashbyhq.com/pylon
 https://jobs.ashbyhq.com/qualtrics
 https://jobs.ashbyhq.com/quantstamp
 https://jobs.ashbyhq.com/quilter
+https://jobs.ashbyhq.com/quora
 https://jobs.ashbyhq.com/qventus
 https://jobs.ashbyhq.com/raccoons
 https://jobs.ashbyhq.com/radai
@@ -281,10 +283,12 @@ https://jobs.ashbyhq.com/recurrency
 https://jobs.ashbyhq.com/reddit
 https://jobs.ashbyhq.com/reflex
 https://jobs.ashbyhq.com/reflex-team
+https://jobs.ashbyhq.com/relativityai
 https://jobs.ashbyhq.com/relay
 https://jobs.ashbyhq.com/relevanceai
 https://jobs.ashbyhq.com/remarks-app
 https://jobs.ashbyhq.com/remi
+https://jobs.ashbyhq.com/remote
 https://jobs.ashbyhq.com/replastered-app
 https://jobs.ashbyhq.com/replicate
 https://jobs.ashbyhq.com/replicated
@@ -301,6 +305,7 @@ https://jobs.ashbyhq.com/revinate
 https://jobs.ashbyhq.com/runa
 https://jobs.ashbyhq.com/runway
 https://jobs.ashbyhq.com/rutter
+https://jobs.ashbyhq.com/salesloft
 https://jobs.ashbyhq.com/sardine
 https://jobs.ashbyhq.com/scout
 https://jobs.ashbyhq.com/secoda
@@ -351,6 +356,7 @@ https://jobs.ashbyhq.com/thera
 https://jobs.ashbyhq.com/tigereye
 https://jobs.ashbyhq.com/tilt
 https://jobs.ashbyhq.com/titan-app
+https://jobs.ashbyhq.com/tonal
 https://jobs.ashbyhq.com/traba
 https://jobs.ashbyhq.com/tremendous
 https://jobs.ashbyhq.com/tripactions
