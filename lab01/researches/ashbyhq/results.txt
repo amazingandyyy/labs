@@ -132,6 +132,7 @@ https://jobs.ashbyhq.com/gonddoapp
 https://jobs.ashbyhq.com/goodcover
 https://jobs.ashbyhq.com/gooddata
 https://jobs.ashbyhq.com/govdash
+https://jobs.ashbyhq.com/greenlight
 https://jobs.ashbyhq.com/harvey
 https://jobs.ashbyhq.com/healthsherpa
 https://jobs.ashbyhq.com/her
@@ -182,15 +183,18 @@ https://jobs.ashbyhq.com/malga
 https://jobs.ashbyhq.com/mapbox
 https://jobs.ashbyhq.com/marketfeed
 https://jobs.ashbyhq.com/marqeta
+https://jobs.ashbyhq.com/marshmallow
 https://jobs.ashbyhq.com/medallion
 https://jobs.ashbyhq.com/mednet
 https://jobs.ashbyhq.com/memfault
+https://jobs.ashbyhq.com/mercury
 https://jobs.ashbyhq.com/metaplane
 https://jobs.ashbyhq.com/middesk
 https://jobs.ashbyhq.com/mintlify
 https://jobs.ashbyhq.com/miso
 https://jobs.ashbyhq.com/modal
 https://jobs.ashbyhq.com/modernbanc
+https://jobs.ashbyhq.com/mollie
 https://jobs.ashbyhq.com/monitaur
 https://jobs.ashbyhq.com/moov
 https://jobs.ashbyhq.com/mosey
@@ -198,6 +202,7 @@ https://jobs.ashbyhq.com/motion
 https://jobs.ashbyhq.com/mparticle
 https://jobs.ashbyhq.com/mubi
 https://jobs.ashbyhq.com/multiverse
+https://jobs.ashbyhq.com/mural
 https://jobs.ashbyhq.com/mycase
 https://jobs.ashbyhq.com/nango
 https://jobs.ashbyhq.com/nanograb
@@ -243,6 +248,7 @@ https://jobs.ashbyhq.com/potion
 https://jobs.ashbyhq.com/prime
 https://jobs.ashbyhq.com/primer
 https://jobs.ashbyhq.com/probablygenetic
+https://jobs.ashbyhq.com/project44
 https://jobs.ashbyhq.com/promise
 https://jobs.ashbyhq.com/prompt
 https://jobs.ashbyhq.com/pylon
