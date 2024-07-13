@@ -74,6 +74,7 @@ https://boards.greenhouse.io/apixio               [--> https://www.apixio.com/jo
 https://boards.greenhouse.io/apolloio
 https://boards.greenhouse.io/appdirect
 https://boards.greenhouse.io/appsflyer            [--> http://careers.appsflyer.com/]
+https://boards.greenhouse.io/april
 https://boards.greenhouse.io/aptible
 https://boards.greenhouse.io/aqr                  [--> https://careers.aqr.com]
 https://boards.greenhouse.io/arenaai
@@ -151,6 +152,7 @@ https://boards.greenhouse.io/calm
 https://boards.greenhouse.io/cameo
 https://boards.greenhouse.io/camp
 https://boards.greenhouse.io/candid
+https://boards.greenhouse.io/candy
 https://boards.greenhouse.io/capitolis            [--> https://capitolis.com/careers]
 https://boards.greenhouse.io/carbon
 https://boards.greenhouse.io/carbonchain
