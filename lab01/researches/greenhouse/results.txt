@@ -299,6 +299,7 @@ https://boards.greenhouse.io/earnest
 https://boards.greenhouse.io/earnin
 https://boards.greenhouse.io/ebanx
 https://boards.greenhouse.io/echoai               [--> https://job-boards.greenhouse.io/echoai]
+https://boards.greenhouse.io/eclipse
 https://boards.greenhouse.io/edge
 https://boards.greenhouse.io/edmond
 https://boards.greenhouse.io/elixirr              [--> https://www.elixirr.com/job-openings/]
