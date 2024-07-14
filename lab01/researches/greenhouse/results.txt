@@ -347,7 +347,9 @@ https://boards.greenhouse.io/exo
 https://boards.greenhouse.io/expansion
 https://boards.greenhouse.io/expel                [--> https://expel.com/about/careers/]
 https://boards.greenhouse.io/explo
+https://boards.greenhouse.io/exploratory          [--> https://job-boards.greenhouse.io/exploratory]
 https://boards.greenhouse.io/extend
+https://boards.greenhouse.io/extra
 https://boards.greenhouse.io/ezra                 [--> https://ezra.world/career/]
 https://boards.greenhouse.io/fabfitfun
 https://boards.greenhouse.io/faction              [--> https://www.factioninc.com/company/careers/job-opportunities/]
