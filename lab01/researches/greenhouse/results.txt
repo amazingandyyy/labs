@@ -415,6 +415,7 @@ https://boards.greenhouse.io/fresco
 https://boards.greenhouse.io/freshbooks
 https://boards.greenhouse.io/frieda
 https://boards.greenhouse.io/frisco               [--> https://www.friscoeye.net/careers]
+https://boards.greenhouse.io/fruition
 https://boards.greenhouse.io/fundbox              [--> https://fundbox.com/careers/]
 https://boards.greenhouse.io/future
 https://boards.greenhouse.io/gainful
