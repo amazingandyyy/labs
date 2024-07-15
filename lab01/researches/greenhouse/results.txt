@@ -439,7 +439,9 @@ https://boards.greenhouse.io/getshogun            [--> https://getshogun.com/car
 https://boards.greenhouse.io/getyourguide         [--> https://getyourguide.careers]
 https://boards.greenhouse.io/ghost                [--> https://www.ghst.io/careers]
 https://boards.greenhouse.io/gigs                 [--> https://gigs.com/careers]
+https://boards.greenhouse.io/gitai
 https://boards.greenhouse.io/gitlab
+https://boards.greenhouse.io/glance
 https://boards.greenhouse.io/glean
 https://boards.greenhouse.io/glia                 [--> https://www.glia.com/jobs/]
 https://boards.greenhouse.io/glide
