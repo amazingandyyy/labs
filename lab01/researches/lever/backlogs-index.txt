@@ -7,3 +7,4 @@ top_female_names_usa.txt
 top_male_names_usa.txt
 usernames_partac.txt
 english_partaw.txt
+english_partan.txt
