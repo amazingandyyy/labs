@@ -449,9 +449,11 @@ https://boards.greenhouse.io/glossgenius
 https://boards.greenhouse.io/glossier             [--> https://glossier.com/#!/careers]
 https://boards.greenhouse.io/glovo                [--> https://jobs.glovoapp.com/]
 https://boards.greenhouse.io/glow                 [--> https://psl.com/careers]
+https://boards.greenhouse.io/goal                 [--> https://www.goalglobal.org/careers]
 https://boards.greenhouse.io/gocardless
 https://boards.greenhouse.io/godaddy              [--> https://careers.godaddy/jobs/search]
 https://boards.greenhouse.io/goldbelly
+https://boards.greenhouse.io/golf
 https://boards.greenhouse.io/gostudent            [--> https://www.gostudent.org/en-gb/all-jobs/]
 https://boards.greenhouse.io/grammarly
 https://boards.greenhouse.io/graphcore
