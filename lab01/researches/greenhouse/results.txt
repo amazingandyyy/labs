@@ -734,6 +734,7 @@ https://boards.greenhouse.io/pleo                 [--> https://pleo.io/en/career
 https://boards.greenhouse.io/pliancy
 https://boards.greenhouse.io/pluckers             [--> https://www.pluckers.com/employment/employment-landing-managers-greenhouse]
 https://boards.greenhouse.io/plume                [--> https://www.plume.com/career-opportunities/]
+https://boards.greenhouse.io/poetic
 https://boards.greenhouse.io/polly
 https://boards.greenhouse.io/pomelo
 https://boards.greenhouse.io/postman
