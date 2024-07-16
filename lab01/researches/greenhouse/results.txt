@@ -729,6 +729,7 @@ https://boards.greenhouse.io/placedapp            [--> https://job-boards.greenh
 https://boards.greenhouse.io/plane
 https://boards.greenhouse.io/play
 https://boards.greenhouse.io/play                 [--> https://job-boards.greenhouse.io/play]
+https://boards.greenhouse.io/plenty               [--> https://www.plenty.ag/jobs/]
 https://boards.greenhouse.io/pleo                 [--> https://pleo.io/en/careers]
 https://boards.greenhouse.io/plume                [--> https://www.plume.com/career-opportunities/]
 https://boards.greenhouse.io/polly
