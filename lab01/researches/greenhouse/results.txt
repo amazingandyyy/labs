@@ -744,6 +744,7 @@ https://boards.greenhouse.io/portrait             [--> https://portraitcare.com/
 https://boards.greenhouse.io/post
 https://boards.greenhouse.io/postman
 https://boards.greenhouse.io/postscript
+https://boards.greenhouse.io/potato               [--> https://p.ota.to/careers/]
 https://boards.greenhouse.io/practicefusion       [--> https://www.practicefusion.com/careers/jobs/]
 https://boards.greenhouse.io/praetorian           [--> https://www.praetorian.com/careers/]
 https://boards.greenhouse.io/prefect
