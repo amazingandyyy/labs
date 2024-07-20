@@ -884,6 +884,7 @@ https://boards.greenhouse.io/saltsecurity         [--> https://salt.security/job
 https://boards.greenhouse.io/samsara              [--> https://www.samsara.com/company/careers/roles]
 https://boards.greenhouse.io/scaleai
 https://boards.greenhouse.io/schillings           [--> https://job-boards.greenhouse.io/schillings]
+https://boards.greenhouse.io/scholarship
 https://boards.greenhouse.io/schoolmint
 https://boards.greenhouse.io/scribe               [--> https://scribehow.com/careers]
 https://boards.greenhouse.io/scuba
