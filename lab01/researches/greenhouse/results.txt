@@ -912,6 +912,7 @@ https://boards.greenhouse.io/send
 https://boards.greenhouse.io/sendbird             [--> https://sendbird.com/careers]
 https://boards.greenhouse.io/sendlane
 https://boards.greenhouse.io/sennder              [--> http://www.sennder.com/open-positions]
+https://boards.greenhouse.io/sensei
 https://boards.greenhouse.io/sentilink
 https://boards.greenhouse.io/sentry
 https://boards.greenhouse.io/seymour
