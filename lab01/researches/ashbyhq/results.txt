@@ -397,6 +397,9 @@ https://jobs.ashbyhq.com/shellbark
 https://jobs.ashbyhq.com/shepherd
 https://jobs.ashbyhq.com/shogun
 https://jobs.ashbyhq.com/shuttle
+https://jobs.ashbyhq.com/sidebar
+https://jobs.ashbyhq.com/siena
+https://jobs.ashbyhq.com/sierra
 https://jobs.ashbyhq.com/sift
 https://jobs.ashbyhq.com/siftscience
 https://jobs.ashbyhq.com/signalfire
