@@ -915,6 +915,7 @@ https://boards.greenhouse.io/sennder              [--> http://www.sennder.com/op
 https://boards.greenhouse.io/sensei
 https://boards.greenhouse.io/sentilink
 https://boards.greenhouse.io/sentry
+https://boards.greenhouse.io/seres                [--> https://www.driveseres.com/career/]
 https://boards.greenhouse.io/seymour
 https://boards.greenhouse.io/sfox
 https://boards.greenhouse.io/shapeways
