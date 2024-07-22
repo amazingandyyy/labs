@@ -924,6 +924,7 @@ https://boards.greenhouse.io/sfox
 https://boards.greenhouse.io/shadow               [--> https://weareshadow.com/careers]
 https://boards.greenhouse.io/shaker
 https://boards.greenhouse.io/shapeways
+https://boards.greenhouse.io/shawnee              [--> https://www.shawneeanimalhospital.com/about/careers]
 https://boards.greenhouse.io/shelf                [--> https://shelf.io/careers/?openings]
 https://boards.greenhouse.io/shopmonkey           [--> https://www.shopmonkey.io/careers]
 https://boards.greenhouse.io/showpad
