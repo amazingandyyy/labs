@@ -933,6 +933,7 @@ https://boards.greenhouse.io/showpad
 https://boards.greenhouse.io/si
 https://boards.greenhouse.io/sigmoid
 https://boards.greenhouse.io/signpost
+https://boards.greenhouse.io/silicon
 https://boards.greenhouse.io/siloai               [--> https://www.silo.ai/careers/open-positions]
 https://boards.greenhouse.io/singlestore
 https://boards.greenhouse.io/sirum
