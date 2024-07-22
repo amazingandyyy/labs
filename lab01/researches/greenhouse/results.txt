@@ -935,6 +935,7 @@ https://boards.greenhouse.io/sigmoid
 https://boards.greenhouse.io/signpost
 https://boards.greenhouse.io/silicon
 https://boards.greenhouse.io/siloai               [--> https://www.silo.ai/careers/open-positions]
+https://boards.greenhouse.io/simple
 https://boards.greenhouse.io/singlestore
 https://boards.greenhouse.io/sirum
 https://boards.greenhouse.io/sisense              [--> https://www.sisense.com/careers/]
