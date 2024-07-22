@@ -927,6 +927,7 @@ https://boards.greenhouse.io/shapeways
 https://boards.greenhouse.io/shawnee              [--> https://www.shawneeanimalhospital.com/about/careers]
 https://boards.greenhouse.io/shearwater           [--> https://job-boards.greenhouse.io/shearwater]
 https://boards.greenhouse.io/shelf                [--> https://shelf.io/careers/?openings]
+https://boards.greenhouse.io/shield               [--> https://corvo792.github.io/ghdemoboard2/]
 https://boards.greenhouse.io/shopmonkey           [--> https://www.shopmonkey.io/careers]
 https://boards.greenhouse.io/showpad
 https://boards.greenhouse.io/siloai               [--> https://www.silo.ai/careers/open-positions]
