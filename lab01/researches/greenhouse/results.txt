@@ -931,6 +931,7 @@ https://boards.greenhouse.io/shield               [--> https://corvo792.github.i
 https://boards.greenhouse.io/shopmonkey           [--> https://www.shopmonkey.io/careers]
 https://boards.greenhouse.io/showpad
 https://boards.greenhouse.io/si
+https://boards.greenhouse.io/sigmoid
 https://boards.greenhouse.io/siloai               [--> https://www.silo.ai/careers/open-positions]
 https://boards.greenhouse.io/singlestore
 https://boards.greenhouse.io/sirum
