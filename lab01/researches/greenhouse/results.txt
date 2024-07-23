@@ -947,6 +947,7 @@ https://boards.greenhouse.io/skydio               [--> https://www.skydio.com/ca
 https://boards.greenhouse.io/skysafe
 https://boards.greenhouse.io/slayer
 https://boards.greenhouse.io/slice                [--> https://slice.careers/]
+https://boards.greenhouse.io/slingstone           [--> http://www.slingstone.com/join-the-team]
 https://boards.greenhouse.io/slintel
 https://boards.greenhouse.io/smartasset
 https://boards.greenhouse.io/smartsheet
