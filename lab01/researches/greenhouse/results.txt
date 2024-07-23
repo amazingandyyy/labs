@@ -958,6 +958,7 @@ https://boards.greenhouse.io/snappy               [--> http://www.snappy.com/bus
 https://boards.greenhouse.io/snorkelai
 https://boards.greenhouse.io/snyk
 https://boards.greenhouse.io/soci                 [--> https://www.meetsoci.com/about/careers/]
+https://boards.greenhouse.io/socket
 https://boards.greenhouse.io/sofi                 [--> https://sofi.com/careers/job]
 https://boards.greenhouse.io/solana
 https://boards.greenhouse.io/solarisbank
