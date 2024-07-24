@@ -170,6 +170,7 @@ https://jobs.lever.co/slate
 https://jobs.lever.co/sleuth
 https://jobs.lever.co/snowplow
 https://jobs.lever.co/soum
+https://jobs.lever.co/source
 https://jobs.lever.co/springboard
 https://jobs.lever.co/starkbank
 https://jobs.lever.co/strongcompute
