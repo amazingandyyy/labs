@@ -977,6 +977,7 @@ https://boards.greenhouse.io/speechify
 https://boards.greenhouse.io/spinlaunch
 https://boards.greenhouse.io/spins                [--> https://www.spins.com/work-at-spins/]
 https://boards.greenhouse.io/spire                [--> https://spire.com/careers/job-openings/]
+https://boards.greenhouse.io/spiro
 https://boards.greenhouse.io/splash               [--> https://splashthat.com/careers#open-positions]
 https://boards.greenhouse.io/sprig
 https://boards.greenhouse.io/squad                [--> https://squad.ua/en/careers]
