@@ -676,6 +676,7 @@ https://boards.greenhouse.io/mason                [--> https://job-boards.greenh
 https://boards.greenhouse.io/massive              [--> https://joinmassive.com/jobs]
 https://boards.greenhouse.io/mast                 [--> https://job-boards.greenhouse.io/mast]
 https://boards.greenhouse.io/masterclass
+https://boards.greenhouse.io/materialize          [--> https://job-boards.greenhouse.io/materialize]
 https://boards.greenhouse.io/matik
 https://boards.greenhouse.io/maven
 https://boards.greenhouse.io/mediaalpha
