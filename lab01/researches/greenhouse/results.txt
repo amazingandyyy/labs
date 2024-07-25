@@ -597,6 +597,7 @@ https://boards.greenhouse.io/laurel               [--> https://www.laurel.ai/car
 https://boards.greenhouse.io/lavender             [--> https://job-boards.greenhouse.io/lavender]
 https://boards.greenhouse.io/lavenderai           [--> https://job-boards.greenhouse.io/lavenderai]
 https://boards.greenhouse.io/layer                [--> https://layer.ai/careers]
+https://boards.greenhouse.io/lead                 [--> https://job-boards.greenhouse.io/lead]
 https://boards.greenhouse.io/leaflink
 https://boards.greenhouse.io/leap
 https://boards.greenhouse.io/ledgy
