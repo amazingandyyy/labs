@@ -651,8 +651,11 @@ https://boards.greenhouse.io/lush                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/luster               [--> https://job-boards.greenhouse.io/luster]
 https://boards.greenhouse.io/lyft                 [--> https://www.lyft.com/careers]
 https://boards.greenhouse.io/m1finance
+https://boards.greenhouse.io/maestro              [--> https://job-boards.greenhouse.io/maestro]
 https://boards.greenhouse.io/magic
+https://boards.greenhouse.io/magic                [--> https://job-boards.greenhouse.io/magic]
 https://boards.greenhouse.io/magna
+https://boards.greenhouse.io/magna                [--> https://job-boards.greenhouse.io/magna]
 https://boards.greenhouse.io/maintainx
 https://boards.greenhouse.io/manatee
 https://boards.greenhouse.io/manychat             [--> https://boards.greenhouse.io/embed/job_board?for=manychat&b=https%3a%2f%2fcareers.manychat.com%2fus]
