@@ -617,9 +617,16 @@ https://boards.greenhouse.io/lightricks           [--> https://careers.lightrick
 https://boards.greenhouse.io/lightship
 https://boards.greenhouse.io/lightship            [--> https://job-boards.greenhouse.io/lightship]
 https://boards.greenhouse.io/lilyai               [--> https://www.lily.ai/company/careers/]
+https://boards.greenhouse.io/liminal              [--> https://www.liminalsciences.com/careers]
+https://boards.greenhouse.io/liminalai            [--> https://job-boards.greenhouse.io/liminalai]
 https://boards.greenhouse.io/lincoln
+https://boards.greenhouse.io/lincoln              [--> https://job-boards.greenhouse.io/lincoln]
+https://boards.greenhouse.io/lineate              [--> https://job-boards.greenhouse.io/lineate]
+https://boards.greenhouse.io/lineup
 https://boards.greenhouse.io/link
+https://boards.greenhouse.io/link                 [--> https://job-boards.greenhouse.io/link]
 https://boards.greenhouse.io/linqia               [--> http://www.linqia.com/about/careers/]
+https://boards.greenhouse.io/lions                [--> https://job-boards.greenhouse.io/lions]
 https://boards.greenhouse.io/lob                  [--> https://www.lob.com/careers]
 https://boards.greenhouse.io/localyze
 https://boards.greenhouse.io/loft                 [--> https://loft.sh/company/careers]
