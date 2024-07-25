@@ -605,6 +605,9 @@ https://boards.greenhouse.io/legalist             [--> https://www.legalist.com/
 https://boards.greenhouse.io/legion               [--> https://job-boards.greenhouse.io/legion]
 https://boards.greenhouse.io/letsgetchecked
 https://boards.greenhouse.io/level
+https://boards.greenhouse.io/level                [--> https://job-boards.greenhouse.io/level]
+https://boards.greenhouse.io/leverage             [--> https://job-boards.greenhouse.io/leverage]
+https://boards.greenhouse.io/libretto             [--> https://job-boards.greenhouse.io/libretto]
 https://boards.greenhouse.io/life360
 https://boards.greenhouse.io/lift
 https://boards.greenhouse.io/lightricks           [--> https://careers.lightricks.com]
