@@ -954,8 +954,11 @@ https://boards.greenhouse.io/released
 https://boards.greenhouse.io/remarkably           [--> https://www.remarkably.io/careers]
 https://boards.greenhouse.io/remoracarbon
 https://boards.greenhouse.io/remote
+https://boards.greenhouse.io/remote               [--> https://job-boards.greenhouse.io/remote]
 https://boards.greenhouse.io/renaissance
+https://boards.greenhouse.io/renaissance          [--> https://job-boards.greenhouse.io/renaissance]
 https://boards.greenhouse.io/render
+https://boards.greenhouse.io/render               [--> https://job-boards.greenhouse.io/render]
 https://boards.greenhouse.io/reprise              [--> https://getreprise.com/careers/]
 https://boards.greenhouse.io/researcher
 https://boards.greenhouse.io/researchers
