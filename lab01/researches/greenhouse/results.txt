@@ -1029,6 +1029,7 @@ https://boards.greenhouse.io/scholarship
 https://boards.greenhouse.io/schonfeld            [--> https://job-boards.greenhouse.io/schonfeld]
 https://boards.greenhouse.io/schoolmint
 https://boards.greenhouse.io/science
+https://boards.greenhouse.io/science              [--> https://job-boards.greenhouse.io/science]
 https://boards.greenhouse.io/scm
 https://boards.greenhouse.io/scratch
 https://boards.greenhouse.io/scribe               [--> https://scribehow.com/careers]
