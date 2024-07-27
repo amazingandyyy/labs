@@ -1074,9 +1074,11 @@ https://boards.greenhouse.io/settle               [--> https://job-boards.greenh
 https://boards.greenhouse.io/seurat
 https://boards.greenhouse.io/seurat               [--> https://job-boards.greenhouse.io/seurat]
 https://boards.greenhouse.io/seymour
+https://boards.greenhouse.io/seymour              [--> https://job-boards.greenhouse.io/seymour]
 https://boards.greenhouse.io/sfox
 https://boards.greenhouse.io/shadow               [--> https://weareshadow.com/careers]
 https://boards.greenhouse.io/shaker
+https://boards.greenhouse.io/shaker               [--> https://job-boards.greenhouse.io/shaker]
 https://boards.greenhouse.io/shapeways
 https://boards.greenhouse.io/shawnee              [--> https://www.shawneeanimalhospital.com/about/careers]
 https://boards.greenhouse.io/shearwater           [--> https://job-boards.greenhouse.io/shearwater]
