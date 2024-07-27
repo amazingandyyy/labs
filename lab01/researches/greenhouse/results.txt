@@ -1060,6 +1060,7 @@ https://boards.greenhouse.io/select               [--> https://job-boards.greenh
 https://boards.greenhouse.io/selling              [--> https://job-boards.greenhouse.io/selling]
 https://boards.greenhouse.io/semgrep
 https://boards.greenhouse.io/send
+https://boards.greenhouse.io/send                 [--> https://job-boards.greenhouse.io/send]
 https://boards.greenhouse.io/sendbird             [--> https://sendbird.com/careers]
 https://boards.greenhouse.io/sendlane
 https://boards.greenhouse.io/sennder              [--> http://www.sennder.com/open-positions]
