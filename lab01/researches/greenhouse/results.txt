@@ -1044,10 +1044,13 @@ https://boards.greenhouse.io/seamount             [--> https://job-boards.greenh
 https://boards.greenhouse.io/searchdiscovery
 https://boards.greenhouse.io/seatgeek             [--> https://seatgeek.com/jobs]
 https://boards.greenhouse.io/secret
+https://boards.greenhouse.io/secret               [--> https://job-boards.greenhouse.io/secret]
 https://boards.greenhouse.io/secure
+https://boards.greenhouse.io/secure               [--> https://job-boards.greenhouse.io/secure]
 https://boards.greenhouse.io/securitycompass
 https://boards.greenhouse.io/securityscorecard    [--> https://securityscorecard.com/company/careers/]
 https://boards.greenhouse.io/seed
+https://boards.greenhouse.io/seed                 [--> https://job-boards.greenhouse.io/seed]
 https://boards.greenhouse.io/seer                 [--> https://seer.bio/careers/]
 https://boards.greenhouse.io/seesaw
 https://boards.greenhouse.io/segmed
