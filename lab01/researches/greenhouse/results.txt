@@ -987,7 +987,9 @@ https://boards.greenhouse.io/rinsed
 https://boards.greenhouse.io/riotgames            [--> https://www.riotgames.com/en/work-with-us/welcome]
 https://boards.greenhouse.io/ripcord
 https://boards.greenhouse.io/ripple               [--> https://ripple.com/careers/all-jobs/]
+https://boards.greenhouse.io/risk                 [--> https://job-boards.greenhouse.io/risk]
 https://boards.greenhouse.io/ritual
+https://boards.greenhouse.io/ritual               [--> https://job-boards.greenhouse.io/ritual]
 https://boards.greenhouse.io/robinai              [--> https://www.robinai.com/open-positions]
 https://boards.greenhouse.io/robinhood            [--> https://careers.robinhood.com/]
 https://boards.greenhouse.io/rockbot              [--> https://rockbot.com/careers]
