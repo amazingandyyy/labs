@@ -1024,7 +1024,9 @@ https://boards.greenhouse.io/sawhorse             [--> http://sawhorsemedia.com/
 https://boards.greenhouse.io/scaleai
 https://boards.greenhouse.io/scaleai              [--> https://job-boards.greenhouse.io/scaleai]
 https://boards.greenhouse.io/schillings           [--> https://job-boards.greenhouse.io/schillings]
+https://boards.greenhouse.io/schoen               [--> https://job-boards.greenhouse.io/schoen]
 https://boards.greenhouse.io/scholarship
+https://boards.greenhouse.io/schonfeld            [--> https://job-boards.greenhouse.io/schonfeld]
 https://boards.greenhouse.io/schoolmint
 https://boards.greenhouse.io/science
 https://boards.greenhouse.io/scm
