@@ -993,8 +993,10 @@ https://boards.greenhouse.io/ritual               [--> https://job-boards.greenh
 https://boards.greenhouse.io/robinai              [--> https://www.robinai.com/open-positions]
 https://boards.greenhouse.io/robinhood            [--> https://careers.robinhood.com/]
 https://boards.greenhouse.io/rockbot              [--> https://rockbot.com/careers]
+https://boards.greenhouse.io/roller               [--> https://job-boards.greenhouse.io/roller]
 https://boards.greenhouse.io/roofr
 https://boards.greenhouse.io/root                 [--> https://job-boards.greenhouse.io/root]
+https://boards.greenhouse.io/rooted               [--> https://job-boards.greenhouse.io/rooted]
 https://boards.greenhouse.io/rootly
 https://boards.greenhouse.io/rubrik               [--> https://www.rubrik.com/company/careers]
 https://boards.greenhouse.io/safebase
