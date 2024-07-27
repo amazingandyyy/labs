@@ -1032,12 +1032,15 @@ https://boards.greenhouse.io/science
 https://boards.greenhouse.io/science              [--> https://job-boards.greenhouse.io/science]
 https://boards.greenhouse.io/scm
 https://boards.greenhouse.io/scratch
+https://boards.greenhouse.io/scratch              [--> https://job-boards.greenhouse.io/scratch]
 https://boards.greenhouse.io/scribe               [--> https://scribehow.com/careers]
 https://boards.greenhouse.io/scuba
 https://boards.greenhouse.io/sealed
+https://boards.greenhouse.io/sealed               [--> https://job-boards.greenhouse.io/sealed]
 https://boards.greenhouse.io/seam
 https://boards.greenhouse.io/seamlessai
 https://boards.greenhouse.io/seamount
+https://boards.greenhouse.io/seamount             [--> https://job-boards.greenhouse.io/seamount]
 https://boards.greenhouse.io/searchdiscovery
 https://boards.greenhouse.io/seatgeek             [--> https://seatgeek.com/jobs]
 https://boards.greenhouse.io/secret
