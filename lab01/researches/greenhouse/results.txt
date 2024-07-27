@@ -1070,7 +1070,9 @@ https://boards.greenhouse.io/sentry
 https://boards.greenhouse.io/seres                [--> https://www.driveseres.com/career/]
 https://boards.greenhouse.io/setpoint
 https://boards.greenhouse.io/settle
+https://boards.greenhouse.io/settle               [--> https://job-boards.greenhouse.io/settle]
 https://boards.greenhouse.io/seurat
+https://boards.greenhouse.io/seurat               [--> https://job-boards.greenhouse.io/seurat]
 https://boards.greenhouse.io/seymour
 https://boards.greenhouse.io/sfox
 https://boards.greenhouse.io/shadow               [--> https://weareshadow.com/careers]
