@@ -1181,6 +1181,7 @@ https://boards.greenhouse.io/stoke                [--> https://job-boards.greenh
 https://boards.greenhouse.io/stone                [--> https://job-boards.greenhouse.io/stone]
 https://boards.greenhouse.io/strava
 https://boards.greenhouse.io/stream
+https://boards.greenhouse.io/strike               [--> https://strike.me/careers]
 https://boards.greenhouse.io/stripe               [--> https://stripe.com/jobs/search]
 https://boards.greenhouse.io/submittable
 https://boards.greenhouse.io/substack
