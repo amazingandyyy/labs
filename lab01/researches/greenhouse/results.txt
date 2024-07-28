@@ -1202,8 +1202,10 @@ https://boards.greenhouse.io/supernal             [--> https://job-boards.greenh
 https://boards.greenhouse.io/supernova            [--> http://www.supernova.xyz/join.html]
 https://boards.greenhouse.io/support              [--> https://job-boards.greenhouse.io/support]
 https://boards.greenhouse.io/survata
+https://boards.greenhouse.io/swan                 [--> https://job-boards.greenhouse.io/swan]
 https://boards.greenhouse.io/swayable             [--> https://job-boards.greenhouse.io/swayable]
 https://boards.greenhouse.io/sweepio
+https://boards.greenhouse.io/sweet
 https://boards.greenhouse.io/sweetgreen           [--> https://careers.sweetgreen.com/]
 https://boards.greenhouse.io/sweetlabs
 https://boards.greenhouse.io/symphony             [--> https://symphony.com/company/careers]
