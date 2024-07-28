@@ -1134,9 +1134,13 @@ https://boards.greenhouse.io/spacex               [--> http://www.spacex.com/car
 https://boards.greenhouse.io/spade
 https://boards.greenhouse.io/spade                [--> https://job-boards.greenhouse.io/spade]
 https://boards.greenhouse.io/sparrow
+https://boards.greenhouse.io/sparrow              [--> https://job-boards.greenhouse.io/sparrow]
 https://boards.greenhouse.io/spec
+https://boards.greenhouse.io/spec                 [--> https://job-boards.greenhouse.io/spec]
 https://boards.greenhouse.io/spectral
+https://boards.greenhouse.io/spectral             [--> https://job-boards.greenhouse.io/spectral]
 https://boards.greenhouse.io/spectrumai
+https://boards.greenhouse.io/spectrumai           [--> https://job-boards.greenhouse.io/spectrumai]
 https://boards.greenhouse.io/speechify
 https://boards.greenhouse.io/spinlaunch
 https://boards.greenhouse.io/spins                [--> https://www.spins.com/work-at-spins/]
