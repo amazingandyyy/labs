@@ -1129,8 +1129,10 @@ https://boards.greenhouse.io/solita               [--> https://www.solita.fi/pos
 https://boards.greenhouse.io/sonic                [--> https://www.sonic.com/careers]
 https://boards.greenhouse.io/sonicwall
 https://boards.greenhouse.io/spaceship
+https://boards.greenhouse.io/spaceship            [--> https://job-boards.greenhouse.io/spaceship]
 https://boards.greenhouse.io/spacex               [--> http://www.spacex.com/careers]
 https://boards.greenhouse.io/spade
+https://boards.greenhouse.io/spade                [--> https://job-boards.greenhouse.io/spade]
 https://boards.greenhouse.io/sparrow
 https://boards.greenhouse.io/spec
 https://boards.greenhouse.io/spectral
