@@ -1125,6 +1125,7 @@ https://boards.greenhouse.io/solana               [--> https://job-boards.greenh
 https://boards.greenhouse.io/solarisbank
 https://boards.greenhouse.io/solarwinds           [--> https://jobs.solarwinds.com/jobs/]
 https://boards.greenhouse.io/solera
+https://boards.greenhouse.io/solita               [--> https://www.solita.fi/positions/]
 https://boards.greenhouse.io/sonic                [--> https://www.sonic.com/careers]
 https://boards.greenhouse.io/sonicwall
 https://boards.greenhouse.io/spaceship
