@@ -1153,8 +1153,11 @@ https://boards.greenhouse.io/splice               [--> https://job-boards.greenh
 https://boards.greenhouse.io/spliced
 https://boards.greenhouse.io/split
 https://boards.greenhouse.io/spotai
+https://boards.greenhouse.io/spotai               [--> https://job-boards.greenhouse.io/spotai]
 https://boards.greenhouse.io/spotter
+https://boards.greenhouse.io/spotter              [--> https://job-boards.greenhouse.io/spotter]
 https://boards.greenhouse.io/sprig
+https://boards.greenhouse.io/sprig                [--> https://job-boards.greenhouse.io/sprig]
 https://boards.greenhouse.io/springtide
 https://boards.greenhouse.io/squad                [--> https://squad.ua/en/careers]
 https://boards.greenhouse.io/squarespace          [--> http://www.squarespace.com/about/careers]
