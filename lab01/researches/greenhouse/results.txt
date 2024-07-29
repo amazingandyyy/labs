@@ -357,6 +357,7 @@ https://boards.greenhouse.io/extras               [--> https://job-boards.greenh
 https://boards.greenhouse.io/ezra                 [--> https://ezra.world/career/]
 https://boards.greenhouse.io/fabfitfun
 https://boards.greenhouse.io/facile
+https://boards.greenhouse.io/facile               [--> https://job-boards.greenhouse.io/facile]
 https://boards.greenhouse.io/faction              [--> https://www.factioninc.com/company/careers/job-opportunities/]
 https://boards.greenhouse.io/faire                [--> https://www.faire.com/careers/openings]
 https://boards.greenhouse.io/falconx
