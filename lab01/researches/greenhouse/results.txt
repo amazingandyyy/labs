@@ -380,8 +380,11 @@ https://boards.greenhouse.io/fictiv
 https://boards.greenhouse.io/fieldwire            [--> https://www.fieldwire.com/jobs/]
 https://boards.greenhouse.io/figma
 https://boards.greenhouse.io/figment
+https://boards.greenhouse.io/figment              [--> https://job-boards.greenhouse.io/figment]
 https://boards.greenhouse.io/figure
+https://boards.greenhouse.io/figure               [--> https://job-boards.greenhouse.io/figure]
 https://boards.greenhouse.io/figureai
+https://boards.greenhouse.io/figureai             [--> https://job-boards.greenhouse.io/figureai]
 https://boards.greenhouse.io/find
 https://boards.greenhouse.io/finder               [--> https://www.finder.com.au/careers]
 https://boards.greenhouse.io/fingerprint          [--> https://fingerprint.com/careers/jobs/]
