@@ -359,6 +359,7 @@ https://boards.greenhouse.io/fabfitfun
 https://boards.greenhouse.io/facile
 https://boards.greenhouse.io/facile               [--> https://job-boards.greenhouse.io/facile]
 https://boards.greenhouse.io/faction              [--> https://www.factioninc.com/company/careers/job-opportunities/]
+https://boards.greenhouse.io/faire                [--> https://job-boards.greenhouse.io/faire]
 https://boards.greenhouse.io/faire                [--> https://www.faire.com/careers/openings]
 https://boards.greenhouse.io/falconx
 https://boards.greenhouse.io/fastly               [--> https://www.fastly.com/about/careers/current-openings]
