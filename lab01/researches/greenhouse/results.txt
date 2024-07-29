@@ -372,6 +372,7 @@ https://boards.greenhouse.io/fazz
 https://boards.greenhouse.io/fearless             [--> http://fearless.tech/careers]
 https://boards.greenhouse.io/feedzai              [--> https://careers.feedzai.com/all-jobs]
 https://boards.greenhouse.io/fellow
+https://boards.greenhouse.io/fellow               [--> https://job-boards.greenhouse.io/fellow]
 https://boards.greenhouse.io/fender               [--> https://www.fender.com/pages/careers]
 https://boards.greenhouse.io/festival             [--> https://www.festivalvet.com/about/careers]
 https://boards.greenhouse.io/fictiv
