@@ -255,6 +255,9 @@ https://jobs.lever.co/starkbank
 https://jobs.lever.co/stem
 https://jobs.lever.co/stockpile
 https://jobs.lever.co/strongcompute
+https://jobs.lever.co/stronghold
+https://jobs.lever.co/stuart
+https://jobs.lever.co/styles               [--> /styles/]
 https://jobs.lever.co/superside
 https://jobs.lever.co/talkable
 https://jobs.lever.co/teleport
