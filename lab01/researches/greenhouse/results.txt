@@ -419,6 +419,7 @@ https://boards.greenhouse.io/forerunner
 https://boards.greenhouse.io/forerunner           [--> https://job-boards.greenhouse.io/forerunner]
 https://boards.greenhouse.io/forethought
 https://boards.greenhouse.io/forge
+https://boards.greenhouse.io/forge                [--> https://job-boards.greenhouse.io/forge]
 https://boards.greenhouse.io/formic
 https://boards.greenhouse.io/formlabs             [--> https://careers.formlabs.com/]
 https://boards.greenhouse.io/forta                [--> https://job-boards.greenhouse.io/forta]
