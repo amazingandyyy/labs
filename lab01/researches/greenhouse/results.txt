@@ -410,6 +410,7 @@ https://boards.greenhouse.io/flipapp              [--> https://www.getflip.com/d
 https://boards.greenhouse.io/flipboard            [--> https://about.flipboard.com/careers/]
 https://boards.greenhouse.io/flix                 [--> https://flix.careers/]
 https://boards.greenhouse.io/flourish
+https://boards.greenhouse.io/flourish             [--> https://job-boards.greenhouse.io/flourish]
 https://boards.greenhouse.io/flutterflow
 https://boards.greenhouse.io/flyr
 https://boards.greenhouse.io/forbes
