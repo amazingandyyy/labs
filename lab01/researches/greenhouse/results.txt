@@ -427,6 +427,7 @@ https://boards.greenhouse.io/forta                [--> https://job-boards.greenh
 https://boards.greenhouse.io/forte
 https://boards.greenhouse.io/forter
 https://boards.greenhouse.io/fortune
+https://boards.greenhouse.io/fortune              [--> https://job-boards.greenhouse.io/fortune]
 https://boards.greenhouse.io/forward              [--> https://getfwd.com/careers]
 https://boards.greenhouse.io/found
 https://boards.greenhouse.io/foundation
