@@ -115,6 +115,7 @@ https://boards.greenhouse.io/ascend               [--> https://job-boards.greenh
 https://boards.greenhouse.io/ascendancy           [--> https://job-boards.greenhouse.io/ascendancy]
 https://boards.greenhouse.io/ascertain            [--> https://job-boards.greenhouse.io/ascertain]
 https://boards.greenhouse.io/aspire
+https://boards.greenhouse.io/aspire               [--> https://job-boards.greenhouse.io/aspire]
 https://boards.greenhouse.io/assembled
 https://boards.greenhouse.io/assemblyai
 https://boards.greenhouse.io/astranis
