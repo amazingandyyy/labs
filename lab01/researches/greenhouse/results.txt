@@ -98,6 +98,7 @@ https://boards.greenhouse.io/archer               [--> https://www.archerveterin
 https://boards.greenhouse.io/archetypeai          [--> https://job-boards.greenhouse.io/archetypeai]
 https://boards.greenhouse.io/archrival            [--> https://opportunities.archrival.com/program/22/archrival-careers]
 https://boards.greenhouse.io/arenaai
+https://boards.greenhouse.io/argent               [--> https://job-boards.greenhouse.io/argent]
 https://boards.greenhouse.io/ariel
 https://boards.greenhouse.io/ark                  [--> https://www.arkvh.com/about/careers]
 https://boards.greenhouse.io/arkoselabs
