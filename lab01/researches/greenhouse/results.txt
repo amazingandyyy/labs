@@ -111,6 +111,9 @@ https://boards.greenhouse.io/articulate
 https://boards.greenhouse.io/artsy                [--> https://job-boards.greenhouse.io/artsy]
 https://boards.greenhouse.io/as                   [--> https://veradigm.com/careers/]
 https://boards.greenhouse.io/asana                [--> http://www.asana.com/jobs]
+https://boards.greenhouse.io/ascend               [--> https://job-boards.greenhouse.io/ascend]
+https://boards.greenhouse.io/ascendancy           [--> https://job-boards.greenhouse.io/ascendancy]
+https://boards.greenhouse.io/ascertain            [--> https://job-boards.greenhouse.io/ascertain]
 https://boards.greenhouse.io/aspire
 https://boards.greenhouse.io/assembled
 https://boards.greenhouse.io/assemblyai
