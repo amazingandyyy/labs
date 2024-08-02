@@ -155,6 +155,7 @@ https://boards.greenhouse.io/aztec                [--> https://job-boards.greenh
 https://boards.greenhouse.io/babylist
 https://boards.greenhouse.io/babylon
 https://boards.greenhouse.io/backlight            [--> https://job-boards.greenhouse.io/backlight]
+https://boards.greenhouse.io/backstage            [--> https://www.backstage.com/careers/]
 https://boards.greenhouse.io/bandcamp
 https://boards.greenhouse.io/banza                [--> https://www.eatbanza.com/pages/careers]
 https://boards.greenhouse.io/baubap
