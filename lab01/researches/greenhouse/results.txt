@@ -130,6 +130,7 @@ https://boards.greenhouse.io/atlas                [--> https://atlas.health/comp
 https://boards.greenhouse.io/atomai
 https://boards.greenhouse.io/atomwise             [--> https://www.atomwise.com/positions]
 https://boards.greenhouse.io/attain
+https://boards.greenhouse.io/attain               [--> https://job-boards.greenhouse.io/attain]
 https://boards.greenhouse.io/aura                 [--> https://auraframes.com/careers]
 https://boards.greenhouse.io/autograph
 https://boards.greenhouse.io/aviatrix             [--> https://aviatrix.com/careers/]
