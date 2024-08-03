@@ -180,6 +180,7 @@ https://boards.greenhouse.io/bees                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/beewise              [--> https://www.beewise.ag/careers]
 https://boards.greenhouse.io/bella
 https://boards.greenhouse.io/belton               [--> https://www.beltonanimal.com/about/careers]
+https://boards.greenhouse.io/bench                [--> https://bench.co/careers/]
 https://boards.greenhouse.io/benchling            [--> https://www.benchling.com/careers]
 https://boards.greenhouse.io/benepass
 https://boards.greenhouse.io/bennie               [--> https://job-boards.greenhouse.io/bennie]
