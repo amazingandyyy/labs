@@ -174,6 +174,7 @@ https://boards.greenhouse.io/beam
 https://boards.greenhouse.io/beam                 [--> https://job-boards.greenhouse.io/beam]
 https://boards.greenhouse.io/beamer               [--> https://www.getbeamer.com/jobs]
 https://boards.greenhouse.io/bearingpoint         [--> https://bearingpointcareers.ie/]
+https://boards.greenhouse.io/beautifulai
 https://boards.greenhouse.io/benchling            [--> https://www.benchling.com/careers]
 https://boards.greenhouse.io/benepass
 https://boards.greenhouse.io/bennie               [--> https://job-boards.greenhouse.io/bennie]
