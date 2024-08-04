@@ -341,6 +341,7 @@ https://jobs.ashbyhq.com/natter
 https://jobs.ashbyhq.com/navattic
 https://jobs.ashbyhq.com/need
 https://jobs.ashbyhq.com/neon
+https://jobs.ashbyhq.com/netease
 https://jobs.ashbyhq.com/nextdoor
 https://jobs.ashbyhq.com/niantic
 https://jobs.ashbyhq.com/notion
@@ -503,6 +504,7 @@ https://jobs.ashbyhq.com/slab
 https://jobs.ashbyhq.com/sleeper
 https://jobs.ashbyhq.com/slingshotai
 https://jobs.ashbyhq.com/slope
+https://jobs.ashbyhq.com/smallstep
 https://jobs.ashbyhq.com/smuts-team
 https://jobs.ashbyhq.com/snackpass
 https://jobs.ashbyhq.com/snyk
@@ -549,6 +551,7 @@ https://jobs.ashbyhq.com/tennr
 https://jobs.ashbyhq.com/thera
 https://jobs.ashbyhq.com/tigereye
 https://jobs.ashbyhq.com/tilt
+https://jobs.ashbyhq.com/timescale
 https://jobs.ashbyhq.com/titan-app
 https://jobs.ashbyhq.com/tonal
 https://jobs.ashbyhq.com/tonicai
