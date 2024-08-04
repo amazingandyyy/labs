@@ -968,6 +968,7 @@ https://boards.greenhouse.io/pearce               [--> https://pearcelawncare.co
 https://boards.greenhouse.io/pelago
 https://boards.greenhouse.io/peloton              [--> https://careers.onepeloton.com/en/all-jobs/]
 https://boards.greenhouse.io/pendo
+https://boards.greenhouse.io/peppermint           [--> https://job-boards.greenhouse.io/peppermint]
 https://boards.greenhouse.io/peptilogics
 https://boards.greenhouse.io/permutive
 https://boards.greenhouse.io/phantomai
