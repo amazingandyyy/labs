@@ -87,6 +87,7 @@ https://jobs.lever.co/erg
 https://jobs.lever.co/expressable
 https://jobs.lever.co/extern
 https://jobs.lever.co/fabric
+https://jobs.lever.co/fabricgenomics
 https://jobs.lever.co/factor
 https://jobs.lever.co/factored
 https://jobs.lever.co/falcon
@@ -124,6 +125,7 @@ https://jobs.lever.co/gauntlet
 https://jobs.lever.co/gearbox
 https://jobs.lever.co/generation
 https://jobs.lever.co/genesis
+https://jobs.lever.co/getaround
 https://jobs.lever.co/getcollaborative
 https://jobs.lever.co/getfable
 https://jobs.lever.co/getgo
@@ -131,8 +133,14 @@ https://jobs.lever.co/getmaple
 https://jobs.lever.co/getmidas
 https://jobs.lever.co/getpoint
 https://jobs.lever.co/getsquire
+https://jobs.lever.co/gigster
 https://jobs.lever.co/glide
+https://jobs.lever.co/gobrightside
+https://jobs.lever.co/goforward
+https://jobs.lever.co/goodeggs
+https://jobs.lever.co/goswift
 https://jobs.lever.co/grid
+https://jobs.lever.co/grove
 https://jobs.lever.co/hive
 https://jobs.lever.co/holloway
 https://jobs.lever.co/hologram
