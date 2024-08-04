@@ -100,6 +100,7 @@ https://jobs.ashbyhq.com/convictional
 https://jobs.ashbyhq.com/coperniq
 https://jobs.ashbyhq.com/copilot
 https://jobs.ashbyhq.com/craze
+https://jobs.ashbyhq.com/crunchbase
 https://jobs.ashbyhq.com/dashworks
 https://jobs.ashbyhq.com/datafold
 https://jobs.ashbyhq.com/dave
@@ -107,6 +108,7 @@ https://jobs.ashbyhq.com/decagon
 https://jobs.ashbyhq.com/decagonai
 https://jobs.ashbyhq.com/deel
 https://jobs.ashbyhq.com/deepgram
+https://jobs.ashbyhq.com/deepnote
 https://jobs.ashbyhq.com/deepsource
 https://jobs.ashbyhq.com/distill
 https://jobs.ashbyhq.com/docker
