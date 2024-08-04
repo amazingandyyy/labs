@@ -335,7 +335,10 @@ https://jobs.lever.co/slang
 https://jobs.lever.co/slangai
 https://jobs.lever.co/slate
 https://jobs.lever.co/sleuth
+https://jobs.lever.co/snaplogic
+https://jobs.lever.co/snappr
 https://jobs.lever.co/snowplow
+https://jobs.lever.co/solvhealth
 https://jobs.lever.co/soum
 https://jobs.lever.co/source
 https://jobs.lever.co/spectral
@@ -343,6 +346,7 @@ https://jobs.lever.co/spectrum
 https://jobs.lever.co/spiceai
 https://jobs.lever.co/spinai
 https://jobs.lever.co/sporty
+https://jobs.lever.co/spotify
 https://jobs.lever.co/springboard
 https://jobs.lever.co/spyglass
 https://jobs.lever.co/stable
@@ -357,7 +361,9 @@ https://jobs.lever.co/super
 https://jobs.lever.co/superside
 https://jobs.lever.co/sure
 https://jobs.lever.co/swoopapp
+https://jobs.lever.co/sysdig
 https://jobs.lever.co/talkable
+https://jobs.lever.co/tecton
 https://jobs.lever.co/teleport
 https://jobs.lever.co/termius
 https://jobs.lever.co/tesorio
