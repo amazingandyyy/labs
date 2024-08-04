@@ -52,7 +52,9 @@ https://jobs.lever.co/clicktime
 https://jobs.lever.co/cloaked-app
 https://jobs.lever.co/clubhouse
 https://jobs.lever.co/codecombat
+https://jobs.lever.co/coderpad
 https://jobs.lever.co/cofactr
+https://jobs.lever.co/coffeemeetsbagel
 https://jobs.lever.co/cohere
 https://jobs.lever.co/coiled
 https://jobs.lever.co/coins
@@ -60,10 +62,15 @@ https://jobs.lever.co/color
 https://jobs.lever.co/combo
 https://jobs.lever.co/comply
 https://jobs.lever.co/composer
+https://jobs.lever.co/concordnow
 https://jobs.lever.co/concurrency
 https://jobs.lever.co/curri
+https://jobs.lever.co/cybcube
+https://jobs.lever.co/delphix
+https://jobs.lever.co/distru
 https://jobs.lever.co/doola
 https://jobs.lever.co/dott
+https://jobs.lever.co/dronedeploy
 https://jobs.lever.co/dru-app
 https://jobs.lever.co/duffel
 https://jobs.lever.co/dutch
@@ -73,6 +80,7 @@ https://jobs.lever.co/educative
 https://jobs.lever.co/eligible
 https://jobs.lever.co/emergence
 https://jobs.lever.co/end
+https://jobs.lever.co/endpointclinical
 https://jobs.lever.co/engine
 https://jobs.lever.co/enso
 https://jobs.lever.co/erg
