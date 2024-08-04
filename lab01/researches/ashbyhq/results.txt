@@ -160,6 +160,7 @@ https://jobs.ashbyhq.com/fintool
 https://jobs.ashbyhq.com/firewall
 https://jobs.ashbyhq.com/firstbase
 https://jobs.ashbyhq.com/firsthand
+https://jobs.ashbyhq.com/firstround
 https://jobs.ashbyhq.com/fitt
 https://jobs.ashbyhq.com/fledge
 https://jobs.ashbyhq.com/floor
@@ -202,6 +203,9 @@ https://jobs.ashbyhq.com/gooddata
 https://jobs.ashbyhq.com/gorgias
 https://jobs.ashbyhq.com/govdash
 https://jobs.ashbyhq.com/gradient
+https://jobs.ashbyhq.com/grandrounds
+https://jobs.ashbyhq.com/graphite
+https://jobs.ashbyhq.com/greenfieldlabs
 https://jobs.ashbyhq.com/greenlight
 https://jobs.ashbyhq.com/harvey
 https://jobs.ashbyhq.com/healthsherpa
