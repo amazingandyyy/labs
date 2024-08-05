@@ -984,6 +984,7 @@ https://boards.greenhouse.io/phaser               [--> https://job-boards.greenh
 https://boards.greenhouse.io/phrase               [--> https://phrase.com/careers/jobs/]
 https://boards.greenhouse.io/physna               [--> https://physna.com/careers/]
 https://boards.greenhouse.io/pia                  [--> https://job-boards.greenhouse.io/pia]
+https://boards.greenhouse.io/picnic               [--> https://job-boards.greenhouse.io/picnic]
 https://boards.greenhouse.io/picnichealth         [--> https://picnichealth.com/company/careers]
 https://boards.greenhouse.io/picsart              [--> https://picsart.com/jobs/]
 https://boards.greenhouse.io/pika
