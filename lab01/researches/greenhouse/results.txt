@@ -988,6 +988,7 @@ https://boards.greenhouse.io/picnic               [--> https://job-boards.greenh
 https://boards.greenhouse.io/picnichealth         [--> https://picnichealth.com/company/careers]
 https://boards.greenhouse.io/picsart              [--> https://picsart.com/jobs/]
 https://boards.greenhouse.io/pika
+https://boards.greenhouse.io/pika                 [--> https://job-boards.greenhouse.io/pika]
 https://boards.greenhouse.io/pillar
 https://boards.greenhouse.io/pilot
 https://boards.greenhouse.io/pineparkhealth
