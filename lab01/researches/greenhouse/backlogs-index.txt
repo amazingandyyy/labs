@@ -21,3 +21,4 @@ english_partak.txt
 english_partab.txt
 english_partac.txt
 english_partav.txt
+english_partao.txt
