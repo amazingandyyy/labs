@@ -661,6 +661,7 @@ https://boards.greenhouse.io/industrious          [--> https://job-boards.greenh
 https://boards.greenhouse.io/inflammatix          [--> https://inflammatix.com/careers]
 https://boards.greenhouse.io/inflect              [--> https://job-boards.greenhouse.io/inflect]
 https://boards.greenhouse.io/inflectionai         [--> https://inflection.ai/careers]
+https://boards.greenhouse.io/influential          [--> https://job-boards.greenhouse.io/influential]
 https://boards.greenhouse.io/ingenio              [--> https://www.ingenio.com/careers]
 https://boards.greenhouse.io/inmobi
 https://boards.greenhouse.io/innovaccer
