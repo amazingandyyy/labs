@@ -49,6 +49,7 @@ https://jobs.lever.co/caremessage
 https://jobs.lever.co/cartography
 https://jobs.lever.co/catch
 https://jobs.lever.co/causal-app
+https://jobs.lever.co/centrifuge
 https://jobs.lever.co/choose
 https://jobs.lever.co/circlemedical
 https://jobs.lever.co/clarifyhealth
@@ -133,6 +134,7 @@ https://jobs.lever.co/generation
 https://jobs.lever.co/genesis
 https://jobs.lever.co/getaround
 https://jobs.lever.co/getcake
+https://jobs.lever.co/getcenter
 https://jobs.lever.co/getcollaborative
 https://jobs.lever.co/getfable
 https://jobs.lever.co/getgo
