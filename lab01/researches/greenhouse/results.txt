@@ -680,6 +680,12 @@ https://boards.greenhouse.io/instead
 https://boards.greenhouse.io/instead              [--> https://job-boards.greenhouse.io/instead]
 https://boards.greenhouse.io/instructors          [--> https://job-boards.greenhouse.io/instructors]
 https://boards.greenhouse.io/instrumental
+https://boards.greenhouse.io/insurance            [--> https://job-boards.greenhouse.io/insurance]
+https://boards.greenhouse.io/integrate            [--> https://www.integrate.com/company/careers]
+https://boards.greenhouse.io/integrateai          [--> https://www.integrate.ai/careers#job-board]
+https://boards.greenhouse.io/integrated           [--> https://job-boards.greenhouse.io/integrated]
+https://boards.greenhouse.io/integrations         [--> https://job-boards.greenhouse.io/integrations]
+https://boards.greenhouse.io/integrity
 https://boards.greenhouse.io/intellimize          [--> https://www.intellimize.com/careers]
 https://boards.greenhouse.io/intercom
 https://boards.greenhouse.io/intrinsic
