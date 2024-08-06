@@ -662,7 +662,9 @@ https://boards.greenhouse.io/inflammatix          [--> https://inflammatix.com/c
 https://boards.greenhouse.io/inflect              [--> https://job-boards.greenhouse.io/inflect]
 https://boards.greenhouse.io/inflectionai         [--> https://inflection.ai/careers]
 https://boards.greenhouse.io/influential          [--> https://job-boards.greenhouse.io/influential]
+https://boards.greenhouse.io/infuse               [--> https://job-boards.greenhouse.io/infuse]
 https://boards.greenhouse.io/ingenio              [--> https://www.ingenio.com/careers]
+https://boards.greenhouse.io/ingenious            [--> https://job-boards.greenhouse.io/ingenious]
 https://boards.greenhouse.io/inmobi
 https://boards.greenhouse.io/innovaccer
 https://boards.greenhouse.io/insightec            [--> https://insightec.com/careers/]
