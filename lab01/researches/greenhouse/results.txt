@@ -677,6 +677,9 @@ https://boards.greenhouse.io/instabase            [--> https://instabase.com/car
 https://boards.greenhouse.io/instacart            [--> https://instacart.careers/current-openings/]
 https://boards.greenhouse.io/instawork
 https://boards.greenhouse.io/instead
+https://boards.greenhouse.io/instead              [--> https://job-boards.greenhouse.io/instead]
+https://boards.greenhouse.io/instructors          [--> https://job-boards.greenhouse.io/instructors]
+https://boards.greenhouse.io/instrumental
 https://boards.greenhouse.io/intellimize          [--> https://www.intellimize.com/careers]
 https://boards.greenhouse.io/intercom
 https://boards.greenhouse.io/intrinsic
