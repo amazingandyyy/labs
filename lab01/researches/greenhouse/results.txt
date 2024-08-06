@@ -667,6 +667,7 @@ https://boards.greenhouse.io/ingenio              [--> https://www.ingenio.com/c
 https://boards.greenhouse.io/ingenious            [--> https://job-boards.greenhouse.io/ingenious]
 https://boards.greenhouse.io/inmobi
 https://boards.greenhouse.io/innovaccer
+https://boards.greenhouse.io/insider              [--> https://www.insider-inc.com/jobs]
 https://boards.greenhouse.io/insightec            [--> https://insightec.com/careers/]
 https://boards.greenhouse.io/insightly
 https://boards.greenhouse.io/insitro
