@@ -687,6 +687,7 @@ https://boards.greenhouse.io/integrated           [--> https://job-boards.greenh
 https://boards.greenhouse.io/integrations         [--> https://job-boards.greenhouse.io/integrations]
 https://boards.greenhouse.io/integrity
 https://boards.greenhouse.io/intellimize          [--> https://www.intellimize.com/careers]
+https://boards.greenhouse.io/inter                [--> https://carreiras.inter.co/carreiras/]
 https://boards.greenhouse.io/intercom
 https://boards.greenhouse.io/intrinsic
 https://boards.greenhouse.io/invoca               [--> https://www.invoca.com/company/careers/#job_listing]
