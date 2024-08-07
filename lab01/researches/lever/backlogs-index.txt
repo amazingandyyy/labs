@@ -19,3 +19,4 @@ english_partav.txt
 aaaa_new_list.txt
 backlog.txt
 english_partae.txt
+english_partal.txt
