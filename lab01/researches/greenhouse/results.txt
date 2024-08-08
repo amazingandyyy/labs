@@ -389,6 +389,7 @@ https://boards.greenhouse.io/eiger
 https://boards.greenhouse.io/elastic              [--> https://jobs.elastic.co/all-openings]
 https://boards.greenhouse.io/electricai           [--> https://www.electric.ai/company/job-openings]
 https://boards.greenhouse.io/elite
+https://boards.greenhouse.io/elite                [--> https://job-boards.greenhouse.io/elite]
 https://boards.greenhouse.io/elixirr              [--> https://www.elixirr.com/job-openings/]
 https://boards.greenhouse.io/ellevest
 https://boards.greenhouse.io/embody
