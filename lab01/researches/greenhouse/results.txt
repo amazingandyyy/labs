@@ -710,6 +710,7 @@ https://boards.greenhouse.io/its                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/ivalua               [--> https://www.ivalua.com/company/careers/]
 https://boards.greenhouse.io/ivee
 https://boards.greenhouse.io/jackpot              [--> https://www.jackpot.com/careers]
+https://boards.greenhouse.io/jamaica              [--> https://itelinternational.com/careers/careers-jamaica/]
 https://boards.greenhouse.io/jasper
 https://boards.greenhouse.io/jefferson
 https://boards.greenhouse.io/jetty
