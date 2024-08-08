@@ -709,6 +709,7 @@ https://boards.greenhouse.io/iterable             [--> https://iterable.com/care
 https://boards.greenhouse.io/its                  [--> https://job-boards.greenhouse.io/its]
 https://boards.greenhouse.io/ivalua               [--> https://www.ivalua.com/company/careers/]
 https://boards.greenhouse.io/ivee
+https://boards.greenhouse.io/jackpot              [--> https://www.jackpot.com/careers]
 https://boards.greenhouse.io/jasper
 https://boards.greenhouse.io/jefferson
 https://boards.greenhouse.io/jetty
