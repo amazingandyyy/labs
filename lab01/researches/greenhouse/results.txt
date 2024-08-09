@@ -405,6 +405,7 @@ https://boards.greenhouse.io/ensemble
 https://boards.greenhouse.io/ensemble             [--> https://job-boards.greenhouse.io/ensemble]
 https://boards.greenhouse.io/ensembleai
 https://boards.greenhouse.io/ensembleai           [--> https://job-boards.greenhouse.io/ensembleai]
+https://boards.greenhouse.io/entera
 https://boards.greenhouse.io/enveritas
 https://boards.greenhouse.io/envoy
 https://boards.greenhouse.io/eon
