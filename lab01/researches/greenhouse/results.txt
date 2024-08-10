@@ -1376,6 +1376,7 @@ https://boards.greenhouse.io/stardust             [--> https://www.stardust.gg/a
 https://boards.greenhouse.io/statement            [--> https://job-boards.greenhouse.io/statement]
 https://boards.greenhouse.io/stealth              [--> https://job-boards.greenhouse.io/stealth]
 https://boards.greenhouse.io/stellar
+https://boards.greenhouse.io/stellar              [--> https://job-boards.greenhouse.io/stellar]
 https://boards.greenhouse.io/sterling             [--> https://www.sterlingbrands.com/careers]
 https://boards.greenhouse.io/stitch
 https://boards.greenhouse.io/stitch               [--> https://job-boards.greenhouse.io/stitch]
