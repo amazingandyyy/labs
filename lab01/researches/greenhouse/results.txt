@@ -440,6 +440,7 @@ https://boards.greenhouse.io/example
 https://boards.greenhouse.io/existent
 https://boards.greenhouse.io/exo
 https://boards.greenhouse.io/expansion
+https://boards.greenhouse.io/expansion            [--> https://job-boards.greenhouse.io/expansion]
 https://boards.greenhouse.io/expel                [--> https://expel.com/about/careers/]
 https://boards.greenhouse.io/experts              [--> https://job-boards.greenhouse.io/experts]
 https://boards.greenhouse.io/explo
