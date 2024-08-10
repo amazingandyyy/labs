@@ -426,7 +426,9 @@ https://boards.greenhouse.io/essential            [--> https://job-boards.greenh
 https://boards.greenhouse.io/etchedai             [--> https://job-boards.greenhouse.io/etchedai]
 https://boards.greenhouse.io/eucalyptus
 https://boards.greenhouse.io/eucalyptus           [--> https://job-boards.greenhouse.io/eucalyptus]
+https://boards.greenhouse.io/events               [--> https://job-boards.greenhouse.io/events]
 https://boards.greenhouse.io/ever
+https://boards.greenhouse.io/ever                 [--> https://job-boards.greenhouse.io/ever]
 https://boards.greenhouse.io/evercharge           [--> https://evercharge.com/job]
 https://boards.greenhouse.io/everest              [--> https://job-boards.greenhouse.io/everest]
 https://boards.greenhouse.io/evergreen            [--> https://ever.green/about]
