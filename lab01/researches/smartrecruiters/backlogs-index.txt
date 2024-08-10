@@ -20,3 +20,4 @@ aaaa_new_list.txt
 backlog.txt
 english_partae.txt
 english_partao.txt
+english_partaj.txt
