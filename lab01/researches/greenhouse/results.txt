@@ -325,7 +325,9 @@ https://boards.greenhouse.io/crunchyroll          [--> https://www.crunchyroll.c
 https://boards.greenhouse.io/cuyana               [--> https://www.cuyana.com/pages/careers]
 https://boards.greenhouse.io/cybereason           [--> http://jobs.cybereason.com/]
 https://boards.greenhouse.io/dagger
+https://boards.greenhouse.io/dagger               [--> https://job-boards.greenhouse.io/dagger]
 https://boards.greenhouse.io/dailypay             [--> https://www.dailypay.com/jobs/]
+https://boards.greenhouse.io/dais                 [--> https://job-boards.greenhouse.io/dais]
 https://boards.greenhouse.io/dallas
 https://boards.greenhouse.io/danielle
 https://boards.greenhouse.io/dante                [--> https://job-boards.greenhouse.io/dante]
