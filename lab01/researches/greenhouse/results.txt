@@ -339,6 +339,7 @@ https://boards.greenhouse.io/dataiku
 https://boards.greenhouse.io/david
 https://boards.greenhouse.io/david                [--> https://job-boards.greenhouse.io/david]
 https://boards.greenhouse.io/dawson               [--> https://job-boards.greenhouse.io/dawson]
+https://boards.greenhouse.io/decisions            [--> https://decisions.com/jobs-listing/]
 https://boards.greenhouse.io/degreed
 https://boards.greenhouse.io/delphia
 https://boards.greenhouse.io/density              [--> https://www.density.io/careers]
