@@ -319,6 +319,7 @@ https://jobs.lever.co/pip
 https://jobs.lever.co/pivotal
 https://jobs.lever.co/plaid
 https://jobs.lever.co/planned
+https://jobs.lever.co/playco
 https://jobs.lever.co/plexus
 https://jobs.lever.co/plum
 https://jobs.lever.co/plume
@@ -331,6 +332,7 @@ https://jobs.lever.co/prismic
 https://jobs.lever.co/qualified
 https://jobs.lever.co/quantcast
 https://jobs.lever.co/quartzy
+https://jobs.lever.co/quince
 https://jobs.lever.co/quokka
 https://jobs.lever.co/radix
 https://jobs.lever.co/rain
@@ -351,12 +353,15 @@ https://jobs.lever.co/renegade
 https://jobs.lever.co/replate
 https://jobs.lever.co/replicant
 https://jobs.lever.co/reply
+https://jobs.lever.co/researchgate
 https://jobs.lever.co/respondent
+https://jobs.lever.co/restaurant365
 https://jobs.lever.co/retro
 https://jobs.lever.co/review
 https://jobs.lever.co/rigetti
 https://jobs.lever.co/ritual
 https://jobs.lever.co/ro
+https://jobs.lever.co/rockset
 https://jobs.lever.co/roo
 https://jobs.lever.co/roofstock
 https://jobs.lever.co/round
@@ -385,6 +390,7 @@ https://jobs.lever.co/sewerai
 https://jobs.lever.co/shadow
 https://jobs.lever.co/shasqi
 https://jobs.lever.co/sheertex
+https://jobs.lever.co/shef
 https://jobs.lever.co/shieldai
 https://jobs.lever.co/shippo
 https://jobs.lever.co/signal
@@ -396,6 +402,7 @@ https://jobs.lever.co/slang
 https://jobs.lever.co/slangai
 https://jobs.lever.co/slate
 https://jobs.lever.co/sleuth
+https://jobs.lever.co/smartcar
 https://jobs.lever.co/snaplogic
 https://jobs.lever.co/snappr
 https://jobs.lever.co/snowplow
@@ -415,20 +422,29 @@ https://jobs.lever.co/starkbank
 https://jobs.lever.co/stem
 https://jobs.lever.co/stockpile
 https://jobs.lever.co/strongcompute
+https://jobs.lever.co/strongdm
 https://jobs.lever.co/stronghold
 https://jobs.lever.co/stuart
 https://jobs.lever.co/styles               [--> /styles/]
+https://jobs.lever.co/summersalt
 https://jobs.lever.co/super
+https://jobs.lever.co/supermove
 https://jobs.lever.co/superside
 https://jobs.lever.co/sure
 https://jobs.lever.co/swoopapp
+https://jobs.lever.co/synthego
 https://jobs.lever.co/sysdig
+https://jobs.lever.co/tachyus
+https://jobs.lever.co/tackle
+https://jobs.lever.co/tala
 https://jobs.lever.co/talkable
 https://jobs.lever.co/tecton
 https://jobs.lever.co/teleport
+https://jobs.lever.co/teller
 https://jobs.lever.co/terminus
 https://jobs.lever.co/termius
 https://jobs.lever.co/tesorio
+https://jobs.lever.co/tessian
 https://jobs.lever.co/theathletic
 https://jobs.lever.co/thunkable
 https://jobs.lever.co/tonic
