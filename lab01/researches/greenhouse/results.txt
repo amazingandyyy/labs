@@ -342,6 +342,7 @@ https://boards.greenhouse.io/dawson               [--> https://job-boards.greenh
 https://boards.greenhouse.io/decisions            [--> https://decisions.com/jobs-listing/]
 https://boards.greenhouse.io/degreed
 https://boards.greenhouse.io/degreed              [--> https://job-boards.greenhouse.io/degreed]
+https://boards.greenhouse.io/dei                  [--> https://job-boards.greenhouse.io/dei]
 https://boards.greenhouse.io/delphia
 https://boards.greenhouse.io/density              [--> https://www.density.io/careers]
 https://boards.greenhouse.io/denver               [--> https://www.ahcd.vet/about/careers]
