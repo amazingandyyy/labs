@@ -221,12 +221,15 @@ https://jobs.lever.co/jeff-app
 https://jobs.lever.co/juniperplatform
 https://jobs.lever.co/kabam
 https://jobs.lever.co/kapwing
+https://jobs.lever.co/kiddom
+https://jobs.lever.co/kinsa
 https://jobs.lever.co/kivaai
 https://jobs.lever.co/kodex
 https://jobs.lever.co/kodiak
 https://jobs.lever.co/kong
 https://jobs.lever.co/kraken
 https://jobs.lever.co/krypton
+https://jobs.lever.co/kumo
 https://jobs.lever.co/kyte
 https://jobs.lever.co/leadspace
 https://jobs.lever.co/ledger
@@ -286,7 +289,9 @@ https://jobs.lever.co/ockam
 https://jobs.lever.co/octaneai
 https://jobs.lever.co/odaseva
 https://jobs.lever.co/oomnitza
+https://jobs.lever.co/ophelia
 https://jobs.lever.co/orbillion
+https://jobs.lever.co/orum
 https://jobs.lever.co/osaro
 https://jobs.lever.co/osmind
 https://jobs.lever.co/ouster
@@ -294,7 +299,9 @@ https://jobs.lever.co/outreach
 https://jobs.lever.co/pachama
 https://jobs.lever.co/palantir
 https://jobs.lever.co/pathrise
+https://jobs.lever.co/patsnap
 https://jobs.lever.co/pattern
+https://jobs.lever.co/payfit
 https://jobs.lever.co/paymongo
 https://jobs.lever.co/peachfinance
 https://jobs.lever.co/peerspace
