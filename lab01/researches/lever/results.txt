@@ -86,10 +86,13 @@ https://jobs.lever.co/conduktor
 https://jobs.lever.co/culdesac
 https://jobs.lever.co/curri
 https://jobs.lever.co/cybcube
+https://jobs.lever.co/deepcell
 https://jobs.lever.co/delphix
 https://jobs.lever.co/distru
+https://jobs.lever.co/donut
 https://jobs.lever.co/doola
 https://jobs.lever.co/dott
+https://jobs.lever.co/doxel
 https://jobs.lever.co/dronedeploy
 https://jobs.lever.co/dru-app
 https://jobs.lever.co/duffel
@@ -104,6 +107,7 @@ https://jobs.lever.co/end
 https://jobs.lever.co/endpointclinical
 https://jobs.lever.co/engine
 https://jobs.lever.co/enso
+https://jobs.lever.co/epifi
 https://jobs.lever.co/erg
 https://jobs.lever.co/expressable
 https://jobs.lever.co/extern
@@ -120,6 +124,7 @@ https://jobs.lever.co/fi
 https://jobs.lever.co/fightcamp
 https://jobs.lever.co/finch
 https://jobs.lever.co/find
+https://jobs.lever.co/finix
 https://jobs.lever.co/finn
 https://jobs.lever.co/fintual
 https://jobs.lever.co/firsthand
@@ -137,14 +142,17 @@ https://jobs.lever.co/fp
 https://jobs.lever.co/fractional
 https://jobs.lever.co/framework
 https://jobs.lever.co/franklinai
+https://jobs.lever.co/frubana
 https://jobs.lever.co/fuse
 https://jobs.lever.co/galatea
+https://jobs.lever.co/gametime
 https://jobs.lever.co/gamma
 https://jobs.lever.co/gantry
 https://jobs.lever.co/gather
 https://jobs.lever.co/gauntlet
 https://jobs.lever.co/gearbox
 https://jobs.lever.co/gearset
+https://jobs.lever.co/genedit
 https://jobs.lever.co/generation
 https://jobs.lever.co/genesis
 https://jobs.lever.co/georgian
@@ -168,7 +176,11 @@ https://jobs.lever.co/goodeggs
 https://jobs.lever.co/goswift
 https://jobs.lever.co/grid
 https://jobs.lever.co/grove
+https://jobs.lever.co/h1
+https://jobs.lever.co/hadrian
+https://jobs.lever.co/hermeus
 https://jobs.lever.co/hevodata
+https://jobs.lever.co/hipcamp
 https://jobs.lever.co/hive
 https://jobs.lever.co/holloway
 https://jobs.lever.co/hologram
@@ -181,6 +193,7 @@ https://jobs.lever.co/houzz
 https://jobs.lever.co/hubla
 https://jobs.lever.co/huma
 https://jobs.lever.co/hush
+https://jobs.lever.co/hyperscience
 https://jobs.lever.co/igloo
 https://jobs.lever.co/iheartjane
 https://jobs.lever.co/illumination
@@ -194,6 +207,7 @@ https://jobs.lever.co/indivisible
 https://jobs.lever.co/inflexion
 https://jobs.lever.co/inflow
 https://jobs.lever.co/initialized
+https://jobs.lever.co/inkitt
 https://jobs.lever.co/instrument
 https://jobs.lever.co/instrumental
 https://jobs.lever.co/instrumentl
