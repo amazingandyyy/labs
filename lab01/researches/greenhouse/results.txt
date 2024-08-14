@@ -348,7 +348,10 @@ https://boards.greenhouse.io/delphia
 https://boards.greenhouse.io/denim                [--> https://www.denim.com/careers]
 https://boards.greenhouse.io/density              [--> https://www.density.io/careers]
 https://boards.greenhouse.io/denver               [--> https://www.ahcd.vet/about/careers]
+https://boards.greenhouse.io/derris               [--> https://derris-git-dev-masthead.vercel.app/careers]
+https://boards.greenhouse.io/des                  [--> https://job-boards.greenhouse.io/des]
 https://boards.greenhouse.io/descript             [--> https://www.descript.com/careers#open-position]
+https://boards.greenhouse.io/descriptions         [--> https://job-boards.greenhouse.io/descriptions]
 https://boards.greenhouse.io/desktopmetal
 https://boards.greenhouse.io/devrev
 https://boards.greenhouse.io/dfinity
