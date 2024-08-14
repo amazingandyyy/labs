@@ -353,6 +353,7 @@ https://boards.greenhouse.io/des                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/descript             [--> https://www.descript.com/careers#open-position]
 https://boards.greenhouse.io/descriptions         [--> https://job-boards.greenhouse.io/descriptions]
 https://boards.greenhouse.io/desktopmetal
+https://boards.greenhouse.io/detect               [--> https://job-boards.greenhouse.io/detect]
 https://boards.greenhouse.io/devrev
 https://boards.greenhouse.io/dfinity
 https://boards.greenhouse.io/dialexa              [--> https://dialexa.com/careers]
