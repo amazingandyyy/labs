@@ -252,6 +252,7 @@ https://boards.greenhouse.io/canvas
 https://boards.greenhouse.io/capacity
 https://boards.greenhouse.io/capitalize           [--> https://www.hicapitalize.com/careers/]
 https://boards.greenhouse.io/capitolis            [--> https://capitolis.com/careers]
+https://boards.greenhouse.io/capstone             [--> https://job-boards.greenhouse.io/capstone]
 https://boards.greenhouse.io/carbon
 https://boards.greenhouse.io/carbonchain
 https://boards.greenhouse.io/carerev
