@@ -257,6 +257,7 @@ https://boards.greenhouse.io/captivation
 https://boards.greenhouse.io/carbon
 https://boards.greenhouse.io/carbon               [--> https://job-boards.greenhouse.io/carbon]
 https://boards.greenhouse.io/carbonchain
+https://boards.greenhouse.io/caregiver            [--> https://www.24hrcares.com/caregiver-careers]
 https://boards.greenhouse.io/carerev
 https://boards.greenhouse.io/caribou
 https://boards.greenhouse.io/carta
