@@ -246,6 +246,7 @@ https://boards.greenhouse.io/candles              [--> https://job-boards.greenh
 https://boards.greenhouse.io/candor
 https://boards.greenhouse.io/candy
 https://boards.greenhouse.io/candy                [--> https://job-boards.greenhouse.io/candy]
+https://boards.greenhouse.io/canonical
 https://boards.greenhouse.io/capitolis            [--> https://capitolis.com/careers]
 https://boards.greenhouse.io/carbon
 https://boards.greenhouse.io/carbonchain
