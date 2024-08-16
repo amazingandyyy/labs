@@ -273,6 +273,7 @@ https://boards.greenhouse.io/cayuse               [--> https://cayuse.com/career
 https://boards.greenhouse.io/cb
 https://boards.greenhouse.io/ce
 https://boards.greenhouse.io/ceca                 [--> https://www.commonwealtheye.com/apply-for-employment/apply-for-employment.html]
+https://boards.greenhouse.io/celestialai          [--> https://job-boards.greenhouse.io/celestialai]
 https://boards.greenhouse.io/celonis
 https://boards.greenhouse.io/censys
 https://boards.greenhouse.io/centivo              [--> https://centivo.com/working-at-centivo/]
