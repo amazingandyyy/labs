@@ -606,9 +606,11 @@ https://boards.greenhouse.io/fpc
 https://boards.greenhouse.io/fpc                  [--> https://job-boards.greenhouse.io/fpc]
 https://boards.greenhouse.io/fr
 https://boards.greenhouse.io/franchise
+https://boards.greenhouse.io/freelancers
 https://boards.greenhouse.io/freenome
 https://boards.greenhouse.io/freestone            [--> https://job-boards.greenhouse.io/freestone]
 https://boards.greenhouse.io/freewill
+https://boards.greenhouse.io/freewill             [--> https://job-boards.greenhouse.io/freewill]
 https://boards.greenhouse.io/french
 https://boards.greenhouse.io/fresco
 https://boards.greenhouse.io/freshbooks
