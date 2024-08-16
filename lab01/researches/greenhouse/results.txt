@@ -603,6 +603,7 @@ https://boards.greenhouse.io/fox                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/fox                  [--> https://www.foxcreekveterinaryhospital.com/careers-wildwood/]
 https://boards.greenhouse.io/foxglove             [--> https://foxglove.dev/careers]
 https://boards.greenhouse.io/fpc
+https://boards.greenhouse.io/fpc                  [--> https://job-boards.greenhouse.io/fpc]
 https://boards.greenhouse.io/fr
 https://boards.greenhouse.io/freenome
 https://boards.greenhouse.io/freestone            [--> https://job-boards.greenhouse.io/freestone]
