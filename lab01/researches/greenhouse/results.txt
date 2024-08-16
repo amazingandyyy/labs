@@ -605,6 +605,7 @@ https://boards.greenhouse.io/foxglove             [--> https://foxglove.dev/care
 https://boards.greenhouse.io/fpc
 https://boards.greenhouse.io/fpc                  [--> https://job-boards.greenhouse.io/fpc]
 https://boards.greenhouse.io/fr
+https://boards.greenhouse.io/franchise
 https://boards.greenhouse.io/freenome
 https://boards.greenhouse.io/freestone            [--> https://job-boards.greenhouse.io/freestone]
 https://boards.greenhouse.io/freewill
