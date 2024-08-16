@@ -269,6 +269,10 @@ https://boards.greenhouse.io/cashmere             [--> https://job-boards.greenh
 https://boards.greenhouse.io/cask                 [--> https://casknx.com/cask-careers/]
 https://boards.greenhouse.io/casper               [--> https://job-boards.greenhouse.io/casper]
 https://boards.greenhouse.io/castor               [--> https://careers.castoredc.com/]
+https://boards.greenhouse.io/cayuse               [--> https://cayuse.com/careers]
+https://boards.greenhouse.io/cb
+https://boards.greenhouse.io/ce
+https://boards.greenhouse.io/ceca                 [--> https://www.commonwealtheye.com/apply-for-employment/apply-for-employment.html]
 https://boards.greenhouse.io/celonis
 https://boards.greenhouse.io/censys
 https://boards.greenhouse.io/centivo              [--> https://centivo.com/working-at-centivo/]
