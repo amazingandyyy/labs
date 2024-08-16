@@ -281,6 +281,7 @@ https://boards.greenhouse.io/cerebral
 https://boards.greenhouse.io/cerebral             [--> https://job-boards.greenhouse.io/cerebral]
 https://boards.greenhouse.io/ceros                [--> https://labs.ceros.com/jobs/#/]
 https://boards.greenhouse.io/cesium               [--> https://job-boards.greenhouse.io/cesium]
+https://boards.greenhouse.io/chai                 [--> https://job-boards.greenhouse.io/chai]
 https://boards.greenhouse.io/chainguard
 https://boards.greenhouse.io/charles              [--> https://job-boards.greenhouse.io/charles]
 https://boards.greenhouse.io/charley
