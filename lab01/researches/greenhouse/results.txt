@@ -612,7 +612,9 @@ https://boards.greenhouse.io/freestone            [--> https://job-boards.greenh
 https://boards.greenhouse.io/freewill
 https://boards.greenhouse.io/freewill             [--> https://job-boards.greenhouse.io/freewill]
 https://boards.greenhouse.io/french
+https://boards.greenhouse.io/frequence            [--> https://job-boards.greenhouse.io/frequence]
 https://boards.greenhouse.io/fresco
+https://boards.greenhouse.io/fresco               [--> https://job-boards.greenhouse.io/fresco]
 https://boards.greenhouse.io/freshbooks
 https://boards.greenhouse.io/frieda
 https://boards.greenhouse.io/frisco               [--> https://www.friscoeye.net/careers]
