@@ -624,6 +624,7 @@ https://boards.greenhouse.io/fulfil
 https://boards.greenhouse.io/fulfillment          [--> https://job-boards.greenhouse.io/fulfillment]
 https://boards.greenhouse.io/fundbox              [--> https://fundbox.com/careers/]
 https://boards.greenhouse.io/future
+https://boards.greenhouse.io/future               [--> https://job-boards.greenhouse.io/future]
 https://boards.greenhouse.io/gaia
 https://boards.greenhouse.io/gainful
 https://boards.greenhouse.io/galileo              [--> https://galileo.io/careers/]
