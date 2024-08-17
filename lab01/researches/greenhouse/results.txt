@@ -619,6 +619,7 @@ https://boards.greenhouse.io/freshbooks
 https://boards.greenhouse.io/frieda
 https://boards.greenhouse.io/frisco               [--> https://www.friscoeye.net/careers]
 https://boards.greenhouse.io/fruition
+https://boards.greenhouse.io/fueled               [--> https://fueled.com/careers]
 https://boards.greenhouse.io/fulfil
 https://boards.greenhouse.io/fulfillment          [--> https://job-boards.greenhouse.io/fulfillment]
 https://boards.greenhouse.io/fundbox              [--> https://fundbox.com/careers/]
