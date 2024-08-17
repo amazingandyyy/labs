@@ -627,6 +627,7 @@ https://boards.greenhouse.io/future
 https://boards.greenhouse.io/future               [--> https://job-boards.greenhouse.io/future]
 https://boards.greenhouse.io/gaia
 https://boards.greenhouse.io/gainful
+https://boards.greenhouse.io/gainful              [--> https://job-boards.greenhouse.io/gainful]
 https://boards.greenhouse.io/galileo              [--> https://galileo.io/careers/]
 https://boards.greenhouse.io/gameto
 https://boards.greenhouse.io/gateway
