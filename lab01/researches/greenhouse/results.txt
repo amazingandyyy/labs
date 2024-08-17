@@ -631,8 +631,11 @@ https://boards.greenhouse.io/gainful              [--> https://job-boards.greenh
 https://boards.greenhouse.io/galileo              [--> https://galileo.io/careers/]
 https://boards.greenhouse.io/gameto
 https://boards.greenhouse.io/gateway
+https://boards.greenhouse.io/gateway              [--> https://job-boards.greenhouse.io/gateway]
 https://boards.greenhouse.io/gather
+https://boards.greenhouse.io/gather               [--> https://job-boards.greenhouse.io/gather]
 https://boards.greenhouse.io/gatherai
+https://boards.greenhouse.io/gatherai             [--> https://job-boards.greenhouse.io/gatherai]
 https://boards.greenhouse.io/gelato
 https://boards.greenhouse.io/gemini               [--> https://gemini.com/careers]
 https://boards.greenhouse.io/general              [--> https://job-boards.greenhouse.io/general]
