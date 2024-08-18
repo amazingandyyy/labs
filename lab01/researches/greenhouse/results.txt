@@ -672,6 +672,7 @@ https://boards.greenhouse.io/gocardless
 https://boards.greenhouse.io/godaddy              [--> https://careers.godaddy/jobs/search]
 https://boards.greenhouse.io/goldbelly
 https://boards.greenhouse.io/golf
+https://boards.greenhouse.io/golf                 [--> https://job-boards.greenhouse.io/golf]
 https://boards.greenhouse.io/goodai
 https://boards.greenhouse.io/goodman              [--> https://ce.goodman.com/about-goodman/careers/job-vacancies]
 https://boards.greenhouse.io/goodwin
