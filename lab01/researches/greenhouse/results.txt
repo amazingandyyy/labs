@@ -684,6 +684,7 @@ https://boards.greenhouse.io/goose
 https://boards.greenhouse.io/gostudent            [--> https://www.gostudent.org/en-gb/all-jobs/]
 https://boards.greenhouse.io/gradientai
 https://boards.greenhouse.io/gradientai           [--> https://job-boards.greenhouse.io/gradientai]
+https://boards.greenhouse.io/graduates            [--> https://job-boards.greenhouse.io/graduates]
 https://boards.greenhouse.io/graft
 https://boards.greenhouse.io/grammarly
 https://boards.greenhouse.io/graphcore
