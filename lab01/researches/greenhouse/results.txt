@@ -664,6 +664,7 @@ https://boards.greenhouse.io/glide
 https://boards.greenhouse.io/glide                [--> https://job-boards.greenhouse.io/glide]
 https://boards.greenhouse.io/glossgenius
 https://boards.greenhouse.io/glossier             [--> https://glossier.com/#!/careers]
+https://boards.greenhouse.io/glossier             [--> https://job-boards.greenhouse.io/glossier]
 https://boards.greenhouse.io/glovo                [--> https://jobs.glovoapp.com/]
 https://boards.greenhouse.io/glow                 [--> https://psl.com/careers]
 https://boards.greenhouse.io/goal                 [--> https://www.goalglobal.org/careers]
