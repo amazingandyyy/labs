@@ -661,6 +661,7 @@ https://boards.greenhouse.io/glance
 https://boards.greenhouse.io/glean
 https://boards.greenhouse.io/glia                 [--> https://www.glia.com/jobs/]
 https://boards.greenhouse.io/glide
+https://boards.greenhouse.io/glide                [--> https://job-boards.greenhouse.io/glide]
 https://boards.greenhouse.io/glossgenius
 https://boards.greenhouse.io/glossier             [--> https://glossier.com/#!/careers]
 https://boards.greenhouse.io/glovo                [--> https://jobs.glovoapp.com/]
