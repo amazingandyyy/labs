@@ -679,6 +679,7 @@ https://boards.greenhouse.io/goodman              [--> https://ce.goodman.com/ab
 https://boards.greenhouse.io/goodwin
 https://boards.greenhouse.io/goodwin              [--> https://job-boards.greenhouse.io/goodwin]
 https://boards.greenhouse.io/goop
+https://boards.greenhouse.io/goop                 [--> https://job-boards.greenhouse.io/goop]
 https://boards.greenhouse.io/goose
 https://boards.greenhouse.io/gostudent            [--> https://www.gostudent.org/en-gb/all-jobs/]
 https://boards.greenhouse.io/gradientai
