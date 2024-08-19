@@ -844,6 +844,7 @@ https://boards.greenhouse.io/karat
 https://boards.greenhouse.io/karl                 [--> https://job-boards.greenhouse.io/karl]
 https://boards.greenhouse.io/kaseya               [--> http://www.kaseya.com/careers/jobs/]
 https://boards.greenhouse.io/katalyst             [--> https://job-boards.greenhouse.io/katalyst]
+https://boards.greenhouse.io/kayak
 https://boards.greenhouse.io/kinetik
 https://boards.greenhouse.io/kiosk
 https://boards.greenhouse.io/kite
