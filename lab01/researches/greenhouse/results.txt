@@ -847,6 +847,7 @@ https://boards.greenhouse.io/katalyst             [--> https://job-boards.greenh
 https://boards.greenhouse.io/kayak
 https://boards.greenhouse.io/kickstart            [--> https://www.tremorinternational.com/kickstart-program/]
 https://boards.greenhouse.io/kilgore              [--> https://job-boards.greenhouse.io/kilgore]
+https://boards.greenhouse.io/kinetic              [--> https://job-boards.greenhouse.io/kinetic]
 https://boards.greenhouse.io/kinetik
 https://boards.greenhouse.io/kiosk
 https://boards.greenhouse.io/kite
