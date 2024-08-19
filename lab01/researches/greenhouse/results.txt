@@ -861,6 +861,7 @@ https://boards.greenhouse.io/knock
 https://boards.greenhouse.io/knock                [--> https://job-boards.greenhouse.io/knock]
 https://boards.greenhouse.io/knoetic
 https://boards.greenhouse.io/known
+https://boards.greenhouse.io/kona                 [--> https://job-boards.greenhouse.io/kona]
 https://boards.greenhouse.io/koodoo
 https://boards.greenhouse.io/korea
 https://boards.greenhouse.io/kry                  [--> https://www.kry.se/careers/jobs]
