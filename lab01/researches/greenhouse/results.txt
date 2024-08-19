@@ -867,6 +867,7 @@ https://boards.greenhouse.io/korea
 https://boards.greenhouse.io/korea                [--> https://job-boards.greenhouse.io/korea]
 https://boards.greenhouse.io/kry                  [--> https://www.kry.se/careers/jobs]
 https://boards.greenhouse.io/kunai
+https://boards.greenhouse.io/kunai                [--> https://job-boards.greenhouse.io/kunai]
 https://boards.greenhouse.io/labelbox
 https://boards.greenhouse.io/lacework             [--> https://www.lacework.com/careers/job-openings]
 https://boards.greenhouse.io/lagrange             [--> https://job-boards.greenhouse.io/lagrange]
