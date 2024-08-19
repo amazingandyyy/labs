@@ -856,6 +856,7 @@ https://boards.greenhouse.io/kiosk
 https://boards.greenhouse.io/kiosk                [--> https://job-boards.greenhouse.io/kiosk]
 https://boards.greenhouse.io/kite
 https://boards.greenhouse.io/klaviyo              [--> http://www.klaviyo.com/careers/search-jobs]
+https://boards.greenhouse.io/knab                 [--> https://job-boards.greenhouse.io/knab]
 https://boards.greenhouse.io/knock
 https://boards.greenhouse.io/knoetic
 https://boards.greenhouse.io/known
