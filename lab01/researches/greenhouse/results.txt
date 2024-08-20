@@ -876,6 +876,7 @@ https://boards.greenhouse.io/lakeland             [--> https://www.lakelandvet.n
 https://boards.greenhouse.io/lalo
 https://boards.greenhouse.io/lambda               [--> https://job-boards.greenhouse.io/lambda]
 https://boards.greenhouse.io/lana
+https://boards.greenhouse.io/lana                 [--> https://job-boards.greenhouse.io/lana]
 https://boards.greenhouse.io/langai
 https://boards.greenhouse.io/latch                [--> https://www.latch.com/pages/job-board]
 https://boards.greenhouse.io/latentai
