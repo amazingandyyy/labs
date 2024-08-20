@@ -881,6 +881,7 @@ https://boards.greenhouse.io/langai
 https://boards.greenhouse.io/latch                [--> https://www.latch.com/pages/job-board]
 https://boards.greenhouse.io/latentai
 https://boards.greenhouse.io/later                [--> https://job-boards.greenhouse.io/later]
+https://boards.greenhouse.io/latitude
 https://boards.greenhouse.io/lattice              [--> https://lattice.com/careers]
 https://boards.greenhouse.io/launchdarkly
 https://boards.greenhouse.io/laurel               [--> https://www.laurel.ai/careers]
