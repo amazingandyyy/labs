@@ -872,6 +872,7 @@ https://boards.greenhouse.io/labelbox
 https://boards.greenhouse.io/lacework             [--> https://www.lacework.com/careers/job-openings]
 https://boards.greenhouse.io/lagrange             [--> https://job-boards.greenhouse.io/lagrange]
 https://boards.greenhouse.io/laika                [--> https://www.laika.com/careers]
+https://boards.greenhouse.io/lakeland             [--> https://www.lakelandvet.net/about/careers]
 https://boards.greenhouse.io/lalo
 https://boards.greenhouse.io/lambda               [--> https://job-boards.greenhouse.io/lambda]
 https://boards.greenhouse.io/lana
