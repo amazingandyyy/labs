@@ -907,6 +907,7 @@ https://boards.greenhouse.io/lightningai          [--> https://job-boards.greenh
 https://boards.greenhouse.io/lightricks           [--> https://careers.lightricks.com]
 https://boards.greenhouse.io/lightship
 https://boards.greenhouse.io/lightship            [--> https://job-boards.greenhouse.io/lightship]
+https://boards.greenhouse.io/lilium               [--> https://lilium.com/careers]
 https://boards.greenhouse.io/lilyai               [--> https://www.lily.ai/company/careers/]
 https://boards.greenhouse.io/liminal              [--> https://www.liminalsciences.com/careers]
 https://boards.greenhouse.io/liminalai            [--> https://job-boards.greenhouse.io/liminalai]
