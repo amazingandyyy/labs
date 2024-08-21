@@ -1127,6 +1127,7 @@ https://boards.greenhouse.io/outsiders
 https://boards.greenhouse.io/overalls             [--> https://job-boards.greenhouse.io/overalls]
 https://boards.greenhouse.io/overdare             [--> https://job-boards.greenhouse.io/overdare]
 https://boards.greenhouse.io/overlandai           [--> https://job-boards.greenhouse.io/overlandai]
+https://boards.greenhouse.io/overstory            [--> https://job-boards.greenhouse.io/overstory]
 https://boards.greenhouse.io/ownbackup            [--> https://www.owndata.com/careers]
 https://boards.greenhouse.io/pacaso
 https://boards.greenhouse.io/pachyderm
