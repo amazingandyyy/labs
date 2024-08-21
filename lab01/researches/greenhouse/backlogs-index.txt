@@ -28,3 +28,4 @@ english_partah.txt
 english_partae.txt
 english_partal.txt
 english_partap.txt
+english_partau.txt
