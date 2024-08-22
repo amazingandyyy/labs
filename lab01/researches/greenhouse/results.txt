@@ -1146,6 +1146,7 @@ https://boards.greenhouse.io/pandion              [--> https://www.pandionpro.co
 https://boards.greenhouse.io/pangaea              [--> https://www.pangaea.holdings/careers]
 https://boards.greenhouse.io/pantheon             [--> https://pantheon.io/careers]
 https://boards.greenhouse.io/papa
+https://boards.greenhouse.io/papa                 [--> https://job-boards.greenhouse.io/papa]
 https://boards.greenhouse.io/papaya
 https://boards.greenhouse.io/paradeai
 https://boards.greenhouse.io/paradigm
