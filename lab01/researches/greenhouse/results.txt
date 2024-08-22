@@ -1143,6 +1143,7 @@ https://boards.greenhouse.io/pallet               [--> https://job-boards.greenh
 https://boards.greenhouse.io/palmetto             [--> https://www.palmettoanimal.com/about/careers]
 https://boards.greenhouse.io/pandadoc
 https://boards.greenhouse.io/pandion              [--> https://www.pandionpro.com/careers]
+https://boards.greenhouse.io/pangaea              [--> https://www.pangaea.holdings/careers]
 https://boards.greenhouse.io/pantheon             [--> https://pantheon.io/careers]
 https://boards.greenhouse.io/papa
 https://boards.greenhouse.io/papaya
