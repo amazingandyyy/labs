@@ -1154,6 +1154,7 @@ https://boards.greenhouse.io/paradeai             [--> https://job-boards.greenh
 https://boards.greenhouse.io/paradigm
 https://boards.greenhouse.io/parallel
 https://boards.greenhouse.io/parallelbio
+https://boards.greenhouse.io/parasail             [--> https://job-boards.greenhouse.io/parasail]
 https://boards.greenhouse.io/parker
 https://boards.greenhouse.io/partnerstack
 https://boards.greenhouse.io/pathai               [--> http://www.pathai.com/careers/]
