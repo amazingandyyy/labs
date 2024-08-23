@@ -742,9 +742,14 @@ https://boards.greenhouse.io/helmai               [--> https://job-boards.greenh
 https://boards.greenhouse.io/help                 [--> https://job-boards.greenhouse.io/help]
 https://boards.greenhouse.io/helpful              [--> https://job-boards.greenhouse.io/helpful]
 https://boards.greenhouse.io/heygen
+https://boards.greenhouse.io/hidden               [--> https://job-boards.greenhouse.io/hidden]
 https://boards.greenhouse.io/higherlogic
+https://boards.greenhouse.io/highland             [--> https://www.highlandanimalhospitalma.com/about/careers]
+https://boards.greenhouse.io/highline             [--> https://job-boards.greenhouse.io/highline]
 https://boards.greenhouse.io/highradius           [--> https://www.highradius.com/about/careers-list/]
 https://boards.greenhouse.io/hightouch
+https://boards.greenhouse.io/hightower            [--> https://job-boards.greenhouse.io/hightower]
+https://boards.greenhouse.io/hillel
 https://boards.greenhouse.io/hiram                [--> https://www.hiramanimalhospital.com/about/careers]
 https://boards.greenhouse.io/holcomb              [--> https://www.eyecaremadison.com/]
 https://boards.greenhouse.io/holder
