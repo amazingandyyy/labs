@@ -773,6 +773,7 @@ https://boards.greenhouse.io/hook
 https://boards.greenhouse.io/hook                 [--> https://job-boards.greenhouse.io/hook]
 https://boards.greenhouse.io/hopin
 https://boards.greenhouse.io/hopscotch
+https://boards.greenhouse.io/hopscotch            [--> https://job-boards.greenhouse.io/hopscotch]
 https://boards.greenhouse.io/horizons
 https://boards.greenhouse.io/hostaai              [--> https://job-boards.greenhouse.io/hostaai]
 https://boards.greenhouse.io/hotwire
