@@ -780,6 +780,7 @@ https://boards.greenhouse.io/hotwire
 https://boards.greenhouse.io/housecall            [--> http://www.housecallpro.com/careers/]
 https://boards.greenhouse.io/hover                [--> https://hover.to/careers]
 https://boards.greenhouse.io/howl
+https://boards.greenhouse.io/howl                 [--> https://job-boards.greenhouse.io/howl]
 https://boards.greenhouse.io/hubblenetwork        [--> https://hubblenetwork.com/jobs]
 https://boards.greenhouse.io/hudl
 https://boards.greenhouse.io/humane
