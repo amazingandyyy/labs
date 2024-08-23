@@ -711,7 +711,11 @@ https://boards.greenhouse.io/gymshark
 https://boards.greenhouse.io/hackerrank           [--> http://www.hackerrank.com/careers]
 https://boards.greenhouse.io/halcyon              [--> https://job-boards.greenhouse.io/halcyon]
 https://boards.greenhouse.io/handshake
+https://boards.greenhouse.io/handshake            [--> https://job-boards.greenhouse.io/handshake]
+https://boards.greenhouse.io/hanover
+https://boards.greenhouse.io/hanson               [--> https://job-boards.greenhouse.io/hanson]
 https://boards.greenhouse.io/hapara
+https://boards.greenhouse.io/happening            [--> https://www.happening.xyz/careers]
 https://boards.greenhouse.io/harvest
 https://boards.greenhouse.io/hashicorp            [--> https://www.hashicorp.com/careers/open-positions]
 https://boards.greenhouse.io/haven
