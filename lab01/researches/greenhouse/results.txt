@@ -721,8 +721,11 @@ https://boards.greenhouse.io/harbinger            [--> https://job-boards.greenh
 https://boards.greenhouse.io/harbor               [--> https://www.harboranimal.com/about/careers]
 https://boards.greenhouse.io/harmonic
 https://boards.greenhouse.io/harvest
+https://boards.greenhouse.io/harvest              [--> https://job-boards.greenhouse.io/harvest]
 https://boards.greenhouse.io/hashicorp            [--> https://www.hashicorp.com/careers/open-positions]
 https://boards.greenhouse.io/haven
+https://boards.greenhouse.io/haven                [--> https://job-boards.greenhouse.io/haven]
+https://boards.greenhouse.io/hawkai               [--> https://job-boards.greenhouse.io/hawkai]
 https://boards.greenhouse.io/hazel
 https://boards.greenhouse.io/heap
 https://boards.greenhouse.io/hebbia
