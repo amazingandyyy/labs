@@ -709,6 +709,7 @@ https://boards.greenhouse.io/gusto
 https://boards.greenhouse.io/gympass
 https://boards.greenhouse.io/gymshark
 https://boards.greenhouse.io/hackerrank           [--> http://www.hackerrank.com/careers]
+https://boards.greenhouse.io/halcyon              [--> https://job-boards.greenhouse.io/halcyon]
 https://boards.greenhouse.io/handshake
 https://boards.greenhouse.io/hapara
 https://boards.greenhouse.io/harvest
