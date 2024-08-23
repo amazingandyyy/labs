@@ -734,8 +734,13 @@ https://boards.greenhouse.io/heap
 https://boards.greenhouse.io/hebbia
 https://boards.greenhouse.io/helionenergy
 https://boards.greenhouse.io/helios
+https://boards.greenhouse.io/helios               [--> https://job-boards.greenhouse.io/helios]
 https://boards.greenhouse.io/helix
+https://boards.greenhouse.io/helix                [--> https://job-boards.greenhouse.io/helix]
 https://boards.greenhouse.io/hellofresh           [--> https://careers.hellofresh.com/global/en]
+https://boards.greenhouse.io/helmai               [--> https://job-boards.greenhouse.io/helmai]
+https://boards.greenhouse.io/help                 [--> https://job-boards.greenhouse.io/help]
+https://boards.greenhouse.io/helpful              [--> https://job-boards.greenhouse.io/helpful]
 https://boards.greenhouse.io/heygen
 https://boards.greenhouse.io/higherlogic
 https://boards.greenhouse.io/highradius           [--> https://www.highradius.com/about/careers-list/]
