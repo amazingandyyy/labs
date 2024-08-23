@@ -1166,6 +1166,7 @@ https://boards.greenhouse.io/partnerships         [--> https://job-boards.greenh
 https://boards.greenhouse.io/partnerstack
 https://boards.greenhouse.io/passes               [--> https://job-boards.greenhouse.io/passes]
 https://boards.greenhouse.io/pathai               [--> http://www.pathai.com/careers/]
+https://boards.greenhouse.io/pathfinder           [--> https://job-boards.greenhouse.io/pathfinder]
 https://boards.greenhouse.io/pattern              [--> https://www.patternlife.com/careers]
 https://boards.greenhouse.io/pavilion
 https://boards.greenhouse.io/pawnee               [--> https://job-boards.greenhouse.io/pawnee]
