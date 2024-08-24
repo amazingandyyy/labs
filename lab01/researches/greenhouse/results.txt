@@ -822,6 +822,7 @@ https://boards.greenhouse.io/independent          [--> https://job-boards.greenh
 https://boards.greenhouse.io/india                [--> https://job-boards.greenhouse.io/india]
 https://boards.greenhouse.io/indicative           [--> https://job-boards.greenhouse.io/indicative]
 https://boards.greenhouse.io/indigo               [--> https://job-boards.greenhouse.io/indigo]
+https://boards.greenhouse.io/indopacific          [--> https://job-boards.greenhouse.io/indopacific]
 https://boards.greenhouse.io/industrial           [--> https://job-boards.greenhouse.io/industrial]
 https://boards.greenhouse.io/industrious          [--> https://job-boards.greenhouse.io/industrious]
 https://boards.greenhouse.io/inflammatix          [--> https://inflammatix.com/careers]
