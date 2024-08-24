@@ -877,6 +877,7 @@ https://boards.greenhouse.io/its                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/ivalua               [--> https://www.ivalua.com/company/careers/]
 https://boards.greenhouse.io/ivee
 https://boards.greenhouse.io/jackpot              [--> https://www.jackpot.com/careers]
+https://boards.greenhouse.io/jago                 [--> https://job-boards.greenhouse.io/jago]
 https://boards.greenhouse.io/jamaica              [--> https://itelinternational.com/careers/careers-jamaica/]
 https://boards.greenhouse.io/january              [--> https://job-boards.greenhouse.io/january]
 https://boards.greenhouse.io/japan                [--> https://job-boards.greenhouse.io/japan]
