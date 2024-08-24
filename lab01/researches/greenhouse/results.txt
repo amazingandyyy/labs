@@ -899,7 +899,10 @@ https://boards.greenhouse.io/kaggle               [--> https://job-boards.greenh
 https://boards.greenhouse.io/kairos
 https://boards.greenhouse.io/kajabi               [--> https://kajabi.com/company/open-positions]
 https://boards.greenhouse.io/kalshi               [--> https://kalshi.com/careers]
+https://boards.greenhouse.io/kano                 [--> https://job-boards.greenhouse.io/kano]
 https://boards.greenhouse.io/kansas               [--> https://job-boards.greenhouse.io/kansas]
+https://boards.greenhouse.io/kao                  [--> https://job-boards.greenhouse.io/kao]
+https://boards.greenhouse.io/kape                 [--> https://kape.com/careers-greenhouse/]
 https://boards.greenhouse.io/karat
 https://boards.greenhouse.io/karl                 [--> https://job-boards.greenhouse.io/karl]
 https://boards.greenhouse.io/kaseya               [--> http://www.kaseya.com/careers/jobs/]
