@@ -796,6 +796,7 @@ https://boards.greenhouse.io/hustle               [--> https://job-boards.greenh
 https://boards.greenhouse.io/hyperfine            [--> https://www.hyperfine.io/careers]
 https://boards.greenhouse.io/icon                 [--> https://www.iconbuild.com/careers]
 https://boards.greenhouse.io/ideal
+https://boards.greenhouse.io/ideal                [--> https://job-boards.greenhouse.io/ideal]
 https://boards.greenhouse.io/ideo
 https://boards.greenhouse.io/ie
 https://boards.greenhouse.io/ilia
