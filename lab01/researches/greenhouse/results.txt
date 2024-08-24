@@ -814,6 +814,7 @@ https://boards.greenhouse.io/inbound
 https://boards.greenhouse.io/inbound              [--> https://job-boards.greenhouse.io/inbound]
 https://boards.greenhouse.io/inceptive
 https://boards.greenhouse.io/incoming
+https://boards.greenhouse.io/incoming             [--> https://job-boards.greenhouse.io/incoming]
 https://boards.greenhouse.io/incubator            [--> https://job-boards.greenhouse.io/incubator]
 https://boards.greenhouse.io/indeed
 https://boards.greenhouse.io/indeed               [--> https://job-boards.greenhouse.io/indeed]
