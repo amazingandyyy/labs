@@ -808,7 +808,10 @@ https://boards.greenhouse.io/impact
 https://boards.greenhouse.io/impinj               [--> https://impinj-kentico-dev-web1.azurewebsites.net/about-us/careers/open-positions]
 https://boards.greenhouse.io/imply                [--> https://imply.io/positions]
 https://boards.greenhouse.io/imprint
+https://boards.greenhouse.io/imprint              [--> https://job-boards.greenhouse.io/imprint]
+https://boards.greenhouse.io/imre                 [--> https://job-boards.greenhouse.io/imre]
 https://boards.greenhouse.io/inbound
+https://boards.greenhouse.io/inbound              [--> https://job-boards.greenhouse.io/inbound]
 https://boards.greenhouse.io/inceptive
 https://boards.greenhouse.io/incoming
 https://boards.greenhouse.io/incubator            [--> https://job-boards.greenhouse.io/incubator]
