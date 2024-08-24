@@ -168,6 +168,7 @@ https://jobs.lever.co/getaround
 https://jobs.lever.co/getcake
 https://jobs.lever.co/getcenter
 https://jobs.lever.co/getcollaborative
+https://jobs.lever.co/getdimension
 https://jobs.lever.co/getfable
 https://jobs.lever.co/getgo
 https://jobs.lever.co/getlabs
