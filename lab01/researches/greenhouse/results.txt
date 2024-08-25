@@ -416,6 +416,7 @@ https://boards.greenhouse.io/dim                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/disco                [--> https://www.csdisco.com/careers-listing]
 https://boards.greenhouse.io/discord              [--> https://job-boards.greenhouse.io/discord]
 https://boards.greenhouse.io/disney               [--> https://job-boards.greenhouse.io/disney]
+https://boards.greenhouse.io/dispatch             [--> https://dispatch.me/about/careers/]
 https://boards.greenhouse.io/dispatchhealth
 https://boards.greenhouse.io/doctolib
 https://boards.greenhouse.io/donner               [--> https://job-boards.greenhouse.io/donner]
