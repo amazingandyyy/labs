@@ -471,7 +471,9 @@ https://jobs.lever.co/styles               [--> /styles/]
 https://jobs.lever.co/summersalt
 https://jobs.lever.co/super
 https://jobs.lever.co/supermove
+https://jobs.lever.co/superset
 https://jobs.lever.co/superside
+https://jobs.lever.co/superstate
 https://jobs.lever.co/sure
 https://jobs.lever.co/swoopapp
 https://jobs.lever.co/synthego
