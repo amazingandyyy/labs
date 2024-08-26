@@ -432,6 +432,7 @@ https://boards.greenhouse.io/dot
 https://boards.greenhouse.io/dots
 https://boards.greenhouse.io/dots                 [--> https://job-boards.greenhouse.io/dots]
 https://boards.greenhouse.io/dovetail
+https://boards.greenhouse.io/dovetail             [--> https://job-boards.greenhouse.io/dovetail]
 https://boards.greenhouse.io/downtoearth          [--> https://dtelandscape.com/dtecareers1/]
 https://boards.greenhouse.io/doxo                 [--> https://www.doxo.com/about/careers/]
 https://boards.greenhouse.io/dragonfly            [--> https://www.dragonflycommerce.com/careers/]
