@@ -443,6 +443,7 @@ https://boards.greenhouse.io/drivewealth          [--> https://boards.greenhouse
 https://boards.greenhouse.io/droit
 https://boards.greenhouse.io/dropbox              [--> https://jobs.dropbox.com]
 https://boards.greenhouse.io/droplet
+https://boards.greenhouse.io/droplet              [--> https://job-boards.greenhouse.io/droplet]
 https://boards.greenhouse.io/druva                [--> https://www.druva.com/about/careers/]
 https://boards.greenhouse.io/dub
 https://boards.greenhouse.io/dublin               [--> https://www.dublinvetclinic.com/about/careers]
