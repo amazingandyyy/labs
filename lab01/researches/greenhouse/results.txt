@@ -467,10 +467,14 @@ https://boards.greenhouse.io/eclipse
 https://boards.greenhouse.io/eclipse              [--> https://job-boards.greenhouse.io/eclipse]
 https://boards.greenhouse.io/eddi
 https://boards.greenhouse.io/edge
+https://boards.greenhouse.io/edge                 [--> https://job-boards.greenhouse.io/edge]
 https://boards.greenhouse.io/edison
+https://boards.greenhouse.io/edison               [--> https://job-boards.greenhouse.io/edison]
 https://boards.greenhouse.io/edmond
 https://boards.greenhouse.io/edo
+https://boards.greenhouse.io/edo                  [--> https://job-boards.greenhouse.io/edo]
 https://boards.greenhouse.io/educate
+https://boards.greenhouse.io/educators
 https://boards.greenhouse.io/effectual
 https://boards.greenhouse.io/eiger
 https://boards.greenhouse.io/elastic              [--> https://jobs.elastic.co/all-openings]
