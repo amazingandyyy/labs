@@ -464,6 +464,7 @@ https://boards.greenhouse.io/earnin
 https://boards.greenhouse.io/ebanx
 https://boards.greenhouse.io/echoai               [--> https://job-boards.greenhouse.io/echoai]
 https://boards.greenhouse.io/eclipse
+https://boards.greenhouse.io/eclipse              [--> https://job-boards.greenhouse.io/eclipse]
 https://boards.greenhouse.io/eddi
 https://boards.greenhouse.io/edge
 https://boards.greenhouse.io/edison
