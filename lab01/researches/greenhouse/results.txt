@@ -476,6 +476,7 @@ https://boards.greenhouse.io/edo                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/educate
 https://boards.greenhouse.io/educators
 https://boards.greenhouse.io/effectual
+https://boards.greenhouse.io/egress               [--> https://www.knowbe4.com/careers/job-openings-0?hs_preview=gcdjqscl-175008537647]
 https://boards.greenhouse.io/eiger
 https://boards.greenhouse.io/elastic              [--> https://jobs.elastic.co/all-openings]
 https://boards.greenhouse.io/electricai           [--> https://www.electric.ai/company/job-openings]
