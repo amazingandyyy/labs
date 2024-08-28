@@ -1685,6 +1685,7 @@ https://boards.greenhouse.io/tekion
 https://boards.greenhouse.io/tempus
 https://boards.greenhouse.io/tend                 [--> https://www.tend.com/page/jobs.html]
 https://boards.greenhouse.io/tenon                [--> https://job-boards.greenhouse.io/tenon]
+https://boards.greenhouse.io/tensor               [--> https://job-boards.greenhouse.io/tensor]
 https://boards.greenhouse.io/tenstorrent
 https://boards.greenhouse.io/tesseract
 https://boards.greenhouse.io/tetra                [--> https://www.tetra.com/careers]
