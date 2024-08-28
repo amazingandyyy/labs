@@ -1656,7 +1656,9 @@ https://boards.greenhouse.io/symphony             [--> https://symphony.com/comp
 https://boards.greenhouse.io/synchron             [--> https://synchron.com/careers]
 https://boards.greenhouse.io/syncro               [--> https://syncromsp.com/careers/]
 https://boards.greenhouse.io/syndio               [--> https://synd.io/careers/]
+https://boards.greenhouse.io/syntax               [--> https://job-boards.greenhouse.io/syntax]
 https://boards.greenhouse.io/synthesia            [--> https://synthesia.io/careers]
+https://boards.greenhouse.io/syrup
 https://boards.greenhouse.io/talkdesk             [--> https://careers.talkdesk.com]
 https://boards.greenhouse.io/talkspace            [--> https://www.talkspace.com/careers]
 https://boards.greenhouse.io/tally
