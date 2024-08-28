@@ -1673,6 +1673,7 @@ https://boards.greenhouse.io/taskrabbit
 https://boards.greenhouse.io/tau                  [--> https://www.taumotors.com/careers]
 https://boards.greenhouse.io/tavus
 https://boards.greenhouse.io/taxbit
+https://boards.greenhouse.io/taxi                 [--> https://job-boards.greenhouse.io/taxi]
 https://boards.greenhouse.io/tecovas
 https://boards.greenhouse.io/tekion
 https://boards.greenhouse.io/tempus
