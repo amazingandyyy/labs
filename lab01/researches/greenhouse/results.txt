@@ -1676,6 +1676,10 @@ https://boards.greenhouse.io/taxbit
 https://boards.greenhouse.io/taxi                 [--> https://job-boards.greenhouse.io/taxi]
 https://boards.greenhouse.io/teach                [--> https://job-boards.greenhouse.io/teach]
 https://boards.greenhouse.io/teague               [--> https://job-boards.greenhouse.io/teague]
+https://boards.greenhouse.io/tec                  [--> https://www.tidewatereye.com/about/careers/]
+https://boards.greenhouse.io/tech                 [--> https://job-boards.greenhouse.io/tech]
+https://boards.greenhouse.io/technical            [--> https://job-boards.greenhouse.io/technical]
+https://boards.greenhouse.io/technology
 https://boards.greenhouse.io/tecovas
 https://boards.greenhouse.io/tekion
 https://boards.greenhouse.io/tempus
