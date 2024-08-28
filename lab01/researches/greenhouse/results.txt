@@ -1661,6 +1661,7 @@ https://boards.greenhouse.io/synthesia            [--> https://synthesia.io/care
 https://boards.greenhouse.io/syrup
 https://boards.greenhouse.io/system               [--> https://job-boards.greenhouse.io/system]
 https://boards.greenhouse.io/taa                  [--> https://job-boards.greenhouse.io/taa]
+https://boards.greenhouse.io/taiwan               [--> https://job-boards.greenhouse.io/taiwan]
 https://boards.greenhouse.io/talkdesk             [--> https://careers.talkdesk.com]
 https://boards.greenhouse.io/talkspace            [--> https://www.talkspace.com/careers]
 https://boards.greenhouse.io/tally
