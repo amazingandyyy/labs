@@ -1667,6 +1667,7 @@ https://boards.greenhouse.io/talkspace            [--> https://www.talkspace.com
 https://boards.greenhouse.io/tally
 https://boards.greenhouse.io/tamara
 https://boards.greenhouse.io/tandem
+https://boards.greenhouse.io/tandem               [--> https://job-boards.greenhouse.io/tandem]
 https://boards.greenhouse.io/tanium               [--> https://www.tanium.com/careers]
 https://boards.greenhouse.io/taskrabbit
 https://boards.greenhouse.io/tavus
