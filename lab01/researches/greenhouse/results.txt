@@ -1683,6 +1683,7 @@ https://boards.greenhouse.io/technology
 https://boards.greenhouse.io/tecovas
 https://boards.greenhouse.io/tekion
 https://boards.greenhouse.io/tempus
+https://boards.greenhouse.io/tend                 [--> https://www.tend.com/page/jobs.html]
 https://boards.greenhouse.io/tenstorrent
 https://boards.greenhouse.io/tesseract
 https://boards.greenhouse.io/tetra                [--> https://www.tetra.com/careers]
