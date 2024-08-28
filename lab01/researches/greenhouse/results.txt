@@ -1670,6 +1670,7 @@ https://boards.greenhouse.io/tandem
 https://boards.greenhouse.io/tandem               [--> https://job-boards.greenhouse.io/tandem]
 https://boards.greenhouse.io/tanium               [--> https://www.tanium.com/careers]
 https://boards.greenhouse.io/taskrabbit
+https://boards.greenhouse.io/tau                  [--> https://www.taumotors.com/careers]
 https://boards.greenhouse.io/tavus
 https://boards.greenhouse.io/taxbit
 https://boards.greenhouse.io/tecovas
