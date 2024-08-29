@@ -1726,6 +1726,8 @@ https://boards.greenhouse.io/truework
 https://boards.greenhouse.io/trulioo              [--> https://www.trulioo.com/apply]
 https://boards.greenhouse.io/trumid
 https://boards.greenhouse.io/tuckahoe             [--> https://job-boards.greenhouse.io/tuckahoe]
+https://boards.greenhouse.io/tula                 [--> https://job-boards.greenhouse.io/tula]
+https://boards.greenhouse.io/tulip                [--> https://tulip.co/careers/]
 https://boards.greenhouse.io/tunein
 https://boards.greenhouse.io/turing
 https://boards.greenhouse.io/turo
