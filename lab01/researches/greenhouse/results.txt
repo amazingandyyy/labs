@@ -1730,6 +1730,7 @@ https://boards.greenhouse.io/tula                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/tulip                [--> https://tulip.co/careers/]
 https://boards.greenhouse.io/tunein
 https://boards.greenhouse.io/turing
+https://boards.greenhouse.io/turing               [--> https://job-boards.greenhouse.io/turing]
 https://boards.greenhouse.io/turo
 https://boards.greenhouse.io/tusimple
 https://boards.greenhouse.io/twilio
