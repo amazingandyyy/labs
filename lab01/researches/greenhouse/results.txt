@@ -1738,6 +1738,7 @@ https://boards.greenhouse.io/tweag                [--> https://job-boards.greenh
 https://boards.greenhouse.io/twelve               [--> https://job-boards.greenhouse.io/twelve]
 https://boards.greenhouse.io/twilio
 https://boards.greenhouse.io/twitch
+https://boards.greenhouse.io/typeface
 https://boards.greenhouse.io/udaan
 https://boards.greenhouse.io/udemy                [--> https://about.udemy.com/careers/]
 https://boards.greenhouse.io/ujet
