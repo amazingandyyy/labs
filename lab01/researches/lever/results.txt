@@ -25,6 +25,7 @@ https://jobs.lever.co/analog
 https://jobs.lever.co/anchorage
 https://jobs.lever.co/angel
 https://jobs.lever.co/anomali
+https://jobs.lever.co/anomaly
 https://jobs.lever.co/anyroad
 https://jobs.lever.co/anyscale
 https://jobs.lever.co/apollographql
