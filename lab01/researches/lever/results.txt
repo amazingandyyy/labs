@@ -55,6 +55,7 @@ https://jobs.lever.co/barley
 https://jobs.lever.co/barrel
 https://jobs.lever.co/beacon
 https://jobs.lever.co/beam
+https://jobs.lever.co/beta
 https://jobs.lever.co/better
 https://jobs.lever.co/biorender
 https://jobs.lever.co/blueboard
