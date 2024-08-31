@@ -51,8 +51,10 @@ https://boards.greenhouse.io/aldrich              [--> https://job-boards.greenh
 https://boards.greenhouse.io/alethea
 https://boards.greenhouse.io/algolia
 https://boards.greenhouse.io/align
+https://boards.greenhouse.io/align                [--> https://job-boards.greenhouse.io/align]
 https://boards.greenhouse.io/allbirds             [--> https://www.allbirds.com/pages/careers]
 https://boards.greenhouse.io/allegro
+https://boards.greenhouse.io/allegro              [--> https://job-boards.greenhouse.io/allegro]
 https://boards.greenhouse.io/alloy                [--> https://www.alloy.com/about/jobs#openings]
 https://boards.greenhouse.io/alma
 https://boards.greenhouse.io/aloft                [--> https://aloftappraisal.com/apply]
