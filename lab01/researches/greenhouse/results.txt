@@ -89,6 +89,7 @@ https://boards.greenhouse.io/antenna              [--> https://job-boards.greenh
 https://boards.greenhouse.io/anteriad
 https://boards.greenhouse.io/antheia              [--> https://job-boards.greenhouse.io/antheia]
 https://boards.greenhouse.io/anthropic
+https://boards.greenhouse.io/antigua              [--> https://job-boards.greenhouse.io/antigua]
 https://boards.greenhouse.io/antler
 https://boards.greenhouse.io/any                  [--> https://job-boards.greenhouse.io/any]
 https://boards.greenhouse.io/aperture             [--> https://job-boards.greenhouse.io/aperture]
