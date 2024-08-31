@@ -59,6 +59,7 @@ https://jobs.lever.co/beta
 https://jobs.lever.co/better
 https://jobs.lever.co/biorender
 https://jobs.lever.co/bis
+https://jobs.lever.co/bloom
 https://jobs.lever.co/blueboard
 https://jobs.lever.co/boxbot
 https://jobs.lever.co/brightmachines
