@@ -69,10 +69,13 @@ https://boards.greenhouse.io/ambassadors
 https://boards.greenhouse.io/ambientai            [--> https://job-boards.greenhouse.io/ambientai]
 https://boards.greenhouse.io/ambit                [--> https://ambitinc.com/careers/]
 https://boards.greenhouse.io/amido
+https://boards.greenhouse.io/amido                [--> https://job-boards.greenhouse.io/amido]
 https://boards.greenhouse.io/amity
+https://boards.greenhouse.io/amity                [--> https://job-boards.greenhouse.io/amity]
 https://boards.greenhouse.io/amount
 https://boards.greenhouse.io/amperity             [--> https://amperity.com/careers]
 https://boards.greenhouse.io/ampersand
+https://boards.greenhouse.io/ampersand            [--> https://job-boards.greenhouse.io/ampersand]
 https://boards.greenhouse.io/amplitude
 https://boards.greenhouse.io/amra
 https://boards.greenhouse.io/anaplan
