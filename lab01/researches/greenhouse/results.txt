@@ -223,7 +223,10 @@ https://boards.greenhouse.io/blackbird            [--> https://job-boards.greenh
 https://boards.greenhouse.io/blackthorn           [--> https://job-boards.greenhouse.io/blackthorn]
 https://boards.greenhouse.io/blade                [--> https://job-boards.greenhouse.io/blade]
 https://boards.greenhouse.io/blend
+https://boards.greenhouse.io/blip                 [--> https://job-boards.greenhouse.io/blip]
 https://boards.greenhouse.io/blitzapp
+https://boards.greenhouse.io/blitzapp             [--> https://job-boards.greenhouse.io/blitzapp]
+https://boards.greenhouse.io/block
 https://boards.greenhouse.io/blockdaemon          [--> https://www.blockdaemon.com/careers]
 https://boards.greenhouse.io/blockstream
 https://boards.greenhouse.io/bluecrew
