@@ -169,6 +169,7 @@ https://boards.greenhouse.io/babylist
 https://boards.greenhouse.io/babylon
 https://boards.greenhouse.io/backlight            [--> https://job-boards.greenhouse.io/backlight]
 https://boards.greenhouse.io/backstage            [--> https://www.backstage.com/careers/]
+https://boards.greenhouse.io/backstroke           [--> https://job-boards.greenhouse.io/backstroke]
 https://boards.greenhouse.io/bam                  [--> https://job-boards.greenhouse.io/bam]
 https://boards.greenhouse.io/bandcamp
 https://boards.greenhouse.io/bandwidth
