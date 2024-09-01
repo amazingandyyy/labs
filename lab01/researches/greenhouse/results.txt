@@ -136,6 +136,7 @@ https://boards.greenhouse.io/associates           [--> https://job-boards.greenh
 https://boards.greenhouse.io/ast                  [--> https://job-boards.greenhouse.io/ast]
 https://boards.greenhouse.io/astranis
 https://boards.greenhouse.io/atai                 [--> https://job-boards.greenhouse.io/atai]
+https://boards.greenhouse.io/athena               [--> https://job-boards.greenhouse.io/athena]
 https://boards.greenhouse.io/athens               [--> https://job-boards.greenhouse.io/athens]
 https://boards.greenhouse.io/athletics            [--> https://job-boards.greenhouse.io/athletics]
 https://boards.greenhouse.io/atlas                [--> https://atlas.health/company/careers-open-positions]
