@@ -179,6 +179,7 @@ https://boards.greenhouse.io/baptist
 https://boards.greenhouse.io/barefoot
 https://boards.greenhouse.io/barges
 https://boards.greenhouse.io/bark                 [--> https://boards.greenhouse.io/bark]
+https://boards.greenhouse.io/barkley              [--> https://job-boards.greenhouse.io/barkley]
 https://boards.greenhouse.io/base                 [--> https://job-boards.greenhouse.io/base]
 https://boards.greenhouse.io/basic
 https://boards.greenhouse.io/bathhouse            [--> https://www.abathhouse.com/careers]
