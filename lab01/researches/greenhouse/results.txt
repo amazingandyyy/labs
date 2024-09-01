@@ -194,6 +194,7 @@ https://boards.greenhouse.io/beekeeper
 https://boards.greenhouse.io/beekeeper            [--> https://www.beekeeper.io/careers]
 https://boards.greenhouse.io/bees                 [--> https://job-boards.greenhouse.io/bees]
 https://boards.greenhouse.io/beewise              [--> https://www.beewise.ag/careers]
+https://boards.greenhouse.io/belize               [--> https://job-boards.greenhouse.io/belize]
 https://boards.greenhouse.io/bella
 https://boards.greenhouse.io/belton               [--> https://www.beltonanimal.com/about/careers]
 https://boards.greenhouse.io/bench                [--> https://bench.co/careers/]
