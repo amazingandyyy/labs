@@ -239,6 +239,7 @@ https://boards.greenhouse.io/bold                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/bolster
 https://boards.greenhouse.io/bolster              [--> https://job-boards.greenhouse.io/bolster]
 https://boards.greenhouse.io/boomerang
+https://boards.greenhouse.io/boomerang            [--> https://job-boards.greenhouse.io/boomerang]
 https://boards.greenhouse.io/boostedai
 https://boards.greenhouse.io/bottlerocket
 https://boards.greenhouse.io/bountiful
