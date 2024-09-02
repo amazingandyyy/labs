@@ -342,11 +342,14 @@ https://boards.greenhouse.io/checkbook            [--> https://job-boards.greenh
 https://boards.greenhouse.io/checkr
 https://boards.greenhouse.io/cheddar
 https://boards.greenhouse.io/cheddar              [--> https://job-boards.greenhouse.io/cheddar]
+https://boards.greenhouse.io/cheops               [--> https://www.cheops.com/en/jobs/]
 https://boards.greenhouse.io/cherokee             [--> https://www.cherokeevet.com/about/careers]
 https://boards.greenhouse.io/cherry
 https://boards.greenhouse.io/cherry               [--> https://job-boards.greenhouse.io/cherry]
 https://boards.greenhouse.io/chicory
+https://boards.greenhouse.io/chicory              [--> https://job-boards.greenhouse.io/chicory]
 https://boards.greenhouse.io/chief
+https://boards.greenhouse.io/chief                [--> https://job-boards.greenhouse.io/chief]
 https://boards.greenhouse.io/chile
 https://boards.greenhouse.io/chime                [--> https://careers.chime.com/browse-jobs/]
 https://boards.greenhouse.io/chronograph          [--> https://www.chronograph.pe/jobs/]
