@@ -302,6 +302,7 @@ https://boards.greenhouse.io/carbonchain
 https://boards.greenhouse.io/caregiver            [--> https://www.24hrcares.com/caregiver-careers]
 https://boards.greenhouse.io/carerev
 https://boards.greenhouse.io/caribou
+https://boards.greenhouse.io/caribou              [--> https://www.caribou.com/careers]
 https://boards.greenhouse.io/carta
 https://boards.greenhouse.io/cartwright           [--> https://job-boards.greenhouse.io/cartwright]
 https://boards.greenhouse.io/carvana              [--> https://www.carvana.com/careers/jobs]
