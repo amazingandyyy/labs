@@ -242,6 +242,7 @@ https://boards.greenhouse.io/boomerang
 https://boards.greenhouse.io/boomerang            [--> https://job-boards.greenhouse.io/boomerang]
 https://boards.greenhouse.io/boostedai
 https://boards.greenhouse.io/bottlerocket
+https://boards.greenhouse.io/boulevard            [--> https://job-boards.greenhouse.io/boulevard]
 https://boards.greenhouse.io/bountiful
 https://boards.greenhouse.io/branch
 https://boards.greenhouse.io/brandfolder
