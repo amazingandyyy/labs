@@ -259,6 +259,9 @@ https://boards.greenhouse.io/brightai
 https://boards.greenhouse.io/bringg
 https://boards.greenhouse.io/broadway             [--> https://www.broadwayveterinarian.com/about/careers]
 https://boards.greenhouse.io/bugcrowd             [--> https://www.bugcrowd.com/about/careers/]
+https://boards.greenhouse.io/builder              [--> https://job-boards.greenhouse.io/builder]
+https://boards.greenhouse.io/builtin              [--> https://job-boards.greenhouse.io/builtin]
+https://boards.greenhouse.io/bullpen              [--> https://job-boards.greenhouse.io/bullpen]
 https://boards.greenhouse.io/burnt                [--> https://job-boards.greenhouse.io/burnt]
 https://boards.greenhouse.io/burr                 [--> https://job-boards.greenhouse.io/burr]
 https://boards.greenhouse.io/buzzfeed             [--> http://www.buzzfeed.com/about/jobs]
@@ -709,6 +712,7 @@ https://boards.greenhouse.io/genies               [--> https://job-boards.greenh
 https://boards.greenhouse.io/genuine
 https://boards.greenhouse.io/genuine              [--> https://job-boards.greenhouse.io/genuine]
 https://boards.greenhouse.io/getbuilt
+https://boards.greenhouse.io/getbuilt             [--> https://job-boards.greenhouse.io/getbuilt]
 https://boards.greenhouse.io/getground
 https://boards.greenhouse.io/getharley
 https://boards.greenhouse.io/getharley            [--> https://job-boards.greenhouse.io/getharley]
