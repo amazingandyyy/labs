@@ -248,7 +248,10 @@ https://boards.greenhouse.io/branch
 https://boards.greenhouse.io/branch               [--> https://job-boards.greenhouse.io/branch]
 https://boards.greenhouse.io/brandfolder
 https://boards.greenhouse.io/brandnew             [--> https://job-boards.greenhouse.io/brandnew]
+https://boards.greenhouse.io/bravado              [--> https://job-boards.greenhouse.io/bravado]
+https://boards.greenhouse.io/brave
 https://boards.greenhouse.io/braze                [--> https://www.braze.com/company/careers]
+https://boards.greenhouse.io/brennan
 https://boards.greenhouse.io/brex                 [--> https://www.brex.com/careers]
 https://boards.greenhouse.io/bridgebio
 https://boards.greenhouse.io/briefly              [--> https://www.outsidegc.com/current-openings]
