@@ -432,7 +432,12 @@ https://boards.greenhouse.io/consent              [--> https://job-boards.greenh
 https://boards.greenhouse.io/contentful
 https://boards.greenhouse.io/contextualai         [--> https://contextual.ai/careers/]
 https://boards.greenhouse.io/conti                [--> https://job-boards.greenhouse.io/conti]
+https://boards.greenhouse.io/contract             [--> https://job-boards.greenhouse.io/contract]
+https://boards.greenhouse.io/contractor           [--> https://job-boards.greenhouse.io/contractor]
+https://boards.greenhouse.io/convene
+https://boards.greenhouse.io/converted            [--> https://job-boards.greenhouse.io/converted]
 https://boards.greenhouse.io/conviva              [--> https://www.conviva.com/careers/]
+https://boards.greenhouse.io/coop                 [--> https://job-boards.greenhouse.io/coop]
 https://boards.greenhouse.io/copado               [--> https://www.copado.com/open-positions/]
 https://boards.greenhouse.io/cora
 https://boards.greenhouse.io/corelight
