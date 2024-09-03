@@ -381,12 +381,15 @@ https://boards.greenhouse.io/cleoai               [--> https://job-boards.greenh
 https://boards.greenhouse.io/clever               [--> https://clever.com/job-listing]
 https://boards.greenhouse.io/clickup
 https://boards.greenhouse.io/client
+https://boards.greenhouse.io/client               [--> https://job-boards.greenhouse.io/client]
 https://boards.greenhouse.io/climateai
+https://boards.greenhouse.io/climateai            [--> https://job-boards.greenhouse.io/climateai]
 https://boards.greenhouse.io/clockwise            [--> https://www.getclockwise.com/careers]
 https://boards.greenhouse.io/cloudbeds
 https://boards.greenhouse.io/cloudflare           [--> https://www.cloudflare.com/careers]
 https://boards.greenhouse.io/clovers
 https://boards.greenhouse.io/clutch
+https://boards.greenhouse.io/clutch               [--> https://job-boards.greenhouse.io/clutch]
 https://boards.greenhouse.io/coalition            [--> https://careers.coalitioninc.com/jobs/]
 https://boards.greenhouse.io/coast
 https://boards.greenhouse.io/cocoon
