@@ -392,14 +392,17 @@ https://boards.greenhouse.io/clutch
 https://boards.greenhouse.io/clutch               [--> https://job-boards.greenhouse.io/clutch]
 https://boards.greenhouse.io/coalition            [--> https://careers.coalitioninc.com/jobs/]
 https://boards.greenhouse.io/coast
+https://boards.greenhouse.io/coast                [--> https://job-boards.greenhouse.io/coast]
 https://boards.greenhouse.io/cocoon
 https://boards.greenhouse.io/coda
+https://boards.greenhouse.io/coda                 [--> https://job-boards.greenhouse.io/coda]
 https://boards.greenhouse.io/codeandtheory        [--> https://www.codeandtheory.com/careers]
 https://boards.greenhouse.io/codecademy
 https://boards.greenhouse.io/codeword             [--> https://job-boards.greenhouse.io/codeword]
 https://boards.greenhouse.io/codex
 https://boards.greenhouse.io/codility             [--> https://www.codility.com/careers]
 https://boards.greenhouse.io/coefficient
+https://boards.greenhouse.io/coefficient          [--> https://job-boards.greenhouse.io/coefficient]
 https://boards.greenhouse.io/cohen
 https://boards.greenhouse.io/cohesity             [--> http://www.cohesity.com/company/careers/open-positions/]
 https://boards.greenhouse.io/coinbase             [--> https://www.coinbase.com/careers]
