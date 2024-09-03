@@ -361,8 +361,10 @@ https://boards.greenhouse.io/circle
 https://boards.greenhouse.io/circleci             [--> http://www.circleci.com/careers/jobs/]
 https://boards.greenhouse.io/ciscomeraki          [--> https://meraki.cisco.com/jobs]
 https://boards.greenhouse.io/citizen
+https://boards.greenhouse.io/citizen              [--> https://job-boards.greenhouse.io/citizen]
 https://boards.greenhouse.io/clair
 https://boards.greenhouse.io/clara
+https://boards.greenhouse.io/clara                [--> https://job-boards.greenhouse.io/clara]
 https://boards.greenhouse.io/clarity              [--> https://job-boards.greenhouse.io/clarity]
 https://boards.greenhouse.io/classapp
 https://boards.greenhouse.io/classdojo
