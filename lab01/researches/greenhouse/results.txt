@@ -404,6 +404,7 @@ https://boards.greenhouse.io/codility             [--> https://www.codility.com/
 https://boards.greenhouse.io/coefficient
 https://boards.greenhouse.io/coefficient          [--> https://job-boards.greenhouse.io/coefficient]
 https://boards.greenhouse.io/cohen
+https://boards.greenhouse.io/cohen                [--> https://job-boards.greenhouse.io/cohen]
 https://boards.greenhouse.io/cohesity             [--> http://www.cohesity.com/company/careers/open-positions/]
 https://boards.greenhouse.io/coinbase             [--> https://www.coinbase.com/careers]
 https://boards.greenhouse.io/colabsoftware
