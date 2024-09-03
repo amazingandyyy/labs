@@ -367,13 +367,17 @@ https://boards.greenhouse.io/clara
 https://boards.greenhouse.io/clara                [--> https://job-boards.greenhouse.io/clara]
 https://boards.greenhouse.io/clarity              [--> https://job-boards.greenhouse.io/clarity]
 https://boards.greenhouse.io/classapp
+https://boards.greenhouse.io/classapp             [--> https://job-boards.greenhouse.io/classapp]
 https://boards.greenhouse.io/classdojo
 https://boards.greenhouse.io/classpass
 https://boards.greenhouse.io/classy               [--> https://www.classy.org/careers/]
 https://boards.greenhouse.io/clear
+https://boards.greenhouse.io/clearway             [--> https://www.clearway.co.uk/careers/current-vacancies/jobs/]
 https://boards.greenhouse.io/clements             [--> https://www.clements.com/careers/job-openings/]
 https://boards.greenhouse.io/cleo
+https://boards.greenhouse.io/cleo                 [--> https://job-boards.greenhouse.io/cleo]
 https://boards.greenhouse.io/cleoai
+https://boards.greenhouse.io/cleoai               [--> https://job-boards.greenhouse.io/cleoai]
 https://boards.greenhouse.io/clever               [--> https://clever.com/job-listing]
 https://boards.greenhouse.io/clickup
 https://boards.greenhouse.io/client
