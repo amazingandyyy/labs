@@ -443,6 +443,7 @@ https://boards.greenhouse.io/cora
 https://boards.greenhouse.io/core                 [--> https://job-boards.greenhouse.io/core]
 https://boards.greenhouse.io/corelight
 https://boards.greenhouse.io/cortex
+https://boards.greenhouse.io/cortex               [--> https://job-boards.greenhouse.io/cortex]
 https://boards.greenhouse.io/coursera
 https://boards.greenhouse.io/coverai
 https://boards.greenhouse.io/credible
