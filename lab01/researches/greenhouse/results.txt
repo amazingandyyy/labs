@@ -453,8 +453,10 @@ https://boards.greenhouse.io/covariance           [--> https://job-boards.greenh
 https://boards.greenhouse.io/coverai
 https://boards.greenhouse.io/coverai              [--> https://job-boards.greenhouse.io/coverai]
 https://boards.greenhouse.io/cowen
+https://boards.greenhouse.io/cranston             [--> https://job-boards.greenhouse.io/cranston]
 https://boards.greenhouse.io/credible
 https://boards.greenhouse.io/creditas
+https://boards.greenhouse.io/crescent             [--> https://job-boards.greenhouse.io/crescent]
 https://boards.greenhouse.io/crescolabs
 https://boards.greenhouse.io/cresta
 https://boards.greenhouse.io/cribl                [--> https://cribl.io/job-detail/]
