@@ -449,7 +449,10 @@ https://boards.greenhouse.io/cota                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/coterie              [--> https://www.coterie.com/careers]
 https://boards.greenhouse.io/counterpart          [--> https://job-boards.greenhouse.io/counterpart]
 https://boards.greenhouse.io/coursera
+https://boards.greenhouse.io/covariance           [--> https://job-boards.greenhouse.io/covariance]
 https://boards.greenhouse.io/coverai
+https://boards.greenhouse.io/coverai              [--> https://job-boards.greenhouse.io/coverai]
+https://boards.greenhouse.io/cowen
 https://boards.greenhouse.io/credible
 https://boards.greenhouse.io/creditas
 https://boards.greenhouse.io/crescolabs
