@@ -467,6 +467,7 @@ https://boards.greenhouse.io/cruise               [--> https://getcruise.com/car
 https://boards.greenhouse.io/crunch               [--> https://job-boards.greenhouse.io/crunch]
 https://boards.greenhouse.io/crunchyroll          [--> https://www.crunchyroll.com/about/work/index.html]
 https://boards.greenhouse.io/csc                  [--> https://job-boards.greenhouse.io/csc]
+https://boards.greenhouse.io/curative             [--> https://job-boards.greenhouse.io/curative]
 https://boards.greenhouse.io/cuyana               [--> https://www.cuyana.com/pages/careers]
 https://boards.greenhouse.io/cybereason           [--> http://jobs.cybereason.com/]
 https://boards.greenhouse.io/dagger
