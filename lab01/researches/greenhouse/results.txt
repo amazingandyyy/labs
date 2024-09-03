@@ -412,7 +412,9 @@ https://boards.greenhouse.io/collectively
 https://boards.greenhouse.io/collibra             [--> https://www.collibra.com/us/en/company/careers/]
 https://boards.greenhouse.io/colombia             [--> https://itelinternational.com/careers/careers-colombia/]
 https://boards.greenhouse.io/colorado
+https://boards.greenhouse.io/colorado             [--> https://job-boards.greenhouse.io/colorado]
 https://boards.greenhouse.io/columbus
+https://boards.greenhouse.io/columbus             [--> https://job-boards.greenhouse.io/columbus]
 https://boards.greenhouse.io/comet                [--> https://www.comet.com/site/about-us/careers/]
 https://boards.greenhouse.io/commercetools
 https://boards.greenhouse.io/commonwealth         [--> https://job-boards.greenhouse.io/commonwealth]
