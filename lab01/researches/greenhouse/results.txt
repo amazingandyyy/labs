@@ -420,6 +420,7 @@ https://boards.greenhouse.io/commercetools
 https://boards.greenhouse.io/commonwealth         [--> https://job-boards.greenhouse.io/commonwealth]
 https://boards.greenhouse.io/commure              [--> https://www.commure.com/careers]
 https://boards.greenhouse.io/company
+https://boards.greenhouse.io/company              [--> https://job-boards.greenhouse.io/company]
 https://boards.greenhouse.io/concentric
 https://boards.greenhouse.io/connatix             [--> https://connatix.com/careers]
 https://boards.greenhouse.io/contentful
