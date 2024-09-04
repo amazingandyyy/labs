@@ -501,6 +501,7 @@ https://boards.greenhouse.io/descriptions         [--> https://job-boards.greenh
 https://boards.greenhouse.io/desktopmetal
 https://boards.greenhouse.io/detect               [--> https://job-boards.greenhouse.io/detect]
 https://boards.greenhouse.io/devrev
+https://boards.greenhouse.io/devries              [--> https://job-boards.greenhouse.io/devries]
 https://boards.greenhouse.io/dfinity
 https://boards.greenhouse.io/dialexa              [--> https://dialexa.com/careers]
 https://boards.greenhouse.io/dialpad
