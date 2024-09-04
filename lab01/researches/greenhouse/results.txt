@@ -506,6 +506,7 @@ https://boards.greenhouse.io/dfinity
 https://boards.greenhouse.io/dialexa              [--> https://dialexa.com/careers]
 https://boards.greenhouse.io/dialpad
 https://boards.greenhouse.io/dice                 [--> https://job-boards.greenhouse.io/dice]
+https://boards.greenhouse.io/didi                 [--> https://job-boards.greenhouse.io/didi]
 https://boards.greenhouse.io/digit                [--> https://job-boards.greenhouse.io/digit]
 https://boards.greenhouse.io/digitalai            [--> https://digital.ai/current-job-openings]
 https://boards.greenhouse.io/digits               [--> https://digits.com/jobs/]
