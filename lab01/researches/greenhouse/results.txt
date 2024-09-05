@@ -865,6 +865,7 @@ https://boards.greenhouse.io/hebbia
 https://boards.greenhouse.io/helionenergy
 https://boards.greenhouse.io/helios
 https://boards.greenhouse.io/helios               [--> https://job-boards.greenhouse.io/helios]
+https://boards.greenhouse.io/helios               [--> https://www.helios.io/careers/]
 https://boards.greenhouse.io/helix
 https://boards.greenhouse.io/helix                [--> https://job-boards.greenhouse.io/helix]
 https://boards.greenhouse.io/hellofresh           [--> https://careers.hellofresh.com/global/en]
