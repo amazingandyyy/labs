@@ -1113,6 +1113,7 @@ https://boards.greenhouse.io/lineup
 https://boards.greenhouse.io/link
 https://boards.greenhouse.io/link                 [--> https://job-boards.greenhouse.io/link]
 https://boards.greenhouse.io/linqia               [--> http://www.linqia.com/about/careers/]
+https://boards.greenhouse.io/lions
 https://boards.greenhouse.io/lions                [--> https://job-boards.greenhouse.io/lions]
 https://boards.greenhouse.io/lithic
 https://boards.greenhouse.io/litmus               [--> https://www.litmus.com/careers-list/]
