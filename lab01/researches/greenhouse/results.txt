@@ -1119,7 +1119,9 @@ https://boards.greenhouse.io/lithic
 https://boards.greenhouse.io/litmus               [--> https://www.litmus.com/careers-list/]
 https://boards.greenhouse.io/livi                 [--> https://job-boards.greenhouse.io/livi]
 https://boards.greenhouse.io/lob                  [--> https://www.lob.com/careers]
+https://boards.greenhouse.io/locals               [--> https://job-boards.greenhouse.io/locals]
 https://boards.greenhouse.io/localyze
+https://boards.greenhouse.io/location             [--> https://job-boards.greenhouse.io/location]
 https://boards.greenhouse.io/lockwood             [--> https://job-boards.greenhouse.io/lockwood]
 https://boards.greenhouse.io/locust               [--> https://job-boards.greenhouse.io/locust]
 https://boards.greenhouse.io/loft                 [--> https://loft.sh/company/careers]
