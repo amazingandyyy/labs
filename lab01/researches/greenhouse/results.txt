@@ -1154,6 +1154,7 @@ https://boards.greenhouse.io/mana                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/manatee
 https://boards.greenhouse.io/manifoldai           [--> https://job-boards.greenhouse.io/manifoldai]
 https://boards.greenhouse.io/mantle
+https://boards.greenhouse.io/manufactured         [--> https://job-boards.greenhouse.io/manufactured]
 https://boards.greenhouse.io/manychat             [--> https://boards.greenhouse.io/embed/job_board?for=manychat&b=https%3a%2f%2fcareers.manychat.com%2fus]
 https://boards.greenhouse.io/map
 https://boards.greenhouse.io/maple                [--> https://job-boards.greenhouse.io/maple]
