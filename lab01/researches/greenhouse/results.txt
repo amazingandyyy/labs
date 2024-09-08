@@ -1176,6 +1176,7 @@ https://boards.greenhouse.io/maximon
 https://boards.greenhouse.io/mayfair              [--> https://job-boards.greenhouse.io/mayfair]
 https://boards.greenhouse.io/mcadams              [--> https://job-boards.greenhouse.io/mcadams]
 https://boards.greenhouse.io/mcgill
+https://boards.greenhouse.io/mcgill               [--> https://job-boards.greenhouse.io/mcgill]
 https://boards.greenhouse.io/mckinney
 https://boards.greenhouse.io/mdai                 [--> https://job-boards.greenhouse.io/mdai]
 https://boards.greenhouse.io/mediaalpha
