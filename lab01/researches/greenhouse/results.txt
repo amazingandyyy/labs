@@ -1159,6 +1159,7 @@ https://boards.greenhouse.io/manychat             [--> https://boards.greenhouse
 https://boards.greenhouse.io/map
 https://boards.greenhouse.io/maple                [--> https://job-boards.greenhouse.io/maple]
 https://boards.greenhouse.io/mara                 [--> https://job-boards.greenhouse.io/mara]
+https://boards.greenhouse.io/markets              [--> https://job-boards.greenhouse.io/markets]
 https://boards.greenhouse.io/marlon               [--> https://www.liveperson.com/company/careers]
 https://boards.greenhouse.io/marqeta
 https://boards.greenhouse.io/maryland             [--> https://job-boards.greenhouse.io/maryland]
