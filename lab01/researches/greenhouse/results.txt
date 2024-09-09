@@ -1449,6 +1449,7 @@ https://boards.greenhouse.io/prisma
 https://boards.greenhouse.io/prismatic
 https://boards.greenhouse.io/prismatic            [--> https://job-boards.greenhouse.io/prismatic]
 https://boards.greenhouse.io/privacy              [--> https://job-boards.greenhouse.io/privacy]
+https://boards.greenhouse.io/processing           [--> https://job-boards.greenhouse.io/processing]
 https://boards.greenhouse.io/prodigal
 https://boards.greenhouse.io/productboard
 https://boards.greenhouse.io/project44
