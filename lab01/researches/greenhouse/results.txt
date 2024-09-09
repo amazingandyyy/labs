@@ -1461,7 +1461,11 @@ https://boards.greenhouse.io/prolific             [--> https://job-boards.greenh
 https://boards.greenhouse.io/promenade            [--> https://careers.vetpartners.com/promenade-animal-hospital]
 https://boards.greenhouse.io/proof                [--> https://www.proofserve.com/careers]
 https://boards.greenhouse.io/propel
+https://boards.greenhouse.io/propel               [--> https://job-boards.greenhouse.io/propel]
 https://boards.greenhouse.io/proper
+https://boards.greenhouse.io/proper               [--> https://job-boards.greenhouse.io/proper]
+https://boards.greenhouse.io/properly
+https://boards.greenhouse.io/prophet
 https://boards.greenhouse.io/prospa
 https://boards.greenhouse.io/psiquantum           [--> https://www.psiquantum.com/careers]
 https://boards.greenhouse.io/public
