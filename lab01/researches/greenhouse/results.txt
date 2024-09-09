@@ -1466,6 +1466,7 @@ https://boards.greenhouse.io/proper
 https://boards.greenhouse.io/proper               [--> https://job-boards.greenhouse.io/proper]
 https://boards.greenhouse.io/properly
 https://boards.greenhouse.io/prophet
+https://boards.greenhouse.io/prose                [--> https://prose.com/careers]
 https://boards.greenhouse.io/prospa
 https://boards.greenhouse.io/psiquantum           [--> https://www.psiquantum.com/careers]
 https://boards.greenhouse.io/public
