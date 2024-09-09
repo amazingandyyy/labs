@@ -434,6 +434,7 @@ https://jobs.lever.co/pythian
 https://jobs.lever.co/qualified
 https://jobs.lever.co/quantcast
 https://jobs.lever.co/quartzy
+https://jobs.lever.co/quill
 https://jobs.lever.co/quince
 https://jobs.lever.co/quokka
 https://jobs.lever.co/radix
