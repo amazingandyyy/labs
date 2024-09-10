@@ -1499,6 +1499,7 @@ https://boards.greenhouse.io/quilt
 https://boards.greenhouse.io/quilt                [--> https://job-boards.greenhouse.io/quilt]
 https://boards.greenhouse.io/quin
 https://boards.greenhouse.io/quip
+https://boards.greenhouse.io/quip                 [--> https://job-boards.greenhouse.io/quip]
 https://boards.greenhouse.io/qumulo
 https://boards.greenhouse.io/quorum               [--> https://www.quorum.us/about/careers/]
 https://boards.greenhouse.io/quotient
