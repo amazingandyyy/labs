@@ -1482,6 +1482,7 @@ https://boards.greenhouse.io/pubnub               [--> https://www.pubnub.com/co
 https://boards.greenhouse.io/pulley
 https://boards.greenhouse.io/pulley               [--> https://job-boards.greenhouse.io/pulley]
 https://boards.greenhouse.io/pulse
+https://boards.greenhouse.io/pulse                [--> https://job-boards.greenhouse.io/pulse]
 https://boards.greenhouse.io/pursuit
 https://boards.greenhouse.io/pushpay
 https://boards.greenhouse.io/pyka
