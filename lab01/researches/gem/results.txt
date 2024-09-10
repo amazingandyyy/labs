@@ -109,6 +109,7 @@ https://jobs.gem.com/gethalloo
 https://jobs.gem.com/gethalloween
 https://jobs.gem.com/gethallucinational
 https://jobs.gem.com/gethamingja
+https://jobs.gem.com/gethatefulness
 https://jobs.gem.com/getpreener
 https://jobs.gem.com/getpreeners
 https://jobs.gem.com/getpreening
@@ -154,6 +155,11 @@ https://jobs.gem.com/hamingja-team
 https://jobs.gem.com/hamingjaai
 https://jobs.gem.com/hamingjaapp
 https://jobs.gem.com/hansa
+https://jobs.gem.com/hatefulness
+https://jobs.gem.com/hatefulness-app
+https://jobs.gem.com/hatefulness-team
+https://jobs.gem.com/hatefulnessai
+https://jobs.gem.com/hatefulnessapp
 https://jobs.gem.com/haven
 https://jobs.gem.com/heygen
 https://jobs.gem.com/iris
