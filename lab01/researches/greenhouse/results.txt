@@ -1477,6 +1477,7 @@ https://boards.greenhouse.io/prove
 https://boards.greenhouse.io/psiquantum           [--> https://www.psiquantum.com/careers]
 https://boards.greenhouse.io/pta                  [--> https://job-boards.greenhouse.io/pta]
 https://boards.greenhouse.io/public
+https://boards.greenhouse.io/public               [--> https://job-boards.greenhouse.io/public]
 https://boards.greenhouse.io/pubnub               [--> https://www.pubnub.com/company/careers/]
 https://boards.greenhouse.io/pulley
 https://boards.greenhouse.io/pulse
