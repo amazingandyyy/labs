@@ -1480,6 +1480,7 @@ https://boards.greenhouse.io/public
 https://boards.greenhouse.io/public               [--> https://job-boards.greenhouse.io/public]
 https://boards.greenhouse.io/pubnub               [--> https://www.pubnub.com/company/careers/]
 https://boards.greenhouse.io/pulley
+https://boards.greenhouse.io/pulley               [--> https://job-boards.greenhouse.io/pulley]
 https://boards.greenhouse.io/pulse
 https://boards.greenhouse.io/pursuit
 https://boards.greenhouse.io/pushpay
