@@ -1268,6 +1268,7 @@ https://boards.greenhouse.io/musicai              [--> https://job-boards.greenh
 https://boards.greenhouse.io/mutiny
 https://boards.greenhouse.io/mutiny               [--> https://job-boards.greenhouse.io/mutiny]
 https://boards.greenhouse.io/mux
+https://boards.greenhouse.io/mux                  [--> https://job-boards.greenhouse.io/mux]
 https://boards.greenhouse.io/mycase
 https://boards.greenhouse.io/myfitnesspal
 https://boards.greenhouse.io/mynd
