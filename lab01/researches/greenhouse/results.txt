@@ -1277,6 +1277,7 @@ https://boards.greenhouse.io/n26
 https://boards.greenhouse.io/n26                  [--> https://n26.com/en/careers]
 https://boards.greenhouse.io/na                   [--> https://job-boards.greenhouse.io/na]
 https://boards.greenhouse.io/nabis
+https://boards.greenhouse.io/nabis                [--> https://job-boards.greenhouse.io/nabis]
 https://boards.greenhouse.io/naked                [--> https://job-boards.greenhouse.io/naked]
 https://boards.greenhouse.io/name                 [--> https://job-boards.greenhouse.io/name]
 https://boards.greenhouse.io/nanonets
