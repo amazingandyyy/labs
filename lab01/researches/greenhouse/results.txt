@@ -1256,6 +1256,7 @@ https://boards.greenhouse.io/moon
 https://boards.greenhouse.io/morty                [--> https://www.morty.com/jobs]
 https://boards.greenhouse.io/mos
 https://boards.greenhouse.io/mosaic               [--> http://joinmosaic.com/about-us/careers/]
+https://boards.greenhouse.io/motional             [--> https://motional.com/open-positions/#/]
 https://boards.greenhouse.io/motive
 https://boards.greenhouse.io/motus                [--> https://www.motus.com/join-our-team/]
 https://boards.greenhouse.io/moveworks            [--> https://www.moveworks.com/us/en/company/careers]

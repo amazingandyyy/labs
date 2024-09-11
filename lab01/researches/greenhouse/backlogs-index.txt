@@ -39,3 +39,4 @@ english_partam.txt
 english_partaq.txt
 english_partax.txt
 backlog.txt
+english_partas.txt
