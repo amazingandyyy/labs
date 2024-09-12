@@ -1308,6 +1308,7 @@ https://boards.greenhouse.io/nextiva              [--> https://www.nextiva.com/c
 https://boards.greenhouse.io/niantic
 https://boards.greenhouse.io/niantic              [--> https://job-boards.greenhouse.io/niantic]
 https://boards.greenhouse.io/nice                 [--> https://job-boards.greenhouse.io/nice]
+https://boards.greenhouse.io/nightfall            [--> https://job-boards.greenhouse.io/nightfall]
 https://boards.greenhouse.io/nimbus
 https://boards.greenhouse.io/nintex               [--> https://www.nintex.com/careers/jobs/]
 https://boards.greenhouse.io/noah
