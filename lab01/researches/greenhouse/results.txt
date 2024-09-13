@@ -767,6 +767,7 @@ https://boards.greenhouse.io/gaia
 https://boards.greenhouse.io/gainful
 https://boards.greenhouse.io/gainful              [--> https://job-boards.greenhouse.io/gainful]
 https://boards.greenhouse.io/galileo              [--> https://galileo.io/careers/]
+https://boards.greenhouse.io/galileo              [--> https://job-boards.greenhouse.io/galileo]
 https://boards.greenhouse.io/gameto
 https://boards.greenhouse.io/gateway
 https://boards.greenhouse.io/gateway              [--> https://job-boards.greenhouse.io/gateway]
