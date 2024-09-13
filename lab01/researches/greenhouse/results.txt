@@ -1921,6 +1921,7 @@ https://boards.greenhouse.io/trellis
 https://boards.greenhouse.io/tripactions          [--> https://tripactions.com/job-openings]
 https://boards.greenhouse.io/tripadvisor
 https://boards.greenhouse.io/trivago              [--> https://careers.trivago.com/join/open-positions/]
+https://boards.greenhouse.io/trm                  [--> https://job-boards.greenhouse.io/trm]
 https://boards.greenhouse.io/trmlabs              [--> https://www.trmlabs.com/careers-list]
 https://boards.greenhouse.io/truebill
 https://boards.greenhouse.io/truelayer            [--> https://truelayer.com/jobs]
@@ -1967,6 +1968,7 @@ https://boards.greenhouse.io/vercel
 https://boards.greenhouse.io/veriff               [--> https://www.veriff.com/careers/open-positions/]
 https://boards.greenhouse.io/verifone             [--> https://www.verifone.com/en/careers]
 https://boards.greenhouse.io/verkada
+https://boards.greenhouse.io/vesalius             [--> https://job-boards.greenhouse.io/vesalius]
 https://boards.greenhouse.io/vest
 https://boards.greenhouse.io/via
 https://boards.greenhouse.io/vidyard
