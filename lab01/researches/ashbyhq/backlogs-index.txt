@@ -38,3 +38,4 @@ english_partaq.txt
 english_partax.txt
 english_partam.txt
 english_partab.txt
+english_partas.txt
