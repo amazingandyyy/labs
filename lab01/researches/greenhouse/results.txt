@@ -1385,6 +1385,7 @@ https://boards.greenhouse.io/palmetto             [--> https://www.palmettoanima
 https://boards.greenhouse.io/pandadoc
 https://boards.greenhouse.io/pandion              [--> https://www.pandionpro.com/careers]
 https://boards.greenhouse.io/pangaea              [--> https://www.pangaea.holdings/careers]
+https://boards.greenhouse.io/pangea               [--> https://job-boards.greenhouse.io/pangea]
 https://boards.greenhouse.io/pantheon             [--> https://pantheon.io/careers]
 https://boards.greenhouse.io/papa
 https://boards.greenhouse.io/papa                 [--> https://job-boards.greenhouse.io/papa]
@@ -1413,6 +1414,7 @@ https://boards.greenhouse.io/pavilion
 https://boards.greenhouse.io/pawnee               [--> https://job-boards.greenhouse.io/pawnee]
 https://boards.greenhouse.io/payit                [--> https://payitgov.com/careers/]
 https://boards.greenhouse.io/paystack
+https://boards.greenhouse.io/pct                  [--> https://job-boards.greenhouse.io/pct]
 https://boards.greenhouse.io/peachtree            [--> https://job-boards.greenhouse.io/peachtree]
 https://boards.greenhouse.io/peachy               [--> https://job-boards.greenhouse.io/peachy]
 https://boards.greenhouse.io/peak                 [--> https://job-boards.greenhouse.io/peak]
