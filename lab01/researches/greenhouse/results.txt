@@ -2006,7 +2006,9 @@ https://boards.greenhouse.io/xola
 https://boards.greenhouse.io/yld
 https://boards.greenhouse.io/yotpo                [--> http://www.yotpo.com/careers]
 https://boards.greenhouse.io/yurtsai              [--> https://job-boards.greenhouse.io/yurtsai]
+https://boards.greenhouse.io/zap                  [--> https://job-boards.greenhouse.io/zap]
 https://boards.greenhouse.io/zapier
+https://boards.greenhouse.io/zeals                [--> https://job-boards.greenhouse.io/zeals]
 https://boards.greenhouse.io/zenbusiness
 https://boards.greenhouse.io/zencoder
 https://boards.greenhouse.io/zenoti
