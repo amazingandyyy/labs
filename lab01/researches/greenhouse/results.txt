@@ -2020,7 +2020,9 @@ https://boards.greenhouse.io/zestai               [--> https://job-boards.greenh
 https://boards.greenhouse.io/zestyai
 https://boards.greenhouse.io/zilch                [--> https://www.payzilch.com/careers]
 https://boards.greenhouse.io/zing
+https://boards.greenhouse.io/zinnia               [--> https://job-boards.greenhouse.io/zinnia]
 https://boards.greenhouse.io/zip
+https://boards.greenhouse.io/zip                  [--> https://job-boards.greenhouse.io/zip]
 https://boards.greenhouse.io/zocdoc               [--> https://www.zocdoc.com/about/careers-list/]
 https://boards.greenhouse.io/zscaler
 https://boards.greenhouse.io/zuora                [--> https://job-boards.greenhouse.io/zuora]
