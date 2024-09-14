@@ -1998,6 +1998,7 @@ https://boards.greenhouse.io/workstream           [--> https://careers.workstrea
 https://boards.greenhouse.io/worlds               [--> https://job-boards.greenhouse.io/worlds]
 https://boards.greenhouse.io/wormhole             [--> https://job-boards.greenhouse.io/wormhole]
 https://boards.greenhouse.io/wpp
+https://boards.greenhouse.io/wunderkind           [--> https://www.wunderkind.co/open-roles/]
 https://boards.greenhouse.io/wundermanthompson    [--> https://www.vml.com/careers]
 https://boards.greenhouse.io/xai
 https://boards.greenhouse.io/xendit
