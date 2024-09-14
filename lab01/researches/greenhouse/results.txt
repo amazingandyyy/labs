@@ -2012,9 +2012,13 @@ https://boards.greenhouse.io/zeals                [--> https://job-boards.greenh
 https://boards.greenhouse.io/zenbusiness
 https://boards.greenhouse.io/zencoder
 https://boards.greenhouse.io/zenoti
+https://boards.greenhouse.io/zephyr               [--> https://job-boards.greenhouse.io/zephyr]
 https://boards.greenhouse.io/zeplin
+https://boards.greenhouse.io/zero                 [--> https://job-boards.greenhouse.io/zero]
 https://boards.greenhouse.io/zerocater            [--> https://zerocater.com/about/careers/]
+https://boards.greenhouse.io/zestai               [--> https://job-boards.greenhouse.io/zestai]
 https://boards.greenhouse.io/zestyai
+https://boards.greenhouse.io/zilch                [--> https://www.payzilch.com/careers]
 https://boards.greenhouse.io/zing
 https://boards.greenhouse.io/zip
 https://boards.greenhouse.io/zocdoc               [--> https://www.zocdoc.com/about/careers-list/]
