@@ -1899,6 +1899,7 @@ https://boards.greenhouse.io/tetra                [--> https://www.tetra.com/car
 https://boards.greenhouse.io/textio               [--> https://www.textio.com/careers]
 https://boards.greenhouse.io/thanx
 https://boards.greenhouse.io/thesis
+https://boards.greenhouse.io/thesis               [--> https://job-boards.greenhouse.io/thesis]
 https://boards.greenhouse.io/thirdlove
 https://boards.greenhouse.io/thoughtspot          [--> https://www.thoughtspot.com/careers-listing]
 https://boards.greenhouse.io/thread
