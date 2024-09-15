@@ -1922,6 +1922,7 @@ https://boards.greenhouse.io/tines                [--> https://job-boards.greenh
 https://boards.greenhouse.io/tintai
 https://boards.greenhouse.io/tintai               [--> https://job-boards.greenhouse.io/tintai]
 https://boards.greenhouse.io/titan
+https://boards.greenhouse.io/titan                [--> https://job-boards.greenhouse.io/titan]
 https://boards.greenhouse.io/toast                [--> https://careers.toasttab.com/homepage]
 https://boards.greenhouse.io/togetherai
 https://boards.greenhouse.io/torq
