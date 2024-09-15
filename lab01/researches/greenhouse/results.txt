@@ -1913,6 +1913,7 @@ https://boards.greenhouse.io/thumbtack
 https://boards.greenhouse.io/thunder
 https://boards.greenhouse.io/thunderbird          [--> https://job-boards.greenhouse.io/thunderbird]
 https://boards.greenhouse.io/tia
+https://boards.greenhouse.io/tide
 https://boards.greenhouse.io/tigera               [--> https://www.tigera.io/careers/]
 https://boards.greenhouse.io/timescale            [--> https://www.timescale.com/careers]
 https://boards.greenhouse.io/tintai
