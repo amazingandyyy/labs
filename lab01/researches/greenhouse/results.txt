@@ -1941,6 +1941,7 @@ https://boards.greenhouse.io/tranquility          [--> https://www.tranquilityve
 https://boards.greenhouse.io/transfix             [--> http://www.transfix.io/company/job-openings/]
 https://boards.greenhouse.io/treasuryprime
 https://boards.greenhouse.io/trellis
+https://boards.greenhouse.io/tribal               [--> https://job-boards.greenhouse.io/tribal]
 https://boards.greenhouse.io/tripactions          [--> https://tripactions.com/job-openings]
 https://boards.greenhouse.io/tripadvisor
 https://boards.greenhouse.io/trivago              [--> https://careers.trivago.com/join/open-positions/]
