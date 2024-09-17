@@ -1413,6 +1413,7 @@ https://boards.greenhouse.io/pagerduty
 https://boards.greenhouse.io/pagoda               [--> https://www.pagoda.co/careers]
 https://boards.greenhouse.io/pah                  [--> https://job-boards.greenhouse.io/pah]
 https://boards.greenhouse.io/paige
+https://boards.greenhouse.io/paige                [--> https://job-boards.greenhouse.io/paige]
 https://boards.greenhouse.io/pairwise             [--> https://job-boards.greenhouse.io/pairwise]
 https://boards.greenhouse.io/pallet               [--> https://job-boards.greenhouse.io/pallet]
 https://boards.greenhouse.io/palmetto             [--> https://www.palmettoanimal.com/about/careers]
