@@ -818,6 +818,7 @@ https://jobs.ashbyhq.com/wrapbook
 https://jobs.ashbyhq.com/writer
 https://jobs.ashbyhq.com/ycombinator
 https://jobs.ashbyhq.com/yobi
+https://jobs.ashbyhq.com/you                  [--> /]
 https://jobs.ashbyhq.com/yumaai
 https://jobs.ashbyhq.com/zapier
 https://jobs.ashbyhq.com/zello
