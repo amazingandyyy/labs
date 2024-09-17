@@ -1950,6 +1950,7 @@ https://boards.greenhouse.io/trm                  [--> https://job-boards.greenh
 https://boards.greenhouse.io/trmlabs              [--> https://www.trmlabs.com/careers-list]
 https://boards.greenhouse.io/trolley
 https://boards.greenhouse.io/tropic
+https://boards.greenhouse.io/trove
 https://boards.greenhouse.io/truebill
 https://boards.greenhouse.io/truelayer            [--> https://truelayer.com/jobs]
 https://boards.greenhouse.io/truenorth            [--> https://www.gettruenorth.com/careers]
