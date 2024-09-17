@@ -1441,6 +1441,7 @@ https://boards.greenhouse.io/parsable             [--> https://parsable.com/care
 https://boards.greenhouse.io/particle             [--> https://www.particle.io/careers/]
 https://boards.greenhouse.io/partnerships         [--> https://job-boards.greenhouse.io/partnerships]
 https://boards.greenhouse.io/partnerstack
+https://boards.greenhouse.io/pascal               [--> https://job-boards.greenhouse.io/pascal]
 https://boards.greenhouse.io/passes               [--> https://job-boards.greenhouse.io/passes]
 https://boards.greenhouse.io/pathai               [--> http://www.pathai.com/careers/]
 https://boards.greenhouse.io/pathfinder           [--> https://job-boards.greenhouse.io/pathfinder]
