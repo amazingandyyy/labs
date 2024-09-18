@@ -1472,6 +1472,7 @@ https://boards.greenhouse.io/phantomai
 https://boards.greenhouse.io/phantomai            [--> https://job-boards.greenhouse.io/phantomai]
 https://boards.greenhouse.io/pharmacy             [--> https://job-boards.greenhouse.io/pharmacy]
 https://boards.greenhouse.io/phaser               [--> https://job-boards.greenhouse.io/phaser]
+https://boards.greenhouse.io/philo                [--> https://job-boards.greenhouse.io/philo]
 https://boards.greenhouse.io/phrase               [--> https://phrase.com/careers/jobs/]
 https://boards.greenhouse.io/physna               [--> https://physna.com/careers/]
 https://boards.greenhouse.io/pia                  [--> https://job-boards.greenhouse.io/pia]
