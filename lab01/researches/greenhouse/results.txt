@@ -1467,6 +1467,7 @@ https://boards.greenhouse.io/perm                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/permutive
 https://boards.greenhouse.io/perplexityai         [--> https://job-boards.greenhouse.io/perplexityai]
 https://boards.greenhouse.io/perspective
+https://boards.greenhouse.io/phaidra              [--> https://job-boards.greenhouse.io/phaidra]
 https://boards.greenhouse.io/phantomai
 https://boards.greenhouse.io/phantomai            [--> https://job-boards.greenhouse.io/phantomai]
 https://boards.greenhouse.io/pharmacy             [--> https://job-boards.greenhouse.io/pharmacy]
