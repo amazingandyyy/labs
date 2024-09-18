@@ -1511,7 +1511,9 @@ https://boards.greenhouse.io/portable
 https://boards.greenhouse.io/portal               [--> https://job-boards.greenhouse.io/portal]
 https://boards.greenhouse.io/portrait             [--> https://portraitcare.com/careers]
 https://boards.greenhouse.io/post
+https://boards.greenhouse.io/post                 [--> https://job-boards.greenhouse.io/post]
 https://boards.greenhouse.io/postman
+https://boards.greenhouse.io/postman              [--> https://job-boards.greenhouse.io/postman]
 https://boards.greenhouse.io/postscript
 https://boards.greenhouse.io/potato               [--> https://p.ota.to/careers/]
 https://boards.greenhouse.io/practicefusion       [--> https://www.practicefusion.com/careers/jobs/]
