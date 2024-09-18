@@ -1580,6 +1580,7 @@ https://boards.greenhouse.io/pushpay
 https://boards.greenhouse.io/pyka
 https://boards.greenhouse.io/qai                  [--> https://www.q.ai/open-positions/]
 https://boards.greenhouse.io/qovery
+https://boards.greenhouse.io/qr                   [--> https://job-boards.greenhouse.io/qr]
 https://boards.greenhouse.io/qualia
 https://boards.greenhouse.io/qualia               [--> https://job-boards.greenhouse.io/qualia]
 https://boards.greenhouse.io/qualtrics            [--> https://www.qualtrics.com/careers/us/en]
