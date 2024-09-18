@@ -1519,7 +1519,9 @@ https://boards.greenhouse.io/potato               [--> https://p.ota.to/careers/
 https://boards.greenhouse.io/practicefusion       [--> https://www.practicefusion.com/careers/jobs/]
 https://boards.greenhouse.io/praetorian           [--> https://www.praetorian.com/careers/]
 https://boards.greenhouse.io/preacher
+https://boards.greenhouse.io/preacher             [--> https://job-boards.greenhouse.io/preacher]
 https://boards.greenhouse.io/precinct
+https://boards.greenhouse.io/precinct             [--> https://job-boards.greenhouse.io/precinct]
 https://boards.greenhouse.io/prefect
 https://boards.greenhouse.io/prefect              [--> https://job-boards.greenhouse.io/prefect]
 https://boards.greenhouse.io/preload
