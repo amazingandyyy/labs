@@ -1562,7 +1562,9 @@ https://boards.greenhouse.io/proto                [--> https://job-boards.greenh
 https://boards.greenhouse.io/proton               [--> https://job-boards.greenhouse.io/proton]
 https://boards.greenhouse.io/protonai             [--> https://job-boards.greenhouse.io/protonai]
 https://boards.greenhouse.io/prove
+https://boards.greenhouse.io/psia                 [--> https://job-boards.greenhouse.io/psia]
 https://boards.greenhouse.io/psiquantum           [--> https://www.psiquantum.com/careers]
+https://boards.greenhouse.io/pt                   [--> https://job-boards.greenhouse.io/pt]
 https://boards.greenhouse.io/pta                  [--> https://job-boards.greenhouse.io/pta]
 https://boards.greenhouse.io/public
 https://boards.greenhouse.io/public               [--> https://job-boards.greenhouse.io/public]
