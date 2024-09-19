@@ -1595,6 +1595,7 @@ https://boards.greenhouse.io/quip                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/qumulo
 https://boards.greenhouse.io/quorum               [--> https://www.quorum.us/about/careers/]
 https://boards.greenhouse.io/quotient
+https://boards.greenhouse.io/quotient             [--> https://job-boards.greenhouse.io/quotient]
 https://boards.greenhouse.io/rab
 https://boards.greenhouse.io/rabbit
 https://boards.greenhouse.io/rackner              [--> https://job-boards.greenhouse.io/rackner]
