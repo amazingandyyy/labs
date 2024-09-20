@@ -2081,7 +2081,9 @@ https://boards.greenhouse.io/vestal               [--> https://job-boards.greenh
 https://boards.greenhouse.io/via
 https://boards.greenhouse.io/viaduct              [--> https://www.viaduct.ai/about/careers]
 https://boards.greenhouse.io/vibes                [--> https://boards.greenhouse.io/vibes]
+https://boards.greenhouse.io/victorious           [--> https://victoriousseo.com/careers/]
 https://boards.greenhouse.io/vidyard
+https://boards.greenhouse.io/village              [--> https://job-boards.greenhouse.io/village]
 https://boards.greenhouse.io/villagemd            [--> https://www.villagemd.com/open-positions]
 https://boards.greenhouse.io/virginia             [--> https://job-boards.greenhouse.io/virginia]
 https://boards.greenhouse.io/virtru
