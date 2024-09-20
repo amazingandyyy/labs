@@ -2067,9 +2067,11 @@ https://boards.greenhouse.io/vaynermedia
 https://boards.greenhouse.io/veem                 [--> https://www.veem.com/careers/openings/]
 https://boards.greenhouse.io/velocity             [--> https://velocity.tech/careers]
 https://boards.greenhouse.io/venafi
+https://boards.greenhouse.io/venn
 https://boards.greenhouse.io/vercel
 https://boards.greenhouse.io/veriff               [--> https://www.veriff.com/careers/open-positions/]
 https://boards.greenhouse.io/verifone             [--> https://www.verifone.com/en/careers]
+https://boards.greenhouse.io/verily               [--> https://verily.com/about-us/careers/open-roles]
 https://boards.greenhouse.io/verkada
 https://boards.greenhouse.io/vesalius             [--> https://job-boards.greenhouse.io/vesalius]
 https://boards.greenhouse.io/vest
