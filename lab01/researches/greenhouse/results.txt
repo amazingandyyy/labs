@@ -2058,6 +2058,7 @@ https://boards.greenhouse.io/usenourish
 https://boards.greenhouse.io/usergems
 https://boards.greenhouse.io/utilityapi
 https://boards.greenhouse.io/vacasa               [--> https://www.vacasa.com/careers/positions/]
+https://boards.greenhouse.io/valence              [--> https://job-boards.greenhouse.io/valence]
 https://boards.greenhouse.io/vast                 [--> https://www.vastspace.com/careers]
 https://boards.greenhouse.io/vastai               [--> https://vast.ai/careers]
 https://boards.greenhouse.io/vaynermedia
