@@ -2074,8 +2074,13 @@ https://boards.greenhouse.io/verifone             [--> https://www.verifone.com/
 https://boards.greenhouse.io/verily               [--> https://verily.com/about-us/careers/open-roles]
 https://boards.greenhouse.io/verkada
 https://boards.greenhouse.io/vesalius             [--> https://job-boards.greenhouse.io/vesalius]
+https://boards.greenhouse.io/vesper               [--> https://job-boards.greenhouse.io/vesper]
 https://boards.greenhouse.io/vest
+https://boards.greenhouse.io/vest                 [--> https://job-boards.greenhouse.io/vest]
+https://boards.greenhouse.io/vestal               [--> https://job-boards.greenhouse.io/vestal]
 https://boards.greenhouse.io/via
+https://boards.greenhouse.io/viaduct              [--> https://www.viaduct.ai/about/careers]
+https://boards.greenhouse.io/vibes                [--> https://boards.greenhouse.io/vibes]
 https://boards.greenhouse.io/vidyard
 https://boards.greenhouse.io/villagemd            [--> https://www.villagemd.com/open-positions]
 https://boards.greenhouse.io/virginia             [--> https://job-boards.greenhouse.io/virginia]
