@@ -2049,8 +2049,10 @@ https://boards.greenhouse.io/unruly               [--> https://unruly.co/jobs/]
 https://boards.greenhouse.io/upbound              [--> https://job-boards.greenhouse.io/upbound]
 https://boards.greenhouse.io/upfort
 https://boards.greenhouse.io/upgrade
+https://boards.greenhouse.io/upgrade              [--> https://job-boards.greenhouse.io/upgrade]
 https://boards.greenhouse.io/upkeep
 https://boards.greenhouse.io/upstart              [--> https://careers.upstart.com/jobs/search]
+https://boards.greenhouse.io/urban                [--> https://job-boards.greenhouse.io/urban]
 https://boards.greenhouse.io/usenourish
 https://boards.greenhouse.io/usergems
 https://boards.greenhouse.io/utilityapi
