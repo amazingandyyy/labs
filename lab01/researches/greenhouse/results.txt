@@ -1905,10 +1905,12 @@ https://boards.greenhouse.io/simple
 https://boards.greenhouse.io/simply               [--> https://www.hellosimply.com/careers]
 https://boards.greenhouse.io/singlestore
 https://boards.greenhouse.io/singular
+https://boards.greenhouse.io/sironamedical        [--> https://job-boards.greenhouse.io/sironamedical]
 https://boards.greenhouse.io/sirum
 https://boards.greenhouse.io/sisense              [--> https://www.sisense.com/careers/]
 https://boards.greenhouse.io/skilljar
 https://boards.greenhouse.io/skinner              [--> https://www.skinnervet.com/about/careers]
+https://boards.greenhouse.io/skupos
 https://boards.greenhouse.io/skydio               [--> https://www.skydio.com/careers]
 https://boards.greenhouse.io/skysafe
 https://boards.greenhouse.io/slayer
@@ -1918,8 +1920,10 @@ https://boards.greenhouse.io/slintel
 https://boards.greenhouse.io/smartasset
 https://boards.greenhouse.io/smartsheet
 https://boards.greenhouse.io/smithrx
+https://boards.greenhouse.io/smugmug              [--> https://jobs.smugmug.com/job-openings]
 https://boards.greenhouse.io/sn                   [--> https://job-boards.greenhouse.io/sn]
 https://boards.greenhouse.io/snackpass
+https://boards.greenhouse.io/snackpass            [--> https://job-boards.greenhouse.io/snackpass]
 https://boards.greenhouse.io/snapdocs
 https://boards.greenhouse.io/snappy               [--> http://www.snappy.com/business/careers#jobs]
 https://boards.greenhouse.io/snorkelai
@@ -1937,6 +1941,7 @@ https://boards.greenhouse.io/solera
 https://boards.greenhouse.io/solita               [--> https://www.solita.fi/positions/]
 https://boards.greenhouse.io/sonic                [--> https://www.sonic.com/careers]
 https://boards.greenhouse.io/sonicwall
+https://boards.greenhouse.io/sourcescrub          [--> https://job-boards.greenhouse.io/sourcescrub]
 https://boards.greenhouse.io/spaceship
 https://boards.greenhouse.io/spaceship            [--> https://job-boards.greenhouse.io/spaceship]
 https://boards.greenhouse.io/spacex               [--> http://www.spacex.com/careers]
@@ -1978,6 +1983,7 @@ https://boards.greenhouse.io/standard             [--> https://jobs.nebula.tv/]
 https://boards.greenhouse.io/standardai
 https://boards.greenhouse.io/standardai           [--> https://job-boards.greenhouse.io/standardai]
 https://boards.greenhouse.io/stardust             [--> https://www.stardust.gg/about]
+https://boards.greenhouse.io/stashinvest          [--> https://www.stash.com/careers/job]
 https://boards.greenhouse.io/statement            [--> https://job-boards.greenhouse.io/statement]
 https://boards.greenhouse.io/stealth              [--> https://job-boards.greenhouse.io/stealth]
 https://boards.greenhouse.io/stellar
@@ -2007,6 +2013,7 @@ https://boards.greenhouse.io/suki                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/summer
 https://boards.greenhouse.io/summer               [--> https://job-boards.greenhouse.io/summer]
 https://boards.greenhouse.io/summit               [--> https://job-boards.greenhouse.io/summit]
+https://boards.greenhouse.io/sumologic            [--> https://job-boards.greenhouse.io/sumologic]
 https://boards.greenhouse.io/sumup                [--> https://sumup.com/careers/positions]
 https://boards.greenhouse.io/sunset               [--> https://job-boards.greenhouse.io/sunset]
 https://boards.greenhouse.io/sunshine
@@ -2020,6 +2027,7 @@ https://boards.greenhouse.io/supernova            [--> http://www.supernova.xyz/
 https://boards.greenhouse.io/superwave            [--> https://job-boards.greenhouse.io/superwave]
 https://boards.greenhouse.io/support              [--> https://job-boards.greenhouse.io/support]
 https://boards.greenhouse.io/survata
+https://boards.greenhouse.io/surveymonkey         [--> https://job-boards.greenhouse.io/surveymonkey]
 https://boards.greenhouse.io/sustainment
 https://boards.greenhouse.io/swan                 [--> https://job-boards.greenhouse.io/swan]
 https://boards.greenhouse.io/swayable             [--> https://job-boards.greenhouse.io/swayable]
@@ -2027,6 +2035,7 @@ https://boards.greenhouse.io/sweepio
 https://boards.greenhouse.io/sweet
 https://boards.greenhouse.io/sweetgreen           [--> https://careers.sweetgreen.com/]
 https://boards.greenhouse.io/sweetlabs
+https://boards.greenhouse.io/syapse
 https://boards.greenhouse.io/symphony             [--> https://symphony.com/company/careers]
 https://boards.greenhouse.io/synchron             [--> https://synchron.com/careers]
 https://boards.greenhouse.io/syncro               [--> https://syncromsp.com/careers/]
@@ -2049,6 +2058,7 @@ https://boards.greenhouse.io/tau                  [--> https://www.taumotors.com
 https://boards.greenhouse.io/tavus
 https://boards.greenhouse.io/taxbit
 https://boards.greenhouse.io/taxi                 [--> https://job-boards.greenhouse.io/taxi]
+https://boards.greenhouse.io/tcs                  [--> https://job-boards.greenhouse.io/tcs]
 https://boards.greenhouse.io/teach                [--> https://job-boards.greenhouse.io/teach]
 https://boards.greenhouse.io/teague               [--> https://job-boards.greenhouse.io/teague]
 https://boards.greenhouse.io/tec                  [--> https://www.tidewatereye.com/about/careers/]
