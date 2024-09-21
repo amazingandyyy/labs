@@ -2275,11 +2275,13 @@ https://boards.greenhouse.io/wingspan             [--> https://www.wingspan.app/
 https://boards.greenhouse.io/winton
 https://boards.greenhouse.io/wizeline             [--> https://www.wizeline.com/careers]
 https://boards.greenhouse.io/wonderschool
+https://boards.greenhouse.io/wonderschool         [--> https://job-boards.greenhouse.io/wonderschool]
 https://boards.greenhouse.io/woo
 https://boards.greenhouse.io/workato
 https://boards.greenhouse.io/workboard            [--> https://www.workboard.com/jobs/]
 https://boards.greenhouse.io/workrise
 https://boards.greenhouse.io/workshop
+https://boards.greenhouse.io/worksite             [--> https://job-boards.greenhouse.io/worksite]
 https://boards.greenhouse.io/workstream           [--> https://careers.workstream.us/]
 https://boards.greenhouse.io/worlds               [--> https://job-boards.greenhouse.io/worlds]
 https://boards.greenhouse.io/wormhole             [--> https://job-boards.greenhouse.io/wormhole]
@@ -2289,6 +2291,7 @@ https://boards.greenhouse.io/wundermanthompson    [--> https://www.vml.com/caree
 https://boards.greenhouse.io/xai
 https://boards.greenhouse.io/xendit
 https://boards.greenhouse.io/xola
+https://boards.greenhouse.io/yext                 [--> https://job-boards.greenhouse.io/yext]
 https://boards.greenhouse.io/yld
 https://boards.greenhouse.io/yotpo                [--> http://www.yotpo.com/careers]
 https://boards.greenhouse.io/yurtsai              [--> https://job-boards.greenhouse.io/yurtsai]
@@ -2297,7 +2300,9 @@ https://boards.greenhouse.io/zapier
 https://boards.greenhouse.io/zeals                [--> https://job-boards.greenhouse.io/zeals]
 https://boards.greenhouse.io/zenbusiness
 https://boards.greenhouse.io/zencoder
+https://boards.greenhouse.io/zencoder             [--> https://job-boards.greenhouse.io/zencoder]
 https://boards.greenhouse.io/zenoti
+https://boards.greenhouse.io/zenput               [--> https://www.crunchtime.com/open-positions]
 https://boards.greenhouse.io/zephyr               [--> https://job-boards.greenhouse.io/zephyr]
 https://boards.greenhouse.io/zeplin
 https://boards.greenhouse.io/zero                 [--> https://job-boards.greenhouse.io/zero]
