@@ -2223,6 +2223,7 @@ https://boards.greenhouse.io/vesper               [--> https://job-boards.greenh
 https://boards.greenhouse.io/vest
 https://boards.greenhouse.io/vest                 [--> https://job-boards.greenhouse.io/vest]
 https://boards.greenhouse.io/vestal               [--> https://job-boards.greenhouse.io/vestal]
+https://boards.greenhouse.io/veterans             [--> https://job-boards.greenhouse.io/veterans]
 https://boards.greenhouse.io/via
 https://boards.greenhouse.io/viaduct              [--> https://www.viaduct.ai/about/careers]
 https://boards.greenhouse.io/vibes                [--> https://boards.greenhouse.io/vibes]
