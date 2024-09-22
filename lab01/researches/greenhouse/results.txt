@@ -2244,6 +2244,7 @@ https://boards.greenhouse.io/vitta                [--> https://job-boards.greenh
 https://boards.greenhouse.io/vivi                 [--> https://www.vivi.io/careers/apply/]
 https://boards.greenhouse.io/vivian
 https://boards.greenhouse.io/vivian               [--> https://job-boards.greenhouse.io/vivian]
+https://boards.greenhouse.io/vividly              [--> https://www.govividly.com/careers]
 https://boards.greenhouse.io/vizai                [--> https://www.viz.ai/jobs/]
 https://boards.greenhouse.io/volunteer
 https://boards.greenhouse.io/voter                [--> https://job-boards.greenhouse.io/voter]
