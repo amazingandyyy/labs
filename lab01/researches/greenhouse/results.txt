@@ -2255,6 +2255,7 @@ https://boards.greenhouse.io/warp
 https://boards.greenhouse.io/warp                 [--> https://job-boards.greenhouse.io/warp]
 https://boards.greenhouse.io/waterloo             [--> https://job-boards.greenhouse.io/waterloo]
 https://boards.greenhouse.io/watershed            [--> http://watershed.ai/careers]
+https://boards.greenhouse.io/waymark              [--> https://job-boards.greenhouse.io/waymark]
 https://boards.greenhouse.io/wayward              [--> https://job-boards.greenhouse.io/wayward]
 https://boards.greenhouse.io/weave
 https://boards.greenhouse.io/weave                [--> https://job-boards.greenhouse.io/weave]
