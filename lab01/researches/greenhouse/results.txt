@@ -2272,6 +2272,7 @@ https://boards.greenhouse.io/whatnot
 https://boards.greenhouse.io/whatnot              [--> https://job-boards.greenhouse.io/whatnot]
 https://boards.greenhouse.io/wheel                [--> https://job-boards.greenhouse.io/wheel]
 https://boards.greenhouse.io/wheelhouse           [--> https://job-boards.greenhouse.io/wheelhouse]
+https://boards.greenhouse.io/wheely               [--> https://wheely.com/careers]
 https://boards.greenhouse.io/whop                 [--> https://careers.whop.com]
 https://boards.greenhouse.io/wight                [--> https://job-boards.greenhouse.io/wight]
 https://boards.greenhouse.io/wigwag               [--> https://job-boards.greenhouse.io/wigwag]
