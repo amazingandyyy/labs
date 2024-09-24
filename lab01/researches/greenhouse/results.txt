@@ -1291,6 +1291,7 @@ https://boards.greenhouse.io/mercari
 https://boards.greenhouse.io/mercury
 https://boards.greenhouse.io/mercury              [--> https://job-boards.greenhouse.io/mercury]
 https://boards.greenhouse.io/merge                [--> https://job-boards.greenhouse.io/merge]
+https://boards.greenhouse.io/meridian             [--> https://job-boards.greenhouse.io/meridian]
 https://boards.greenhouse.io/merit
 https://boards.greenhouse.io/merit                [--> https://job-boards.greenhouse.io/merit]
 https://boards.greenhouse.io/mesh
