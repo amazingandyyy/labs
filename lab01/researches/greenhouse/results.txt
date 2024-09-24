@@ -1309,6 +1309,7 @@ https://boards.greenhouse.io/mighty               [--> https://www.mighty.com/ca
 https://boards.greenhouse.io/mightyapp            [--> https://job-boards.greenhouse.io/mightyapp]
 https://boards.greenhouse.io/mightybuildings      [--> https://www.mightybuildings.com/careers]
 https://boards.greenhouse.io/mill
+https://boards.greenhouse.io/millets              [--> https://careers.jdplc.com/jobs?category=&locationlabel=&senioritytype=&nestedlocationsearch=true&businessunit=millets&distance=5]
 https://boards.greenhouse.io/mindgruve            [--> https://mindgruve.com/careers]
 https://boards.greenhouse.io/mindsdb
 https://boards.greenhouse.io/mineral
