@@ -1285,6 +1285,7 @@ https://boards.greenhouse.io/membrane             [--> https://job-boards.greenh
 https://boards.greenhouse.io/memo
 https://boards.greenhouse.io/memo                 [--> https://job-boards.greenhouse.io/memo]
 https://boards.greenhouse.io/mendel               [--> https://www.mendel.ai/careers]
+https://boards.greenhouse.io/mendel               [--> https://www.mendel.ai/company/careers]
 https://boards.greenhouse.io/mercari
 https://boards.greenhouse.io/mercury
 https://boards.greenhouse.io/mercury              [--> https://job-boards.greenhouse.io/mercury]
