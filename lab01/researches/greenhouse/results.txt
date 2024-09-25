@@ -1341,6 +1341,7 @@ https://boards.greenhouse.io/mona                 [--> https://job-boards.greenh
 https://boards.greenhouse.io/monad
 https://boards.greenhouse.io/monad                [--> https://job-boards.greenhouse.io/monad]
 https://boards.greenhouse.io/mongodb              [--> https://www.mongodb.com/careers/departments]
+https://boards.greenhouse.io/monks                [--> https://www.monks.com/careers]
 https://boards.greenhouse.io/monoceros            [--> https://job-boards.greenhouse.io/monoceros]
 https://boards.greenhouse.io/monograph            [--> https://monograph.com/careers]
 https://boards.greenhouse.io/monzo                [--> https://job-boards.greenhouse.io/monzo]
