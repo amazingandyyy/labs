@@ -352,6 +352,7 @@ https://jobs.lever.co/menta
 https://jobs.lever.co/merge
 https://jobs.lever.co/merit
 https://jobs.lever.co/metabase
+https://jobs.lever.co/mimic
 https://jobs.lever.co/mineral
 https://jobs.lever.co/minted
 https://jobs.lever.co/mistral
