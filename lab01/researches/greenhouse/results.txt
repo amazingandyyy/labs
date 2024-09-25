@@ -1318,6 +1318,7 @@ https://boards.greenhouse.io/mirakl
 https://boards.greenhouse.io/mirror
 https://boards.greenhouse.io/mirror               [--> https://job-boards.greenhouse.io/mirror]
 https://boards.greenhouse.io/missionlane
+https://boards.greenhouse.io/mit                  [--> https://job-boards.greenhouse.io/mit]
 https://boards.greenhouse.io/mixhalo
 https://boards.greenhouse.io/mixmax               [--> https://www-mixmax-com.sandbox.hs-sites.com/careers]
 https://boards.greenhouse.io/mixpanel             [--> https://mixpanel.com/jobs/]
