@@ -1316,6 +1316,7 @@ https://boards.greenhouse.io/mineral
 https://boards.greenhouse.io/minitab
 https://boards.greenhouse.io/mirakl
 https://boards.greenhouse.io/mirror
+https://boards.greenhouse.io/mirror               [--> https://job-boards.greenhouse.io/mirror]
 https://boards.greenhouse.io/missionlane
 https://boards.greenhouse.io/mixhalo
 https://boards.greenhouse.io/mixmax               [--> https://www-mixmax-com.sandbox.hs-sites.com/careers]
