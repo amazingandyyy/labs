@@ -1346,6 +1346,7 @@ https://boards.greenhouse.io/monoceros            [--> https://job-boards.greenh
 https://boards.greenhouse.io/monograph            [--> https://monograph.com/careers]
 https://boards.greenhouse.io/monzo                [--> https://job-boards.greenhouse.io/monzo]
 https://boards.greenhouse.io/moon
+https://boards.greenhouse.io/morgans              [--> https://job-boards.greenhouse.io/morgans]
 https://boards.greenhouse.io/morty                [--> https://www.morty.com/jobs]
 https://boards.greenhouse.io/mos
 https://boards.greenhouse.io/mos                  [--> https://job-boards.greenhouse.io/mos]
