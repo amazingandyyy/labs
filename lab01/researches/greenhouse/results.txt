@@ -2192,6 +2192,7 @@ https://boards.greenhouse.io/unlisted             [--> https://job-boards.greenh
 https://boards.greenhouse.io/unlock               [--> https://job-boards.greenhouse.io/unlock]
 https://boards.greenhouse.io/unqork               [--> https://www.unqork.com/careers/]
 https://boards.greenhouse.io/unruly               [--> https://unruly.co/jobs/]
+https://boards.greenhouse.io/unsupervisedai       [--> https://unsupervised.com/careers/]
 https://boards.greenhouse.io/upbound              [--> https://job-boards.greenhouse.io/upbound]
 https://boards.greenhouse.io/upfort
 https://boards.greenhouse.io/upgrade
