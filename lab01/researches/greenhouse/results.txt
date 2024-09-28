@@ -248,6 +248,7 @@ https://boards.greenhouse.io/bitso                [--> https://bitso.com/jobs]
 https://boards.greenhouse.io/blab
 https://boards.greenhouse.io/blab                 [--> https://job-boards.greenhouse.io/blab]
 https://boards.greenhouse.io/blackbird            [--> https://job-boards.greenhouse.io/blackbird]
+https://boards.greenhouse.io/blacks               [--> https://careers.jdplc.com/jobs?category=&locationlabel=&senioritytype=&nestedlocationsearch=true&businessunit=blacks&distance=5]
 https://boards.greenhouse.io/blackthorn           [--> https://job-boards.greenhouse.io/blackthorn]
 https://boards.greenhouse.io/blade                [--> https://job-boards.greenhouse.io/blade]
 https://boards.greenhouse.io/blend
