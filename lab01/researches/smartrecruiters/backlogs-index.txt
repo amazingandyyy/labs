@@ -44,3 +44,4 @@ usernames_partaf.txt
 usernames_partah.txt
 english_partbh.txt
 english_partar.txt
+english_partbg.txt
