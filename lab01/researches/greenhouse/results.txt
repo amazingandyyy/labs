@@ -278,6 +278,7 @@ https://boards.greenhouse.io/boomerang            [--> https://job-boards.greenh
 https://boards.greenhouse.io/boostedai
 https://boards.greenhouse.io/borderless           [--> https://job-boards.greenhouse.io/borderless]
 https://boards.greenhouse.io/borealisai           [--> https://www.borealisai.com/join-us/]
+https://boards.greenhouse.io/bote                 [--> https://www.boteboard.com/pages/careers]
 https://boards.greenhouse.io/bottlerocket
 https://boards.greenhouse.io/boulevard            [--> https://job-boards.greenhouse.io/boulevard]
 https://boards.greenhouse.io/bountiful
