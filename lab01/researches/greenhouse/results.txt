@@ -258,6 +258,7 @@ https://boards.greenhouse.io/blitzapp             [--> https://job-boards.greenh
 https://boards.greenhouse.io/block
 https://boards.greenhouse.io/blockdaemon          [--> https://www.blockdaemon.com/careers]
 https://boards.greenhouse.io/blockstream
+https://boards.greenhouse.io/blowers              [--> https://job-boards.greenhouse.io/blowers]
 https://boards.greenhouse.io/bluecrew
 https://boards.greenhouse.io/bluecrewjobs         [--> https://www.bluecrewjobs.com/careers]
 https://boards.greenhouse.io/blueshift            [--> https://blueshift.com/jobs/]
