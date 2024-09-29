@@ -292,6 +292,7 @@ https://boards.greenhouse.io/braze                [--> https://www.braze.com/com
 https://boards.greenhouse.io/brennan
 https://boards.greenhouse.io/brex                 [--> https://www.brex.com/careers]
 https://boards.greenhouse.io/bridgebio
+https://boards.greenhouse.io/bridgeway            [--> http://www.bridgewaybentech.com/careers]
 https://boards.greenhouse.io/briefly              [--> https://www.outsidegc.com/current-openings]
 https://boards.greenhouse.io/brightai
 https://boards.greenhouse.io/brightidea           [--> https://www.brightidea.com/careers/]
