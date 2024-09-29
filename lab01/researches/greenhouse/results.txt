@@ -267,6 +267,7 @@ https://boards.greenhouse.io/boatwright           [--> https://job-boards.greenh
 https://boards.greenhouse.io/bob                  [--> https://job-boards.greenhouse.io/bob]
 https://boards.greenhouse.io/bobbie
 https://boards.greenhouse.io/bobbie               [--> https://job-boards.greenhouse.io/bobbie]
+https://boards.greenhouse.io/bobtail              [--> https://job-boards.greenhouse.io/bobtail]
 https://boards.greenhouse.io/bold
 https://boards.greenhouse.io/bold                 [--> https://job-boards.greenhouse.io/bold]
 https://boards.greenhouse.io/bolster
