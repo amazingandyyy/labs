@@ -270,6 +270,7 @@ https://boards.greenhouse.io/bobbie               [--> https://job-boards.greenh
 https://boards.greenhouse.io/bobtail              [--> https://job-boards.greenhouse.io/bobtail]
 https://boards.greenhouse.io/bold
 https://boards.greenhouse.io/bold                 [--> https://job-boards.greenhouse.io/bold]
+https://boards.greenhouse.io/boldly
 https://boards.greenhouse.io/bolster
 https://boards.greenhouse.io/bolster              [--> https://job-boards.greenhouse.io/bolster]
 https://boards.greenhouse.io/boomerang
