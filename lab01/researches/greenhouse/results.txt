@@ -493,6 +493,7 @@ https://boards.greenhouse.io/convene
 https://boards.greenhouse.io/converted            [--> https://job-boards.greenhouse.io/converted]
 https://boards.greenhouse.io/conviva              [--> https://www.conviva.com/careers/]
 https://boards.greenhouse.io/coop                 [--> https://job-boards.greenhouse.io/coop]
+https://boards.greenhouse.io/coops                [--> http://versoclean.wpengine.com/?page_id=94]
 https://boards.greenhouse.io/copado               [--> https://www.copado.com/open-positions/]
 https://boards.greenhouse.io/cora
 https://boards.greenhouse.io/core                 [--> https://job-boards.greenhouse.io/core]
