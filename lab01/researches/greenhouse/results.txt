@@ -480,6 +480,7 @@ https://boards.greenhouse.io/connelly             [--> https://www.connellyskis.
 https://boards.greenhouse.io/conquer              [--> https://job-boards.greenhouse.io/conquer]
 https://boards.greenhouse.io/consent              [--> https://job-boards.greenhouse.io/consent]
 https://boards.greenhouse.io/contentful
+https://boards.greenhouse.io/contently            [--> https://contently.com/jobs/]
 https://boards.greenhouse.io/contentstack         [--> https://www.contentstack.com/company/careers]
 https://boards.greenhouse.io/contextualai         [--> https://contextual.ai/careers/]
 https://boards.greenhouse.io/conti                [--> https://job-boards.greenhouse.io/conti]
