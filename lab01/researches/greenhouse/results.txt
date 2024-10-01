@@ -503,6 +503,7 @@ https://boards.greenhouse.io/corelight
 https://boards.greenhouse.io/corp                 [--> https://job-boards.greenhouse.io/corp]
 https://boards.greenhouse.io/cortex
 https://boards.greenhouse.io/cortex               [--> https://job-boards.greenhouse.io/cortex]
+https://boards.greenhouse.io/corvee               [--> https://job-boards.greenhouse.io/corvee]
 https://boards.greenhouse.io/costar
 https://boards.greenhouse.io/cota                 [--> https://job-boards.greenhouse.io/cota]
 https://boards.greenhouse.io/coterie              [--> https://www.coterie.com/careers]
