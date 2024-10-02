@@ -48,3 +48,4 @@ english_partar.txt
 english_partbg.txt
 english_partad.txt
 english_partag.txt
+english_partat.txt
