@@ -533,6 +533,7 @@ https://boards.greenhouse.io/crunchyroll          [--> https://www.crunchyroll.c
 https://boards.greenhouse.io/csc                  [--> https://job-boards.greenhouse.io/csc]
 https://boards.greenhouse.io/css                  [--> https://job-boards.greenhouse.io/css]
 https://boards.greenhouse.io/cultureamp
+https://boards.greenhouse.io/curated              [--> https://job-boards.greenhouse.io/curated]
 https://boards.greenhouse.io/curative             [--> https://job-boards.greenhouse.io/curative]
 https://boards.greenhouse.io/cuyana               [--> https://www.cuyana.com/pages/careers]
 https://boards.greenhouse.io/cybereason           [--> http://jobs.cybereason.com/]
