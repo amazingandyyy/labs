@@ -1468,6 +1468,7 @@ https://boards.greenhouse.io/obrien               [--> https://www.obrien.com/ca
 https://boards.greenhouse.io/observeai            [--> https://www.observe.ai/careers]
 https://boards.greenhouse.io/oceania
 https://boards.greenhouse.io/octagon              [--> http://externaljobboard.octagon.com]
+https://boards.greenhouse.io/octave
 https://boards.greenhouse.io/octave               [--> https://www.findoctave.com/careers/]
 https://boards.greenhouse.io/oddball
 https://boards.greenhouse.io/odeko
