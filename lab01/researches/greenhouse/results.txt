@@ -1484,6 +1484,7 @@ https://boards.greenhouse.io/ol                   [--> https://job-boards.greenh
 https://boards.greenhouse.io/oliver               [--> https://job-boards.greenhouse.io/oliver]
 https://boards.greenhouse.io/olly                 [--> https://job-boards.greenhouse.io/olly]
 https://boards.greenhouse.io/ombud
+https://boards.greenhouse.io/omicron
 https://boards.greenhouse.io/omnipresent
 https://boards.greenhouse.io/onarchipelago
 https://boards.greenhouse.io/onelocal
