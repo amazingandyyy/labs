@@ -1499,10 +1499,12 @@ https://boards.greenhouse.io/opaque               [--> https://job-boards.greenh
 https://boards.greenhouse.io/opendoor
 https://boards.greenhouse.io/opendoor             [--> https://job-boards.greenhouse.io/opendoor]
 https://boards.greenhouse.io/opengamma            [--> https://opengamma.com/careers]
+https://boards.greenhouse.io/openly               [--> https://job-boards.greenhouse.io/openly]
 https://boards.greenhouse.io/openphone
 https://boards.greenhouse.io/openspace            [--> https://www.openspace.ai/careers]
 https://boards.greenhouse.io/opentable
 https://boards.greenhouse.io/opentable            [--> https://job-boards.greenhouse.io/opentable]
+https://boards.greenhouse.io/openworks            [--> https://www.openworksweb.com/about-openworks/careers]
 https://boards.greenhouse.io/operantai            [--> https://job-boards.greenhouse.io/operantai]
 https://boards.greenhouse.io/operation            [--> https://job-boards.greenhouse.io/operation]
 https://boards.greenhouse.io/optoro               [--> https://www.optoro.com/careers/#open-positions]
