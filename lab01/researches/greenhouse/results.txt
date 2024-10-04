@@ -1807,6 +1807,7 @@ https://boards.greenhouse.io/resonate             [--> https://www.resonate.com/
 https://boards.greenhouse.io/restart              [--> https://www.knowbe4.com/careers/restart-pathway]
 https://boards.greenhouse.io/retail               [--> https://job-boards.greenhouse.io/retail]
 https://boards.greenhouse.io/retailnext           [--> https://retailnext.net/open-positions]
+https://boards.greenhouse.io/retained             [--> https://job-boards.greenhouse.io/retained]
 https://boards.greenhouse.io/retinue              [--> https://job-boards.greenhouse.io/retinue]
 https://boards.greenhouse.io/retool
 https://boards.greenhouse.io/retool               [--> https://job-boards.greenhouse.io/retool]
