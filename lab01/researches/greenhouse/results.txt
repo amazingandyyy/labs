@@ -1820,6 +1820,7 @@ https://boards.greenhouse.io/revenuecat
 https://boards.greenhouse.io/revenuecat           [--> https://job-boards.greenhouse.io/revenuecat]
 https://boards.greenhouse.io/revivn
 https://boards.greenhouse.io/rex                  [--> https://www.rex.com/careers]
+https://boards.greenhouse.io/rho                  [--> https://job-boards.greenhouse.io/rho]
 https://boards.greenhouse.io/rhodium              [--> https://job-boards.greenhouse.io/rhodium]
 https://boards.greenhouse.io/ribbonhealth         [--> https://www.ribbonhealth.com/open-roles/]
 https://boards.greenhouse.io/ridecell
