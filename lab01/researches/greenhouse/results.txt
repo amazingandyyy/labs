@@ -1845,6 +1845,7 @@ https://boards.greenhouse.io/roblox               [--> https://careers.roblox.co
 https://boards.greenhouse.io/rockbot              [--> https://job-boards.greenhouse.io/rockbot]
 https://boards.greenhouse.io/rockbot              [--> https://rockbot.com/careers]
 https://boards.greenhouse.io/rocketlawyer         [--> https://job-boards.greenhouse.io/rocketlawyer]
+https://boards.greenhouse.io/roka                 [--> https://www.roka.com/pages/careers]
 https://boards.greenhouse.io/roku                 [--> https://www.weareroku.com/jobs/search/]
 https://boards.greenhouse.io/roller               [--> https://job-boards.greenhouse.io/roller]
 https://boards.greenhouse.io/roofr
