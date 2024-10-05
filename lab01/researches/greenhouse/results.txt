@@ -1831,6 +1831,7 @@ https://boards.greenhouse.io/rightship            [--> https://job-boards.greenh
 https://boards.greenhouse.io/ringconcierge        [--> https://ringconcierge.com/pages/careers]
 https://boards.greenhouse.io/ringdna              [--> https://www.revenue.io/careers]
 https://boards.greenhouse.io/rinsed
+https://boards.greenhouse.io/rinsed               [--> https://job-boards.greenhouse.io/rinsed]
 https://boards.greenhouse.io/riotgames            [--> https://www.riotgames.com/en/work-with-us/welcome]
 https://boards.greenhouse.io/ripcord
 https://boards.greenhouse.io/ripple               [--> https://ripple.com/careers/all-jobs/]
