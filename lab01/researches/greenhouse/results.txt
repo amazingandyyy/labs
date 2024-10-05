@@ -1838,6 +1838,7 @@ https://boards.greenhouse.io/ripple               [--> https://ripple.com/career
 https://boards.greenhouse.io/risk                 [--> https://job-boards.greenhouse.io/risk]
 https://boards.greenhouse.io/ritual
 https://boards.greenhouse.io/ritual               [--> https://job-boards.greenhouse.io/ritual]
+https://boards.greenhouse.io/roadie               [--> https://job-boards.greenhouse.io/roadie]
 https://boards.greenhouse.io/robinai              [--> https://www.robinai.com/open-positions]
 https://boards.greenhouse.io/robinhood            [--> https://careers.robinhood.com/]
 https://boards.greenhouse.io/roblox               [--> https://careers.roblox.com/jobs]
