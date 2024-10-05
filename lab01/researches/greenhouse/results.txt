@@ -1825,6 +1825,7 @@ https://boards.greenhouse.io/rhodium              [--> https://job-boards.greenh
 https://boards.greenhouse.io/ribbonhealth         [--> https://www.ribbonhealth.com/open-roles/]
 https://boards.greenhouse.io/ridecell
 https://boards.greenhouse.io/ridecell             [--> https://job-boards.greenhouse.io/ridecell]
+https://boards.greenhouse.io/ridgeline            [--> https://job-boards.greenhouse.io/ridgeline]
 https://boards.greenhouse.io/ridglea              [--> https://job-boards.greenhouse.io/ridglea]
 https://boards.greenhouse.io/ringconcierge        [--> https://ringconcierge.com/pages/careers]
 https://boards.greenhouse.io/ringdna              [--> https://www.revenue.io/careers]
