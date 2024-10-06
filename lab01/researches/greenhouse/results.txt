@@ -1870,6 +1870,7 @@ https://boards.greenhouse.io/salesloft            [--> https://www.salesloft.com
 https://boards.greenhouse.io/saleswhale
 https://boards.greenhouse.io/salsify
 https://boards.greenhouse.io/saltbox
+https://boards.greenhouse.io/saltbox              [--> https://job-boards.greenhouse.io/saltbox]
 https://boards.greenhouse.io/saltsecurity         [--> https://salt.security/job-board]
 https://boards.greenhouse.io/samsara              [--> https://www.samsara.com/company/careers/roles]
 https://boards.greenhouse.io/sapro                [--> https://www.sapro.com/job-listings]
