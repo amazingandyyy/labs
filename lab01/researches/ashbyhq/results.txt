@@ -589,6 +589,7 @@ https://jobs.ashbyhq.com/onward
 https://jobs.ashbyhq.com/opal
 https://jobs.ashbyhq.com/openai
 https://jobs.ashbyhq.com/opensea
+https://jobs.ashbyhq.com/operations           [--> https://accounts.google.com/o/oauth2/v2/auth?access_type=online&hd=ashbyhq.com&state=izabli7k1ymwxowewdaq3nhy3sg2mgpnh7lolafhtdqql1xo239clmquhaoyqwbrvzhj09tmsjzvxma1mmvtyw&scope=email&prompt=consent&code_challenge_method=s256&code_challenge=gni2vrhsau7xjlpz0xspsh6yybnwjtfsqb56lggqx-m&response_type=code&client_id=12916233634-h15oeblj788hpj874su0rm951erobegn.apps.googleusercontent.com&redirect_uri=https%3a%2f%2fjobs.ashbyhq.com%2foperations%2foauth%2fcallback]
 https://jobs.ashbyhq.com/orb
 https://jobs.ashbyhq.com/osmo
 https://jobs.ashbyhq.com/ostrom
